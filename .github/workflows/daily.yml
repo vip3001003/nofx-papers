@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name  "paper-radar[bot]"
           git config user.email "paper-radar@nofx"
-          git add PAPERS.md
+          git add PAPERS.md abstracts/
           git diff --cached --quiet && echo "No new papers" || \
             git commit -m "papers: daily update $(date -u +%Y-%m-%d)"
           git push
