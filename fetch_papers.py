@@ -141,13 +141,14 @@ def append_to_index(path: str, rows: list[dict]) -> int:
     except FileNotFoundError:
         content = (
             "# NOFX Paper Radar\n\n"
-            "| 日期 | 分类 | 标题 | arXiv |\n"
-            "|------|------|------|-------|\n"
+            "| 日期 | 分类 | 相关度 | 标题 | arXiv |\n"
+            "|------|------|--------|------|-------|\n"
         )
     lines = []
     for r in rows:
         safe_title = r["title"].replace("|", "｜")
-        lines.append(f"| {r['date']} | {r['category']} | {safe_title} | [link]({r['url']}) |")
+        score = r.get("score", 0)
+        lines.append(f"| {r['date']} | {r['category']} | {score} | {safe_title} | [link]({r['url']}) |")
     new_content = content.rstrip("\n") + "\n" + "\n".join(lines) + "\n"
     with open(path, "w", encoding="utf-8") as f:
         f.write(new_content)
@@ -174,13 +175,14 @@ def main():
             if p["id"] not in existing_ids:
                 existing_ids.add(p["id"])
                 p["category"] = label
+                p["score"] = nofx_score(p["title"] + " " + p["abstract"])
                 new_rows.append(p)
                 save_abstract(p, abstracts_dir)
                 added += 1
         print(f"  {added} new papers")
         time.sleep(3)
 
-    new_rows.sort(key=lambda r: (r["date"], r["category"]), reverse=True)
+    new_rows.sort(key=lambda r: (r["score"], r["date"]), reverse=True)
     count = append_to_index(index_path, new_rows)
     print(f"\nDone: {count} new papers added on {today}")
     print(f"Abstracts saved to: {abstracts_dir}/")
