@@ -35,6 +35,15 @@ except ImportError:
 ARXIV_API = "http://export.arxiv.org/api/query"
 MAX_RESULTS = 30
 
+# Cross-disciplinary transfer keywords (used for complexity/network/info/bio categories)
+TRANSFER_KEYWORDS = [
+    "entropy", "phase transition", "emergence", "self-organized", "critical",
+    "network", "graph", "adaptive", "evolutionary", "contagion", "cascade",
+    "bifurcation", "information", "complexity", "attractor", "nonlinear",
+    "stochastic", "feedback", "regime", "signal", "prediction", "time series",
+    "clustering", "correlation", "distribution", "statistical", "dynamics",
+]
+
 CATEGORIES = {
     "momentum": (
         "momentum",
@@ -60,10 +69,28 @@ CATEGORIES = {
         "crypto",
         'cat:q-fin.* AND (ti:cryptocurrency OR ti:Bitcoin OR ti:crypto OR ti:"digital asset")'
     ),
+    # ── Cross-disciplinary categories (edge science with transfer value) ──
+    "complexity": (
+        "complexity",
+        'cat:cond-mat.stat-mech OR cat:nlin.AO AND (ti:"phase transition" OR ti:"self-organized" OR ti:emergence OR ti:"complex system" OR ti:"critical" OR ti:attractor OR ti:"nonlinear dynamics")'
+    ),
+    "network": (
+        "network",
+        'cat:physics.soc-ph AND (ti:network OR ti:graph OR ti:contagion OR ti:cascade OR ti:"systemic risk" OR ti:interconnected OR ti:propagation)'
+    ),
+    "info_theory": (
+        "info_theory",
+        'cat:cs.IT AND (ti:entropy OR ti:"mutual information" OR ti:"information theory" OR ti:"Kolmogorov" OR ti:"compression" OR ti:"channel capacity" OR ti:"rate distortion")'
+    ),
+    "bio_inspired": (
+        "bio_inspired",
+        '(cat:q-bio.PE OR cat:cs.NE) AND (ti:evolutionary OR ti:"genetic algorithm" OR ti:"swarm" OR ti:"neural evolution" OR ti:adaptive OR ti:"reinforcement" OR ti:optimization)'
+    ),
 }
 
 NS = "{http://www.w3.org/2005/Atom}"
 
+# Pure quant keywords — for q-fin categories
 NOFX_KEYWORDS = [
     "information coefficient", "IC ", "factor", "alpha", "regime",
     "momentum", "mean reversion", "MACD", "volume", "order flow",
@@ -72,9 +99,14 @@ NOFX_KEYWORDS = [
     "cryptocurrency", "crypto", "high-frequency", "microstructure",
 ]
 
+# Cross-disciplinary categories use transfer scoring instead
+CROSS_CATEGORIES = {"complexity", "network", "info_theory", "bio_inspired"}
 
-def nofx_score(text: str) -> int:
+
+def nofx_score(text: str, category: str = "") -> int:
     text_lower = text.lower()
+    if category in CROSS_CATEGORIES:
+        return sum(1 for kw in TRANSFER_KEYWORDS if kw.lower() in text_lower)
     return sum(1 for kw in NOFX_KEYWORDS if kw.lower() in text_lower)
 
 
@@ -207,7 +239,7 @@ def main():
             if p["id"] not in existing_ids:
                 existing_ids.add(p["id"])
                 p["category"] = label
-                p["score"] = nofx_score(p["title"] + " " + p["abstract"])
+                p["score"] = nofx_score(p["title"] + " " + p["abstract"], label)
                 p["title_zh"] = translate_zh(p["title"])
                 new_rows.append(p)
                 save_abstracts(p, abstracts_dir, abstracts_zh_dir)
