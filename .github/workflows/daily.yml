@@ -1,0 +1,33 @@
+name: Daily Paper Fetch
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 每天 UTC 02:00 = 北京时间 10:00
+  workflow_dispatch:        # 允许手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # 允许提交 PAPERS.md
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch papers
+        run: python fetch_papers.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "paper-radar[bot]"
+          git config user.email "paper-radar@nofx"
+          git add PAPERS.md
+          git diff --cached --quiet && echo "No new papers" || \
+            git commit -m "papers: daily update $(date -u +%Y-%m-%d)"
+          git push
