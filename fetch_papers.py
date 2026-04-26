@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
 NOFX Paper Radar — daily arXiv fetcher.
-Appends new papers to PAPERS.md, deduplicated by arXiv ID.
+Appends new papers to PAPERS.md and saves abstracts to abstracts/YYYY-MM-DD/.
 """
 
+import os
 import re
 import time
 import urllib.request
@@ -44,6 +45,21 @@ CATEGORIES = {
 
 NS = "{http://www.w3.org/2005/Atom}"
 
+# NOFX-relevant keywords for relevance scoring (used in abstract filename prefix)
+NOFX_KEYWORDS = [
+    "information coefficient", "IC ", "factor", "alpha", "regime",
+    "momentum", "mean reversion", "MACD", "volume", "order flow",
+    "drawdown", "Kelly", "position sizing", "Sharpe", "cross-sectional",
+    "time-series", "quantitative", "systematic", "signal", "backtest",
+    "cryptocurrency", "crypto", "high-frequency", "microstructure",
+]
+
+
+def nofx_score(text: str) -> int:
+    """Count how many NOFX keywords appear in the text (title + abstract)."""
+    text_lower = text.lower()
+    return sum(1 for kw in NOFX_KEYWORDS if kw.lower() in text_lower)
+
 
 def fetch_arxiv(query: str, max_results: int) -> list[dict]:
     params = urllib.parse.urlencode({
@@ -60,16 +76,24 @@ def fetch_arxiv(query: str, max_results: int) -> list[dict]:
     papers = []
     for entry in root.findall(f"{NS}entry"):
         arxiv_id_raw = entry.findtext(f"{NS}id", "").strip()
-        # Extract clean ID: http://arxiv.org/abs/2404.12345v1 → 2404.12345
         m = re.search(r"abs/([^\s/]+?)(?:v\d+)?$", arxiv_id_raw)
         if not m:
             continue
         arxiv_id = m.group(1)
         title = re.sub(r"\s+", " ", entry.findtext(f"{NS}title", "").strip())
-        published = entry.findtext(f"{NS}published", "")[:10]  # YYYY-MM-DD
+        abstract = re.sub(r"\s+", " ", entry.findtext(f"{NS}summary", "").strip())
+        authors_els = entry.findall(f"{NS}author")
+        authors = ", ".join(
+            el.findtext(f"{NS}name", "") for el in authors_els[:3]
+        )
+        if len(authors_els) > 3:
+            authors += " et al."
+        published = entry.findtext(f"{NS}published", "")[:10]
         papers.append({
             "id": arxiv_id,
             "title": title,
+            "abstract": abstract,
+            "authors": authors,
             "date": published,
             "url": f"https://arxiv.org/abs/{arxiv_id}",
         })
@@ -83,6 +107,29 @@ def load_existing_ids(path: str) -> set[str]:
     except FileNotFoundError:
         return set()
     return set(re.findall(r"arxiv\.org/abs/([^\s)]+)", content))
+
+
+def save_abstract(paper: dict, abstracts_dir: str) -> None:
+    """Save abstract as abstracts/YYYY-MM-DD/[score]_arxiv_id.md"""
+    date_dir = os.path.join(abstracts_dir, paper["date"])
+    os.makedirs(date_dir, exist_ok=True)
+    score = nofx_score(paper["title"] + " " + paper["abstract"])
+    # Prefix with zero-padded score (descending) so high-relevance files sort first
+    filename = f"{score:02d}_{paper['id'].replace('/', '_')}_{paper['category']}.md"
+    filepath = os.path.join(date_dir, filename)
+    if os.path.exists(filepath):
+        return
+    content = (
+        f"# {paper['title']}\n\n"
+        f"- **arXiv**: [{paper['id']}]({paper['url']})\n"
+        f"- **Date**: {paper['date']}\n"
+        f"- **Category**: {paper['category']}\n"
+        f"- **Authors**: {paper['authors']}\n"
+        f"- **NOFX Relevance Score**: {score}\n\n"
+        f"## Abstract\n\n{paper['abstract']}\n"
+    )
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(content)
 
 
 def append_to_index(path: str, rows: list[dict]) -> int:
@@ -109,6 +156,7 @@ def append_to_index(path: str, rows: list[dict]) -> int:
 
 def main():
     index_path = "PAPERS.md"
+    abstracts_dir = "abstracts"
     existing_ids = load_existing_ids(index_path)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     new_rows = []
@@ -127,14 +175,15 @@ def main():
                 existing_ids.add(p["id"])
                 p["category"] = label
                 new_rows.append(p)
+                save_abstract(p, abstracts_dir)
                 added += 1
         print(f"  {added} new papers")
-        time.sleep(3)  # be polite to arXiv
+        time.sleep(3)
 
-    # Sort by date descending, then category
     new_rows.sort(key=lambda r: (r["date"], r["category"]), reverse=True)
     count = append_to_index(index_path, new_rows)
     print(f"\nDone: {count} new papers added on {today}")
+    print(f"Abstracts saved to: {abstracts_dir}/")
 
 
 if __name__ == "__main__":
