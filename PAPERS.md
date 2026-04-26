@@ -193,3 +193,123 @@
 | 2025-10-06 | risk | 0 | 用于投资组合优化的签名网络模型 | [link](https://arxiv.org/abs/2510.05377) |
 | 2018-09-02 | regime | 0 | 利用多源数据的扩展耦合隐马尔可夫模型增强股市预测 | [link](https://arxiv.org/abs/1809.00306) |
 | 2013-11-19 | regime | 0 | 使用隐马尔可夫模型进行股市趋势分析 | [link](https://arxiv.org/abs/1311.4771) |
+| 2026-04-21 | complexity | 7 | 测量和反馈驱动的经典和量子自适应动力学达到顶峰 | [link](https://arxiv.org/abs/2604.19874) |
+| 2026-04-23 | complexity | 6 | 开放量子自旋系统的广义随机自旋波理论 | [link](https://arxiv.org/abs/2604.21574) |
+| 2026-04-16 | network | 6 | 信息过载的非线性动力学：对复杂网络中源定位的影响 | [link](https://arxiv.org/abs/2604.14778) |
+| 2026-04-07 | network | 6 | 大规模交通网络中的无标度拥堵集群：连续体建模研究 | [link](https://arxiv.org/abs/2604.05439) |
+| 2026-04-23 | complexity | 5 | 活性浴中惯性极性示踪剂的新颖动力学 | [link](https://arxiv.org/abs/2604.21762) |
+| 2026-04-23 | complexity | 5 | 表面的诞生、死亡和复制：自催化动力学的普遍定律 | [link](https://arxiv.org/abs/2604.21586) |
+| 2026-04-23 | complexity | 5 | 长程耗散自旋系统中的量子跃迁相关性 | [link](https://arxiv.org/abs/2604.21513) |
+| 2026-04-23 | network | 5 | 识别金融市场不稳定的动态网络标记 | [link](https://arxiv.org/abs/2604.21297) |
+| 2026-04-22 | complexity | 5 | 二群随机块模型上的 Ising 模型 | [link](https://arxiv.org/abs/2604.20631) |
+| 2026-04-22 | bio_inspired | 5 | 规范协变神经场中的神经进化随机架构 | [link](https://arxiv.org/abs/2604.20373) |
+| 2026-04-19 | info_theory | 5 | 城市形态中是否存在种族隔离？基于熵的分析 | [link](https://arxiv.org/abs/2604.17643) |
+| 2026-04-17 | bio_inspired | 5 | 增强离散粒子群优化以实现超图模型影响最大化 | [link](https://arxiv.org/abs/2604.15746) |
+| 2026-04-15 | network | 5 | 相关网络和超图中的非单调渗滤阈值 | [link](https://arxiv.org/abs/2604.14065) |
+| 2026-04-13 | network | 5 | 收益不确定性和风险偏好下的网络策略演化 | [link](https://arxiv.org/abs/2604.11354) |
+| 2026-04-13 | info_theory | 5 | $α$-高斯噪声通道的互信息 | [link](https://arxiv.org/abs/2604.10922) |
+| 2026-04-23 | complexity | 4 | CriticalSet 问题：识别二分依赖网络中的关键贡献者 | [link](https://arxiv.org/abs/2604.21537) |
+| 2026-04-22 | complexity | 4 | 时间箭头作为测量引起的相变的指标 | [link](https://arxiv.org/abs/2604.20828) |
+| 2026-04-22 | complexity | 4 | 哈密​​顿量在深度生成模型中的自主出现 | [link](https://arxiv.org/abs/2604.20821) |
+| 2026-04-21 | complexity | 4 | 通过负马尔可夫链的量子到经典的可计算性转变 | [link](https://arxiv.org/abs/2604.19889) |
+| 2026-04-21 | network | 4 | 随机网络化治理：在基于正和代理的模型中桥接经济物理学和制度动力学 | [link](https://arxiv.org/abs/2604.19968) |
+| 2026-04-16 | network | 4 | 基于基序的持久同源性过滤：图同构和属性预测的框架 | [link](https://arxiv.org/abs/2604.15265) |
+| 2026-04-15 | info_theory | 4 | 使用对数和惩罚和自适应平滑的压缩感知中的相变 | [link](https://arxiv.org/abs/2604.13511) |
+| 2026-04-12 | info_theory | 4 | 部分观测过程的熵率选择 | [link](https://arxiv.org/abs/2604.10752) |
+| 2026-04-10 | info_theory | 4 | 有界多智能体通信的语义率失真：容量导出的语义空间和对齐的通信成本 | [link](https://arxiv.org/abs/2604.09521) |
+| 2026-04-09 | bio_inspired | 4 | 小排名大有帮助：您只需要带有 LoRA 适配器的随机支架 | [link](https://arxiv.org/abs/2604.08749) |
+| 2026-04-08 | network | 4 | 时间结构调节植物传粉者网络的稳健性和崩溃 | [link](https://arxiv.org/abs/2604.07347) |
+| 2026-04-08 | bio_inspired | 4 | 使用深度学习通过自适应 IND-CPA 测试评估 PQC KEM、组合器和级联加密 | [link](https://arxiv.org/abs/2604.06942) |
+| 2026-04-02 | network | 4 | 定向复用网络中同步优化的统一框架 | [link](https://arxiv.org/abs/2604.02199) |
+| 2026-04-01 | info_theory | 4 | 条件通道熵对热力学量子信息处理设置了基本限制 | [link](https://arxiv.org/abs/2604.01217) |
+| 2026-03-31 | network | 4 | 度选型网络中的复制-传播-湮灭动力学 | [link](https://arxiv.org/abs/2603.29833) |
+| 2026-03-31 | network | 4 | 分散的运动，相互联系的对手：分析全球社会环境冲突中企业和环境正义组织的相互联系 | [link](https://arxiv.org/abs/2603.29722) |
+| 2026-04-23 | complexity | 3 | 马尔可夫开放量子系统中时间粗粒化的时间均匀误差界 | [link](https://arxiv.org/abs/2604.21366) |
+| 2026-04-23 | network | 3 | 具有功能连接的空间网络的加权补图揭示了具有新链接潜力的节点 | [link](https://arxiv.org/abs/2604.21528) |
+| 2026-04-22 | complexity | 3 | Ansätz 跨系统尺寸横向场伊辛模型变分量子模拟的表现力和优化 | [link](https://arxiv.org/abs/2604.20961) |
+| 2026-04-22 | complexity | 3 | 网络上同时重置的​​随机游走者的遭遇时间 | [link](https://arxiv.org/abs/2604.20770) |
+| 2026-04-22 | complexity | 3 | 随机克雷洛夫动力学：重新审视开放量子系统中的算子增长 | [link](https://arxiv.org/abs/2604.20619) |
+| 2026-04-21 | complexity | 3 | 通过纠缠重正化缩放手性时钟临界值 | [link](https://arxiv.org/abs/2604.19876) |
+| 2026-04-21 | network | 3 | 网络路径动态的节点加权递归分析 | [link](https://arxiv.org/abs/2604.19302) |
+| 2026-04-17 | bio_inspired | 3 | 受疯狂猫启发的粒子优化：马尔可夫状态切换混合群体优化器，应用于心脏数字孪生 | [link](https://arxiv.org/abs/2604.15761) |
+| 2026-04-16 | info_theory | 3 | 通过具有信息继承的链式轻量级神经预测器进行无损压缩 | [link](https://arxiv.org/abs/2604.15472) |
+| 2026-04-16 | info_theory | 3 | 速率-失真-感知权衡的同义变分视角 | [link](https://arxiv.org/abs/2604.14603) |
+| 2026-04-14 | network | 3 | 通过模型预测控制进行网络疫情控制 | [link](https://arxiv.org/abs/2604.13357) |
+| 2026-04-14 | bio_inspired | 3 | 用于视觉和语言建模的自适应尖峰神经元 | [link](https://arxiv.org/abs/2604.12365) |
+| 2026-04-08 | info_theory | 3 | 量子相对 α 熵：结构和几何视角 | [link](https://arxiv.org/abs/2604.06908) |
+| 2026-04-08 | bio_inspired | 3 | BinVal 的随时分析：自适应参数帮助 | [link](https://arxiv.org/abs/2604.06976) |
+| 2026-04-07 | network | 3 | 使用互连网络对城市新陈代谢的破坏进行建模 | [link](https://arxiv.org/abs/2604.06104) |
+| 2026-04-07 | network | 3 | Jeffreys Prior 在缺少足够统计数据的情况下进行网络重建 | [link](https://arxiv.org/abs/2604.05745) |
+| 2026-04-07 | info_theory | 3 | 带位回拒绝采样的奇异相对熵编码 | [link](https://arxiv.org/abs/2604.06055) |
+| 2026-04-06 | network | 3 | 解开大规模供应网络：通过组合 Hodge 分解进行流层次聚类的 f-HiCoNE 框架 | [link](https://arxiv.org/abs/2604.04538) |
+| 2026-04-06 | info_theory | 3 | 通过信息论进行查询优化和评估：教程 | [link](https://arxiv.org/abs/2604.04893) |
+| 2026-04-05 | bio_inspired | 3 | 循环挤出联动：谱排序和基于间隔的结构发现，用于持续优化 | [link](https://arxiv.org/abs/2604.04273) |
+| 2026-04-01 | bio_inspired | 3 | 半监督表格分类的合作协同进化与整体进化搜索 | [link](https://arxiv.org/abs/2604.16412) |
+| 2026-04-01 | bio_inspired | 3 | 用于深度神经网络剪枝的分层重要性引导的多目标进化框架 | [link](https://arxiv.org/abs/2604.01076) |
+| 2026-03-31 | network | 3 | 复杂网络在科学教育研究中的应用综述 | [link](https://arxiv.org/abs/2603.29663) |
+| 2026-03-30 | info_theory | 3 | 时间序列相关性和柯尔莫哥洛夫复杂性：豪斯多夫维度视角 | [link](https://arxiv.org/abs/2603.28375) |
+| 2026-04-23 | complexity | 2 | 有限温度下稠密自旋系统的动力平均场理论 | [link](https://arxiv.org/abs/2604.21563) |
+| 2026-04-23 | complexity | 2 | 背向散射硬棒的 Dean-Kawasaki 脉动流体动力学 | [link](https://arxiv.org/abs/2604.21553) |
+| 2026-04-23 | complexity | 2 | 非周期史密斯帽瓦片的渗滤临界概率(1, $\sqrt3$) | [link](https://arxiv.org/abs/2604.21165) |
+| 2026-04-22 | complexity | 2 | 局域电中性破坏是受限电解质中的普遍约束 | [link](https://arxiv.org/abs/2604.20976) |
+| 2026-04-22 | complexity | 2 | 对齐和反对齐复制的植绒细观理论 | [link](https://arxiv.org/abs/2604.20251) |
+| 2026-04-22 | complexity | 2 | 3D 颗粒系统中的畅通无阻：摩擦在力分布和流变特性中的微机械作用 | [link](https://arxiv.org/abs/2604.20102) |
+| 2026-04-22 | network | 2 | 随机游走的网络探索：大偏差视角 | [link](https://arxiv.org/abs/2604.20829) |
+| 2026-04-21 | complexity | 2 | 从 KMS 详细平衡制备耗散微正则系综 | [link](https://arxiv.org/abs/2604.19973) |
+| 2026-04-21 | complexity | 2 | 用于构建简化二维势能表面的微推弹性膜 | [link](https://arxiv.org/abs/2604.19964) |
+| 2026-04-21 | info_theory | 2 | 同时无线信息和功率传输集成接收器的严格通道容量下限 | [link](https://arxiv.org/abs/2604.18986) |
+| 2026-04-19 | info_theory | 2 | 大规模 MIMO-OFDM 的 CSI 压缩：失配感知速率失真权衡 | [link](https://arxiv.org/abs/2604.17426) |
+| 2026-04-16 | bio_inspired | 2 | 单调子模问题的多任务Pareto优化分析 | [link](https://arxiv.org/abs/2604.15068) |
+| 2026-04-15 | info_theory | 2 | 通过率失真积分实现熵最优输运的两侧界限 | [link](https://arxiv.org/abs/2604.14061) |
+| 2026-04-15 | info_theory | 2 | 双索引 Schatten 准范数及其在量子信息论中的应用 | [link](https://arxiv.org/abs/2604.14055) |
+| 2026-04-15 | bio_inspired | 2 | 深度神经网络引导的 PSO，用于在复杂动态环境中跟踪全局最优位置 | [link](https://arxiv.org/abs/2604.14064) |
+| 2026-04-15 | bio_inspired | 2 | 利用进化优化解决动态机会约束露天矿调度问题 | [link](https://arxiv.org/abs/2604.13385) |
+| 2026-04-14 | bio_inspired | 2 | Shapley 值引导自适应集成学习，通过美国监管合规性验证进行可解释的金融欺诈检测 | [link](https://arxiv.org/abs/2604.14231) |
+| 2026-04-13 | info_theory | 2 | 包含概率信道编码的非概率博弈论信息论 | [link](https://arxiv.org/abs/2604.10868) |
+| 2026-04-13 | bio_inspired | 2 | 动态约束下随机MKP双目标进化算法的应用 | [link](https://arxiv.org/abs/2604.10930) |
+| 2026-04-12 | network | 2 | 间接接触生死演化网络的流行病传播模型 | [link](https://arxiv.org/abs/2604.10742) |
+| 2026-04-10 | info_theory | 2 | 通过概率语言尝试进行顺序 KV 缓存压缩：超越每向量香农限制 | [link](https://arxiv.org/abs/2604.15356) |
+| 2026-04-09 | info_theory | 2 | 宽带压缩域 Cramér--近场 XL-MIMO 的 Rao 界限：数据和几何分集分解 | [link](https://arxiv.org/abs/2604.08531) |
+| 2026-04-08 | network | 2 | 通过循环普查分析对全国自行车节点网络进行质量评估 | [link](https://arxiv.org/abs/2604.07029) |
+| 2026-04-08 | info_theory | 2 | 学习就是遗忘：LLM 培训作为有损压缩 | [link](https://arxiv.org/abs/2604.07569) |
+| 2026-04-08 | bio_inspired | 2 | Block-Bench：可控且透明的离散优化基准测试框架 | [link](https://arxiv.org/abs/2604.06973) |
+| 2026-04-07 | network | 2 | 隐藏代理共识算法中的网络重建 | [link](https://arxiv.org/abs/2604.05709) |
+| 2026-04-07 | bio_inspired | 2 | 通过 QUBO 优化进行神经网络修剪 | [link](https://arxiv.org/abs/2604.05856) |
+| 2026-04-03 | info_theory | 2 | 高维信号压缩：格点界限和度量熵 | [link](https://arxiv.org/abs/2604.03178) |
+| 2026-04-02 | network | 2 | 重定向网络中的异常缩放 | [link](https://arxiv.org/abs/2604.01540) |
+| 2026-04-01 | bio_inspired | 2 | Deepfake 语音检测器的进化多目标融合 | [link](https://arxiv.org/abs/2604.01330) |
+| 2026-03-30 | info_theory | 2 | 混合压缩下的协方差域近场信道估计：USW/菲涅尔模型、曲率学习和 KL 协方差拟合 | [link](https://arxiv.org/abs/2603.28918) |
+| 2026-04-23 | complexity | 1 | 通过量子张量网络中可证明收敛性的算法局部性 | [link](https://arxiv.org/abs/2604.21919) |
+| 2026-04-23 | complexity | 1 | 如何量化分子系统中的长时间旋转运动 | [link](https://arxiv.org/abs/2604.21512) |
+| 2026-04-23 | complexity | 1 | 二维简单随机游走的分形：蒙特卡罗研究 | [link](https://arxiv.org/abs/2604.21341) |
+| 2026-04-23 | complexity | 1 | 碱土里德堡原子相互作用的磁场控制及其在 {\it XXZ} 模型中的应用 | [link](https://arxiv.org/abs/2604.21206) |
+| 2026-04-23 | info_theory | 1 | 方向混乱通过人类和机器视觉中的率失真几何揭示不同的归纳偏差 | [link](https://arxiv.org/abs/2604.21909) |
+| 2026-04-22 | complexity | 1 | 研究模糊球上的 3D O(N) 表面 CFT | [link](https://arxiv.org/abs/2604.21091) |
+| 2026-04-22 | complexity | 1 | 光谱涨落-耗散-响应不等式 | [link](https://arxiv.org/abs/2604.20362) |
+| 2026-04-22 | info_theory | 1 | 安全率失真感知：一种现实主义的随机分布函数计算方法 | [link](https://arxiv.org/abs/2604.20245) |
+| 2026-04-22 | info_theory | 1 | 熵下界和和积现象 | [link](https://arxiv.org/abs/2604.20233) |
+| 2026-04-21 | network | 1 | 从中心地位到生产力：企业如何重新配置​​创新网络中的技术搜索？ | [link](https://arxiv.org/abs/2604.18983) |
+| 2026-04-21 | bio_inspired | 1 | 是什么让 LLM 成为优秀的优化者？法学硕士引导的进化搜索轨迹分析 | [link](https://arxiv.org/abs/2604.19440) |
+| 2026-04-20 | bio_inspired | 1 | 组合优化问题多目标进化算法的可扩展性 | [link](https://arxiv.org/abs/2604.17872) |
+| 2026-04-17 | network | 1 | 融合蜂窝网络数据和收费站计数以进行城市交通流量估计 | [link](https://arxiv.org/abs/2604.15782) |
+| 2026-04-17 | info_theory | 1 | 闭合保真度下演绎源的率失真理论 | [link](https://arxiv.org/abs/2604.15698) |
+| 2026-04-14 | bio_inspired | 1 | Agent-GWO：大型语言模型中动态提示优化的协作代理 | [link](https://arxiv.org/abs/2604.18612) |
+| 2026-04-14 | bio_inspired | 1 | GeM-EA：一种用于流数据驱动优化的生成和元学习增强进化算法 | [link](https://arxiv.org/abs/2604.12336) |
+| 2026-04-13 | network | 1 | 全球供应链网络政策干预的结构性后果 | [link](https://arxiv.org/abs/2604.11479) |
+| 2026-04-13 | network | 1 | 欧洲框架计划中的合作、整合和主题探索：纵向网络分析 | [link](https://arxiv.org/abs/2604.11339) |
+| 2026-04-13 | network | 1 | LLM 辩论中的网络效应和协议漂移 | [link](https://arxiv.org/abs/2604.11312) |
+| 2026-04-13 | info_theory | 1 | 语义率失真理论：演绎压缩和闭合保真度 | [link](https://arxiv.org/abs/2604.11204) |
+| 2026-04-10 | info_theory | 1 | 语义通道理论：多智能体通信的演绎压缩和结构保真度 | [link](https://arxiv.org/abs/2604.16471) |
+| 2026-04-10 | bio_inspired | 1 | 扩散模型的进化代币级提示优化 | [link](https://arxiv.org/abs/2604.09861) |
+| 2026-04-09 | network | 1 | 网络重整化中的调和态射和动力学不变量 | [link](https://arxiv.org/abs/2604.08386) |
+| 2026-04-09 | bio_inspired | 1 | 多模态学习遇到遗传编程：分析潜在空间优化中的对齐 | [link](https://arxiv.org/abs/2604.08324) |
+| 2026-04-08 | info_theory | 1 | 通过双流特征解耦进行高效的学习数据压缩 | [link](https://arxiv.org/abs/2604.07239) |
+| 2026-04-06 | info_theory | 1 | 具有去噪保证的压缩感知的部分确定性采样 | [link](https://arxiv.org/abs/2604.04802) |
+| 2026-04-06 | bio_inspired | 1 | 进化多目标优化中拓扑双向搜索的排序约束 | [link](https://arxiv.org/abs/2604.04724) |
+| 2026-04-03 | bio_inspired | 1 | 通过基于排序的上层价值函数逼近加速黑盒双层优化 | [link](https://arxiv.org/abs/2604.02888) |
+| 2026-04-01 | network | 1 | 女性出行网络让出行更加高效 | [link](https://arxiv.org/abs/2604.00943) |
+| 2026-04-22 | complexity | 0 | 量子多体疤痕导致踢相互作用自旋模型中时间平移对称性的破坏 | [link](https://arxiv.org/abs/2604.20419) |
+| 2026-04-20 | bio_inspired | 0 | 用于黑盒优化的基于相似性的投资组合构建 | [link](https://arxiv.org/abs/2604.18196) |
+| 2026-04-16 | bio_inspired | 0 | 超越单模型优化：在持续强化学习中保持可塑性 | [link](https://arxiv.org/abs/2604.15414) |
+| 2026-04-09 | bio_inspired | 0 | 共享出行系统中自行车重新平衡的鲁棒多目标优化 | [link](https://arxiv.org/abs/2604.08296) |
+| 2026-04-04 | bio_inspired | 0 | RDEx-CMOP：固定预算约束多目标优化的可行性感知指标引导差分进化 | [link](https://arxiv.org/abs/2604.03708) |
