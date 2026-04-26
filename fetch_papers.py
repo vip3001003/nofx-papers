@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
 NOFX Paper Radar — daily arXiv fetcher.
-Appends new papers to PAPERS.md and saves abstracts to abstracts/YYYY-MM-DD/.
+- abstracts/    : English originals (for Claude analysis)
+- abstracts_zh/ : Pure Chinese translations (for user reading)
+- PAPERS.md     : Index with Chinese titles and relevance scores
 """
 
 import os
@@ -19,11 +21,10 @@ try:
         if not text:
             return ""
         try:
-            # Google Translate has a 5000-char limit per request
             if len(text) > 4500:
                 text = text[:4500] + "..."
             result = _translator.translate(text)
-            time.sleep(0.5)  # polite rate limit
+            time.sleep(0.5)
             return result or text
         except Exception:
             return text
@@ -32,9 +33,8 @@ except ImportError:
         return text
 
 ARXIV_API = "http://export.arxiv.org/api/query"
-MAX_RESULTS = 30  # per category per run
+MAX_RESULTS = 30
 
-# Category → (label, arXiv search query)
 CATEGORIES = {
     "momentum": (
         "momentum",
@@ -64,7 +64,6 @@ CATEGORIES = {
 
 NS = "{http://www.w3.org/2005/Atom}"
 
-# NOFX-relevant keywords for relevance scoring (used in abstract filename prefix)
 NOFX_KEYWORDS = [
     "information coefficient", "IC ", "factor", "alpha", "regime",
     "momentum", "mean reversion", "MACD", "volume", "order flow",
@@ -75,7 +74,6 @@ NOFX_KEYWORDS = [
 
 
 def nofx_score(text: str) -> int:
-    """Count how many NOFX keywords appear in the text (title + abstract)."""
     text_lower = text.lower()
     return sum(1 for kw in NOFX_KEYWORDS if kw.lower() in text_lower)
 
@@ -102,9 +100,7 @@ def fetch_arxiv(query: str, max_results: int) -> list[dict]:
         title = re.sub(r"\s+", " ", entry.findtext(f"{NS}title", "").strip())
         abstract = re.sub(r"\s+", " ", entry.findtext(f"{NS}summary", "").strip())
         authors_els = entry.findall(f"{NS}author")
-        authors = ", ".join(
-            el.findtext(f"{NS}name", "") for el in authors_els[:3]
-        )
+        authors = ", ".join(el.findtext(f"{NS}name", "") for el in authors_els[:3])
         if len(authors_els) > 3:
             authors += " et al."
         published = entry.findtext(f"{NS}published", "")[:10]
@@ -128,31 +124,43 @@ def load_existing_ids(path: str) -> set[str]:
     return set(re.findall(r"arxiv\.org/abs/([^\s)]+)", content))
 
 
-def save_abstract(paper: dict, abstracts_dir: str) -> None:
-    """Save abstract as abstracts/YYYY-MM-DD/[score]_arxiv_id.md"""
-    date_dir = os.path.join(abstracts_dir, paper["date"])
-    os.makedirs(date_dir, exist_ok=True)
-    score = nofx_score(paper["title"] + " " + paper["abstract"])
-    # Prefix with zero-padded score (descending) so high-relevance files sort first
+def save_abstracts(paper: dict, abstracts_dir: str, abstracts_zh_dir: str) -> None:
+    score = paper.get("score", 0)
     filename = f"{score:02d}_{paper['id'].replace('/', '_')}_{paper['category']}.md"
-    filepath = os.path.join(date_dir, filename)
-    if os.path.exists(filepath):
-        return
-    title_zh = translate_zh(paper["title"])
-    abstract_zh = translate_zh(paper["abstract"])
-    content = (
-        f"# {paper['title']}\n\n"
-        f"**中文标题：** {title_zh}\n\n"
-        f"- **arXiv**: [{paper['id']}]({paper['url']})\n"
-        f"- **Date**: {paper['date']}\n"
-        f"- **Category**: {paper['category']}\n"
-        f"- **Authors**: {paper['authors']}\n"
-        f"- **NOFX Relevance Score**: {score}\n\n"
-        f"## Abstract（原文）\n\n{paper['abstract']}\n\n"
-        f"## 摘要（中文）\n\n{abstract_zh}\n"
-    )
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(content)
+
+    # English original — for Claude analysis
+    en_dir = os.path.join(abstracts_dir, paper["date"])
+    os.makedirs(en_dir, exist_ok=True)
+    en_path = os.path.join(en_dir, filename)
+    if not os.path.exists(en_path):
+        with open(en_path, "w", encoding="utf-8") as f:
+            f.write(
+                f"# {paper['title']}\n\n"
+                f"- **arXiv**: [{paper['id']}]({paper['url']})\n"
+                f"- **Date**: {paper['date']}\n"
+                f"- **Category**: {paper['category']}\n"
+                f"- **Authors**: {paper['authors']}\n"
+                f"- **NOFX Relevance Score**: {score}\n\n"
+                f"## Abstract\n\n{paper['abstract']}\n"
+            )
+
+    # Pure Chinese — for user reading
+    zh_dir = os.path.join(abstracts_zh_dir, paper["date"])
+    os.makedirs(zh_dir, exist_ok=True)
+    zh_path = os.path.join(zh_dir, filename)
+    if not os.path.exists(zh_path):
+        title_zh = paper.get("title_zh") or paper["title"]
+        abstract_zh = translate_zh(paper["abstract"])
+        with open(zh_path, "w", encoding="utf-8") as f:
+            f.write(
+                f"# {title_zh}\n\n"
+                f"- **arXiv**: [{paper['id']}]({paper['url']})\n"
+                f"- **日期**: {paper['date']}\n"
+                f"- **分类**: {paper['category']}\n"
+                f"- **作者**: {paper['authors']}\n"
+                f"- **NOFX相关度**: {score}\n\n"
+                f"## 摘要\n\n{abstract_zh}\n"
+            )
 
 
 def append_to_index(path: str, rows: list[dict]) -> int:
@@ -169,10 +177,9 @@ def append_to_index(path: str, rows: list[dict]) -> int:
         )
     lines = []
     for r in rows:
-        title_zh = r.get("title_zh") or r["title"]
-        safe_title = title_zh.replace("|", "｜")
+        title_zh = (r.get("title_zh") or r["title"]).replace("|", "｜")
         score = r.get("score", 0)
-        lines.append(f"| {r['date']} | {r['category']} | {score} | {safe_title} | [link]({r['url']}) |")
+        lines.append(f"| {r['date']} | {r['category']} | {score} | {title_zh} | [link]({r['url']}) |")
     new_content = content.rstrip("\n") + "\n" + "\n".join(lines) + "\n"
     with open(path, "w", encoding="utf-8") as f:
         f.write(new_content)
@@ -182,6 +189,7 @@ def append_to_index(path: str, rows: list[dict]) -> int:
 def main():
     index_path = "PAPERS.md"
     abstracts_dir = "abstracts"
+    abstracts_zh_dir = "abstracts_zh"
     existing_ids = load_existing_ids(index_path)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     new_rows = []
@@ -202,7 +210,7 @@ def main():
                 p["score"] = nofx_score(p["title"] + " " + p["abstract"])
                 p["title_zh"] = translate_zh(p["title"])
                 new_rows.append(p)
-                save_abstract(p, abstracts_dir)
+                save_abstracts(p, abstracts_dir, abstracts_zh_dir)
                 added += 1
         print(f"  {added} new papers")
         time.sleep(3)
@@ -210,7 +218,6 @@ def main():
     new_rows.sort(key=lambda r: (r["score"], r["date"]), reverse=True)
     count = append_to_index(index_path, new_rows)
     print(f"\nDone: {count} new papers added on {today}")
-    print(f"Abstracts saved to: {abstracts_dir}/")
 
 
 if __name__ == "__main__":
