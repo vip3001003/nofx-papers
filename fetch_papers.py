@@ -176,10 +176,12 @@ def save_abstracts(paper: dict, abstracts_dir: str, abstracts_zh_dir: str) -> No
                 f"## Abstract\n\n{paper['abstract']}\n"
             )
 
-    # Pure Chinese — for user reading
-    zh_dir = os.path.join(abstracts_zh_dir, paper["date"])
+    # Pure Chinese — for user reading, organized by category
+    zh_dir = os.path.join(abstracts_zh_dir, paper["category"])
     os.makedirs(zh_dir, exist_ok=True)
-    zh_path = os.path.join(zh_dir, filename)
+    # filename: score_date_id.md so files sort by relevance within category
+    zh_filename = f"{score:02d}_{paper['date']}_{paper['id'].replace('/', '_')}.md"
+    zh_path = os.path.join(zh_dir, zh_filename)
     if not os.path.exists(zh_path):
         title_zh = paper.get("title_zh") or paper["title"]
         abstract_zh = translate_zh(paper["abstract"])
