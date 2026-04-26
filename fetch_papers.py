@@ -12,6 +12,25 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
+try:
+    from deep_translator import GoogleTranslator
+    _translator = GoogleTranslator(source="en", target="zh-CN")
+    def translate_zh(text: str) -> str:
+        if not text:
+            return ""
+        try:
+            # Google Translate has a 5000-char limit per request
+            if len(text) > 4500:
+                text = text[:4500] + "..."
+            result = _translator.translate(text)
+            time.sleep(0.5)  # polite rate limit
+            return result or text
+        except Exception:
+            return text
+except ImportError:
+    def translate_zh(text: str) -> str:
+        return text
+
 ARXIV_API = "http://export.arxiv.org/api/query"
 MAX_RESULTS = 30  # per category per run
 
@@ -119,14 +138,18 @@ def save_abstract(paper: dict, abstracts_dir: str) -> None:
     filepath = os.path.join(date_dir, filename)
     if os.path.exists(filepath):
         return
+    title_zh = translate_zh(paper["title"])
+    abstract_zh = translate_zh(paper["abstract"])
     content = (
         f"# {paper['title']}\n\n"
+        f"**中文标题：** {title_zh}\n\n"
         f"- **arXiv**: [{paper['id']}]({paper['url']})\n"
         f"- **Date**: {paper['date']}\n"
         f"- **Category**: {paper['category']}\n"
         f"- **Authors**: {paper['authors']}\n"
         f"- **NOFX Relevance Score**: {score}\n\n"
-        f"## Abstract\n\n{paper['abstract']}\n"
+        f"## Abstract（原文）\n\n{paper['abstract']}\n\n"
+        f"## 摘要（中文）\n\n{abstract_zh}\n"
     )
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
@@ -141,12 +164,13 @@ def append_to_index(path: str, rows: list[dict]) -> int:
     except FileNotFoundError:
         content = (
             "# NOFX Paper Radar\n\n"
-            "| 日期 | 分类 | 相关度 | 标题 | arXiv |\n"
-            "|------|------|--------|------|-------|\n"
+            "| 日期 | 分类 | 相关度 | 中文标题 | arXiv |\n"
+            "|------|------|--------|----------|-------|\n"
         )
     lines = []
     for r in rows:
-        safe_title = r["title"].replace("|", "｜")
+        title_zh = r.get("title_zh") or r["title"]
+        safe_title = title_zh.replace("|", "｜")
         score = r.get("score", 0)
         lines.append(f"| {r['date']} | {r['category']} | {score} | {safe_title} | [link]({r['url']}) |")
     new_content = content.rstrip("\n") + "\n" + "\n".join(lines) + "\n"
@@ -176,6 +200,7 @@ def main():
                 existing_ids.add(p["id"])
                 p["category"] = label
                 p["score"] = nofx_score(p["title"] + " " + p["abstract"])
+                p["title_zh"] = translate_zh(p["title"])
                 new_rows.append(p)
                 save_abstract(p, abstracts_dir)
                 added += 1

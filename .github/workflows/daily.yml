@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install deep-translator
+
       - name: Fetch papers
         run: python fetch_papers.py
 
