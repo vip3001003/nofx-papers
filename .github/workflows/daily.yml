@@ -36,8 +36,8 @@ jobs:
           git config user.name  "paper-radar[bot]"
           git config user.email "paper-radar@nofx"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-          git pull --rebase origin main
           git add -A
           git diff --cached --quiet && echo "No new papers" || \
             git commit -m "papers: daily update $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push origin main
