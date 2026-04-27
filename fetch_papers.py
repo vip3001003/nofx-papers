@@ -309,24 +309,19 @@ def append_to_index(path: str, rows: list[dict], reviewed: dict) -> int:
     except FileNotFoundError:
         content = (
             "# NOFX Paper Radar\n\n"
-            "| 日期 | 分类 | 相关度 | 状态 | 中文标题 | arXiv |\n"
-            "|------|------|--------|------|----------|-------|\n"
+            "| 日期 | 分类 | 相关度 | 中文标题 | arXiv |\n"
+            "|------|------|--------|----------|-------|\n"
         )
     lines = []
     for r in rows:
-        title_zh = (r.get("title_zh") or r["title"]).replace("|", "｜")
-        score = r.get("score", 0)
         paper_id = r["id"]
-        # Determine review badge
-        if paper_id in reviewed["reviewed_ids"]:
-            if paper_id in reviewed["high_priority"]:
-                status = "⭐ HIGH"
-            else:
-                status = "✅"
-        else:
-            status = "🆕"
+        score = r.get("score", 0)
+        title_zh = (r.get("title_zh") or r["title"]).replace("|", "｜")
+        # Prefix title with review badge for high-priority papers
+        if paper_id in reviewed.get("high_priority", {}):
+            title_zh = "⭐ " + title_zh
         lines.append(
-            f"| {r['date']} | {r['category']} | {score} | {status} | {title_zh} | [link]({r['url']}) |"
+            f"| {r['date']} | {r['category']} | {score} | {title_zh} | [link]({r['url']}) |"
         )
     new_content = content.rstrip("\n") + "\n" + "\n".join(lines) + "\n"
     with open(path, "w", encoding="utf-8") as f:
