@@ -315,3 +315,18 @@
 | 2025-10-06 | risk | 0 | 用于投资组合优化的签名网络模型 | [link](https://arxiv.org/abs/2510.05377) |
 | 2018-09-02 | regime | 0 | 利用多源数据的扩展耦合隐马尔可夫模型增强股市预测 | [link](https://arxiv.org/abs/1809.00306) |
 | 2013-11-19 | regime | 0 | 使用隐马尔可夫模型进行股市趋势分析 | [link](https://arxiv.org/abs/1311.4771) |
+| 2026-04-23 | complexity | 4 | 远程仅测量电路中的纠缠和信息扰乱 | [link](https://arxiv.org/abs/2604.22022) |
+| 2026-04-24 | complexity | 3 | 长程相关随机矩阵 | [link](https://arxiv.org/abs/2604.22447) |
+| 2026-04-24 | complexity | 2 | 带电胶体晶体中非 DLVO 相互作用驱动的静电弹性软化和紫外线不稳定性 | [link](https://arxiv.org/abs/2604.22448) |
+| 2026-04-24 | complexity | 2 | 稳态条件下纯量子测量驱动的量子热机的不可行定理 | [link](https://arxiv.org/abs/2604.22376) |
+| 2026-04-24 | complexity | 2 | 主动六态 Potts 模型中的螺旋波、目标波、条纹波和无序波 | [link](https://arxiv.org/abs/2604.22353) |
+| 2026-04-24 | network | 2 | 社会运动期间在线网络的自相似性 | [link](https://arxiv.org/abs/2604.22677) |
+| 2026-04-24 | bio_inspired | 2 | 人类与人工智能共存的共同进化理论：复杂社会中的互惠、治理和动态 | [link](https://arxiv.org/abs/2604.22227) |
+| 2026-04-24 | complexity | 1 | 任意子扩散导致的解相干颜色代码和新兴的混合环面代码：拓扑纠缠负性视角 | [link](https://arxiv.org/abs/2604.22521) |
+| 2026-04-24 | complexity | 0 | 三态活性晶格气体模型的平均场理论 | [link](https://arxiv.org/abs/2604.22536) |
+| 2026-04-24 | complexity | 0 | 任意子对耗散浴中的量子谐振子 | [link](https://arxiv.org/abs/2604.22342) |
+| 2026-04-24 | complexity | 0 | 随机热力学的变分公式：空间扩展系统 | [link](https://arxiv.org/abs/2604.22298) |
+| 2026-04-24 | complexity | 0 | 粒子的签名：最小的 Gedanken 实验 | [link](https://arxiv.org/abs/2604.22178) |
+| 2026-04-24 | complexity | 0 | 耦合 $D$ 维仓本振荡器的长程有序 | [link](https://arxiv.org/abs/2604.22151) |
+| 2026-04-24 | bio_inspired | 0 | 健身景观中的简单符号上位性和进化弯路 | [link](https://arxiv.org/abs/2604.22611) |
+| 2026-04-23 | bio_inspired | 0 | 任务网络上的多任务优化 | [link](https://arxiv.org/abs/2604.21991) |
