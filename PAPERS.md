@@ -330,3 +330,34 @@
 | 2026-04-24 | complexity | 0 | 耦合 $D$ 维仓本振荡器的长程有序 | [link](https://arxiv.org/abs/2604.22151) |
 | 2026-04-24 | bio_inspired | 0 | 健身景观中的简单符号上位性和进化弯路 | [link](https://arxiv.org/abs/2604.22611) |
 | 2026-04-23 | bio_inspired | 0 | 任务网络上的多任务优化 | [link](https://arxiv.org/abs/2604.21991) |
+| 2026-04-27 | complexity | 8 | 金融市场作为一个自组织的生态系统：通过具有异质偏好的学习进行模拟 | [link](https://arxiv.org/abs/2604.23975) |
+| 2026-04-27 | volume | 7 | 去中心化预测市场的剖析：来自 Polymarket 订单簿的微观结构证据 | [link](https://arxiv.org/abs/2604.24366) |
+| 2026-04-27 | volume | 3 | 限价订单簿的扩展状态相关霍克斯过程：数学基础和波动性特征图的再现 | [link](https://arxiv.org/abs/2604.23961) |
+| 2026-04-26 | network | 3 | 真实网络中的时间连接概率 | [link](https://arxiv.org/abs/2604.23714) |
+| 2026-04-27 | complexity | 2 | 论伊辛模型的几何代数 | [link](https://arxiv.org/abs/2604.24688) |
+| 2026-04-27 | complexity | 2 | $O(N)$ 通用类的大 $N$ 限制的共形不变性 | [link](https://arxiv.org/abs/2604.24675) |
+| 2026-04-27 | complexity | 2 | 动力学模型中的广义通量加权边界墙 | [link](https://arxiv.org/abs/2604.24592) |
+| 2026-04-27 | complexity | 2 | 在普通树上“真正”的自我回避行走 | [link](https://arxiv.org/abs/2604.24389) |
+| 2026-04-26 | complexity | 2 | 作为信息投影分歧的诊断分歧：安静太阳温度比的信息理论解读 | [link](https://arxiv.org/abs/2604.23752) |
+| 2026-04-25 | complexity | 2 | 集体决策中的消息传递策略和回声室的出现 | [link](https://arxiv.org/abs/2604.23408) |
+| 2026-04-25 | complexity | 2 | 临界伊辛模型的贝叶斯相变：epsilon 展开式和二维中的放大复制对称性 | [link](https://arxiv.org/abs/2604.23346) |
+| 2026-04-25 | complexity | 2 | 嵌套控制高阶传染中的相变 | [link](https://arxiv.org/abs/2604.23337) |
+| 2026-04-24 | complexity | 2 | 家庭收入和财富的统计机制：通过最大熵和混合聚合从企业动态推导 | [link](https://arxiv.org/abs/2604.22976) |
+| 2026-04-27 | complexity | 1 | 使用广义置信传播收缩张量网络 | [link](https://arxiv.org/abs/2604.24760) |
+| 2026-04-25 | complexity | 1 | 相对论量子统计热力学原理：一类精确可解模型 | [link](https://arxiv.org/abs/2604.23409) |
+| 2026-04-25 | info_theory | 1 | 拒绝采样是相对熵编码的最佳选择 | [link](https://arxiv.org/abs/2604.23076) |
+| 2026-04-27 | complexity | 0 | 单文件传输中的通用跟踪器统计 | [link](https://arxiv.org/abs/2604.24741) |
+| 2026-04-27 | complexity | 0 | 超导量子处理器上的实验高维多量子位贝尔非局域性 | [link](https://arxiv.org/abs/2604.24740) |
+| 2026-04-27 | complexity | 0 | 动态波动响应关系 | [link](https://arxiv.org/abs/2604.24626) |
+| 2026-04-27 | complexity | 0 | 随机极限环振荡器的能量：耦合何时会减少耗散？ | [link](https://arxiv.org/abs/2604.24553) |
+| 2026-04-27 | complexity | 0 | 脊椎动物生命周期不变量的热力学参数化：生物固有时间、异速生长质量消除和进化枝特异性预测 | [link](https://arxiv.org/abs/2604.24458) |
+| 2026-04-27 | complexity | 0 | 周期性激发量子电池中热效应和耗散效应的影响 | [link](https://arxiv.org/abs/2604.24409) |
+| 2026-04-27 | complexity | 0 | 超越平均水平：具有重置的多粒子系统中的异质第一通道动力学 | [link](https://arxiv.org/abs/2604.24406) |
+| 2026-04-27 | complexity | 0 | 基于裂纹模板的透明导电薄膜的电导率：平均场近似、有效介质理论和模拟 | [link](https://arxiv.org/abs/2604.24211) |
+| 2026-04-27 | network | 0 | 通过慢分支敏感性对网络松弛进行功能性拆除 | [link](https://arxiv.org/abs/2604.24279) |
+| 2026-04-26 | network | 0 | 印度河流域文明中无标度商业网络的证据：哈拉帕海豹数据的幂律分析 | [link](https://arxiv.org/abs/2604.23582) |
+| 2026-04-25 | complexity | 0 | 具有守恒定律的量子多体系统中的相干动力学 | [link](https://arxiv.org/abs/2604.23192) |
+| 2026-04-25 | complexity | 0 | 主题丰富作为重新连接的随机正则图中的紧急偏好附件的驱动因素 | [link](https://arxiv.org/abs/2604.23152) |
+| 2026-04-25 | network | 0 | 量化在线社交网络中的观点同质性：有限置信视角 | [link](https://arxiv.org/abs/2604.23157) |
+| 2026-04-24 | complexity | 0 | Qutrit Clifford+T 门，采用二体角动量耦合、旋转和单轴扭转 | [link](https://arxiv.org/abs/2604.23007) |
+| 2026-04-24 | complexity | 0 | 经济运动方程：资本深化、技术和企业生存 | [link](https://arxiv.org/abs/2604.22995) |
