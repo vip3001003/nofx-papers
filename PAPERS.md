@@ -361,3 +361,26 @@
 | 2026-04-25 | network | 0 | 量化在线社交网络中的观点同质性：有限置信视角 | [link](https://arxiv.org/abs/2604.23157) |
 | 2026-04-24 | complexity | 0 | Qutrit Clifford+T 门，采用二体角动量耦合、旋转和单轴扭转 | [link](https://arxiv.org/abs/2604.23007) |
 | 2026-04-24 | complexity | 0 | 经济运动方程：资本深化、技术和企业生存 | [link](https://arxiv.org/abs/2604.22995) |
+| 2026-04-28 | network | 5 | 跨产品替代对多层食品贸易网络系统性风险的条件影响 | [link](https://arxiv.org/abs/2604.25492) |
+| 2026-04-28 | complexity | 3 | 最优控制和非平衡松弛的有限时间转换 | [link](https://arxiv.org/abs/2604.25798) |
+| 2026-04-28 | complexity | 3 | 三维 $q$ 态 Potts 模型中一级相变温度淬火后的类旋节线缩放行为 | [link](https://arxiv.org/abs/2604.25351) |
+| 2026-04-27 | network | 3 | 估计卡塔尔天然气中断对全球的连锁影响 | [link](https://arxiv.org/abs/2604.24960) |
+| 2026-04-28 | complexity | 2 | 免测量随机量子电路中连续复位引起的相变 | [link](https://arxiv.org/abs/2604.25640) |
+| 2026-04-28 | complexity | 2 | 星形胶质细胞门控联想记忆动力学的紧急自我注意 | [link](https://arxiv.org/abs/2604.25481) |
+| 2026-04-28 | complexity | 2 | 一维开放量子系统中的反常混合态 Floquet 拓扑 | [link](https://arxiv.org/abs/2604.25248) |
+| 2026-04-28 | network | 2 | 与社区生成综合引文网络 | [link](https://arxiv.org/abs/2604.25597) |
+| 2026-04-28 | bio_inspired | 2 | 进化多目标优化的基准测试停止标准 | [link](https://arxiv.org/abs/2604.25458) |
+| 2026-04-28 | risk | 1 | 用于大规模无限制高矩投资组合优化的丘氏仿射正态下降 | [link](https://arxiv.org/abs/2604.25378) |
+| 2026-04-28 | complexity | 1 | 通过量子涨落恢复系综等价 | [link](https://arxiv.org/abs/2604.25837) |
+| 2026-04-28 | complexity | 1 | 移动冷却源引起二元液体中的相分离：竞争速度的相互作用 | [link](https://arxiv.org/abs/2604.25302) |
+| 2026-04-28 | complexity | 1 | 重新思考关键现象中的维度正则化 | [link](https://arxiv.org/abs/2604.25103) |
+| 2026-04-27 | complexity | 1 | 论信息热力学数学 | [link](https://arxiv.org/abs/2604.24948) |
+| 2026-04-27 | complexity | 1 | 中性原子量子处理器中无序引起的纠缠跃迁的随机测量 | [link](https://arxiv.org/abs/2604.24854) |
+| 2026-04-28 | complexity | 0 | 多时间相关性的时间箭头的分层重建 | [link](https://arxiv.org/abs/2604.25749) |
+| 2026-04-28 | complexity | 0 | 利用量子空间分布和规范对称性的量子误差校正 | [link](https://arxiv.org/abs/2604.25747) |
+| 2026-04-28 | complexity | 0 | 运动景观中具有感觉延迟的活性胶体的普遍运输 | [link](https://arxiv.org/abs/2604.25745) |
+| 2026-04-28 | complexity | 0 | 西森线上具有高斯无序的一般规格玻璃的 Griffiths 不等式和 Gibbs-Bogoliubov 不等式 | [link](https://arxiv.org/abs/2604.25697) |
+| 2026-04-28 | complexity | 0 | 电流体动力润滑理论 | [link](https://arxiv.org/abs/2604.25350) |
+| 2026-04-28 | complexity | 0 | 非马尔可夫系统中熵产生的层次结构与热力学权衡关系 | [link](https://arxiv.org/abs/2604.25245) |
+| 2026-04-28 | complexity | 0 | 非马尔可夫 Langevin 方程的马尔可夫热力学 | [link](https://arxiv.org/abs/2604.25095) |
+| 2026-04-27 | complexity | 0 | 使用张量网络方法的连续空间统计力学 | [link](https://arxiv.org/abs/2604.25060) |
