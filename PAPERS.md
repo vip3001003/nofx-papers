@@ -384,3 +384,20 @@
 | 2026-04-28 | complexity | 0 | 非马尔可夫系统中熵产生的层次结构与热力学权衡关系 | [link](https://arxiv.org/abs/2604.25245) |
 | 2026-04-28 | complexity | 0 | 非马尔可夫 Langevin 方程的马尔可夫热力学 | [link](https://arxiv.org/abs/2604.25095) |
 | 2026-04-27 | complexity | 0 | 使用张量网络方法的连续空间统计力学 | [link](https://arxiv.org/abs/2604.25060) |
+| 2026-04-29 | crypto | 4 | 从假设到因素：加密货币市场中有限的法学硕士代理人 | [link](https://arxiv.org/abs/2604.26747) |
+| 2026-04-28 | volume | 3 | 针对美国股票指数进行灵敏度校准的量价调整 MACD 交易策略 | [link](https://arxiv.org/abs/2604.26063) |
+| 2026-04-28 | complexity | 3 | 几何约束引起的自旋冰的拓扑转变 | [link](https://arxiv.org/abs/2604.26125) |
+| 2026-04-28 | complexity | 3 | 分形流体动力学中守恒边缘分布的扩散和信息论 | [link](https://arxiv.org/abs/2604.26093) |
+| 2026-04-29 | complexity | 2 | 大型欧氏随机矩阵的最大特征值和顶特征向量统计 | [link](https://arxiv.org/abs/2604.26852) |
+| 2026-04-29 | complexity | 1 | 使用 Liu 方法对 Korteweg 流体进行本构建模 | [link](https://arxiv.org/abs/2604.26846) |
+| 2026-04-29 | complexity | 1 | Quo vadis，随机热力学？ | [link](https://arxiv.org/abs/2604.26601) |
+| 2026-04-29 | complexity | 1 | 平均力吉布斯态中储层介导的自旋纠缠 | [link](https://arxiv.org/abs/2604.26562) |
+| 2026-04-29 | complexity | 1 | 化学活性多组分混合物中图案相的共存 | [link](https://arxiv.org/abs/2604.26346) |
+| 2026-04-29 | complexity | 1 | O(N) 模型的函数维数正则化 | [link](https://arxiv.org/abs/2604.26207) |
+| 2026-04-29 | complexity | 0 | 高斯不对称测度 | [link](https://arxiv.org/abs/2604.26878) |
+| 2026-04-29 | complexity | 0 | 稀有但有弹性：扩散多样性缓冲了物种的脆弱性 | [link](https://arxiv.org/abs/2604.26589) |
+| 2026-04-29 | complexity | 0 | 四十多年来对量子布朗运动的研究——A. O. Caldeira 的贡献 | [link](https://arxiv.org/abs/2604.26524) |
+| 2026-04-29 | complexity | 0 | 具有长距离跳跃和随机重置的环网中复杂的首通道传输 | [link](https://arxiv.org/abs/2604.26215) |
+| 2026-04-28 | complexity | 0 | 具有电荷守恒的典型纠缠熵 | [link](https://arxiv.org/abs/2604.26141) |
+| 2026-04-28 | complexity | 0 | 无序 Tomonaga-Luttinger 液体中的可解随机酉动力学 | [link](https://arxiv.org/abs/2604.25995) |
+| 2026-04-28 | complexity | 0 | 电子量子电荷液体的微观模型 | [link](https://arxiv.org/abs/2604.25992) |
