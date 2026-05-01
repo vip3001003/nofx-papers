@@ -401,3 +401,39 @@
 | 2026-04-28 | complexity | 0 | 具有电荷守恒的典型纠缠熵 | [link](https://arxiv.org/abs/2604.26141) |
 | 2026-04-28 | complexity | 0 | 无序 Tomonaga-Luttinger 液体中的可解随机酉动力学 | [link](https://arxiv.org/abs/2604.25995) |
 | 2026-04-28 | complexity | 0 | 电子量子电荷液体的微观模型 | [link](https://arxiv.org/abs/2604.25992) |
+| 2026-04-29 | complexity | 4 | 两个耦合全连接量子 Ising 模型的耗散机制和耗散相变 | [link](https://arxiv.org/abs/2604.27072) |
+| 2026-04-29 | complexity | 4 | 费米子高斯态的非局部魔法资源 | [link](https://arxiv.org/abs/2604.27049) |
+| 2026-04-29 | complexity | 4 | 人工智能网络中的三元相变：认知架构中的复合算子扩展 | [link](https://arxiv.org/abs/2604.27038) |
+| 2026-04-26 | bio_inspired | 4 | MAEO：用于可扩展大型工程应用的多目标非晶集成优化 | [link](https://arxiv.org/abs/2604.26973) |
+| 2026-04-30 | complexity | 3 | 远非平衡玻色-爱因斯坦凝聚过程中维宁湍流的观察 | [link](https://arxiv.org/abs/2604.28191) |
+| 2026-04-29 | volume | 3 | 预测市场的信号可信度指数：具有加权和时变扩展的基于微观结构的诊断 | [link](https://arxiv.org/abs/2604.27041) |
+| 2026-04-30 | complexity | 2 | 通过重入相变产生强 Mpemba 效应 | [link](https://arxiv.org/abs/2604.28117) |
+| 2026-04-30 | complexity | 2 | 不连续 BBP 跃迁 | [link](https://arxiv.org/abs/2604.27992) |
+| 2026-04-30 | info_theory | 2 | MIFair：交叉性和多类公平性的互信息框架 | [link](https://arxiv.org/abs/2604.28030) |
+| 2026-04-30 | complexity | 1 | 随机矩阵理论中全对全 QSSEP 中的畴壁熔化 | [link](https://arxiv.org/abs/2604.28151) |
+| 2026-04-30 | complexity | 1 | 通往延伸临界点的协同途径 | [link](https://arxiv.org/abs/2604.28003) |
+| 2026-04-30 | complexity | 1 | 利用活性相分离推进催化结构 | [link](https://arxiv.org/abs/2604.27965) |
+| 2026-04-30 | complexity | 1 | 跨维度不完全相变中的几何记忆 | [link](https://arxiv.org/abs/2604.27779) |
+| 2026-04-30 | complexity | 1 | 深度和完全热化的时间尺度 | [link](https://arxiv.org/abs/2604.27749) |
+| 2026-04-30 | complexity | 1 | 使用变压器对二维自旋系统进行采样 | [link](https://arxiv.org/abs/2604.27738) |
+| 2026-04-29 | complexity | 1 | 意见动态中依赖比率的逆向激活 | [link](https://arxiv.org/abs/2604.27226) |
+| 2026-04-29 | complexity | 1 | 自由费米子模型中的非局部非稳定性 | [link](https://arxiv.org/abs/2604.27055) |
+| 2026-04-29 | network | 1 | 网络信息物理系统中基于意识的事件触发迁移的数字流行病学 | [link](https://arxiv.org/abs/2604.26284) |
+| 2026-04-29 | bio_inspired | 1 | NORACL：无 Oracle 资源自适应持续学习的神经发生 | [link](https://arxiv.org/abs/2604.27031) |
+| 2026-04-30 | complexity | 0 | 使用有限水库基于电流的最佳声子温度传感 | [link](https://arxiv.org/abs/2604.28155) |
+| 2026-04-30 | complexity | 0 | 无序排序直至任意高温 | [link](https://arxiv.org/abs/2604.28026) |
+| 2026-04-30 | complexity | 0 | 完整图上界面增长的离散晶格模型 | [link](https://arxiv.org/abs/2604.27896) |
+| 2026-04-30 | complexity | 0 | 玻璃中混合碱效应的理论 | [link](https://arxiv.org/abs/2604.27873) |
+| 2026-04-30 | complexity | 0 | 热力学中的几何复杂性 | [link](https://arxiv.org/abs/2604.27858) |
+| 2026-04-30 | complexity | 0 | 有机导体中的第二个交替磁体候选者：$κ$-(BEDT-TTF)$_2$$m$-HOOCC$_6$H$_4$SO$_3$ | [link](https://arxiv.org/abs/2604.27746) |
+| 2026-04-30 | complexity | 0 | 在可积自旋链的量子模拟中通过量子电路学习有效降低噪声 | [link](https://arxiv.org/abs/2604.27648) |
+| 2026-04-30 | info_theory | 0 | 用于联合图像压缩和无线传输的扩散-OAMP | [link](https://arxiv.org/abs/2604.27952) |
+| 2026-04-29 | complexity | 0 | 使用最大纠缠伪纯量子态对液体中两个非等价核自旋 1/2 的弛豫机制进行多速率表征 | [link](https://arxiv.org/abs/2604.27220) |
+| 2026-04-29 | complexity | 0 | 长程可积变形的量子群结构 | [link](https://arxiv.org/abs/2604.27189) |
+| 2026-04-29 | complexity | 0 | 通过 EATR-flooding 加强速率计算 | [link](https://arxiv.org/abs/2604.27136) |
+| 2026-04-29 | complexity | 0 | 来自流体动力学大偏差的长寿命局部量子相干性 | [link](https://arxiv.org/abs/2604.27074) |
+| 2026-04-29 | network | 0 | 人、地点和事物：网络拓扑和研发任务的主题 | [link](https://arxiv.org/abs/2604.26338) |
+| 2026-04-29 | info_theory | 0 | 用于语义压缩的自适应变换编码 | [link](https://arxiv.org/abs/2604.26492) |
+| 2026-04-29 | bio_inspired | 0 | 学会忘记：通过自适应权重衰减进行持续学习 | [link](https://arxiv.org/abs/2604.27063) |
+| 2026-04-29 | bio_inspired | 0 | 尖峰神经网络模式分类器的进化特征选择 | [link](https://arxiv.org/abs/2604.26654) |
+| 2026-04-28 | network | 0 | 播放列表共现网络中音乐流派社区的二维结构表征 | [link](https://arxiv.org/abs/2604.26119) |
