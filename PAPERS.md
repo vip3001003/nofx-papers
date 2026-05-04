@@ -437,3 +437,22 @@
 | 2026-04-29 | bio_inspired | 0 | 学会忘记：通过自适应权重衰减进行持续学习 | [link](https://arxiv.org/abs/2604.27063) |
 | 2026-04-29 | bio_inspired | 0 | 尖峰神经网络模式分类器的进化特征选择 | [link](https://arxiv.org/abs/2604.26654) |
 | 2026-04-28 | network | 0 | 播放列表共现网络中音乐流派社区的二维结构表征 | [link](https://arxiv.org/abs/2604.26119) |
+| 2026-04-30 | complexity | 3 | 激活的随机游走表现出自组织临界性 | [link](https://arxiv.org/abs/2605.00207) |
+| 2026-04-30 | complexity | 3 | Rényi 缺陷在 (2+1)$d$ O(3) 个量子临界点的临界点 | [link](https://arxiv.org/abs/2605.00104) |
+| 2026-04-30 | complexity | 3 | 局部稳定相的统一框架 | [link](https://arxiv.org/abs/2605.00088) |
+| 2026-05-01 | complexity | 2 | 动态平均场模型磁滞缩放的固定点和交叉点 | [link](https://arxiv.org/abs/2605.00567) |
+| 2026-05-01 | network | 2 | 辛普森悖论解释了非线性、阈值和复杂传染的普遍存在 | [link](https://arxiv.org/abs/2605.00791) |
+| 2026-05-01 | complexity | 1 | 通过生成神经网络系统从拓扑电荷分布重建自旋结构 | [link](https://arxiv.org/abs/2605.00732) |
+| 2026-05-01 | complexity | 1 | 重正化熵产生以实现跳跃过程中的最佳传输：使保守力再次最佳 | [link](https://arxiv.org/abs/2605.00656) |
+| 2026-05-01 | complexity | 0 | 拼字游戏的统计机制预测策略、熵和语言 | [link](https://arxiv.org/abs/2605.00813) |
+| 2026-05-01 | complexity | 0 | 量子行走中复杂网络的纠缠能力 | [link](https://arxiv.org/abs/2605.00772) |
+| 2026-05-01 | complexity | 0 | $^4$He 超流相的蒙特卡罗研究 | [link](https://arxiv.org/abs/2605.00629) |
+| 2026-05-01 | complexity | 0 | 树的流动和返回：统一决策树和扩散模型 | [link](https://arxiv.org/abs/2605.00414) |
+| 2026-05-01 | network | 0 | 通过战略信息共享实现集体绩效的最佳网络结构 | [link](https://arxiv.org/abs/2605.00758) |
+| 2026-05-01 | info_theory | 0 | SENECA：通过自洽缺失质量进行小样本离散熵估计 | [link](https://arxiv.org/abs/2605.00668) |
+| 2026-05-01 | bio_inspired | 0 | 学习行动和合作以实现分布式黑盒共识优化 | [link](https://arxiv.org/abs/2605.00691) |
+| 2026-04-30 | complexity | 0 | 伽利略对称性不存在的情况下超流体密度的低温损耗 | [link](https://arxiv.org/abs/2605.00274) |
+| 2026-04-30 | complexity | 0 | 马尔可夫网络中瞬态概率和命中时间分布互线性的图论推导 | [link](https://arxiv.org/abs/2605.00135) |
+| 2026-04-30 | complexity | 0 | 图论测量捕获大型量子系统上的弱遍历性破坏 | [link](https://arxiv.org/abs/2605.00094) |
+| 2026-04-30 | complexity | 0 | East 型模型中的局域性与 Fock 空间结构 | [link](https://arxiv.org/abs/2605.00091) |
+| 2026-04-30 | network | 0 | 超越样本的城市科学：世界每个城市地区的最新街道网络模型和指标 | [link](https://arxiv.org/abs/2605.00108) |
