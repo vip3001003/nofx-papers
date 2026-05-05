@@ -456,3 +456,43 @@
 | 2026-04-30 | complexity | 0 | 图论测量捕获大型量子系统上的弱遍历性破坏 | [link](https://arxiv.org/abs/2605.00094) |
 | 2026-04-30 | complexity | 0 | East 型模型中的局域性与 Fock 空间结构 | [link](https://arxiv.org/abs/2605.00091) |
 | 2026-04-30 | network | 0 | 超越样本的城市科学：世界每个城市地区的最新街道网络模型和指标 | [link](https://arxiv.org/abs/2605.00108) |
+| 2026-05-04 | volume | 3 | 每个市场的信息泄漏和订单流技能：去中心化预测市场中知情交易的两种方法论视角 | [link](https://arxiv.org/abs/2605.02287) |
+| 2026-05-04 | complexity | 3 | 化学脉冲活性胶体中的新兴聚集动力学：无序与噪声的相互作用 | [link](https://arxiv.org/abs/2605.02854) |
+| 2026-05-03 | complexity | 3 | 微观关键因素引发的宏观关键问题 | [link](https://arxiv.org/abs/2605.01818) |
+| 2026-05-02 | complexity | 3 | 聚合物场理论中的环路展开：在相分离中的应用 | [link](https://arxiv.org/abs/2605.01261) |
+| 2026-05-02 | network | 3 | 真实生产网络上的类霍尔横向应力和沙堆临界性 | [link](https://arxiv.org/abs/2605.01561) |
+| 2026-05-04 | complexity | 2 | 非平衡系统中的拓扑缺陷 | [link](https://arxiv.org/abs/2605.02482) |
+| 2026-05-04 | complexity | 2 | 移动性各向异性重塑自驱动运动 | [link](https://arxiv.org/abs/2605.02148) |
+| 2026-05-03 | complexity | 2 | 系统因与水库的弱接触而失去平衡 | [link](https://arxiv.org/abs/2605.01900) |
+| 2026-05-03 | complexity | 2 | 具有合作繁殖和空间选择的随机游走者的新兴种群动态 | [link](https://arxiv.org/abs/2605.01770) |
+| 2026-05-03 | bio_inspired | 2 | 通过最佳传输训练不可微网络 | [link](https://arxiv.org/abs/2605.01928) |
+| 2026-05-02 | risk | 2 | Decision-Induced Ranking Explains Prediction Inflation and Excessive Turnover in SPO-Based Portfolio Optimization | [link](https://arxiv.org/abs/2605.01176) |
+| 2026-05-02 | complexity | 2 | 弹道宏观涨落理论中的长程相关性和 XXZ 链中的自旋电导率 | [link](https://arxiv.org/abs/2605.01645) |
+| 2026-05-02 | complexity | 2 | 通过斥力有效吸引 | [link](https://arxiv.org/abs/2605.01421) |
+| 2026-05-04 | complexity | 1 | 关于强量子马尔可夫性质的注释 | [link](https://arxiv.org/abs/2605.02877) |
+| 2026-05-04 | complexity | 1 | 超稳定玻璃的计算方法 | [link](https://arxiv.org/abs/2605.02679) |
+| 2026-05-04 | bio_inspired | 1 | 使用遗传算法对 Minecraft 中的 3D 导航进行神经形态控制 | [link](https://arxiv.org/abs/2605.02628) |
+| 2026-05-04 | bio_inspired | 1 | 在强化学习中结合经过训练的模型 | [link](https://arxiv.org/abs/2605.02159) |
+| 2026-05-03 | complexity | 1 | 周期性踢动多体量子系统中的遍历和离散时间晶体相：一项分析研究 | [link](https://arxiv.org/abs/2605.01969) |
+| 2026-05-02 | complexity | 1 | 通过脑电图的非加性熵分析来确定大脑的关键性 | [link](https://arxiv.org/abs/2605.01629) |
+| 2026-05-02 | complexity | 1 | 由于杂质与金属的突然耦合而导致的退相干 | [link](https://arxiv.org/abs/2605.01612) |
+| 2026-05-02 | complexity | 1 | 层数和成分顺序可控的胶体层沉积 | [link](https://arxiv.org/abs/2605.01470) |
+| 2026-05-01 | complexity | 1 | 二维 Bootstrap 渗透中的阈值控制几何重组 | [link](https://arxiv.org/abs/2605.01151) |
+| 2026-05-04 | complexity | 0 | 相同粒子系统的结构:多体态密度的有效计算 | [link](https://arxiv.org/abs/2605.02864) |
+| 2026-05-04 | complexity | 0 | 等空间有限级系统的精确微正则公式和热力学 | [link](https://arxiv.org/abs/2605.02736) |
+| 2026-05-04 | complexity | 0 | 类卡诺发动机功率效率界限的几何公式 | [link](https://arxiv.org/abs/2605.02732) |
+| 2026-05-04 | complexity | 0 | 量子和经典马尔可夫动力学的热力学完整性 | [link](https://arxiv.org/abs/2605.02650) |
+| 2026-05-04 | complexity | 0 | 薄膜中的聚合物结：厚度依赖性、局部效应和刚度 | [link](https://arxiv.org/abs/2605.02644) |
+| 2026-05-04 | complexity | 0 | 晶格扩散的通用热力学方法 | [link](https://arxiv.org/abs/2605.02579) |
+| 2026-05-04 | complexity | 0 | SiC 功率 MOSFET 中单粒子烧毁的随机首通道建模 | [link](https://arxiv.org/abs/2605.02478) |
+| 2026-05-04 | complexity | 0 | 饱和自交互随机游走的老化记录统计 | [link](https://arxiv.org/abs/2605.02433) |
+| 2026-05-04 | complexity | 0 | 格子规范理论和威尔逊环限制：统计力学调查 | [link](https://arxiv.org/abs/2605.02156) |
+| 2026-05-03 | complexity | 0 | 与多方措施的可分离性 | [link](https://arxiv.org/abs/2605.02097) |
+| 2026-05-03 | complexity | 0 | 核安全中的定向渗透 | [link](https://arxiv.org/abs/2605.01788) |
+| 2026-05-03 | network | 0 | 局部最优网络上相邻可能的创新动态 | [link](https://arxiv.org/abs/2605.01821) |
+| 2026-05-03 | info_theory | 0 | 无线表示的基准测试：高维嵌入与压缩嵌入的效率和鲁棒性 | [link](https://arxiv.org/abs/2605.02009) |
+| 2026-05-03 | info_theory | 0 | 通过基于 LLM 的熵编码在固定速率通道上进行实时文本传输 | [link](https://arxiv.org/abs/2605.01991) |
+| 2026-05-02 | complexity | 0 | 非齐次哈密顿量淬灭后的纠缠动力学 | [link](https://arxiv.org/abs/2605.01595) |
+| 2026-05-02 | complexity | 0 | 空腔介导的局域化和集体电子关联相 | [link](https://arxiv.org/abs/2605.01551) |
+| 2026-05-02 | complexity | 0 | 软滚动翻滚颗粒的微观理论 | [link](https://arxiv.org/abs/2605.01422) |
+| 2026-05-02 | info_theory | 0 | 用于高度压缩的快于奈奎斯特信号的神经均衡器：设计、性能、复杂性和鲁棒性 | [link](https://arxiv.org/abs/2605.01570) |
