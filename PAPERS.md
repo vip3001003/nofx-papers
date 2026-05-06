@@ -496,3 +496,32 @@
 | 2026-05-02 | complexity | 0 | 空腔介导的局域化和集体电子关联相 | [link](https://arxiv.org/abs/2605.01551) |
 | 2026-05-02 | complexity | 0 | 软滚动翻滚颗粒的微观理论 | [link](https://arxiv.org/abs/2605.01422) |
 | 2026-05-02 | info_theory | 0 | 用于高度压缩的快于奈奎斯特信号的神经均衡器：设计、性能、复杂性和鲁棒性 | [link](https://arxiv.org/abs/2605.01570) |
+| 2026-05-05 | bio_inspired | 4 | 顺序多目标传输拓扑规划的精确进化算法 | [link](https://arxiv.org/abs/2605.03753) |
+| 2026-04-30 | bio_inspired | 4 | 法学硕士在昂贵的优化中的关系推理 | [link](https://arxiv.org/abs/2605.02933) |
+| 2026-05-05 | complexity | 3 | 热力学相变揭示城市交通拥堵的弹性结构 | [link](https://arxiv.org/abs/2605.03879) |
+| 2026-05-04 | complexity | 3 | 化学反应网络中熵产生的普遍临界性 | [link](https://arxiv.org/abs/2605.03192) |
+| 2026-05-02 | bio_inspired | 3 | 进化动力学中的平衡与竞争 | [link](https://arxiv.org/abs/2605.02956) |
+| 2026-05-05 | complexity | 2 | 合成反铁磁体中 Meron 晶格的自发拓扑锁定和对称性恢复 | [link](https://arxiv.org/abs/2605.03755) |
+| 2026-05-05 | network | 2 | 对抗期间的谣言传播与监督：重要性驱动的 SIRQS 网络模型 | [link](https://arxiv.org/abs/2605.03775) |
+| 2026-05-04 | complexity | 2 | 瞬态电场驱动的非马尔可夫熵产涨落定理 | [link](https://arxiv.org/abs/2605.03191) |
+| 2026-05-04 | complexity | 2 | 量子网络上的鲁棒自旋挤压：普适性的教训 | [link](https://arxiv.org/abs/2605.03032) |
+| 2026-04-22 | bio_inspired | 2 | EvoJail：大型语言模型的进化多样化越狱提示生成 | [link](https://arxiv.org/abs/2605.02921) |
+| 2026-05-05 | complexity | 1 | 平移不变张量网络中的纠缠跃迁 | [link](https://arxiv.org/abs/2605.04026) |
+| 2026-05-05 | complexity | 1 | 非保守驾驶的信息几何特征 | [link](https://arxiv.org/abs/2605.03757) |
+| 2026-05-04 | complexity | 1 | 受挫 $\mathbb{Z}_6$ 时钟链中的顺铁离子和解耦多临界点 | [link](https://arxiv.org/abs/2605.03001) |
+| 2026-05-05 | complexity | 0 | 兰道奇点的后期松弛 | [link](https://arxiv.org/abs/2605.04020) |
+| 2026-05-05 | complexity | 0 | 风险投资家能打败随机分配吗？ | [link](https://arxiv.org/abs/2605.03980) |
+| 2026-05-05 | complexity | 0 | 量子晶格系统的 Berry-Esseen 束缚 | [link](https://arxiv.org/abs/2605.03829) |
+| 2026-05-05 | complexity | 0 | 使用高熵生成模型扩展功能蛋白序列空间 | [link](https://arxiv.org/abs/2605.03578) |
+| 2026-05-05 | complexity | 0 | 随机和无序网格世界中的最优导航 | [link](https://arxiv.org/abs/2605.03568) |
+| 2026-05-05 | complexity | 0 | 随机摩擦浴驱动的受限准二维颗粒流体的动态特性 | [link](https://arxiv.org/abs/2605.03455) |
+| 2026-05-05 | complexity | 0 | 手性活性液体中闪闪发光的气泡 | [link](https://arxiv.org/abs/2605.03404) |
+| 2026-05-05 | complexity | 0 | 从增强采样到人类可读的蛋白质动力学表示 | [link](https://arxiv.org/abs/2605.03394) |
+| 2026-05-05 | complexity | 0 | 开放量子系统的有限频率波动响应界限 | [link](https://arxiv.org/abs/2605.03340) |
+| 2026-05-04 | complexity | 0 | 约束 Tsallis 修正对正负电子湮灭造成的光子再加热 | [link](https://arxiv.org/abs/2605.03223) |
+| 2026-05-04 | complexity | 0 | 广义矩阵积 Ansatz 的精确量子多体疤痕 | [link](https://arxiv.org/abs/2605.03020) |
+| 2026-05-04 | complexity | 0 | 准备高保真热场双态 | [link](https://arxiv.org/abs/2605.03017) |
+| 2026-05-04 | complexity | 0 | 弱系统-浴耦合的耗散热态制备的严格误差范围 | [link](https://arxiv.org/abs/2605.03011) |
+| 2026-05-04 | complexity | 0 | 自由概率的局部算子纠缠的页面曲线 | [link](https://arxiv.org/abs/2605.02995) |
+| 2026-05-04 | info_theory | 0 | 信息论和统计学习 | [link](https://arxiv.org/abs/2605.02989) |
+| 2026-04-27 | bio_inspired | 0 | 通过进化方法对法学硕士进行分析和解释 | [link](https://arxiv.org/abs/2605.02930) |
