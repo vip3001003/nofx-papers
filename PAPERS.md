@@ -525,3 +525,45 @@
 | 2026-05-04 | complexity | 0 | 自由概率的局部算子纠缠的页面曲线 | [link](https://arxiv.org/abs/2605.02995) |
 | 2026-05-04 | info_theory | 0 | 信息论和统计学习 | [link](https://arxiv.org/abs/2605.02989) |
 | 2026-04-27 | bio_inspired | 0 | 通过进化方法对法学硕士进行分析和解释 | [link](https://arxiv.org/abs/2605.02930) |
+| 2026-05-06 | complexity | 4 | 深度网络中的竞争非线性、临界性和有序到混沌的转变 | [link](https://arxiv.org/abs/2605.05294) |
+| 2026-05-07 | complexity | 3 | 噪声陷阱的有限时间最优控制 | [link](https://arxiv.org/abs/2605.06424) |
+| 2026-05-07 | complexity | 3 | 弱无序 Baxter 模型中缺乏临界内能的自平均 | [link](https://arxiv.org/abs/2605.05915) |
+| 2026-05-06 | complexity | 3 | $d$ 维度中自由费米子在有限温度下空穴概率的转变 | [link](https://arxiv.org/abs/2605.05431) |
+| 2026-05-07 | complexity | 2 | 久保热化对应 | [link](https://arxiv.org/abs/2605.06666) |
+| 2026-05-07 | complexity | 2 | 机械不稳定性的瑞利准则：通过化学机械耦合诱导活性 | [link](https://arxiv.org/abs/2605.06543) |
+| 2026-05-07 | complexity | 2 | 一阶量子相变旋节点附近的临界点 | [link](https://arxiv.org/abs/2605.06436) |
+| 2026-05-07 | complexity | 2 | 训练数据中的密度多样性控制着机器学习原子间势的热力学可传递性 | [link](https://arxiv.org/abs/2605.05733) |
+| 2026-05-07 | complexity | 2 | 通过数据驱动的刘维尔提取将时间粗粒化作为量子自旋链中宏观摩擦的起源 | [link](https://arxiv.org/abs/2605.05604) |
+| 2026-05-06 | complexity | 2 | 无序费米子中测量引起的相变 | [link](https://arxiv.org/abs/2605.05306) |
+| 2026-05-06 | info_theory | 2 | 使用互信息安全准则的安全源编码框架：通用编码、强逆定理 | [link](https://arxiv.org/abs/2605.04720) |
+| 2026-05-05 | bio_inspired | 2 | QUIVER：代理辅助进化多目标优化中的成本感知自适应偏好查询 | [link](https://arxiv.org/abs/2605.04267) |
+| 2026-05-07 | complexity | 1 | 二维非线性薛定谔模型中自相似前沿驱动的动态冷却 | [link](https://arxiv.org/abs/2605.06396) |
+| 2026-05-07 | complexity | 1 | 双模式几何控制二分系统中的多尺度组织 | [link](https://arxiv.org/abs/2605.06208) |
+| 2026-05-06 | info_theory | 1 | 复杂系统的独特、普遍的熵 | [link](https://arxiv.org/abs/2605.04493) |
+| 2026-05-05 | network | 1 | 多重网络中的动态过程和紧急行为 | [link](https://arxiv.org/abs/2605.04199) |
+| 2026-05-07 | complexity | 0 | 由批次到达统计形成的囊泡介导的信号传导的激活 | [link](https://arxiv.org/abs/2605.06456) |
+| 2026-05-07 | complexity | 0 | Max-k-Cut 的 Potts 机器动力学和性能比较研究 | [link](https://arxiv.org/abs/2605.06425) |
+| 2026-05-07 | complexity | 0 | 生态学中的高阶相互作用可以隐藏在众目睽睽之下 | [link](https://arxiv.org/abs/2605.06301) |
+| 2026-05-07 | complexity | 0 | 强对称性开放量子系统的大偏差函数 | [link](https://arxiv.org/abs/2605.06244) |
+| 2026-05-07 | complexity | 0 | 通过不可逆性涌现守恒量 | [link](https://arxiv.org/abs/2605.05934) |
+| 2026-05-07 | complexity | 0 | 腔量子电动力学中的 Pontus-Mpemba 效应 | [link](https://arxiv.org/abs/2605.05827) |
+| 2026-05-07 | complexity | 0 | 非马尔可夫马约拉纳输运的热力学不完备性 I：岛屿动力学和输运统计缺失 | [link](https://arxiv.org/abs/2605.05754) |
+| 2026-05-07 | complexity | 0 | 非最小自旋轨道耦合量子环的热力学和紧急热机械响应 | [link](https://arxiv.org/abs/2605.05533) |
+| 2026-05-07 | network | 0 | 天然气、化肥和农作物的连锁中断导致全球结构性粮食供应脆弱 | [link](https://arxiv.org/abs/2605.06411) |
+| 2026-05-07 | bio_inspired | 0 | CoupleEvo：使用大型语言模型改进耦合优化问题的启发式方法 | [link](https://arxiv.org/abs/2605.06341) |
+| 2026-05-06 | complexity | 0 | 受重正化群启发的分段广义线性模型的基于格的框架 | [link](https://arxiv.org/abs/2605.05493) |
+| 2026-05-06 | complexity | 0 | 非互易群体中突现手性有序的分解和缺陷混沌 | [link](https://arxiv.org/abs/2605.05448) |
+| 2026-05-06 | complexity | 0 | 跨本地化转变的共振扩散 | [link](https://arxiv.org/abs/2605.05445) |
+| 2026-05-06 | complexity | 0 | 在超统计框架中使用 EM 算法进行 kappa 分布的参数估计 | [link](https://arxiv.org/abs/2605.05428) |
+| 2026-05-06 | complexity | 0 | 开放量子系统中 Zeno-Schur 粗粒化下二次响应的特征结构 | [link](https://arxiv.org/abs/2605.05417) |
+| 2026-05-06 | complexity | 0 | 距离矩阵的受挫动力学 | [link](https://arxiv.org/abs/2605.05376) |
+| 2026-05-06 | complexity | 0 | 受抑场：二维流形上受抑布朗粒子的统计场论 | [link](https://arxiv.org/abs/2605.05366) |
+| 2026-05-06 | complexity | 0 | Gross-Neveu 模型中晶相的微扰、非微扰和精确方面 | [link](https://arxiv.org/abs/2605.05307) |
+| 2026-05-06 | complexity | 0 | 通过晶格几何工程量子多体疤痕 | [link](https://arxiv.org/abs/2605.05296) |
+| 2026-05-06 | complexity | 0 | 受挫里德堡阵列中量子多体疤痕的系统构建 | [link](https://arxiv.org/abs/2605.05297) |
+| 2026-05-06 | info_theory | 0 | 连通软随机几何图的熵和分布式源编码 | [link](https://arxiv.org/abs/2605.04703) |
+| 2026-05-06 | bio_inspired | 0 | S-LCG：用于搜索和优化的基于结构化线性同余生成器的确定性算法 | [link](https://arxiv.org/abs/2605.05198) |
+| 2026-05-06 | bio_inspired | 0 | 直接来自达尔文：从进化第一原理推导出高级优化器 | [link](https://arxiv.org/abs/2605.05284) |
+| 2026-05-06 | bio_inspired | 0 | 特征计算预算对黑盒优化的每实例算法选择的影响 | [link](https://arxiv.org/abs/2605.04954) |
+| 2026-05-05 | info_theory | 0 | 分布式纠缠的量子压缩 | [link](https://arxiv.org/abs/2605.04271) |
+| 2026-04-19 | bio_inspired | 0 | 基于量化卷积的深度学习模型的进化微调 | [link](https://arxiv.org/abs/2605.05228) |
