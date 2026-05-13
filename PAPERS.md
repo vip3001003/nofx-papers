@@ -567,3 +567,71 @@
 | 2026-05-06 | bio_inspired | 0 | 特征计算预算对黑盒优化的每实例算法选择的影响 | [link](https://arxiv.org/abs/2605.04954) |
 | 2026-05-05 | info_theory | 0 | 分布式纠缠的量子压缩 | [link](https://arxiv.org/abs/2605.04271) |
 | 2026-04-19 | bio_inspired | 0 | 基于量化卷积的深度学习模型的进化微调 | [link](https://arxiv.org/abs/2605.05228) |
+| 2026-05-11 | complexity | 5 | 数据场论：通过函数重正化群进行异常检测。以二维伊辛模型为基准 | [link](https://arxiv.org/abs/2605.11138) |
+| 2026-05-10 | bio_inspired | 5 | EvoPref：多目标进化优化发现除梯度下降之外的多种 LLM 对齐方式 | [link](https://arxiv.org/abs/2605.09777) |
+| 2026-05-12 | volume | 4 | Polymarket 上的填充方非零售交易：报价归因约束下行为层和微观结构特征的实证研究 | [link](https://arxiv.org/abs/2605.11640) |
+| 2026-05-12 | complexity | 4 | 三维偶极普遍性类的蒙特卡罗研究 | [link](https://arxiv.org/abs/2605.11573) |
+| 2026-05-11 | complexity | 4 | 具有相对论标量场的一阶跃迁的非平衡缩放 | [link](https://arxiv.org/abs/2605.10346) |
+| 2026-05-11 | bio_inspired | 4 | 多目标优化中交叉的影响：NSGA-III 的运行时分析 | [link](https://arxiv.org/abs/2605.11201) |
+| 2026-05-12 | complexity | 3 | 非互耦守恒系统的临界动力学 | [link](https://arxiv.org/abs/2605.11892) |
+| 2026-05-11 | complexity | 3 | 随机 h 分数维晶格揭示了二维和三维之间的端点压缩渗滤激活 | [link](https://arxiv.org/abs/2605.11310) |
+| 2026-05-11 | complexity | 3 | 各向异性纯相位模型中单个 BKT 转变的表观双 $T_c$ | [link](https://arxiv.org/abs/2605.10226) |
+| 2026-05-10 | risk | 3 | 超越 ESG 分数：学习顺序投资组合优化的动态约束 | [link](https://arxiv.org/abs/2605.09310) |
+| 2026-05-10 | bio_inspired | 3 | 不平坦地形上四足动物运动控制的神经形态强化学习 | [link](https://arxiv.org/abs/2605.09595) |
+| 2026-05-11 | complexity | 2 | 作为临界态对偶不变签名的李亚普诺夫指数 | [link](https://arxiv.org/abs/2605.10746) |
+| 2026-05-11 | complexity | 2 | LLM多智能体系统中的集体协调：通过统计物理消除合作中的偏见 | [link](https://arxiv.org/abs/2605.10528) |
+| 2026-05-11 | complexity | 2 | 分子动力学输运系数计算的数学分析和数值方法 | [link](https://arxiv.org/abs/2605.10507) |
+| 2026-05-11 | complexity | 2 | 大宽度网络中的尖锐特征学习转换和贝叶斯最优神经缩放定律 | [link](https://arxiv.org/abs/2605.10395) |
+| 2026-05-11 | complexity | 2 | 使用 Polfed.jl 计算量子多体系统的特征对 | [link](https://arxiv.org/abs/2605.10191) |
+| 2026-05-11 | info_theory | 2 | 神经权重范数 = 柯尔莫哥洛夫复杂度 | [link](https://arxiv.org/abs/2605.10878) |
+| 2026-05-11 | info_theory | 2 | 间接观察下的 Rényi 率-失真-感知-隐私权衡 | [link](https://arxiv.org/abs/2605.09921) |
+| 2026-05-11 | bio_inspired | 2 | 元黑盒优化可以为昂贵的约束多目标优化提供搜索指导 | [link](https://arxiv.org/abs/2605.10260) |
+| 2026-05-07 | network | 2 | 具有共同进化动力学的开放网络中的持续不平衡 | [link](https://arxiv.org/abs/2605.06816) |
+| 2026-05-07 | info_theory | 2 | 使用互信息安全准则的变长源加密框架：通用编码、强逆定理 | [link](https://arxiv.org/abs/2605.06802) |
+| 2026-05-07 | bio_inspired | 2 | 因果涌现对齐假设：因果涌现与强化学习代理中的最终奖励保持一致并预测最终奖励 | [link](https://arxiv.org/abs/2605.06746) |
+| 2026-05-12 | volume | 1 | 经验证的波动率-成交量-间隙分类器，用于 MNQ 日内数据中的状态识别 | [link](https://arxiv.org/abs/2605.11423) |
+| 2026-05-12 | complexity | 1 | 不平坦固体表面上液滴运动的变分方法，包括接触线动力学和蒸发 | [link](https://arxiv.org/abs/2605.12393) |
+| 2026-05-12 | complexity | 1 | 确定稳定玻璃设计策略中的相关参数 | [link](https://arxiv.org/abs/2605.12127) |
+| 2026-05-12 | complexity | 1 | 随时间变化的量子谐振子中的压缩和绝热破缺 | [link](https://arxiv.org/abs/2605.12124) |
+| 2026-05-12 | complexity | 1 | 一维集群中非对称时间延迟的作用及其结构 | [link](https://arxiv.org/abs/2605.11713) |
+| 2026-05-12 | info_theory | 1 | 互信息最大化信道的参数估计 | [link](https://arxiv.org/abs/2605.11352) |
+| 2026-05-12 | bio_inspired | 1 | 混合二元连续变量的黑盒优化：进化模型合并中的挑战和机遇 | [link](https://arxiv.org/abs/2605.12326) |
+| 2026-05-12 | bio_inspired | 1 | 时空对比优化产生的自组织 MT 方向图 | [link](https://arxiv.org/abs/2605.11718) |
+| 2026-05-11 | complexity | 1 | 密度波和超导不稳定性的竞争残留阶的无偏大$N$方法 | [link](https://arxiv.org/abs/2605.11281) |
+| 2026-05-11 | complexity | 1 | 量子运算的重整化：宇称时间跃迁和混沌流 | [link](https://arxiv.org/abs/2605.10459) |
+| 2026-05-11 | complexity | 1 | $N$ 皇后问题的统计机制 | [link](https://arxiv.org/abs/2605.10326) |
+| 2026-05-11 | complexity | 1 | 超越拓扑不变量：来自主导 Fock 状态模式的序参数 | [link](https://arxiv.org/abs/2605.10320) |
+| 2026-05-11 | complexity | 1 | SU(2) 旋转混合 $\mathcal{PT}$--$\mathcal{APT}$ 系统中的对称强制非厄米特 Jarzynski 等式 | [link](https://arxiv.org/abs/2605.10099) |
+| 2026-05-11 | complexity | 1 | 铁磁 Ising 模型具有任意高 $T_{\rm c}$ 的平面晶格族 | [link](https://arxiv.org/abs/2605.10017) |
+| 2026-05-11 | info_theory | 1 | GELATO：用于设备边缘推测 LLM 推理的基于生成熵和 Lyapunov 的自适应令牌卸载 | [link](https://arxiv.org/abs/2605.10124) |
+| 2026-05-10 | bio_inspired | 1 | 用于多样化 LLM 生成的参数高效神经进化：通过即时嵌入进化进行质量多样性优化 | [link](https://arxiv.org/abs/2605.09781) |
+| 2026-05-09 | bio_inspired | 1 | AHD Agent：用于自动启发式设计的代理强化学习 | [link](https://arxiv.org/abs/2605.08756) |
+| 2026-05-08 | info_theory | 1 | Kolmogorov--Nagumo 条件熵平均框架 | [link](https://arxiv.org/abs/2605.07624) |
+| 2026-05-12 | complexity | 0 | 可伸展自由连接链中的链长和能量波动 | [link](https://arxiv.org/abs/2605.12333) |
+| 2026-05-12 | complexity | 0 | 等效原理的电荷相关测试：唯象参数和未探索的前沿 | [link](https://arxiv.org/abs/2605.12246) |
+| 2026-05-12 | complexity | 0 | 相同费米子的统计势：涌现吸引力和泡利晶体形成 | [link](https://arxiv.org/abs/2605.12043) |
+| 2026-05-12 | info_theory | 0 | 独立三元随机变量之和的最大熵 | [link](https://arxiv.org/abs/2605.11831) |
+| 2026-05-12 | info_theory | 0 | 浮点数的熵 | [link](https://arxiv.org/abs/2605.11546) |
+| 2026-05-12 | info_theory | 0 | FibQuant：用于随机访问 KV 缓存压缩的通用矢量量化 | [link](https://arxiv.org/abs/2605.11478) |
+| 2026-05-12 | bio_inspired | 0 | 一族数值函数优化的四元值差分进化算法 | [link](https://arxiv.org/abs/2605.12362) |
+| 2026-05-12 | bio_inspired | 0 | 基于图的优化：Rao-Family 元启发式、经典 OR 和 SLM 驱动的知识图公式 | [link](https://arxiv.org/abs/2605.12204) |
+| 2026-05-11 | complexity | 0 | 关于随机量子电路的副本张量网络的讲义 | [link](https://arxiv.org/abs/2605.11150) |
+| 2026-05-11 | complexity | 0 | 线性联想记忆中的事实回忆：敏锐的渐近论和机械见解 | [link](https://arxiv.org/abs/2605.10795) |
+| 2026-05-11 | complexity | 0 | 无标度网络上具有缓解功能的易感-感染-易感模型 | [link](https://arxiv.org/abs/2605.10644) |
+| 2026-05-11 | complexity | 0 | 通过生成吉布斯采样用明确的物理上下文组合扩散先验 | [link](https://arxiv.org/abs/2605.10642) |
+| 2026-05-11 | complexity | 0 | 非马尔可夫高斯随机过程的扩散方程 | [link](https://arxiv.org/abs/2605.10561) |
+| 2026-05-11 | complexity | 0 | 泵浦尺寸对非马尔可夫体系中激子极化玻色-爱因斯坦凝聚态图案形成的影响 | [link](https://arxiv.org/abs/2605.10472) |
+| 2026-05-11 | network | 0 | 高维意识形态空间中的网络规范信念更新 | [link](https://arxiv.org/abs/2605.10726) |
+| 2026-05-11 | info_theory | 0 | 通过最大熵似然合成进行精度有界估计的传感器设计 | [link](https://arxiv.org/abs/2605.11120) |
+| 2026-05-11 | info_theory | 0 | 通过约束最小熵耦合进行跨域有损压缩 | [link](https://arxiv.org/abs/2605.09833) |
+| 2026-05-11 | bio_inspired | 0 | 分解 LoRA 架构的演化混合：路由杠杆、生命周期惩罚和底层条件边界 | [link](https://arxiv.org/abs/2605.11153) |
+| 2026-05-10 | info_theory | 0 | 熵信息解码：自适应信息驱动分支 | [link](https://arxiv.org/abs/2605.09745) |
+| 2026-05-10 | info_theory | 0 | 主要化格上的 Rényi 熵的几何 | [link](https://arxiv.org/abs/2605.09655) |
+| 2026-05-10 | bio_inspired | 0 | LEVI：更强大的搜索架构可以替代进化搜索中更大的法学硕士 | [link](https://arxiv.org/abs/2605.09764) |
+| 2026-05-09 | network | 0 | 便利设施网络揭示了全球城市普遍的同质性和异质性 | [link](https://arxiv.org/abs/2605.08622) |
+| 2026-05-09 | bio_inspired | 0 | 代理的进化集合 | [link](https://arxiv.org/abs/2605.09018) |
+| 2026-05-09 | bio_inspired | 0 | 漏极涡流优化：受多漏极自由涡流启发的基于群体的元启发式算法 | [link](https://arxiv.org/abs/2605.08883) |
+| 2026-05-08 | info_theory | 0 | 当扩散模型可以忽略维度时：基于熵的理论 | [link](https://arxiv.org/abs/2605.07969) |
+| 2026-05-08 | bio_inspired | 0 | 通过参数重建对尖峰神经网络进行全局优化训练 | [link](https://arxiv.org/abs/2605.08022) |
+| 2026-05-06 | info_theory | 0 | 连续体上的唯一性：使用信息论量化音调歧义 | [link](https://arxiv.org/abs/2605.08224) |
+| 2026-04-27 | info_theory | 0 | 安全集成传感和通信：信息论提供见解 | [link](https://arxiv.org/abs/2605.08106) |
