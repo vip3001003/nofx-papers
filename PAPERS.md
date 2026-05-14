@@ -635,3 +635,33 @@
 | 2026-05-08 | bio_inspired | 0 | 通过参数重建对尖峰神经网络进行全局优化训练 | [link](https://arxiv.org/abs/2605.08022) |
 | 2026-05-06 | info_theory | 0 | 连续体上的唯一性：使用信息论量化音调歧义 | [link](https://arxiv.org/abs/2605.08224) |
 | 2026-04-27 | info_theory | 0 | 安全集成传感和通信：信息论提供见解 | [link](https://arxiv.org/abs/2605.08106) |
+| 2026-05-13 | complexity | 3 | 不连续吸收跃迁的亚稳态超均匀性 | [link](https://arxiv.org/abs/2605.13561) |
+| 2026-05-13 | complexity | 3 | 具有非对角噪声和切换环境的随机系统中信息干扰的出现 | [link](https://arxiv.org/abs/2605.13556) |
+| 2026-05-13 | complexity | 2 | 幽灵之光状态 | [link](https://arxiv.org/abs/2605.13584) |
+| 2026-05-13 | complexity | 2 | 一些 O(n) 对称模型中的相排序：缓慢增长、Mpemba 效应和实验相关性 | [link](https://arxiv.org/abs/2605.13564) |
+| 2026-05-13 | complexity | 2 | 尺寸相关表面张力的波动耗散框架 | [link](https://arxiv.org/abs/2605.13244) |
+| 2026-05-13 | complexity | 2 | 稀释 Baxter-Wu 模型中的交叉和普遍性突破 | [link](https://arxiv.org/abs/2605.13238) |
+| 2026-05-13 | complexity | 2 | Floquet 拓扑绝缘体中的量子传输 | [link](https://arxiv.org/abs/2605.13066) |
+| 2026-05-13 | bio_inspired | 2 | TRUST-TAEA：一种可信度引导的双档案进化算法，具有用于大规模多目标优化的变量分组稀疏搜索 | [link](https://arxiv.org/abs/2605.13324) |
+| 2026-05-12 | complexity | 2 | 受监控量子位的纯化：精确路径积分解决方案 | [link](https://arxiv.org/abs/2605.12783) |
+| 2026-05-12 | bio_inspired | 2 | ToolMol：多目标药物发现的进化代理框架 | [link](https://arxiv.org/abs/2605.12784) |
+| 2026-05-13 | complexity | 1 | 平衡应力波动的非线性动态弹性模量 | [link](https://arxiv.org/abs/2605.13703) |
+| 2026-05-13 | complexity | 1 | 二维方井流体的热力学几何 | [link](https://arxiv.org/abs/2605.13626) |
+| 2026-05-13 | bio_inspired | 1 | 基因合成算法：异质基因型和组装表型的类型因子协同进化优化 | [link](https://arxiv.org/abs/2605.13365) |
+| 2026-05-12 | complexity | 1 | 扩散模型中的临界减速 | [link](https://arxiv.org/abs/2605.12597) |
+| 2026-05-13 | complexity | 0 | 热力学中浆果相诱导的手性 | [link](https://arxiv.org/abs/2605.13685) |
+| 2026-05-13 | complexity | 0 | 来自规范约束的 Lieb-Schultz-Mattis 定理 | [link](https://arxiv.org/abs/2605.13606) |
+| 2026-05-13 | complexity | 0 | 超越解释的方差：PCA 的警示故事 | [link](https://arxiv.org/abs/2605.13520) |
+| 2026-05-13 | complexity | 0 | 量化沿随机轨迹的信息流 | [link](https://arxiv.org/abs/2605.13509) |
+| 2026-05-13 | complexity | 0 | 重温各向同性极性流体的瑞利分子光散射理论 | [link](https://arxiv.org/abs/2605.13495) |
+| 2026-05-13 | complexity | 0 | 早期胚胎发育时序的双曲线细胞周期定律 | [link](https://arxiv.org/abs/2605.13234) |
+| 2026-05-13 | complexity | 0 | 随机微积分推理和最优路径中的矩阵噪声雅可比行列式 | [link](https://arxiv.org/abs/2605.12972) |
+| 2026-05-13 | complexity | 0 | 双二次耦合和海森堡耦合对磁隧道结分子自旋电子器件的竞争效应 | [link](https://arxiv.org/abs/2605.12885) |
+| 2026-05-13 | complexity | 0 | PACSim：聚合物衰减库仑自组装的灵活仿真框架 | [link](https://arxiv.org/abs/2605.12870) |
+| 2026-05-13 | complexity | 0 | 由于有效的主动扩散，受限活性 Janus 胶体的壁积聚 | [link](https://arxiv.org/abs/2605.12860) |
+| 2026-05-13 | complexity | 0 | 比特币 UTXO 中玻色子财富统计的实证确认 | [link](https://arxiv.org/abs/2605.12853) |
+| 2026-05-13 | info_theory | 0 | 电磁信号与信息理论：连续孔径阵列视角 | [link](https://arxiv.org/abs/2605.12910) |
+| 2026-05-12 | complexity | 0 | 广义概率论中的信息热力学 | [link](https://arxiv.org/abs/2605.12331) |
+| 2026-05-12 | network | 0 | 树形拓扑网络的最佳激励和测量模式 | [link](https://arxiv.org/abs/2605.12829) |
+| 2026-05-12 | network | 0 | 流行病模型中网络结构与相关感染特征的相互作用 | [link](https://arxiv.org/abs/2605.12773) |
+| 2026-05-03 | info_theory | 0 | 信息作为最大口径偏差：综合信息论和自由能原理之间的桥梁 | [link](https://arxiv.org/abs/2605.12536) |
