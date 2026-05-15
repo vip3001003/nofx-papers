@@ -665,3 +665,19 @@
 | 2026-05-12 | network | 0 | 树形拓扑网络的最佳激励和测量模式 | [link](https://arxiv.org/abs/2605.12829) |
 | 2026-05-12 | network | 0 | 流行病模型中网络结构与相关感染特征的相互作用 | [link](https://arxiv.org/abs/2605.12773) |
 | 2026-05-03 | info_theory | 0 | 信息作为最大口径偏差：综合信息论和自由能原理之间的桥梁 | [link](https://arxiv.org/abs/2605.12536) |
+| 2026-05-13 | complexity | 4 | 对称二元混合物中动力学停滞、热力学不稳定性和能量尺度竞争的干扰 | [link](https://arxiv.org/abs/2605.14064) |
+| 2026-05-14 | network | 3 | 振荡器网络中对抗性同步控制的分析基础 | [link](https://arxiv.org/abs/2605.14492) |
+| 2026-05-14 | bio_inspired | 3 | 多值决策变量的多目标进化算法的首次数学运行时分析 | [link](https://arxiv.org/abs/2605.14836) |
+| 2026-05-14 | complexity | 2 | 用于深度信息传播的自发对称破缺和戈德斯通模式 | [link](https://arxiv.org/abs/2605.14685) |
+| 2026-05-13 | complexity | 2 | 高维角电荷波动 | [link](https://arxiv.org/abs/2605.13971) |
+| 2026-05-05 | bio_inspired | 2 | 印度婚礼系统优化 (IWSO)：一种新颖的受社会启发的元启发式操作设计和分析 | [link](https://arxiv.org/abs/2605.13871) |
+| 2026-05-14 | complexity | 1 | 维度约束下的混合态长程纠缠 | [link](https://arxiv.org/abs/2605.15201) |
+| 2026-05-14 | complexity | 1 | 淬火随机介质中的 FKPP 前沿 | [link](https://arxiv.org/abs/2605.14914) |
+| 2026-05-14 | complexity | 1 | 有限点集的类 Lévy 飞行和分形几何 | [link](https://arxiv.org/abs/2605.14861) |
+| 2026-05-14 | complexity | 1 | 玻色子路径积分分子动力学中的广义 Suzuki-Chin 分解 | [link](https://arxiv.org/abs/2605.14687) |
+| 2026-05-14 | complexity | 1 | 连续状态空间变量的矩阵积置信传播 | [link](https://arxiv.org/abs/2605.14522) |
+| 2026-05-14 | info_theory | 1 | 多模态回归主动学习的互信息下界 | [link](https://arxiv.org/abs/2605.14917) |
+| 2026-05-13 | complexity | 1 | 平均场 $φ^4$ 模型中临界性的微正则方法：热力学极限之前内在微正则结构的证据 | [link](https://arxiv.org/abs/2605.14198) |
+| 2026-05-14 | complexity | 0 | 通过复合广义量子斯坦因引理的通用量子资源蒸馏 | [link](https://arxiv.org/abs/2605.15174) |
+| 2026-05-14 | bio_inspired | 0 | 组合优化中比较神经求解器和启发式求解器的摊余效率阈值 | [link](https://arxiv.org/abs/2605.14624) |
+| 2026-05-14 | bio_inspired | 0 | 达尔文家族：MRI 信任加权进化合并，用于语言模型推理的免训练扩展 | [link](https://arxiv.org/abs/2605.14386) |
