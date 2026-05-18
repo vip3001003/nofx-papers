@@ -681,3 +681,35 @@
 | 2026-05-14 | complexity | 0 | 通过复合广义量子斯坦因引理的通用量子资源蒸馏 | [link](https://arxiv.org/abs/2605.15174) |
 | 2026-05-14 | bio_inspired | 0 | 组合优化中比较神经求解器和启发式求解器的摊余效率阈值 | [link](https://arxiv.org/abs/2605.14624) |
 | 2026-05-14 | bio_inspired | 0 | 达尔文家族：MRI 信任加权进化合并，用于语言模型推理的免训练扩展 | [link](https://arxiv.org/abs/2605.14386) |
+| 2026-05-15 | complexity | 5 | 经典立方二聚体模型中的短时临界动力学 | [link](https://arxiv.org/abs/2605.15730) |
+| 2026-05-15 | complexity | 4 | 测量中的玻恩规则统计动态量子相变 | [link](https://arxiv.org/abs/2605.16029) |
+| 2026-05-14 | complexity | 4 | 无序系统中的强普遍性类 | [link](https://arxiv.org/abs/2605.15441) |
+| 2026-05-15 | volume | 3 | 隐私补贴：噪声扰动订单流观察下凯尔的 $λ$ | [link](https://arxiv.org/abs/2605.15746) |
+| 2026-05-15 | complexity | 3 | 韦格纳 $\mathbb{Z}_2$ 规范模型的临界淬火动力学：几何视角 | [link](https://arxiv.org/abs/2605.15841) |
+| 2026-05-15 | complexity | 3 | 稳态亚亮度的动态方面：详细的平衡及其分解 | [link](https://arxiv.org/abs/2605.15785) |
+| 2026-05-15 | complexity | 2 | 布朗运动：平衡轨迹中的非平衡状态——从准备好的位移测量中恢复流体动力学状态 | [link](https://arxiv.org/abs/2605.16247) |
+| 2026-05-15 | complexity | 2 | 使用铅的相图预测对经验和机器学习的原子间势进行基准测试 | [link](https://arxiv.org/abs/2605.16018) |
+| 2026-05-15 | complexity | 2 | 热力学网络：利用非平衡稳态进行计算 | [link](https://arxiv.org/abs/2605.15985) |
+| 2026-05-15 | complexity | 2 | 循环亲和力和缠绕定位马尔可夫发生器的特征值 | [link](https://arxiv.org/abs/2605.15884) |
+| 2026-05-15 | complexity | 2 | 耦合通道的热力学不变量：多通道托尔曼-埃伦菲斯特效应 | [link](https://arxiv.org/abs/2605.15653) |
+| 2026-05-15 | info_theory | 2 | 打破熵耦合中的有限样本障碍 | [link](https://arxiv.org/abs/2605.16229) |
+| 2026-05-15 | complexity | 1 | 液体布朗动力学的分形维数 | [link](https://arxiv.org/abs/2605.16252) |
+| 2026-05-15 | complexity | 1 | 搅动的振荡器链 | [link](https://arxiv.org/abs/2605.16209) |
+| 2026-05-15 | complexity | 1 | 超越麦克斯韦-玻尔兹曼：准平衡等离子体中的输运 | [link](https://arxiv.org/abs/2605.16149) |
+| 2026-05-15 | complexity | 1 | 重新加权通用机器学习原子间势之间的自由能分布以快速建立共识 | [link](https://arxiv.org/abs/2605.15630) |
+| 2026-05-15 | network | 1 | 基于事件的时空网络，用于对复杂系统中的突发现象进行建模 | [link](https://arxiv.org/abs/2605.15798) |
+| 2026-05-14 | complexity | 1 | 通过弹热效应揭示磁挫败 | [link](https://arxiv.org/abs/2605.15274) |
+| 2026-05-15 | complexity | 0 | 我们没有观察到薛定谔的猫的原因 | [link](https://arxiv.org/abs/2605.16148) |
+| 2026-05-15 | complexity | 0 | 一维冷气体中惊人的多米诺骨牌式爆炸锋运动 | [link](https://arxiv.org/abs/2605.16125) |
+| 2026-05-15 | complexity | 0 | BCFT 中的边界异常维度：具有边界和高阶导数概括的 $φ^{3}$ 理论 | [link](https://arxiv.org/abs/2605.16119) |
+| 2026-05-15 | complexity | 0 | 有限温度下谐波捕获 Tonks--Girardeau 气体的 Tan 接触的大 $N$ 缩放 | [link](https://arxiv.org/abs/2605.15994) |
+| 2026-05-15 | complexity | 0 | 经典输运方程的量子力学 | [link](https://arxiv.org/abs/2605.15969) |
+| 2026-05-15 | complexity | 0 | 有效场论的反常输运 | [link](https://arxiv.org/abs/2605.15968) |
+| 2026-05-15 | complexity | 0 | 用于各种拓扑和相互作用范围的 Bak--Tang--Wiesenfeld 模型 | [link](https://arxiv.org/abs/2605.15930) |
+| 2026-05-15 | complexity | 0 | 圆柱体上的有向阿贝尔沙堆模型 | [link](https://arxiv.org/abs/2605.15914) |
+| 2026-05-15 | complexity | 0 | 来自质量守恒反应扩散系统的主动模型 B$^-$ | [link](https://arxiv.org/abs/2605.15903) |
+| 2026-05-15 | complexity | 0 | 基于识别成本的有限状态吉布斯构造 | [link](https://arxiv.org/abs/2605.15667) |
+| 2026-05-15 | network | 0 | 使用大型语言模型大规模重建时间多关系企业网络。半导体行业案例 | [link](https://arxiv.org/abs/2605.15842) |
+| 2026-05-15 | info_theory | 0 | Entropy Across the Bridge: Conditional-Marginal Discretization for Flow and Schrödinger Samplers | [link](https://arxiv.org/abs/2605.16126) |
+| 2026-05-15 | info_theory | 0 | PrismQuant：高斯混合源的率失真最优矢量量化 | [link](https://arxiv.org/abs/2605.15507) |
+| 2026-05-14 | complexity | 0 | 强无序下电导波动的多重分形和遍历性质 | [link](https://arxiv.org/abs/2605.15447) |
