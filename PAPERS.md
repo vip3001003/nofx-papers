@@ -713,3 +713,48 @@
 | 2026-05-15 | info_theory | 0 | Entropy Across the Bridge: Conditional-Marginal Discretization for Flow and Schrödinger Samplers | [link](https://arxiv.org/abs/2605.16126) |
 | 2026-05-15 | info_theory | 0 | PrismQuant：高斯混合源的率失真最优矢量量化 | [link](https://arxiv.org/abs/2605.15507) |
 | 2026-05-14 | complexity | 0 | 强无序下电导波动的多重分形和遍历性质 | [link](https://arxiv.org/abs/2605.15447) |
+| 2026-05-18 | complexity | 4 | 二维能量加权站点渗透 | [link](https://arxiv.org/abs/2605.18312) |
+| 2026-05-17 | ml | 4 | 全球股票市场多元化投资组合管理的深度强化学习框架 | [link](https://arxiv.org/abs/2605.17307) |
+| 2026-05-16 | regime | 4 | 用于金融制度检测的几何可观测量 | [link](https://arxiv.org/abs/2605.17117) |
+| 2026-05-18 | complexity | 3 | 吸收态相变中的通用界面波动 | [link](https://arxiv.org/abs/2605.17781) |
+| 2026-05-18 | complexity | 3 | 具有时空漂移的随机游走的极限定理 | [link](https://arxiv.org/abs/2605.17725) |
+| 2026-05-17 | risk | 3 | D-Wave 混合投资组合优化中的量子所在 | [link](https://arxiv.org/abs/2605.17623) |
+| 2026-05-17 | bio_inspired | 3 | 适应性治疗中肿瘤细胞异质性和可塑性的建模 | [link](https://arxiv.org/abs/2605.17208) |
+| 2026-05-15 | bio_inspired | 3 | 多目标二值优化并行算法组合的通用协同进化构建 | [link](https://arxiv.org/abs/2605.15729) |
+| 2026-05-18 | complexity | 2 | 深度神经网络中的逐点泛化 | [link](https://arxiv.org/abs/2605.18598) |
+| 2026-05-18 | complexity | 2 | 经典单组分等离子体中量子粒子的局域化。波动引起的随机势和库仑对数 | [link](https://arxiv.org/abs/2605.18187) |
+| 2026-05-18 | complexity | 2 | 用于四螺旋颠覆性创新推荐系统的参数化 4 量子位 EWL 量子博弈电路与 Dirac-Solow-Swan 哈密顿积分 | [link](https://arxiv.org/abs/2605.18080) |
+| 2026-05-18 | bio_inspired | 2 | 绘制健身景观：结构引导的多模态优化方法 | [link](https://arxiv.org/abs/2605.18351) |
+| 2026-05-17 | risk | 2 | 用于直接量子退火器组合优化的无惩罚管道 | [link](https://arxiv.org/abs/2605.17628) |
+| 2026-05-17 | complexity | 2 | 锂离子电池退化的因果异常检测 | [link](https://arxiv.org/abs/2605.17334) |
+| 2026-05-18 | complexity | 1 | 具有莫特物理和任意电荷密度的三角晶格上的电荷顺序 | [link](https://arxiv.org/abs/2605.18575) |
+| 2026-05-18 | complexity | 1 | 分子系统中的有序、相关函数和相变 | [link](https://arxiv.org/abs/2605.18326) |
+| 2026-05-18 | complexity | 1 | 基于介观组合配分函数的自由能微扰理论 | [link](https://arxiv.org/abs/2605.18121) |
+| 2026-05-18 | complexity | 1 | 相关性指数衰减的熵可加性：粗粒度算子方法 | [link](https://arxiv.org/abs/2605.17956) |
+| 2026-05-18 | complexity | 1 | 全局重置和紧急相关性：在一个区间内退出统计 | [link](https://arxiv.org/abs/2605.17906) |
+| 2026-05-18 | complexity | 1 | 具有速度相关恢复的剪切颗粒气体中的姆彭巴效应 | [link](https://arxiv.org/abs/2605.17881) |
+| 2026-05-18 | complexity | 1 | 代数特殊频率附近克尔拟正规模式中的跳极、避免交叉和谐振激励 | [link](https://arxiv.org/abs/2605.17840) |
+| 2026-05-18 | bio_inspired | 1 | 当萤火虫聚集；通过质心引导的 Firefly 优化增强自动聚类 | [link](https://arxiv.org/abs/2605.18460) |
+| 2026-05-17 | complexity | 1 | 变分边界涨落作为朗之万噪声的第一原理起源 | [link](https://arxiv.org/abs/2605.17621) |
+| 2026-05-17 | complexity | 1 | 量子纠错码的最大似然解码 | [link](https://arxiv.org/abs/2605.17230) |
+| 2026-05-16 | complexity | 1 | XYZ门边界驱动电路的精确非平衡稳态 | [link](https://arxiv.org/abs/2605.17018) |
+| 2026-05-18 | complexity | 0 | 经典单组分等离子体中量子粒子的局域化。III．库仑无序介质中的相互相干性和相干性退化 | [link](https://arxiv.org/abs/2605.18559) |
+| 2026-05-18 | complexity | 0 | 公共领域的物理：大学扩建作为整合物理教育和科学传播的策略 | [link](https://arxiv.org/abs/2605.18384) |
+| 2026-05-18 | complexity | 0 | 在具有刚度梯度的表面上移动的聚合物液滴的聚结 | [link](https://arxiv.org/abs/2605.18279) |
+| 2026-05-18 | complexity | 0 | 经典单组分等离子体中量子粒子的局域化。二.动态无序和时间去相关 | [link](https://arxiv.org/abs/2605.18196) |
+| 2026-05-18 | complexity | 0 | KdV 孤子气体中的孤子 | [link](https://arxiv.org/abs/2605.18093) |
+| 2026-05-18 | complexity | 0 | 开放系统中操作员的量子 Mpemba 效应 | [link](https://arxiv.org/abs/2605.17908) |
+| 2026-05-18 | complexity | 0 | 有限亲和力下稳态电流波动的网络分析：在布朗计算中的应用 | [link](https://arxiv.org/abs/2605.17838) |
+| 2026-05-18 | network | 0 | 高阶网络的嵌套 | [link](https://arxiv.org/abs/2605.18420) |
+| 2026-05-18 | network | 0 | Hypergraphx-data：高阶网络数据的存储库 | [link](https://arxiv.org/abs/2605.18166) |
+| 2026-05-18 | info_theory | 0 | Sharma-Mittal 熵在大化格子上是次加性和超模的 | [link](https://arxiv.org/abs/2605.18600) |
+| 2026-05-18 | bio_inspired | 0 | Spiker-LL：一种节能 FPGA 加速器，可在尖峰神经网络中实现自适应局部学习 | [link](https://arxiv.org/abs/2605.18003) |
+| 2026-05-18 | bio_inspired | 0 | 二元空间安全优化的自适应随机自然梯度法 | [link](https://arxiv.org/abs/2605.17925) |
+| 2026-05-17 | complexity | 0 | 可变熔化焓的熔线理论 | [link](https://arxiv.org/abs/2605.17631) |
+| 2026-05-17 | complexity | 0 | 从素数的上同调结构中得出的迭代映射 | [link](https://arxiv.org/abs/2605.17622) |
+| 2026-05-17 | complexity | 0 | 具有多自旋相互作用的广义三链伊辛管的精确解和配对相关函数 | [link](https://arxiv.org/abs/2605.17600) |
+| 2026-05-17 | complexity | 0 | 自我修正法学硕士社团中规模依赖的集体适应：紧急治理的跨家庭研究 | [link](https://arxiv.org/abs/2605.17510) |
+| 2026-05-17 | complexity | 0 | 固定电位条件下电解质中极化、电荷密度和电场的全局空间相关性 | [link](https://arxiv.org/abs/2605.17346) |
+| 2026-05-16 | complexity | 0 | 平均熵产生的路径极值上限 | [link](https://arxiv.org/abs/2605.17074) |
+| 2026-05-16 | bio_inspired | 0 | 使用 Manta Ray 优化和 Levy Flight 进行晶体结构预测的从头算能量景观的进化极限学习机 | [link](https://arxiv.org/abs/2605.17148) |
+| 2026-05-15 | info_theory | 0 | 隐蔽多位 LLM 水印：一种信息论和编码方法 | [link](https://arxiv.org/abs/2605.16709) |
