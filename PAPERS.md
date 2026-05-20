@@ -758,3 +758,37 @@
 | 2026-05-16 | complexity | 0 | 平均熵产生的路径极值上限 | [link](https://arxiv.org/abs/2605.17074) |
 | 2026-05-16 | bio_inspired | 0 | 使用 Manta Ray 优化和 Levy Flight 进行晶体结构预测的从头算能量景观的进化极限学习机 | [link](https://arxiv.org/abs/2605.17148) |
 | 2026-05-15 | info_theory | 0 | 隐蔽多位 LLM 水印：一种信息论和编码方法 | [link](https://arxiv.org/abs/2605.16709) |
+| 2026-05-19 | complexity | 4 | 扩散扩散率在具有重新分布的随机增长中选择帕累托尾部指数 | [link](https://arxiv.org/abs/2605.19464) |
+| 2026-05-18 | complexity | 4 | 核量子效应对其液-液临界点附近过冷水结构的重要性 | [link](https://arxiv.org/abs/2605.19175) |
+| 2026-05-19 | complexity | 3 | 二维矩阵乘积 Ansatz | [link](https://arxiv.org/abs/2605.20160) |
+| 2026-05-19 | complexity | 3 | 通过蒙特卡罗采样莱曼表示的相互作用可积模型的非平衡量子动力​​学 | [link](https://arxiv.org/abs/2605.20065) |
+| 2026-05-18 | complexity | 3 | 量子临界海森堡模型的解除边界相变 | [link](https://arxiv.org/abs/2605.19011) |
+| 2026-05-18 | bio_inspired | 3 | 目标：用于动态多目标优化的基于图的目标对齐扩散求解器 | [link](https://arxiv.org/abs/2605.19119) |
+| 2026-05-15 | bio_inspired | 3 | MO-CAPO：多目标成本感知提示优化 | [link](https://arxiv.org/abs/2605.18869) |
+| 2026-05-19 | complexity | 2 | 双量子点系统中的随机轨迹和偏移 | [link](https://arxiv.org/abs/2605.20166) |
+| 2026-05-19 | complexity | 2 | 持续随机游走中的扩散到弹道转变 | [link](https://arxiv.org/abs/2605.20116) |
+| 2026-05-19 | complexity | 2 | PXP 模型中从相干磁振子到能量超扩散的有限温度交叉 | [link](https://arxiv.org/abs/2605.19281) |
+| 2026-05-19 | bio_inspired | 2 | 网络入侵检测中特征选择的多群体多样性引导遗传算法 | [link](https://arxiv.org/abs/2605.19864) |
+| 2026-05-18 | complexity | 2 | 带状非厄米随机矩阵、神经网络和特征值简并 | [link](https://arxiv.org/abs/2605.19072) |
+| 2026-05-18 | complexity | 2 | 交通流确定性一维元胞自动机模型中的首次通过过程 | [link](https://arxiv.org/abs/2605.19023) |
+| 2026-05-18 | complexity | 2 | 算子置乱引起的噪声引起的可仿真性转变 | [link](https://arxiv.org/abs/2605.18943) |
+| 2026-05-19 | bio_inspired | 1 | 使用最佳双贝叶斯学习训练神经网络 | [link](https://arxiv.org/abs/2605.20009) |
+| 2026-05-18 | complexity | 1 | 将粒子插入活性流体中的工作 | [link](https://arxiv.org/abs/2605.19026) |
+| 2026-05-16 | info_theory | 1 | 极值堆栈是速率无关泛函的最小充分统计量：柯尔莫哥洛夫复杂度表征 | [link](https://arxiv.org/abs/2605.18885) |
+| 2026-05-13 | info_theory | 1 | SPHERICAL KV：角度域注意力和率失真保留，实现高效的长上下文推理 | [link](https://arxiv.org/abs/2605.18856) |
+| 2026-05-19 | complexity | 0 | 二维 XY 模型中的有限温度自旋扩散 | [link](https://arxiv.org/abs/2605.20124) |
+| 2026-05-19 | complexity | 0 | 受抑晶格上 Ising 模型的基态熵 | [link](https://arxiv.org/abs/2605.19831) |
+| 2026-05-19 | complexity | 0 | 碎片非厄米系统中希尔伯特空间完整性的填充敏感谱复杂性 | [link](https://arxiv.org/abs/2605.19740) |
+| 2026-05-19 | complexity | 0 | 耗散半经典动力学的量子有效作用 | [link](https://arxiv.org/abs/2605.19643) |
+| 2026-05-19 | complexity | 0 | 荷斯坦模型中不存在局部守恒量的证明 | [link](https://arxiv.org/abs/2605.19606) |
+| 2026-05-19 | complexity | 0 | 通过介电谱跟踪颗粒材料中耦合的颗粒温度和熵动力学 | [link](https://arxiv.org/abs/2605.19560) |
+| 2026-05-19 | complexity | 0 | 秩亏参数化下离散化引起的传输信息成本的正交分解 | [link](https://arxiv.org/abs/2605.19505) |
+| 2026-05-19 | complexity | 0 | 经典流体动力学的普朗克耗散 | [link](https://arxiv.org/abs/2605.19450) |
+| 2026-05-19 | info_theory | 0 | 通过率失真理论对 BMS 通道进行随机追踪解码 | [link](https://arxiv.org/abs/2605.20129) |
+| 2026-05-19 | bio_inspired | 0 | 进化编码代理会进化什么？ | [link](https://arxiv.org/abs/2605.20086) |
+| 2026-05-19 | bio_inspired | 0 | Optimize_anything：用于优化任何文本参数的通用 API | [link](https://arxiv.org/abs/2605.19633) |
+| 2026-05-18 | complexity | 0 | 简单线性回归的热力学成本 | [link](https://arxiv.org/abs/2605.19195) |
+| 2026-05-18 | complexity | 0 | 受限玻尔兹曼机中高阶相互作用的激活函数、统计和学习 | [link](https://arxiv.org/abs/2605.19178) |
+| 2026-05-18 | complexity | 0 | 信息蓝图揭示了条件依赖性基因调控架构 | [link](https://arxiv.org/abs/2605.19071) |
+| 2026-05-18 | complexity | 0 | 随机量子态的非高斯性 | [link](https://arxiv.org/abs/2605.18986) |
+| 2026-05-18 | complexity | 0 | 无格子情况下布洛赫振荡的广义流体动力学 | [link](https://arxiv.org/abs/2605.18957) |
