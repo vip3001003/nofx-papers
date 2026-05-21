@@ -792,3 +792,19 @@
 | 2026-05-18 | complexity | 0 | 信息蓝图揭示了条件依赖性基因调控架构 | [link](https://arxiv.org/abs/2605.19071) |
 | 2026-05-18 | complexity | 0 | 随机量子态的非高斯性 | [link](https://arxiv.org/abs/2605.18986) |
 | 2026-05-18 | complexity | 0 | 无格子情况下布洛赫振荡的广义流体动力学 | [link](https://arxiv.org/abs/2605.18957) |
+| 2026-05-20 | bio_inspired | 6 | 使用安全多方计算和进化算法在时间约束下保护隐私的分布式优化 | [link](https://arxiv.org/abs/2605.20944) |
+| 2026-05-19 | complexity | 5 | 目标子句类型分布：随机可满足性问题的撬锁 | [link](https://arxiv.org/abs/2605.20328) |
+| 2026-05-20 | complexity | 3 | 玻尔兹曼加权晶格系综的随机矩阵谱 | [link](https://arxiv.org/abs/2605.21254) |
+| 2026-05-20 | complexity | 3 | 网络网络上三态舆论模型的均衡和动态 | [link](https://arxiv.org/abs/2605.20979) |
+| 2026-05-11 | network | 3 | 通过级联感知传播抑制进行基于网络的艾滋病毒预防干预措施 | [link](https://arxiv.org/abs/2605.20218) |
+| 2026-05-20 | complexity | 2 | 纳维-斯托克斯方程的物理完成 | [link](https://arxiv.org/abs/2605.21357) |
+| 2026-05-20 | complexity | 2 | 具有 $p$ 倍晶体场的 $q$ 状态时钟模型中的竞争各向异性和相变 | [link](https://arxiv.org/abs/2605.20990) |
+| 2026-05-19 | complexity | 2 | 锯齿自旋链中的速度塌陷和非共形螺旋相 | [link](https://arxiv.org/abs/2605.20343) |
+| 2026-05-20 | complexity | 0 | 生成模型中的记忆、收敛和泛化 | [link](https://arxiv.org/abs/2605.21402) |
+| 2026-05-20 | complexity | 0 | 在远程 QFT 中将 $A$ 与 $F$ 匹配 | [link](https://arxiv.org/abs/2605.21326) |
+| 2026-05-20 | complexity | 0 | 均质宇宙的热力学：德西特、博纳-梅尔文和静态爱因斯坦 | [link](https://arxiv.org/abs/2605.21047) |
+| 2026-05-20 | complexity | 0 | 聚合物中LAOS的微观非仿射变形理论 | [link](https://arxiv.org/abs/2605.21021) |
+| 2026-05-20 | complexity | 0 | 一维二价片状硬棒的热力学和结构行为：Wertheim 的一阶热力学微扰理论与精确结果 | [link](https://arxiv.org/abs/2605.21003) |
+| 2026-05-20 | complexity | 0 | 使用拓扑和几何描述符统一有序和无序物质的可塑性 | [link](https://arxiv.org/abs/2605.20847) |
+| 2026-05-20 | info_theory | 0 | 用于自然语言文本压缩的前向非对称数字系统编码 | [link](https://arxiv.org/abs/2605.20826) |
+| 2026-05-20 | bio_inspired | 0 | 混合整数优化进化策略的收敛性分析 | [link](https://arxiv.org/abs/2605.21000) |
