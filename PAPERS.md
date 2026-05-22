@@ -808,3 +808,20 @@
 | 2026-05-20 | complexity | 0 | 使用拓扑和几何描述符统一有序和无序物质的可塑性 | [link](https://arxiv.org/abs/2605.20847) |
 | 2026-05-20 | info_theory | 0 | 用于自然语言文本压缩的前向非对称数字系统编码 | [link](https://arxiv.org/abs/2605.20826) |
 | 2026-05-20 | bio_inspired | 0 | 混合整数优化进化策略的收敛性分析 | [link](https://arxiv.org/abs/2605.21000) |
+| 2026-05-21 | complexity | 4 | 后塌陷作为自动谱修剪 | [link](https://arxiv.org/abs/2605.22691) |
+| 2026-05-21 | complexity | 3 | 定向延伸范围渗滤 | [link](https://arxiv.org/abs/2605.22646) |
+| 2026-05-21 | bio_inspired | 3 | 异常检测中负选择算法的量子遗传优化 | [link](https://arxiv.org/abs/2605.22527) |
+| 2026-05-20 | bio_inspired | 3 | Dropout 普遍性：混沌边缘的缩放定律和最优调度 | [link](https://arxiv.org/abs/2605.21648) |
+| 2026-05-21 | complexity | 2 | 具有居里-魏斯相互作用的细胞液模型：特殊情况和分析结果 | [link](https://arxiv.org/abs/2605.22520) |
+| 2026-05-20 | complexity | 2 | MetaDNS：通过良好的元动力学增强离散神经采样器的探索 | [link](https://arxiv.org/abs/2605.21722) |
+| 2026-05-21 | complexity | 1 | 来自互信息的拓扑编码状态的长程不稳定 | [link](https://arxiv.org/abs/2605.22424) |
+| 2026-05-21 | complexity | 1 | 破坏细节平衡的聚合-碎片过程 | [link](https://arxiv.org/abs/2605.22383) |
+| 2026-05-21 | complexity | 1 | 金刚石分级晶格上位点渗流的别列津斯基-科斯特利茨-托利斯型转变 | [link](https://arxiv.org/abs/2605.22103) |
+| 2026-05-21 | complexity | 1 | 训练算法的热力学不可逆性 | [link](https://arxiv.org/abs/2605.21933) |
+| 2026-05-15 | info_theory | 1 | 时间网络上热扩散的条件熵 | [link](https://arxiv.org/abs/2605.21514) |
+| 2026-05-21 | complexity | 0 | 平行少数派博弈的旋转玻璃映射 | [link](https://arxiv.org/abs/2605.22764) |
+| 2026-05-21 | complexity | 0 | 受监控量子点接触的纠缠动力学 | [link](https://arxiv.org/abs/2605.22555) |
+| 2026-05-21 | complexity | 0 | 效用驱动的意见动态有界置信模型 | [link](https://arxiv.org/abs/2605.21844) |
+| 2026-05-21 | bio_inspired | 0 | 矢量策略优化：多样性训练改善测试时搜索 | [link](https://arxiv.org/abs/2605.22817) |
+| 2026-05-20 | complexity | 0 | 量子计量和传感从基础到应用的旅程：回顾 | [link](https://arxiv.org/abs/2605.21702) |
+| 2026-05-20 | complexity | 0 | 当我们谈论耗散量子混沌时我们在谈论什么 | [link](https://arxiv.org/abs/2605.21628) |
