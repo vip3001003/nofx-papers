@@ -825,3 +825,24 @@
 | 2026-05-21 | bio_inspired | 0 | 矢量策略优化：多样性训练改善测试时搜索 | [link](https://arxiv.org/abs/2605.22817) |
 | 2026-05-20 | complexity | 0 | 量子计量和传感从基础到应用的旅程：回顾 | [link](https://arxiv.org/abs/2605.21702) |
 | 2026-05-20 | complexity | 0 | 当我们谈论耗散量子混沌时我们在谈论什么 | [link](https://arxiv.org/abs/2605.21628) |
+| 2026-05-21 | complexity | 3 | 弱波湍流是均匀玻色气体中普遍粗化的前兆 | [link](https://arxiv.org/abs/2605.22906) |
+| 2026-05-22 | complexity | 2 | 类似于算子增长的量子淬灭 | [link](https://arxiv.org/abs/2605.23874) |
+| 2026-05-22 | complexity | 2 | 多场返回点记忆 | [link](https://arxiv.org/abs/2605.23781) |
+| 2026-05-22 | complexity | 2 | 时滞可塑性驱动的网络吸引子 | [link](https://arxiv.org/abs/2605.23520) |
+| 2026-05-22 | complexity | 2 | 多自旋相互作用广义规范不变伊辛链的精确解 | [link](https://arxiv.org/abs/2605.23228) |
+| 2026-05-22 | network | 2 | 高阶网络随机过程的超边近似 | [link](https://arxiv.org/abs/2605.23444) |
+| 2026-05-21 | complexity | 2 | 有损腔中开耦合顶迪克模型中的同步混沌和耗散量子疤痕 | [link](https://arxiv.org/abs/2605.22953) |
+| 2026-05-22 | complexity | 1 | 通过受干扰保护的子空间实现混沌自旋链的相干动力学 | [link](https://arxiv.org/abs/2605.23873) |
+| 2026-05-22 | complexity | 1 | 螺旋景观上布朗运动的手性敏感迁移率和耗散 | [link](https://arxiv.org/abs/2605.23803) |
+| 2026-05-22 | complexity | 1 | 薄液膜上的可取向表面活性剂：动态密度泛函理论方法 | [link](https://arxiv.org/abs/2605.23789) |
+| 2026-05-22 | complexity | 1 | $\mathrm{A}_n \mathrm{B}_n$ 星形聚合物熔体中的有序-无序三临界性 | [link](https://arxiv.org/abs/2605.23758) |
+| 2026-05-22 | complexity | 1 | 非晶 Re6Zr 薄膜中表现出逆熔化的涡旋状态相图 | [link](https://arxiv.org/abs/2605.23567) |
+| 2026-05-22 | complexity | 1 | 具有相配约束的微规范图集成的强化学习 | [link](https://arxiv.org/abs/2605.23285) |
+| 2026-05-21 | complexity | 1 | 马尔可夫随机游走的涌现重尾分布 | [link](https://arxiv.org/abs/2605.22933) |
+| 2026-05-22 | complexity | 0 | 来自函数重正化群和直接数值模拟的 Kuramoto-Sivashinsky 方程中的无粘标度 | [link](https://arxiv.org/abs/2605.23364) |
+| 2026-05-22 | network | 0 | 揭示交通网络的自然模型：考虑仿生框架 | [link](https://arxiv.org/abs/2605.23766) |
+| 2026-05-22 | info_theory | 0 | 熵等价测试 | [link](https://arxiv.org/abs/2605.23225) |
+| 2026-05-21 | complexity | 0 | 奥布里-安德烈-哈珀转变过程中耗散的相依赖作用 | [link](https://arxiv.org/abs/2605.22966) |
+| 2026-05-21 | complexity | 0 | 量子多体动力学中纠缠促进的宏观团簇形成 | [link](https://arxiv.org/abs/2605.22947) |
+| 2026-05-21 | complexity | 0 | 在光子量子模拟器上观察联想记忆检索和自旋玻璃相 | [link](https://arxiv.org/abs/2605.22922) |
+| 2026-05-21 | complexity | 0 | 具有显式波函数的退相干下的量子费希尔信息 | [link](https://arxiv.org/abs/2605.22917) |
