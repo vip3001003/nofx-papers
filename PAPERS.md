@@ -846,3 +846,33 @@
 | 2026-05-21 | complexity | 0 | 量子多体动力学中纠缠促进的宏观团簇形成 | [link](https://arxiv.org/abs/2605.22947) |
 | 2026-05-21 | complexity | 0 | 在光子量子模拟器上观察联想记忆检索和自旋玻璃相 | [link](https://arxiv.org/abs/2605.22922) |
 | 2026-05-21 | complexity | 0 | 具有显式波函数的退相干下的量子费希尔信息 | [link](https://arxiv.org/abs/2605.22917) |
+| 2026-05-26 | complexity | 4 | 队列和人工智能：当更快的任务减慢工作流程时 | [link](https://arxiv.org/abs/2605.27202) |
+| 2026-05-27 | complexity | 3 | 关键异常点增强量子自旋挤压 | [link](https://arxiv.org/abs/2605.28126) |
+| 2026-05-26 | complexity | 3 | 高斯态中的长程变形 | [link](https://arxiv.org/abs/2605.26932) |
+| 2026-05-26 | complexity | 3 | 经典戈薇自旋液体的弱一级相变 | [link](https://arxiv.org/abs/2605.26779) |
+| 2026-05-25 | complexity | 3 | 使用 139 个量子位准备受挫量子自旋系统的热态 | [link](https://arxiv.org/abs/2605.26245) |
+| 2026-05-26 | complexity | 2 | 所有时间尺度的多体量子混沌 | [link](https://arxiv.org/abs/2605.27512) |
+| 2026-05-26 | complexity | 2 | 量子机电中的自主振荡：张量网络处理 | [link](https://arxiv.org/abs/2605.27326) |
+| 2026-05-26 | complexity | 2 | 悬浮随机电报噪声谱仪 | [link](https://arxiv.org/abs/2605.27118) |
+| 2026-05-27 | complexity | 1 | 重置热机：热膨胀和压缩的热力学循环 | [link](https://arxiv.org/abs/2605.28445) |
+| 2026-05-26 | complexity | 1 | 一种在不知道转移率或停留时间的情况下计算熵产生的方法 | [link](https://arxiv.org/abs/2605.27635) |
+| 2026-05-26 | complexity | 1 | 受监控自旋链中的无后选择弹道扩散转变 | [link](https://arxiv.org/abs/2605.27350) |
+| 2026-05-26 | complexity | 1 | 通过宏观涨落理论研究一维边界驱动扩散系统中的非平稳电流涨落 | [link](https://arxiv.org/abs/2605.27275) |
+| 2026-05-26 | complexity | 1 | 用于半定优化的玻色-爱因斯坦热算子 | [link](https://arxiv.org/abs/2605.27228) |
+| 2026-05-26 | complexity | 1 | 全连接自旋模型中的量子涨落和混沌 | [link](https://arxiv.org/abs/2605.27199) |
+| 2026-05-26 | complexity | 1 | 具有 Cattaneo 效应的次扩散方程 | [link](https://arxiv.org/abs/2605.27145) |
+| 2026-05-26 | complexity | 1 | 任意戴森指数 $β>0$ 具有随机重置的三对角矩阵值过程 | [link](https://arxiv.org/abs/2605.26945) |
+| 2026-05-26 | complexity | 1 | 非经典能量变化分布作为非马尔可夫量子动力学的见证 | [link](https://arxiv.org/abs/2605.26818) |
+| 2026-05-26 | complexity | 1 | 量子统计力学：规范不变性、算子平移、超密度泛函和非平衡和规则 | [link](https://arxiv.org/abs/2605.26650) |
+| 2026-05-25 | complexity | 1 | 抑制亚阈值 CMOS 电路中的非平衡热波动 | [link](https://arxiv.org/abs/2605.26267) |
+| 2026-05-27 | complexity | 0 | 通过 AI 驱动的 PULSE 方法估计配分函数来了解化学无序化合物的热力学性质 | [link](https://arxiv.org/abs/2605.28594) |
+| 2026-05-27 | complexity | 0 | 各种非厄米性状态下复杂椭圆 Ginibre 系综的耗散谱形状因子 | [link](https://arxiv.org/abs/2605.28319) |
+| 2026-05-27 | complexity | 0 | 两国系统中的障碍跨越：偏差和随机场的影响 | [link](https://arxiv.org/abs/2605.28196) |
+| 2026-05-27 | complexity | 0 | 随机轨迹中表观分形维数的有限尺寸占用缩放 | [link](https://arxiv.org/abs/2605.27925) |
+| 2026-05-27 | complexity | 0 | 混合状态流形上等级变化点附近的几何：Bures 度量、圆锥奇点和 Lindblad 动力学 | [link](https://arxiv.org/abs/2605.27907) |
+| 2026-05-26 | complexity | 0 | 约束辛量化 II：自由标量场 | [link](https://arxiv.org/abs/2605.26892) |
+| 2026-05-26 | complexity | 0 | 非厄米自由费米子的精确解：XY 链的案例研究 | [link](https://arxiv.org/abs/2605.26813) |
+| 2026-05-26 | complexity | 0 | 参数驱动的非线性格子的时空结构 | [link](https://arxiv.org/abs/2605.26668) |
+| 2026-05-26 | complexity | 0 | Nussinov 模型中 RNA 二级结构能量最小构型的超计量性 | [link](https://arxiv.org/abs/2605.26570) |
+| 2026-05-26 | complexity | 0 | 表示流的多尺度一致性 | [link](https://arxiv.org/abs/2605.26412) |
+| 2026-05-25 | complexity | 0 | 费米子非高斯性的实际测试和见证 | [link](https://arxiv.org/abs/2605.26218) |
