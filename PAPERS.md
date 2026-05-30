@@ -876,3 +876,16 @@
 | 2026-05-26 | complexity | 0 | Nussinov 模型中 RNA 二级结构能量最小构型的超计量性 | [link](https://arxiv.org/abs/2605.26570) |
 | 2026-05-26 | complexity | 0 | 表示流的多尺度一致性 | [link](https://arxiv.org/abs/2605.26412) |
 | 2026-05-25 | complexity | 0 | 费米子非高斯性的实际测试和见证 | [link](https://arxiv.org/abs/2605.26218) |
+| 2026-05-28 | bio_inspired | 4 | 从公司违约预测模型中提取进化规则 | [link](https://arxiv.org/abs/2605.29478) |
+| 2026-05-26 | bio_inspired | 2 | 进化数据理论：论数据问题与进化博弈之间的相似性 | [link](https://arxiv.org/abs/2605.26685) |
+| 2026-05-24 | bio_inspired | 2 | 培养机器智能：OMEGA 从自上而下优化到自创生认知生态的转变 | [link](https://arxiv.org/abs/2605.25062) |
+| 2026-05-28 | bio_inspired | 1 | 真正多值 OneMax 函数上的紧凑遗传算法的运行时分析 | [link](https://arxiv.org/abs/2605.29477) |
+| 2026-05-27 | bio_inspired | 1 | 现实世界物理优化中进化算法的性能和可解释性要求 | [link](https://arxiv.org/abs/2605.28164) |
+| 2026-05-27 | bio_inspired | 1 | 黑盒优化中景观表示的结构（非）一致性 | [link](https://arxiv.org/abs/2605.28121) |
+| 2026-05-25 | bio_inspired | 1 | 用于具有变化的目标数量的动态多目标优化的可扩展基准测试套件 | [link](https://arxiv.org/abs/2605.25785) |
+| 2026-05-24 | bio_inspired | 1 | 群体中的无政府状态：在 PSO 框架内测试知情和不知情的多样性增强机制 | [link](https://arxiv.org/abs/2605.25093) |
+| 2026-05-28 | bio_inspired | 0 | 选择超启发式可以自动调整学习周期以最优地解决伪布尔问题 | [link](https://arxiv.org/abs/2605.29916) |
+| 2026-05-28 | bio_inspired | 0 | EvoGM：学习通过进化生成优化合并法学硕士 | [link](https://arxiv.org/abs/2605.29295) |
+| 2026-05-28 | bio_inspired | 0 | 进化搜索中的计算分配：从深度-广度到多臂强盗 | [link](https://arxiv.org/abs/2605.29268) |
+| 2026-05-27 | bio_inspired | 0 | 学习评估随机优化中运行次数估计的可靠性 | [link](https://arxiv.org/abs/2605.28309) |
+| 2026-05-26 | bio_inspired | 0 | 为什么提示优化有效，以及为什么有时无效：因果启发的编辑级分析 | [link](https://arxiv.org/abs/2605.26655) |
