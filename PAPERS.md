@@ -889,3 +889,33 @@
 | 2026-05-28 | bio_inspired | 0 | 进化搜索中的计算分配：从深度-广度到多臂强盗 | [link](https://arxiv.org/abs/2605.29268) |
 | 2026-05-27 | bio_inspired | 0 | 学习评估随机优化中运行次数估计的可靠性 | [link](https://arxiv.org/abs/2605.28309) |
 | 2026-05-26 | bio_inspired | 0 | 为什么提示优化有效，以及为什么有时无效：因果启发的编辑级分析 | [link](https://arxiv.org/abs/2605.26655) |
+| 2026-05-30 | complexity | 5 | 在避免的量子临界点处的非平衡玻璃态停滞和不连续跃迁 | [link](https://arxiv.org/abs/2606.00580) |
+| 2026-06-01 | complexity | 3 | 关于热动力学和流体动力学 EFT 的博尔德讲座 | [link](https://arxiv.org/abs/2606.02391) |
+| 2026-05-29 | complexity | 3 | 复杂分区介质中多位点反应的优化 | [link](https://arxiv.org/abs/2605.31418) |
+| 2026-05-29 | complexity | 3 | 由全息术中的 Z2 和 U(1) 拓扑缺陷引发的相分离 | [link](https://arxiv.org/abs/2606.00163) |
+| 2026-06-01 | complexity | 2 | 有限内存扩散中的累积量动力学 | [link](https://arxiv.org/abs/2606.02446) |
+| 2026-06-01 | complexity | 2 | 移动流形的电磁场等效 | [link](https://arxiv.org/abs/2606.02187) |
+| 2026-06-01 | complexity | 2 | 布朗扩散系数可以从李亚普诺夫指数重建吗？ | [link](https://arxiv.org/abs/2606.01887) |
+| 2026-05-30 | complexity | 2 | 具有离散对称性的超对称量子临界性 | [link](https://arxiv.org/abs/2606.00657) |
+| 2026-05-29 | complexity | 2 | 反驱动流体混合物中阻力的非平衡缩放 | [link](https://arxiv.org/abs/2605.31479) |
+| 2026-05-29 | complexity | 2 | （不可）穿越的量子相变 | [link](https://arxiv.org/abs/2605.31472) |
+| 2026-05-29 | complexity | 2 | $q$-指数随机图：来自简单约束的高阶网络 | [link](https://arxiv.org/abs/2605.31209) |
+| 2026-06-01 | complexity | 1 | 强到弱自发对称性破缺 | [link](https://arxiv.org/abs/2606.02555) |
+| 2026-06-01 | complexity | 1 | 弱驱动过程中物理约束的线性最优协议 | [link](https://arxiv.org/abs/2606.01988) |
+| 2026-05-31 | complexity | 1 | 重温最长递增子序列问题 | [link](https://arxiv.org/abs/2606.01501) |
+| 2026-05-30 | complexity | 1 | Wasserstein-2 梯度流以及经典和量子随机热力学中熵产生的几何形状 | [link](https://arxiv.org/abs/2606.00698) |
+| 2026-05-29 | complexity | 1 | 全平面二态模糊 $4$-Potts 模型的多点函数 | [link](https://arxiv.org/abs/2605.31374) |
+| 2026-05-29 | complexity | 1 | 弱重力下导热流体的整体热力学 | [link](https://arxiv.org/abs/2605.31233) |
+| 2026-06-01 | complexity | 0 | 受挫的神经元：排斥相振荡器中的能量景观和松弛动力学 | [link](https://arxiv.org/abs/2606.02512) |
+| 2026-06-01 | complexity | 0 | 两个可区分或不可区分玻色子粒子的一维量子行走中的空间和粒子-粒子纠缠 | [link](https://arxiv.org/abs/2606.02505) |
+| 2026-06-01 | complexity | 0 | 通过力相关随机切断实现纤维网络中的应力松弛 | [link](https://arxiv.org/abs/2606.01752) |
+| 2026-06-01 | complexity | 0 | 系统-浴相互作用在非马尔可夫量子布朗奥托循环中的作用 | [link](https://arxiv.org/abs/2606.01750) |
+| 2026-06-01 | complexity | 0 | 时间无卷积模式耦合理论在捕获玻璃形成液体动力学中的意义 | [link](https://arxiv.org/abs/2606.01696) |
+| 2026-06-01 | complexity | 0 | 串联排除过程 | [link](https://arxiv.org/abs/2606.01568) |
+| 2026-05-30 | complexity | 0 | 使用两副本聚类算法和群体退火的二维 ANNNI 模型的高分辨率研究 | [link](https://arxiv.org/abs/2606.00882) |
+| 2026-05-30 | complexity | 0 | 失效前响应谱预测有限振幅脆性 | [link](https://arxiv.org/abs/2606.00789) |
+| 2026-05-30 | complexity | 0 | 滑动接触创建通用的自仿射分形表面 | [link](https://arxiv.org/abs/2606.00626) |
+| 2026-05-30 | complexity | 0 | 重新审视温度的相对论变换 | [link](https://arxiv.org/abs/2606.00521) |
+| 2026-05-29 | complexity | 0 | 平行细丝随机阵列上活性粒子的局域化 | [link](https://arxiv.org/abs/2606.00286) |
+| 2026-05-29 | complexity | 0 | 求解广义自由费米子模型 II：路径积展开和守恒电荷 | [link](https://arxiv.org/abs/2605.31453) |
+| 2026-05-29 | complexity | 0 | 随机重置下一维布朗运动的覆盖时间统计 | [link](https://arxiv.org/abs/2605.31207) |
