@@ -919,3 +919,76 @@
 | 2026-05-29 | complexity | 0 | 平行细丝随机阵列上活性粒子的局域化 | [link](https://arxiv.org/abs/2606.00286) |
 | 2026-05-29 | complexity | 0 | 求解广义自由费米子模型 II：路径积展开和守恒电荷 | [link](https://arxiv.org/abs/2605.31453) |
 | 2026-05-29 | complexity | 0 | 随机重置下一维布朗运动的覆盖时间统计 | [link](https://arxiv.org/abs/2605.31207) |
+| 2026-05-28 | risk | 7 | 分布投资组合优化 (DPO)：权重、收益和参数分布的统一框架 | [link](https://arxiv.org/abs/2605.30464) |
+| 2026-05-27 | regime | 7 | 使用隐马尔可夫模型和强化学习的基于制度的投资组合分配 | [link](https://arxiv.org/abs/2605.27848) |
+| 2026-05-19 | ml | 7 | 交易成本下基于机器学习的比特币交易：来自前瞻性预测的证据 | [link](https://arxiv.org/abs/2606.00060) |
+| 2026-06-03 | ml | 6 | 具有深度强化学习的加密货币市场动态多对交易策略 | [link](https://arxiv.org/abs/2606.04574) |
+| 2026-05-20 | crypto | 6 | 比特币价格预测：同行评审的证据和社交媒体讨论 | [link](https://arxiv.org/abs/2606.00071) |
+| 2026-05-16 | risk | 6 | 财务引导的深度投资组合优化 | [link](https://arxiv.org/abs/2605.28853) |
+| 2026-06-04 | complexity | 4 | 大语言模型温度缩放中的生成临界性 | [link](https://arxiv.org/abs/2606.06238) |
+| 2026-06-03 | complexity | 4 | 社交邻近无序网络的意见动态 | [link](https://arxiv.org/abs/2606.05349) |
+| 2026-06-03 | complexity | 4 | 螺旋驱动中涌现的自相似量子复兴 | [link](https://arxiv.org/abs/2606.05288) |
+| 2026-06-02 | network | 4 | 从概念网络动力学对科学突破的可解释预测 | [link](https://arxiv.org/abs/2606.03864) |
+| 2026-06-04 | complexity | 3 | 早期精神病显示出临界状态下尺度行为的偏差 | [link](https://arxiv.org/abs/2606.06290) |
+| 2026-06-03 | complexity | 3 | 受挫约瑟夫森结骰子阵列中的库珀四重奏和分数涡旋 | [link](https://arxiv.org/abs/2606.04958) |
+| 2026-06-03 | bio_inspired | 3 | ParetoPilot：通过推断扰动引导扩散进行零代理离线多目标优化 | [link](https://arxiv.org/abs/2606.04468) |
+| 2026-06-02 | risk | 3 | 预期投资组合优化 | [link](https://arxiv.org/abs/2606.04258) |
+| 2026-06-01 | info_theory | 3 | 跨不同分析任务估计时间序列和时间事件序列之间的互信息 | [link](https://arxiv.org/abs/2606.01602) |
+| 2026-05-30 | bio_inspired | 3 | SAEA 内使用集成代理建模进行元黑盒优化以实现鲁棒性与准确性的权衡 | [link](https://arxiv.org/abs/2606.00862) |
+| 2026-06-04 | complexity | 2 | 自由费米子量子热化的封闭系统设置 | [link](https://arxiv.org/abs/2606.06362) |
+| 2026-06-04 | complexity | 2 | 强非高斯状态下塌缩模型的​​非平衡热力学 | [link](https://arxiv.org/abs/2606.06259) |
+| 2026-06-04 | network | 2 | 论社交网络舆论动态中的领导力涌现 | [link](https://arxiv.org/abs/2606.05825) |
+| 2026-06-03 | complexity | 2 | 随机振荡的耗散相干权衡 | [link](https://arxiv.org/abs/2606.05498) |
+| 2026-06-03 | complexity | 2 | 压缩玻璃中非晶-非晶转变的渗流临界点 | [link](https://arxiv.org/abs/2606.04748) |
+| 2026-06-03 | complexity | 2 | Fermi-Pasta-Ulam-Tsingou 链的流体动力学 | [link](https://arxiv.org/abs/2606.04674) |
+| 2026-06-03 | complexity | 2 | 南部非平衡热力学和开放系统的李亚普诺夫结构 | [link](https://arxiv.org/abs/2606.05231) |
+| 2026-06-02 | bio_inspired | 2 | 通过遗传优化从稀疏道路观测中校准城市交通模拟 | [link](https://arxiv.org/abs/2606.03823) |
+| 2026-06-01 | crypto | 2 | 审计金融大语言模型中的特定资产偏好：来自比特币表示和投资组合分配的证据 | [link](https://arxiv.org/abs/2606.02528) |
+| 2026-05-26 | network | 2 | Hedera 交易中结构应力检测的网络效率低下指标 | [link](https://arxiv.org/abs/2605.26417) |
+| 2026-06-04 | complexity | 1 | 非平衡热力学的介观基础和液体双模型中的时间箭头 | [link](https://arxiv.org/abs/2606.06184) |
+| 2026-06-04 | complexity | 1 | 弹跳颗粒的热力学 | [link](https://arxiv.org/abs/2606.05930) |
+| 2026-06-04 | network | 1 | 通过强化学习探索网络共池资源博弈中的合作机制 | [link](https://arxiv.org/abs/2606.05867) |
+| 2026-06-03 | complexity | 1 | 小磁场冷却后窄均匀超导带中磁通冻结理论 | [link](https://arxiv.org/abs/2606.04961) |
+| 2026-06-03 | complexity | 1 | 无序 XXZ 自旋链中 ETH--MBL 过渡的绝热斜坡动力学 | [link](https://arxiv.org/abs/2606.04926) |
+| 2026-06-03 | complexity | 1 | 表面电荷掺杂对受限电解质中离子对临界值的影响 | [link](https://arxiv.org/abs/2606.04791) |
+| 2026-06-03 | complexity | 1 | 无监督赫布网络泛化的谱标准 | [link](https://arxiv.org/abs/2606.04651) |
+| 2026-06-03 | bio_inspired | 1 | 使用自适应和非自适应粒子群优化的多列 RBF 神经网络 | [link](https://arxiv.org/abs/2606.05150) |
+| 2026-06-02 | complexity | 1 | 从内部粗粒度：$S^3$ 上的 Wilson-Fisher 普遍性 | [link](https://arxiv.org/abs/2606.04085) |
+| 2026-05-28 | crypto | 1 | 隐含的 ETF 套利率和细分比特币市场中的套利限制 | [link](https://arxiv.org/abs/2605.29309) |
+| 2026-05-28 | network | 1 | 使用弱形式 SINDy 从具有多个初始条件的网络动态数据中学习有效模型 | [link](https://arxiv.org/abs/2605.30432) |
+| 2026-05-25 | volume | 1 | 连续时间凯尔中的隐私补贴：噪声扰动订单流观察下的累积福利 | [link](https://arxiv.org/abs/2605.25631) |
+| 2026-06-04 | complexity | 0 | 渐近功提取的可靠性 | [link](https://arxiv.org/abs/2606.06318) |
+| 2026-06-04 | complexity | 0 | 隐藏的周期性允许预测准晶表面上的锁定粒子运动 | [link](https://arxiv.org/abs/2606.06026) |
+| 2026-06-04 | complexity | 0 | 粒状 Büttiker-Landauer 电机 | [link](https://arxiv.org/abs/2606.05913) |
+| 2026-06-04 | complexity | 0 | 有限相干晶格中布拉格衍射的多对数结构 | [link](https://arxiv.org/abs/2606.05886) |
+| 2026-06-04 | complexity | 0 | 极近场中脉动电动力学的分解 | [link](https://arxiv.org/abs/2606.05845) |
+| 2026-06-04 | complexity | 0 | 高斯量子元胞自动机的热化 | [link](https://arxiv.org/abs/2606.05542) |
+| 2026-06-04 | network | 0 | 网络模型选择：方法回顾 | [link](https://arxiv.org/abs/2606.05954) |
+| 2026-06-04 | info_theory | 0 | 通过微调语言模型和引导树搜索自动证明香农型熵不等式 | [link](https://arxiv.org/abs/2606.05729) |
+| 2026-06-03 | complexity | 0 | 有限珠费米子配分函数中的牛顿恒等式 | [link](https://arxiv.org/abs/2606.05442) |
+| 2026-06-03 | complexity | 0 | 同谱性和算子复杂性 | [link](https://arxiv.org/abs/2606.05294) |
+| 2026-06-03 | complexity | 0 | 随机点的最大最小间距 | [link](https://arxiv.org/abs/2606.04837) |
+| 2026-06-03 | complexity | 0 | 稠密二维流体中熵的振动模型 | [link](https://arxiv.org/abs/2606.04533) |
+| 2026-06-03 | complexity | 0 | 阳离子对碱金属硝酸盐水溶液中颗粒之间范德华相互作用的影响 | [link](https://arxiv.org/abs/2606.04331) |
+| 2026-06-03 | network | 0 | GEMINI：网络-网络交互不完全链接的广义纠缠测量 | [link](https://arxiv.org/abs/2606.05153) |
+| 2026-06-03 | network | 0 | 复杂网络上的党派选民模型：本地排序的动态 | [link](https://arxiv.org/abs/2606.05062) |
+| 2026-06-03 | network | 0 | 复杂网络中的无监督社区检测和分层模块化估计 | [link](https://arxiv.org/abs/2606.04972) |
+| 2026-06-03 | bio_inspired | 0 | U-Net 加速气候适应性城市布局的质量多样性优化 | [link](https://arxiv.org/abs/2606.04658) |
+| 2026-06-02 | complexity | 0 | 正交或辛对称随机电路中的算子扩展 | [link](https://arxiv.org/abs/2606.03956) |
+| 2026-06-02 | info_theory | 0 | 熵门：LLM 管道中近乎无损令牌压缩的熵淬灭 | [link](https://arxiv.org/abs/2606.03739) |
+| 2026-06-02 | info_theory | 0 | STC：BWT 系列文本压缩的可逆数字上下文分解 | [link](https://arxiv.org/abs/2606.03570) |
+| 2026-06-02 | bio_inspired | 0 | 优化显式单位距离下界证书 | [link](https://arxiv.org/abs/2606.03419) |
+| 2026-06-02 | bio_inspired | 0 | 超越静态先验：大规模蚁群优化的动态神经指导 | [link](https://arxiv.org/abs/2606.04039) |
+| 2026-06-01 | network | 0 | 灾难引起的行为变化将社交网络重组为纽带关系 | [link](https://arxiv.org/abs/2606.02790) |
+| 2026-06-01 | info_theory | 0 | 强极化和熵 | [link](https://arxiv.org/abs/2606.02567) |
+| 2026-05-30 | info_theory | 0 | 通过减少压缩高斯均值估计的位约束随机优化的信息论下界 | [link](https://arxiv.org/abs/2606.00703) |
+| 2026-05-29 | network | 0 | 严酷的事实：使用大规模远程信息处理、街道网络和 Google 街景对米兰的严酷驾驶事件进行分段级分析 | [link](https://arxiv.org/abs/2606.00261) |
+| 2026-05-28 | network | 0 | 婚礼鸡尾酒时间联系网络：私人举办的社交活动的时间邻近网络 | [link](https://arxiv.org/abs/2605.30291) |
+| 2026-05-28 | network | 0 | 根据心理测量数据进行主体-主体网络中的社区检测 | [link](https://arxiv.org/abs/2605.29749) |
+| 2026-05-26 | network | 0 | 帝国压力的拓扑特征：东地中海贸易网络的持久同源性，公元 0--400 年 | [link](https://arxiv.org/abs/2605.27200) |
+| 2026-05-26 | info_theory | 0 | 面向目标的统计压缩：充分性、逆鞅和顺序监控 | [link](https://arxiv.org/abs/2605.26568) |
+| 2026-05-26 | bio_inspired | 0 | 氧合和空间异质性通过表型适应影响放射治疗方案排名 | [link](https://arxiv.org/abs/2606.04004) |
+| 2026-05-25 | network | 0 | 行为同质性和一致性对大群体网络中流行病传播的影响 | [link](https://arxiv.org/abs/2605.25875) |
+| 2026-05-24 | network | 0 | 本地网络演化规则驱动最短路径多重性 | [link](https://arxiv.org/abs/2605.25237) |
+| 2026-05-24 | info_theory | 0 | 自回归语言模型中的多项式上下文截断敏感性：KV 缓存压缩的顺序 Wyner-Ziv 界限 | [link](https://arxiv.org/abs/2605.25085) |
+| 2026-05-23 | network | 0 | 量化基于事件的时态网络和超图数据中的并发性 | [link](https://arxiv.org/abs/2605.24633) |
