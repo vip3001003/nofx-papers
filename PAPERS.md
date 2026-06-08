@@ -992,3 +992,28 @@
 | 2026-05-24 | network | 0 | 本地网络演化规则驱动最短路径多重性 | [link](https://arxiv.org/abs/2605.25237) |
 | 2026-05-24 | info_theory | 0 | 自回归语言模型中的多项式上下文截断敏感性：KV 缓存压缩的顺序 Wyner-Ziv 界限 | [link](https://arxiv.org/abs/2605.25085) |
 | 2026-05-23 | network | 0 | 量化基于事件的时态网络和超图数据中的并发性 | [link](https://arxiv.org/abs/2605.24633) |
+| 2026-06-05 | complexity | 4 | 产能波动和投入可替代性对供应链弹性的影响 | [link](https://arxiv.org/abs/2606.06874) |
+| 2026-06-05 | complexity | 3 | Asymmetry dynamics and nonequilibrium symmetry-breaking phase transitions | [link](https://arxiv.org/abs/2606.07188) |
+| 2026-06-05 | bio_inspired | 3 | 生态进化动力学中的零斜线、亚零斜线以及渐近和瞬态吸引子 | [link](https://arxiv.org/abs/2606.07372) |
+| 2026-06-04 | complexity | 3 | 使用流量匹配捕获非平衡随机系统中的非马尔可夫动态 | [link](https://arxiv.org/abs/2606.06658) |
+| 2026-06-05 | complexity | 2 | 一维拓扑强制 Lifshitz 多重临界性 | [link](https://arxiv.org/abs/2606.07380) |
+| 2026-06-05 | complexity | 2 | 远程相互作用有助于在开放量子临界系统中实现绝热和电池充电的捷径 | [link](https://arxiv.org/abs/2606.07221) |
+| 2026-06-05 | complexity | 2 | 磁场下两个量子位各向异性 $XY$ 的量子相关性和相干性 | [link](https://arxiv.org/abs/2606.07051) |
+| 2026-06-05 | complexity | 2 | 相位滞后增强了惯性耦合振荡器的同步 | [link](https://arxiv.org/abs/2606.07002) |
+| 2026-06-05 | complexity | 2 | 非互惠作用下伊辛普适类的命运 | [link](https://arxiv.org/abs/2606.06981) |
+| 2026-06-05 | complexity | 2 | 基于机器学习的各向异性自旋系统临界尺度行为评估方法 | [link](https://arxiv.org/abs/2606.06925) |
+| 2026-06-05 | info_theory | 2 | 通过 K 递归和自动微分实现线性高斯无线网络的互信息优化 | [link](https://arxiv.org/abs/2606.06982) |
+| 2026-06-05 | complexity | 1 | 具有磁场的非厄米 XY 模型的量子临界特性 | [link](https://arxiv.org/abs/2606.07275) |
+| 2026-06-05 | complexity | 1 | 模拟时间不可逆雪崩 | [link](https://arxiv.org/abs/2606.07268) |
+| 2026-06-05 | complexity | 1 | 三维自旋玻璃的真正低能激发 | [link](https://arxiv.org/abs/2606.07197) |
+| 2026-06-04 | complexity | 1 | 矢量 Hopfield 网络中的量子稳定模式 | [link](https://arxiv.org/abs/2606.06597) |
+| 2026-06-05 | complexity | 0 | 费米子符号问题和李杨零点的结构。二.无相互作用模型系统的有限温度结果 | [link](https://arxiv.org/abs/2606.07415) |
+| 2026-06-05 | complexity | 0 | Ornstein-Uhlenbeck 过程中耗散的振荡非正态分解 | [link](https://arxiv.org/abs/2606.07263) |
+| 2026-06-05 | complexity | 0 | 高维受控非线性动力系统的学习理论（一）：模型与方法 | [link](https://arxiv.org/abs/2606.07247) |
+| 2026-06-05 | complexity | 0 | 受挫伊辛环模型中指数小瓶颈的连续时间量子控制 | [link](https://arxiv.org/abs/2606.07168) |
+| 2026-06-05 | complexity | 0 | 非线性 sigma 模型、反周期边界条件、自旋链和 't Hooft 异常 | [link](https://arxiv.org/abs/2606.07041) |
+| 2026-06-05 | info_theory | 0 | 让同质性熵选择 Buchberger 算法中的 S 对 | [link](https://arxiv.org/abs/2606.07321) |
+| 2026-06-04 | complexity | 0 | 纳米流体传输中的涨落诱导效应和量子效应 | [link](https://arxiv.org/abs/2606.06693) |
+| 2026-06-04 | complexity | 0 | 强相互作用费米气体中的黎曼稀疏波 | [link](https://arxiv.org/abs/2606.06659) |
+| 2026-06-04 | complexity | 0 | 碎片系统中的高阶对称量子 Mpemba 效应 | [link](https://arxiv.org/abs/2606.06653) |
+| 2026-06-04 | complexity | 0 | 利用量子多体疤痕感测交流场 | [link](https://arxiv.org/abs/2606.06611) |
