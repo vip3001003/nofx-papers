@@ -1017,3 +1017,41 @@
 | 2026-06-04 | complexity | 0 | 强相互作用费米气体中的黎曼稀疏波 | [link](https://arxiv.org/abs/2606.06659) |
 | 2026-06-04 | complexity | 0 | 碎片系统中的高阶对称量子 Mpemba 效应 | [link](https://arxiv.org/abs/2606.06653) |
 | 2026-06-04 | complexity | 0 | 利用量子多体疤痕感测交流场 | [link](https://arxiv.org/abs/2606.06611) |
+| 2026-06-08 | risk | 4 | 通过贝叶斯 VAR 和椭圆 Black-Litterman 解决投资组合优化中的市场制度变化和重尾回报问题 | [link](https://arxiv.org/abs/2606.09104) |
+| 2026-06-07 | complexity | 3 | 使用变分自动编码器发现和解码潜在平均场结构 | [link](https://arxiv.org/abs/2606.08694) |
+| 2026-06-07 | complexity | 3 | 非晶固体中的剪切带作为非线性屏蔽软模不稳定性 | [link](https://arxiv.org/abs/2606.08540) |
+| 2026-06-08 | complexity | 2 | 时间随机经典自旋链中的控制转换 | [link](https://arxiv.org/abs/2606.09297) |
+| 2026-06-08 | bio_inspired | 2 | OpenOpt：基于等效电路模型的开源 SRAM 优化器 | [link](https://arxiv.org/abs/2606.09129) |
+| 2026-06-07 | complexity | 2 | 布朗运动广义模型中热传导的时间演化 | [link](https://arxiv.org/abs/2606.08839) |
+| 2026-06-07 | complexity | 2 | 光谱异质性的涨落稳定广义熵探针 | [link](https://arxiv.org/abs/2606.08801) |
+| 2026-06-07 | complexity | 2 | 深度热化中的量子资源局域性转变 | [link](https://arxiv.org/abs/2606.08756) |
+| 2026-06-07 | complexity | 2 | 有限温度稳定器熵中的隐藏共形边界数据 | [link](https://arxiv.org/abs/2606.08606) |
+| 2026-06-06 | complexity | 2 | 通过复杂的 Lee-Yang 零点跟踪亚稳态相 | [link](https://arxiv.org/abs/2606.08004) |
+| 2026-06-05 | risk | 2 | CVaR 投资组合优化的量子算法弹性基准测试：表达性与一致性的权衡 | [link](https://arxiv.org/abs/2606.07727) |
+| 2026-05-27 | network | 2 | 共生作为系统催化剂以及最佳网络中联盟的不可能性 | [link](https://arxiv.org/abs/2606.07584) |
+| 2026-06-08 | complexity | 1 | 慢等温过程中功累积量的标度行为 | [link](https://arxiv.org/abs/2606.09552) |
+| 2026-06-06 | complexity | 1 | 自然和工程系统中幂律衰减的谱模型 | [link](https://arxiv.org/abs/2606.08342) |
+| 2026-06-06 | complexity | 1 | 通过电梯效应增强周期性势的哑铃扩散 | [link](https://arxiv.org/abs/2606.08334) |
+| 2026-06-06 | complexity | 1 | 通量调谐狄拉克系统中的保真磁化率和几何响应：低能两级还原的精确结果 | [link](https://arxiv.org/abs/2606.08280) |
+| 2026-06-06 | complexity | 1 | 一维海森堡铁磁自旋链中的集体动力学 | [link](https://arxiv.org/abs/2606.08149) |
+| 2026-06-06 | complexity | 1 | 开放无序 Sachdev-Ye-Kitaev 系统中的精确谱和反常弛豫 | [link](https://arxiv.org/abs/2606.08079) |
+| 2026-06-08 | complexity | 0 | 局部评分模型何时跨规模进行推断？诊断理论和基准 | [link](https://arxiv.org/abs/2606.09705) |
+| 2026-06-08 | complexity | 0 | 随机反应动力学中的几何耗散约束：能源景观中隐藏动力学结构的变分可观测量 | [link](https://arxiv.org/abs/2606.09684) |
+| 2026-06-08 | complexity | 0 | 贝叶斯逆问题中的约束残差、图后验和行列式校正全空间目标 | [link](https://arxiv.org/abs/2606.09594) |
+| 2026-06-08 | complexity | 0 | 由于能量波动过多而导致德拜比热的偏差 | [link](https://arxiv.org/abs/2606.09566) |
+| 2026-06-08 | complexity | 0 | 没有指数简并的伪装的自由费米子 | [link](https://arxiv.org/abs/2606.09462) |
+| 2026-06-08 | complexity | 0 | 随机耦合量子系统中的能量传输：一种微扰方法 | [link](https://arxiv.org/abs/2606.09308) |
+| 2026-06-08 | complexity | 0 | 受限布朗运动中流体惯性效应的定量测量 | [link](https://arxiv.org/abs/2606.09193) |
+| 2026-06-08 | complexity | 0 | 灾难之后的自然选择 | [link](https://arxiv.org/abs/2606.09040) |
+| 2026-06-08 | network | 0 | 对道路网络上的车辆运动模式进行表征和建模 | [link](https://arxiv.org/abs/2606.09083) |
+| 2026-06-07 | complexity | 0 | 界面随机运动的波阻 | [link](https://arxiv.org/abs/2606.08732) |
+| 2026-06-07 | complexity | 0 | Andrzej Kossakowski 的另一个遗产：GKLS 方程的独立推导 | [link](https://arxiv.org/abs/2606.08579) |
+| 2026-06-07 | complexity | 0 | 什么是统计力学中的模式？用计算力学形式化一维自旋晶格模型中的结构和模式 | [link](https://arxiv.org/abs/2606.08509) |
+| 2026-06-06 | complexity | 0 | 磁场中电荷传输的延迟相关器 | [link](https://arxiv.org/abs/2606.08139) |
+| 2026-06-06 | complexity | 0 | 平移协变调制对称性：分类和 Goldstone | [link](https://arxiv.org/abs/2606.07952) |
+| 2026-06-06 | complexity | 0 | 高斯场的逐点复杂性：上包络、算法下界和分离 | [link](https://arxiv.org/abs/2606.07931) |
+| 2026-06-06 | complexity | 0 | 来自互惠成本作用的有限格模型：谱和反射正性质 | [link](https://arxiv.org/abs/2606.07922) |
+| 2026-06-06 | network | 0 | 在超大规模网络中实现量子通信 | [link](https://arxiv.org/abs/2606.08326) |
+| 2026-06-06 | bio_inspired | 0 | 灰盒优化和顶点着色问题 | [link](https://arxiv.org/abs/2606.08128) |
+| 2026-06-05 | complexity | 0 | 准粒子和激子特性的代理多保真度学习 | [link](https://arxiv.org/abs/2606.07836) |
+| 2026-05-27 | bio_inspired | 0 | 球体信息几何优化 | [link](https://arxiv.org/abs/2606.07588) |
