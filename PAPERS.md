@@ -1055,3 +1055,27 @@
 | 2026-06-06 | bio_inspired | 0 | 灰盒优化和顶点着色问题 | [link](https://arxiv.org/abs/2606.08128) |
 | 2026-06-05 | complexity | 0 | 准粒子和激子特性的代理多保真度学习 | [link](https://arxiv.org/abs/2606.07836) |
 | 2026-05-27 | bio_inspired | 0 | 球体信息几何优化 | [link](https://arxiv.org/abs/2606.07588) |
+| 2026-06-09 | complexity | 4 | 二维动态体边界对应：超越两个能带模型 | [link](https://arxiv.org/abs/2606.10731) |
+| 2026-06-09 | complexity | 3 | 几何在准一维单文件传输中仍然很重要 | [link](https://arxiv.org/abs/2606.10991) |
+| 2026-06-08 | bio_inspired | 3 | 使用深度强化学习发现进化算法的可解释多参数控制策略 | [link](https://arxiv.org/abs/2606.10129) |
+| 2026-06-05 | bio_inspired | 3 | 超越进化的鲸鱼：群体智能最大化连接体储存库的记忆 | [link](https://arxiv.org/abs/2606.09902) |
+| 2026-06-09 | complexity | 2 | 磁场中扩展利布晶格的伊辛-海森堡模型中的连续和不连续转变 | [link](https://arxiv.org/abs/2606.10821) |
+| 2026-06-09 | complexity | 2 | 有限时间定向弛豫重构极地活性物质的集体运动 | [link](https://arxiv.org/abs/2606.10474) |
+| 2026-06-09 | complexity | 2 | 递归神经网络中的关键分支机制 | [link](https://arxiv.org/abs/2606.10384) |
+| 2026-06-09 | complexity | 2 | MLP 残差网络的秩崩溃、不动点和重整化群结构 | [link](https://arxiv.org/abs/2606.10324) |
+| 2026-06-08 | complexity | 2 | 具有 Kuramoto 耦合和混合符号反馈障碍的主动旋转网络中的集体漂移和钉扎 | [link](https://arxiv.org/abs/2606.10032) |
+| 2026-06-08 | complexity | 2 | 多临界解禁量子临界点的自举锥 | [link](https://arxiv.org/abs/2606.09985) |
+| 2026-06-09 | complexity | 1 | 多种单聚合物链模型中的可扩展链接 | [link](https://arxiv.org/abs/2606.11041) |
+| 2026-06-09 | complexity | 1 | 通过变分流的随机动力学的动力配分函数 | [link](https://arxiv.org/abs/2606.10757) |
+| 2026-06-07 | info_theory | 1 | 生物电信息论：研究人工智能下生物电信号的理论压缩极限 | [link](https://arxiv.org/abs/2606.09922) |
+| 2026-06-09 | complexity | 0 | 内核强盗中的算法和极小极大复杂性 | [link](https://arxiv.org/abs/2606.11171) |
+| 2026-06-09 | complexity | 0 | 手性 Potts 模型和可积 Parafermion 的 Yang-Baxter 方程 | [link](https://arxiv.org/abs/2606.11146) |
+| 2026-06-09 | complexity | 0 | 稠密流体中动量传递的热力学方法 | [link](https://arxiv.org/abs/2606.10858) |
+| 2026-06-09 | complexity | 0 | 生成聚合和分段函数：回顾 | [link](https://arxiv.org/abs/2606.10785) |
+| 2026-06-09 | complexity | 0 | 霍金--页面普适性、热力学偶极子和分类缺陷 | [link](https://arxiv.org/abs/2606.10680) |
+| 2026-06-09 | complexity | 0 | 存在平移惯性和旋转惯性的情况下，活性布朗粒子系统中的维力应力 | [link](https://arxiv.org/abs/2606.10486) |
+| 2026-06-08 | complexity | 0 | 超越马尔可夫极限：幂律粘弹性浴中主动运动的精确解 | [link](https://arxiv.org/abs/2606.10145) |
+| 2026-06-08 | complexity | 0 | 紧张不安的量子回旋镖效应 | [link](https://arxiv.org/abs/2606.10067) |
+| 2026-06-08 | complexity | 0 | 驯服流体动力学实时晶格模拟中的 Umklapp 过程：伊辛场理论研究 | [link](https://arxiv.org/abs/2606.09984) |
+| 2026-06-04 | info_theory | 0 | Blahut 中的平移对称性、Fisher 信息和熵幂不等式--有本几何 | [link](https://arxiv.org/abs/2606.09895) |
+| 2026-05-28 | info_theory | 0 | 支持充分性作为行动充分压缩：单周期率后悔公式 | [link](https://arxiv.org/abs/2606.09858) |
