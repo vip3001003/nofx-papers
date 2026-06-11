@@ -1079,3 +1079,22 @@
 | 2026-06-08 | complexity | 0 | 驯服流体动力学实时晶格模拟中的 Umklapp 过程：伊辛场理论研究 | [link](https://arxiv.org/abs/2606.09984) |
 | 2026-06-04 | info_theory | 0 | Blahut 中的平移对称性、Fisher 信息和熵幂不等式--有本几何 | [link](https://arxiv.org/abs/2606.09895) |
 | 2026-05-28 | info_theory | 0 | 支持充分性作为行动充分压缩：单周期率后悔公式 | [link](https://arxiv.org/abs/2606.09858) |
+| 2026-06-09 | complexity | 5 | 跨CDW的拓扑顺序的精确动力学--SPT转变 | [link](https://arxiv.org/abs/2606.11303) |
+| 2026-06-10 | complexity | 2 | 定点处的质量生成：$d=3$ 和 $N=\infty$ 中三临界 O($N$) 模型的函数重正化群研究 | [link](https://arxiv.org/abs/2606.12269) |
+| 2026-06-10 | complexity | 2 | 观点：活性固体物理学——从哈密顿量到活性物质模型 | [link](https://arxiv.org/abs/2606.11950) |
+| 2026-06-10 | complexity | 2 | 准平稳域的普适信息理论结构--Kinzel自动机 | [link](https://arxiv.org/abs/2606.11885) |
+| 2026-06-10 | complexity | 2 | U(1)-对称动力学中参与熵的扩散弛豫 | [link](https://arxiv.org/abs/2606.11561) |
+| 2026-06-10 | bio_inspired | 2 | 具有优化引导算子的遗传算法的数学视角 | [link](https://arxiv.org/abs/2606.12279) |
+| 2026-06-09 | complexity | 2 | 理想玻色-爱因斯坦凝聚中的普遍临界行为 | [link](https://arxiv.org/abs/2606.11338) |
+| 2026-06-09 | info_theory | 2 | 博弈论中基于熵的混合联盟框架。第一部分：人工仲裁 | [link](https://arxiv.org/abs/2606.11288) |
+| 2026-06-10 | complexity | 1 | 包含尺度相关硬度的粗糙表面弹塑性接触的随机模型 | [link](https://arxiv.org/abs/2606.11765) |
+| 2026-06-09 | complexity | 1 | 后期量子动力学的压缩最小纯度时间演化 | [link](https://arxiv.org/abs/2606.11392) |
+| 2026-06-10 | complexity | 0 | 量子场论中的非可加性：复制能量、缩放滤波器和重正化群 | [link](https://arxiv.org/abs/2606.12367) |
+| 2026-06-10 | complexity | 0 | 扩散模型中的路径收敛 | [link](https://arxiv.org/abs/2606.12161) |
+| 2026-06-10 | complexity | 0 | 具有不均匀跳跃的一维系统的守恒电荷估计 | [link](https://arxiv.org/abs/2606.11991) |
+| 2026-06-10 | complexity | 0 | 多体追踪规范的张量网络算法 | [link](https://arxiv.org/abs/2606.11882) |
+| 2026-06-09 | complexity | 0 | 稠密图上随机粒子系统的平均场极限 | [link](https://arxiv.org/abs/2606.11369) |
+| 2026-06-09 | complexity | 0 | 超越最近邻双酉Floquet系统的精确纠缠动力学 | [link](https://arxiv.org/abs/2606.11311) |
+| 2026-06-09 | complexity | 0 | 稳定不知情参与者在集体决策中的作用 | [link](https://arxiv.org/abs/2606.11259) |
+| 2026-06-09 | info_theory | 0 | 设计源减少和语义率失真的双用途可行性范围 | [link](https://arxiv.org/abs/2606.11280) |
+| 2026-06-08 | bio_inspired | 0 | 我的化学工具：使用大型语言模型代理进行合成途径的进化分子设计 | [link](https://arxiv.org/abs/2606.11256) |
