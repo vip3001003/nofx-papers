@@ -1098,3 +1098,28 @@
 | 2026-06-09 | complexity | 0 | 稳定不知情参与者在集体决策中的作用 | [link](https://arxiv.org/abs/2606.11259) |
 | 2026-06-09 | info_theory | 0 | 设计源减少和语义率失真的双用途可行性范围 | [link](https://arxiv.org/abs/2606.11280) |
 | 2026-06-08 | bio_inspired | 0 | 我的化学工具：使用大型语言模型代理进行合成途径的进化分子设计 | [link](https://arxiv.org/abs/2606.11256) |
+| 2026-06-10 | risk | 6 | 启发式投资组合优化 (HPO) 的数学 | [link](https://arxiv.org/abs/2606.12612) |
+| 2026-06-08 | network | 6 | 拉丁美洲的主权压力雪崩和网络放大 | [link](https://arxiv.org/abs/2606.12460) |
+| 2026-06-10 | complexity | 3 | 装饰方形晶格上伊辛模型中磁重入的形成 | [link](https://arxiv.org/abs/2606.12572) |
+| 2026-06-11 | complexity | 2 | 非世俗主方程的精细热力学分析 | [link](https://arxiv.org/abs/2606.13504) |
+| 2026-06-11 | complexity | 2 | 当校对提高速度和准确性时 | [link](https://arxiv.org/abs/2606.12795) |
+| 2026-06-10 | complexity | 2 | 局部弱波湍流的动态大偏差和长程相关性 | [link](https://arxiv.org/abs/2606.12624) |
+| 2026-06-06 | network | 2 | 基于网络的多层模型，利用机器学习在异质人群中实现最佳疫苗优先级排序 | [link](https://arxiv.org/abs/2606.12456) |
+| 2026-06-11 | complexity | 1 | 与零模式相关的临界动力学的干扰 | [link](https://arxiv.org/abs/2606.13200) |
+| 2026-06-11 | bio_inspired | 1 | 通过信息几何双层分解的混合类别黑盒优化 | [link](https://arxiv.org/abs/2606.12885) |
+| 2026-06-10 | complexity | 1 | 影响可解性：$(1+1)D$可解性的系统理论及其在砖砌电路中的应用 | [link](https://arxiv.org/abs/2606.12538) |
+| 2026-06-10 | complexity | 1 | 重局部淬火中的多熵 | [link](https://arxiv.org/abs/2606.12526) |
+| 2026-06-11 | complexity | 0 | 使用标量自由能的状态相关朗之万动力学的几何公式 | [link](https://arxiv.org/abs/2606.13617) |
+| 2026-06-11 | complexity | 0 | 非稳定剂的扩散动力学 | [link](https://arxiv.org/abs/2606.13606) |
+| 2026-06-11 | complexity | 0 | 胶体晶体发现的探索性数字炼金术 | [link](https://arxiv.org/abs/2606.13586) |
+| 2026-06-11 | complexity | 0 | 由自主麦克斯韦妖驱动的跨越量子到经典转变的热电信息引擎 | [link](https://arxiv.org/abs/2606.13500) |
+| 2026-06-11 | complexity | 0 | 表面介导的自催化过程的群体动力学 | [link](https://arxiv.org/abs/2606.13498) |
+| 2026-06-11 | complexity | 0 | 三个欧几里得格子 Gross-Neveu 模型中的手性长程有序 | [link](https://arxiv.org/abs/2606.13075) |
+| 2026-06-11 | complexity | 0 | 有序多模迪克模型中的斐波那契稳态和持续振荡 | [link](https://arxiv.org/abs/2606.13072) |
+| 2026-06-11 | bio_inspired | 0 | 用于流雷达信号频谱估计的自适应频率谐振激发神经元 | [link](https://arxiv.org/abs/2606.13516) |
+| 2026-06-11 | bio_inspired | 0 | SupraSNN：通过协同优化映射和调度来利用尖峰神经网络加速器中的突触级并行性 | [link](https://arxiv.org/abs/2606.13354) |
+| 2026-06-10 | complexity | 0 | 平衡谱分析：孤立量子系统中的信息泄漏 | [link](https://arxiv.org/abs/2606.12545) |
+| 2026-06-10 | complexity | 0 | 非阿贝尔任意子增殖的统计力学和对称性：从变形到退相干 | [link](https://arxiv.org/abs/2606.12527) |
+| 2026-06-10 | complexity | 0 | kagome 受挫磁体中的自旋相关性、低能尺度和各向异性尺度 | [link](https://arxiv.org/abs/2606.12512) |
+| 2026-06-10 | complexity | 0 | 玻尔兹曼注意力：用于合作注意力的可学习 Ising 耦合 | [link](https://arxiv.org/abs/2606.12478) |
+| 2026-06-10 | bio_inspired | 0 | 进化积累模型干预的结构因果框架 | [link](https://arxiv.org/abs/2606.12597) |
