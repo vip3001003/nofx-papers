@@ -1123,3 +1123,27 @@
 | 2026-06-10 | complexity | 0 | kagome 受挫磁体中的自旋相关性、低能尺度和各向异性尺度 | [link](https://arxiv.org/abs/2606.12512) |
 | 2026-06-10 | complexity | 0 | 玻尔兹曼注意力：用于合作注意力的可学习 Ising 耦合 | [link](https://arxiv.org/abs/2606.12478) |
 | 2026-06-10 | bio_inspired | 0 | 进化积累模型干预的结构因果框架 | [link](https://arxiv.org/abs/2606.12597) |
+| 2026-06-12 | complexity | 5 | 基于主体的程式化模型中的财富不平等和行星边界 | [link](https://arxiv.org/abs/2606.14331) |
+| 2026-06-12 | volume | 3 | 两个耦合限价订单簿中的相关性出现和埃普斯效应 | [link](https://arxiv.org/abs/2606.14182) |
+| 2026-06-12 | crypto | 3 | 量子地平线：评估量子计算对比特币和以太坊的威胁 | [link](https://arxiv.org/abs/2606.14484) |
+| 2026-06-12 | complexity | 3 | 前瞻性编码和路径集成作为具有发射率自适应的自组织神经网络的平衡解决方案出现 | [link](https://arxiv.org/abs/2606.14649) |
+| 2026-05-31 | risk | 3 | 高维参考调节多周期均值方差投资组合优化 | [link](https://arxiv.org/abs/2606.13697) |
+| 2026-06-12 | complexity | 2 | 非平衡混合物中的一般长程相关性 | [link](https://arxiv.org/abs/2606.14651) |
+| 2026-06-12 | complexity | 2 | 保守主动系统中平稳测度的一般非局部统计 | [link](https://arxiv.org/abs/2606.14483) |
+| 2026-06-12 | complexity | 2 | 使用物理信息神经网络普遍构造非线性动力系统的广义李亚普诺夫函数 | [link](https://arxiv.org/abs/2606.14174) |
+| 2026-06-12 | complexity | 2 | 球体上扩散驱动的自催化动力学 | [link](https://arxiv.org/abs/2606.14133) |
+| 2026-06-12 | bio_inspired | 2 | 级联自适应组合器程序员指南：通过多层神经元网络的生物学精确模型进行在线学习 | [link](https://arxiv.org/abs/2606.14146) |
+| 2026-06-11 | complexity | 2 | 超越临界点的稳定熵的通用交叉 | [link](https://arxiv.org/abs/2606.13810) |
+| 2026-06-12 | complexity | 1 | 密集网络上非平衡稳态的类玻尔兹曼占据 | [link](https://arxiv.org/abs/2606.14542) |
+| 2026-06-12 | complexity | 1 | $q$-亲和力的热力学框架 | [link](https://arxiv.org/abs/2606.14285) |
+| 2026-06-12 | bio_inspired | 1 | 基于群体优化的算子演算：平均场收敛理论 | [link](https://arxiv.org/abs/2606.14289) |
+| 2026-06-12 | complexity | 0 | 棒状颗粒在静态球体床上的渗透：捕获和通过 | [link](https://arxiv.org/abs/2606.14661) |
+| 2026-06-12 | complexity | 0 | 通过准概率方法将协变涨落定理扩展到量子体系 | [link](https://arxiv.org/abs/2606.14519) |
+| 2026-06-12 | complexity | 0 | 非均匀经典流体的球形元密度函数学习 | [link](https://arxiv.org/abs/2606.14370) |
+| 2026-06-12 | complexity | 0 | 检测意大利媒体的历史转折点：历时新闻语料库的复杂系统方法 | [link](https://arxiv.org/abs/2606.14348) |
+| 2026-06-12 | complexity | 0 | Otto--Villani 函数不等式的热力学界限 | [link](https://arxiv.org/abs/2606.14329) |
+| 2026-06-12 | complexity | 0 | 时间演化曲线空间的随机热力学 | [link](https://arxiv.org/abs/2606.14186) |
+| 2026-06-12 | complexity | 0 | 贝特态的量子纠缠 | [link](https://arxiv.org/abs/2606.14140) |
+| 2026-06-11 | complexity | 0 | 近视自避分数布朗运动的平均场理论 | [link](https://arxiv.org/abs/2606.13972) |
+| 2026-06-11 | complexity | 0 | 环形搜索域中持续随机游走的平均首次通过时间 | [link](https://arxiv.org/abs/2606.13890) |
+| 2026-06-11 | complexity | 0 | Bounce 和 Sphaleron 之间热转变的复苏 | [link](https://arxiv.org/abs/2606.13778) |
