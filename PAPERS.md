@@ -1147,3 +1147,11 @@
 | 2026-06-11 | complexity | 0 | 近视自避分数布朗运动的平均场理论 | [link](https://arxiv.org/abs/2606.13972) |
 | 2026-06-11 | complexity | 0 | 环形搜索域中持续随机游走的平均首次通过时间 | [link](https://arxiv.org/abs/2606.13890) |
 | 2026-06-11 | complexity | 0 | Bounce 和 Sphaleron 之间热转变的复苏 | [link](https://arxiv.org/abs/2606.13778) |
+| 2026-06-16 | bio_inspired | 3 | 具有有限不同权重值的进化算法和多目标最小生成树 | [link](https://arxiv.org/abs/2606.17731) |
+| 2026-06-15 | bio_inspired | 3 | 打破平衡：按蚊的 Allee 阈值、鞍结分叉和最佳雄性不育释放策略 | [link](https://arxiv.org/abs/2606.17125) |
+| 2026-06-15 | bio_inspired | 2 | 强化学习泛化的进化双层奖励塑造 | [link](https://arxiv.org/abs/2606.16236) |
+| 2026-06-15 | bio_inspired | 1 | 热力学硬件上的节能密码子优化 | [link](https://arxiv.org/abs/2606.17327) |
+| 2026-06-15 | bio_inspired | 1 | 基于偏好的进化多目标优化中目标归一化对感兴趣区域的影响 | [link](https://arxiv.org/abs/2606.16382) |
+| 2026-06-16 | bio_inspired | 0 | 尖峰神经元生物学合理性自动评估的优化框架 | [link](https://arxiv.org/abs/2606.17853) |
+| 2026-06-12 | bio_inspired | 0 | 使用膜电位对齐进行皮质内神经解码的尖峰神经网络的测试时适应 | [link](https://arxiv.org/abs/2606.14866) |
+| 2026-06-12 | bio_inspired | 0 | ZIVARI-TLBO：一种零成本的组间评估精英接力机制，用于基于教与学的优化 | [link](https://arxiv.org/abs/2606.17087) |
