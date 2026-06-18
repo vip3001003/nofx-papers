@@ -1155,3 +1155,46 @@
 | 2026-06-16 | bio_inspired | 0 | 尖峰神经元生物学合理性自动评估的优化框架 | [link](https://arxiv.org/abs/2606.17853) |
 | 2026-06-12 | bio_inspired | 0 | 使用膜电位对齐进行皮质内神经解码的尖峰神经网络的测试时适应 | [link](https://arxiv.org/abs/2606.14866) |
 | 2026-06-12 | bio_inspired | 0 | ZIVARI-TLBO：一种零成本的组间评估精英接力机制，用于基于教与学的优化 | [link](https://arxiv.org/abs/2606.17087) |
+| 2026-06-15 | crypto | 5 | 一起崩溃，又分崩离析：加密货币市场中的动态条件尾部依赖 | [link](https://arxiv.org/abs/2606.16840) |
+| 2026-06-16 | complexity | 4 | 稳态光谱接触和耗散相变 | [link](https://arxiv.org/abs/2606.18348) |
+| 2026-06-13 | network | 4 | 迈向地缘政治危机观察站：利用复杂系统科学诊断新闻流中的系统性风险 | [link](https://arxiv.org/abs/2606.15081) |
+| 2026-06-17 | complexity | 3 | 拓扑谱形状因子揭示了多体量子混沌中出现的非厄米单粒子 $\mathcal{PT}$ 跃迁 | [link](https://arxiv.org/abs/2606.19331) |
+| 2026-06-17 | complexity | 3 | 非守恒场的非平衡成核理论：从活性物质到布居动力学 | [link](https://arxiv.org/abs/2606.18911) |
+| 2026-06-16 | complexity | 3 | 量子浴涨落带来的混沌 | [link](https://arxiv.org/abs/2606.18340) |
+| 2026-06-16 | complexity | 3 | 世界财富不平等的热力学描述 | [link](https://arxiv.org/abs/2606.17965) |
+| 2026-06-16 | complexity | 3 | 三维 Blume-Capel 铁磁体中的一阶相变 | [link](https://arxiv.org/abs/2606.17691) |
+| 2026-06-15 | crypto | 3 | 超越微笑：加密货币波动面的混合卷积 VAE | [link](https://arxiv.org/abs/2606.16961) |
+| 2026-06-15 | complexity | 3 | 巴斯内存作为量子传输中的精密资源 | [link](https://arxiv.org/abs/2606.17026) |
+| 2026-06-17 | complexity | 2 | 临界阶参数分布的大偏差尾部 | [link](https://arxiv.org/abs/2606.19030) |
+| 2026-06-17 | complexity | 2 | 光子非线性阿哈罗诺夫-玻姆笼的热力学 | [link](https://arxiv.org/abs/2606.18896) |
+| 2026-06-16 | complexity | 2 | 探测 $\mathcal N=4$ 超杨-米尔斯和长程自旋链中的弱混沌 | [link](https://arxiv.org/abs/2606.18351) |
+| 2026-06-16 | complexity | 2 | 非厄米量子临界点的涌现德西特空间和非酉张量网络 | [link](https://arxiv.org/abs/2606.17983) |
+| 2026-06-16 | complexity | 2 | 最优闭环随机控制中通过向后运动提取功 | [link](https://arxiv.org/abs/2606.17624) |
+| 2026-06-16 | complexity | 2 | 惯性椭球体的布朗旋转 | [link](https://arxiv.org/abs/2606.17554) |
+| 2026-06-05 | network | 2 | 网络法学硕士观点演变的特征 | [link](https://arxiv.org/abs/2606.18276) |
+| 2026-06-17 | complexity | 1 | 非结构化数据库的经典耗散搜索 | [link](https://arxiv.org/abs/2606.18835) |
+| 2026-06-17 | complexity | 1 | PT 对称 BCFT 全息对偶 | [link](https://arxiv.org/abs/2606.18629) |
+| 2026-06-16 | complexity | 1 | 广义子系统的平衡：量子通道方法 | [link](https://arxiv.org/abs/2606.18360) |
+| 2026-06-16 | complexity | 1 | 让复杂的 CFT 成为现实：$Q>4$ 和复杂的 $Q$ 的二维 Potts 模型 | [link](https://arxiv.org/abs/2606.18125) |
+| 2026-06-16 | complexity | 1 | 有限一维环上合作与反合作结合的平衡簇统计 | [link](https://arxiv.org/abs/2606.18020) |
+| 2026-06-16 | complexity | 1 | 广义 Aubry-André 模型中的超均匀电荷分布和相变 | [link](https://arxiv.org/abs/2606.17532) |
+| 2026-06-16 | network | 1 | 具有自适应竞争交互的复杂网络中的爆炸性转变 | [link](https://arxiv.org/abs/2606.17944) |
+| 2026-06-16 | info_theory | 1 | 渲染分离信息：凸分离场景的率失真重建 | [link](https://arxiv.org/abs/2606.18486) |
+| 2026-06-16 | info_theory | 1 | 2026 算法信息论数据压缩挑战赛 | [link](https://arxiv.org/abs/2606.17712) |
+| 2026-06-15 | complexity | 1 | 从格拉斯曼积分表示推导二维经典二聚体模型的高度场理论 | [link](https://arxiv.org/abs/2606.17154) |
+| 2026-06-17 | complexity | 0 | 圆筒中的手性填料对约束变形极其敏感 | [link](https://arxiv.org/abs/2606.19082) |
+| 2026-06-17 | complexity | 0 | 通过随机场自旋链中的乱序相关器探测混沌和热化 | [link](https://arxiv.org/abs/2606.18982) |
+| 2026-06-17 | bio_inspired | 0 | 尖峰神经网络的自适应语音到尖峰编码 | [link](https://arxiv.org/abs/2606.19039) |
+| 2026-06-16 | complexity | 0 | 全息布朗运动的 Lindbladian | [link](https://arxiv.org/abs/2606.17909) |
+| 2026-06-16 | complexity | 0 | 稀释埃尔米特矩阵经验谱分布函数的率函数的复制理论 | [link](https://arxiv.org/abs/2606.17868) |
+| 2026-06-16 | info_theory | 0 | Bogoliubov-Kubo-Mori 随机状态系综的平均熵 | [link](https://arxiv.org/abs/2606.17960) |
+| 2026-06-15 | complexity | 0 | 扩散模型中分数匹配的随机热力学 | [link](https://arxiv.org/abs/2606.17252) |
+| 2026-06-15 | complexity | 0 | 为什么维度分析有效：基于尺度不变性的自相似性的一般分类 | [link](https://arxiv.org/abs/2606.17179) |
+| 2026-06-15 | complexity | 0 | 热单点函数和渐近 CFT 数据：AdS 中的 QFT | [link](https://arxiv.org/abs/2606.17167) |
+| 2026-06-15 | complexity | 0 | 螺旋SYK模型和应急红外可积性 | [link](https://arxiv.org/abs/2606.17161) |
+| 2026-06-15 | complexity | 0 | 通过量子点随机矩阵理论在表面代码中投影逻辑系综 | [link](https://arxiv.org/abs/2606.17140) |
+| 2026-06-15 | complexity | 0 | 里程碑式的马尔可夫跳跃动力学：稳态特性、热力学一致性、动力学滞后和涨落对称性 | [link](https://arxiv.org/abs/2606.17033) |
+| 2026-06-15 | info_theory | 0 | 用于无线系统中 CSI 压缩的上下文感知马尔可夫 VAE | [link](https://arxiv.org/abs/2606.16607) |
+| 2026-06-15 | info_theory | 0 | 保闭保真度下可逆因果网络的率失真 | [link](https://arxiv.org/abs/2606.16592) |
+| 2026-06-12 | network | 0 | 噪声感知下的选择性控制：模块化网络中聚合指标隐藏的治理失败 | [link](https://arxiv.org/abs/2606.14819) |
+| 2026-06-05 | network | 0 | 养猪生产中传染病监测中农场间接触的多网络比较 | [link](https://arxiv.org/abs/2606.18277) |
