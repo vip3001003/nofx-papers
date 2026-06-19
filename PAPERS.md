@@ -1198,3 +1198,27 @@
 | 2026-06-15 | info_theory | 0 | 保闭保真度下可逆因果网络的率失真 | [link](https://arxiv.org/abs/2606.16592) |
 | 2026-06-12 | network | 0 | 噪声感知下的选择性控制：模块化网络中聚合指标隐藏的治理失败 | [link](https://arxiv.org/abs/2606.14819) |
 | 2026-06-05 | network | 0 | 养猪生产中传染病监测中农场间接触的多网络比较 | [link](https://arxiv.org/abs/2606.18277) |
+| 2026-06-18 | complexity | 8 | 金融市场的趋势、波动性、相关性和关键现象 | [link](https://arxiv.org/abs/2606.20145) |
+| 2026-06-17 | crypto | 7 | 预测市场与期权价格匹配吗？来自 Binance 和 Polymarket 的比特币阈值证据 | [link](https://arxiv.org/abs/2606.19517) |
+| 2026-06-18 | complexity | 5 | 平衡相变中的尺度、分形动力学和临界指数 | [link](https://arxiv.org/abs/2606.20460) |
+| 2026-06-18 | complexity | 2 | （非均匀）可积淬火的时空二元性方法 | [link](https://arxiv.org/abs/2606.20445) |
+| 2026-06-18 | complexity | 2 | 稀疏量子晶格模型的相互作用几何和基态性质 | [link](https://arxiv.org/abs/2606.20387) |
+| 2026-06-18 | complexity | 2 | 具有 Yang-Lee 相变的量子模型 | [link](https://arxiv.org/abs/2606.19732) |
+| 2026-06-17 | complexity | 2 | 强相互作用淬火中拓扑边缘记忆的多体保护 | [link](https://arxiv.org/abs/2606.19437) |
+| 2026-06-17 | complexity | 2 | 量子计算机上随机中电路测量和重置引起的非平衡稳态 | [link](https://arxiv.org/abs/2606.19027) |
+| 2026-06-18 | complexity | 1 | 驱动一维路径上的多粒子门：探测深陷阱 | [link](https://arxiv.org/abs/2606.20294) |
+| 2026-06-18 | complexity | 1 | 智力的热力学测量 | [link](https://arxiv.org/abs/2606.20231) |
+| 2026-06-18 | complexity | 1 | 纳米反应器限制电荷调节大离子的静电效应 | [link](https://arxiv.org/abs/2606.20040) |
+| 2026-06-18 | bio_inspired | 1 | 物理信息神经网络的进化两阶段超参数优化策略 | [link](https://arxiv.org/abs/2606.20442) |
+| 2026-06-18 | bio_inspired | 1 | 权重自适应提高自适应随机自然梯度的并行性能 | [link](https://arxiv.org/abs/2606.19861) |
+| 2026-06-17 | complexity | 1 | 使用里德伯原子模拟器释放涌现费米子 | [link](https://arxiv.org/abs/2606.19444) |
+| 2026-06-17 | network | 1 | 集聚网络：人口密度如何重新连接社交网络并重塑传染动态 | [link](https://arxiv.org/abs/2606.19488) |
+| 2026-06-18 | complexity | 0 | 聚合物-聚合物相互扩散：缠结和聚合物源的影响 | [link](https://arxiv.org/abs/2606.20462) |
+| 2026-06-18 | complexity | 0 | 电荷 1/3 任意子流体中的超导性和非费米液态金属 | [link](https://arxiv.org/abs/2606.20403) |
+| 2026-06-18 | complexity | 0 | 提取刘维尔本征模态的物理内容：半经典量化 | [link](https://arxiv.org/abs/2606.20271) |
+| 2026-06-18 | complexity | 0 | Haldane-Shastry 自旋链的规范、重叠和 Yangian 后代 | [link](https://arxiv.org/abs/2606.20168) |
+| 2026-06-18 | complexity | 0 | 热核扩展：高阶金融网络中冲击检测的曲率 | [link](https://arxiv.org/abs/2606.19860) |
+| 2026-06-17 | complexity | 0 | 过阻尼磁性自驱动球圆柱中的集体相 | [link](https://arxiv.org/abs/2606.19498) |
+| 2026-06-17 | complexity | 0 | sft-wick：随机场论中费曼图扩展和评估的形式主义和包 | [link](https://arxiv.org/abs/2606.19480) |
+| 2026-06-17 | complexity | 0 | Lindbladian Wess-Zumino-Witten 共形场论中的精确算子动力学 | [link](https://arxiv.org/abs/2606.19465) |
+| 2026-06-17 | complexity | 0 | 来自手性元胞自动机的奇怪流体 | [link](https://arxiv.org/abs/2606.19431) |
