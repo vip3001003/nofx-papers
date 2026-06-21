@@ -1222,3 +1222,4 @@
 | 2026-06-17 | complexity | 0 | sft-wick：随机场论中费曼图扩展和评估的形式主义和包 | [link](https://arxiv.org/abs/2606.19480) |
 | 2026-06-17 | complexity | 0 | Lindbladian Wess-Zumino-Witten 共形场论中的精确算子动力学 | [link](https://arxiv.org/abs/2606.19465) |
 | 2026-06-17 | complexity | 0 | 来自手性元胞自动机的奇怪流体 | [link](https://arxiv.org/abs/2606.19431) |
+| 2026-06-17 | complexity | 0 | 光谱作为一种经典现象，以及爱因斯坦经典程序 | [link](https://arxiv.org/abs/2606.19414) |
