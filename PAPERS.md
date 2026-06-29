@@ -1291,3 +1291,33 @@
 | 2026-06-19 | network | 0 | 连接时态网络中的拓扑和动力学的通用时间尺度 | [link](https://arxiv.org/abs/2606.21696) |
 | 2026-06-19 | bio_inspired | 0 | 关于使用生存选择方法进行进化多样性优化 | [link](https://arxiv.org/abs/2606.21161) |
 | 2026-06-08 | network | 0 | 具有非线性边缘成本和转运能力的现实物流运输网络的基准生成器 | [link](https://arxiv.org/abs/2606.20653) |
+| 2026-06-26 | crypto | 5 | CryptoGAT：时间序列模型对加密货币预测有效吗？ | [link](https://arxiv.org/abs/2606.27670) |
+| 2026-06-26 | complexity | 4 | 罕见事件控制弱对称破缺下的缺陷形成 | [link](https://arxiv.org/abs/2606.27835) |
+| 2026-06-26 | complexity | 3 | 通过热淬火激发手性超流体中的集体模式 | [link](https://arxiv.org/abs/2606.28306) |
+| 2026-06-26 | complexity | 3 | 通过最小超对称破缺实现平稳点复杂性 | [link](https://arxiv.org/abs/2606.28298) |
+| 2026-06-26 | complexity | 3 | 在受挫的四腿旋转 1/2 梯子中竞争旋转 1 和旋转 2 机制 | [link](https://arxiv.org/abs/2606.27991) |
+| 2026-06-25 | bio_inspired | 3 | 频率控制进化动力学的多目标分子生成 | [link](https://arxiv.org/abs/2606.27467) |
+| 2026-06-26 | complexity | 2 | 无序系统中的经典与量子安德森定位 | [link](https://arxiv.org/abs/2606.28262) |
+| 2026-06-26 | complexity | 2 | 随机语言模型的缩放限制 | [link](https://arxiv.org/abs/2606.28105) |
+| 2026-06-26 | complexity | 2 | 短程和长程 Lindbladians 混合的静态特征：马尔可夫性质和相关性 | [link](https://arxiv.org/abs/2606.28054) |
+| 2026-06-26 | complexity | 2 | 平均场相互作用系统的自组织鲁棒性 | [link](https://arxiv.org/abs/2606.27626) |
+| 2026-06-26 | complexity | 1 | 直径截断算子的演变 | [link](https://arxiv.org/abs/2606.28313) |
+| 2026-06-26 | complexity | 1 | 离散时间实验数据非平衡广义主方程的最优参数化 | [link](https://arxiv.org/abs/2606.28289) |
+| 2026-06-26 | complexity | 1 | 非均匀流体的熵密度泛函理论 | [link](https://arxiv.org/abs/2606.28240) |
+| 2026-06-26 | complexity | 1 | 随机语言模型的阶段结构 | [link](https://arxiv.org/abs/2606.28103) |
+| 2026-06-26 | complexity | 1 | 脉动纳维-斯托克斯方程的有限元方法 | [link](https://arxiv.org/abs/2606.27972) |
+| 2026-06-26 | complexity | 1 | 信息介导的能量转移的量子增强 | [link](https://arxiv.org/abs/2606.27868) |
+| 2026-06-26 | network | 1 | 从面对面交互时间网络中提取行为属性：自我持久性的衡量标准 | [link](https://arxiv.org/abs/2606.27860) |
+| 2026-06-26 | bio_inspired | 1 | 柔性电子中低功耗函数逼近的模拟 Kolmogorov-Arnold 网络协同优化 | [link](https://arxiv.org/abs/2606.27892) |
+| 2026-06-26 | complexity | 0 | 蛋白质组长度分布中两侧对称转变的非广泛统计特征 | [link](https://arxiv.org/abs/2606.27985) |
+| 2026-06-26 | network | 0 | SimPol：模拟欧洲国家政治信仰网络的两极分化 | [link](https://arxiv.org/abs/2606.27968) |
+| 2026-06-26 | network | 0 | 将“内在”和“外在”自我与心理健康和大脑网络联系起来 | [link](https://arxiv.org/abs/2606.27956) |
+| 2026-06-26 | network | 0 | 使用 GenAI 的学生解决问题的能力落后：基于主体的课堂网络研究 | [link](https://arxiv.org/abs/2606.27938) |
+| 2026-06-26 | network | 0 | 偏好和带宽驱动在线和离线自我网络中的联系活动 | [link](https://arxiv.org/abs/2606.27937) |
+| 2026-06-26 | bio_inspired | 0 | MMAO：具有内源资源分配的代谢多智能体优化器，用于连续和离散优化 | [link](https://arxiv.org/abs/2606.28109) |
+| 2026-06-26 | bio_inspired | 0 | 生成上位景观中进化中间体的可重构性 | [link](https://arxiv.org/abs/2606.27983) |
+| 2026-06-26 | bio_inspired | 0 | DE-2LS：用于约束数值优化的轻量级后期局部搜索的差分进化 | [link](https://arxiv.org/abs/2606.27764) |
+| 2026-06-26 | bio_inspired | 0 | DE-2LS：具有后期局部搜索的差分进化，用于无约束单目标数值优化 | [link](https://arxiv.org/abs/2606.27762) |
+| 2026-06-25 | complexity | 0 | 软 QED 作为开放量子系统：红外消除和软壳粗粒化 | [link](https://arxiv.org/abs/2606.27498) |
+| 2026-06-25 | complexity | 0 | 反向记忆过滤驾驶下的对抗的 Jarzynski 等式 | [link](https://arxiv.org/abs/2606.27486) |
+| 2026-06-25 | network | 0 | 迈向社会的混合数字孪生：通过线上线下反馈网络量化认知空间联系 | [link](https://arxiv.org/abs/2606.27513) |
