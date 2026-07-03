@@ -1321,3 +1321,62 @@
 | 2026-06-25 | complexity | 0 | 软 QED 作为开放量子系统：红外消除和软壳粗粒化 | [link](https://arxiv.org/abs/2606.27498) |
 | 2026-06-25 | complexity | 0 | 反向记忆过滤驾驶下的对抗的 Jarzynski 等式 | [link](https://arxiv.org/abs/2606.27486) |
 | 2026-06-25 | network | 0 | 迈向社会的混合数字孪生：通过线上线下反馈网络量化认知空间联系 | [link](https://arxiv.org/abs/2606.27513) |
+| 2026-07-02 | volume | 7 | 趋势还是你的朋友吗？：短期趋势追踪消亡的微观结构说明 | [link](https://arxiv.org/abs/2607.01550) |
+| 2026-06-28 | volume | 5 | 反弹没有方向：符号、幅度和股票回报可预测性的微观结构 | [link](https://arxiv.org/abs/2606.29591) |
+| 2026-07-02 | complexity | 4 | 复杂网络上的沙堆模型 | [link](https://arxiv.org/abs/2607.02023) |
+| 2026-06-30 | bio_inspired | 4 | 多宿主媒介传播疾病模型中宿主行为与媒介适应之间的非线性反馈 | [link](https://arxiv.org/abs/2606.31768) |
+| 2026-07-02 | complexity | 3 | 伪装的自由费米子的相关性和纠缠动力学 | [link](https://arxiv.org/abs/2607.02359) |
+| 2026-07-01 | complexity | 3 | 欠阻尼谐振子的首次通过时间及其在信息引擎功率中的应用 | [link](https://arxiv.org/abs/2607.01404) |
+| 2026-07-01 | complexity | 3 | 边界附近的通用短虚时量子临界动力学 | [link](https://arxiv.org/abs/2607.01076) |
+| 2026-06-30 | network | 3 | 尽管目标重叠，匹配网络中的反馈动态仍会推动行为差异 | [link](https://arxiv.org/abs/2606.31802) |
+| 2026-06-30 | bio_inspired | 3 | EVOTS：用于时间序列预测的进化变压器搜索 | [link](https://arxiv.org/abs/2607.00154) |
+| 2026-07-02 | complexity | 2 | 量子互信息作为开放量子系统中可积性的稳健探针 | [link](https://arxiv.org/abs/2607.02462) |
+| 2026-07-02 | complexity | 2 | Rosenzweig-Porter 型模型 | [link](https://arxiv.org/abs/2607.02446) |
+| 2026-07-02 | complexity | 2 | 逆向多数动态：违反详细平衡和非平衡稳态 | [link](https://arxiv.org/abs/2607.02358) |
+| 2026-07-02 | complexity | 2 | 组件系统中通用多样性扩展的替代途径：从蛋白质组到大型语言模型 | [link](https://arxiv.org/abs/2607.02221) |
+| 2026-07-02 | complexity | 2 | 量子储层计算的热力学 | [link](https://arxiv.org/abs/2607.02157) |
+| 2026-07-02 | complexity | 2 | 二维量子自旋系统中的假真空衰变 | [link](https://arxiv.org/abs/2607.01994) |
+| 2026-07-02 | bio_inspired | 2 | 将分组元启发式与强化学习相结合解决一维装箱问题 | [link](https://arxiv.org/abs/2607.02315) |
+| 2026-07-01 | complexity | 2 | 欠阻尼谐振子的首次通过时间分布 | [link](https://arxiv.org/abs/2607.01405) |
+| 2026-07-01 | complexity | 2 | 控制受监控集体自旋中的等待时间统计：减轻测量引起的相变中探测器的分辨率障碍 | [link](https://arxiv.org/abs/2607.01332) |
+| 2026-07-01 | complexity | 2 | 具有居里-魏斯相互作用的流体双占据单元模型的相图 | [link](https://arxiv.org/abs/2607.01009) |
+| 2026-06-29 | bio_inspired | 2 | 进化超参数优化寻找用于自主转向的轻量级 CNN 模型 | [link](https://arxiv.org/abs/2606.29684) |
+| 2026-06-28 | network | 2 | 中美贸易战对全球油籽供应链的连锁影响 | [link](https://arxiv.org/abs/2606.30685) |
+| 2026-07-02 | complexity | 1 | 关于可调破缺可积性的量子多体混沌的出现 | [link](https://arxiv.org/abs/2607.02506) |
+| 2026-07-02 | complexity | 1 | 适应性主体群体的集体学习理论 | [link](https://arxiv.org/abs/2607.02171) |
+| 2026-07-01 | complexity | 1 | 布朗棘轮和泵普遍模拟多体主动动力学 | [link](https://arxiv.org/abs/2607.01231) |
+| 2026-07-01 | complexity | 1 | 关键现象的模糊领域之旅 | [link](https://arxiv.org/abs/2607.01310) |
+| 2026-06-29 | network | 1 | 集体迁移动态中的脉冲、波浪和级联 | [link](https://arxiv.org/abs/2606.30604) |
+| 2026-06-29 | bio_inspired | 1 | 分区引导距离显着性：在多目标优化中桥接决策和目标空间 | [link](https://arxiv.org/abs/2606.30836) |
+| 2026-06-29 | bio_inspired | 1 | 为什么遗传算法可以在高维搜索空间中发挥作用？ | [link](https://arxiv.org/abs/2606.30619) |
+| 2026-06-26 | bio_inspired | 1 | 用于自适应深部脑刺激的神经形态能量感知学习 | [link](https://arxiv.org/abs/2606.28600) |
+| 2026-06-26 | bio_inspired | 1 | 比较多标准工程优化的标量目标函数 | [link](https://arxiv.org/abs/2606.28541) |
+| 2026-07-02 | complexity | 0 | 浓电解质体电化学阻抗的分子解释 | [link](https://arxiv.org/abs/2607.02316) |
+| 2026-07-02 | complexity | 0 | 液气共存泊肃叶流中的压降局部化和动量隔离 | [link](https://arxiv.org/abs/2607.02310) |
+| 2026-07-02 | complexity | 0 | 具有洛伦兹力的布朗动力学中的速度和力自相关 | [link](https://arxiv.org/abs/2607.02282) |
+| 2026-07-02 | complexity | 0 | 错误到什么程度就太错误了：广义朗之万方程中位置记忆相关性的数值研究 | [link](https://arxiv.org/abs/2607.02268) |
+| 2026-07-02 | complexity | 0 | 高熵合金中短程序的可微逆设计：从目标 sro 到目标性能 | [link](https://arxiv.org/abs/2607.02219) |
+| 2026-07-02 | complexity | 0 | 扩散限制聚集的精确振幅关系 | [link](https://arxiv.org/abs/2607.02216) |
+| 2026-07-02 | complexity | 0 | 注意力驱动世界模型的路径测量动力学：非局部 Onsager-Machlup 方法 | [link](https://arxiv.org/abs/2607.02154) |
+| 2026-07-02 | complexity | 0 | 具有不同几何形状的开放边界可积量子电路 | [link](https://arxiv.org/abs/2607.02093) |
+| 2026-07-02 | complexity | 0 | 具有集体耗散的 N 量子位海森堡链中的无阻尼模式 | [link](https://arxiv.org/abs/2607.02054) |
+| 2026-07-02 | complexity | 0 | 手性活性粒子中曲率驱动的壁积累 | [link](https://arxiv.org/abs/2607.01948) |
+| 2026-07-02 | info_theory | 0 | $r$-变形$α$-$z$-Rényi相对熵 | [link](https://arxiv.org/abs/2607.01805) |
+| 2026-07-02 | bio_inspired | 0 | 演化波函数崩溃 | [link](https://arxiv.org/abs/2607.02082) |
+| 2026-07-01 | complexity | 0 | 交互可积模型中的一体纯度、非高斯性和纠缠 | [link](https://arxiv.org/abs/2607.01326) |
+| 2026-07-01 | complexity | 0 | 多维崎岖能源景观中非高斯参数和自动力结构因子的幂律弛豫 | [link](https://arxiv.org/abs/2607.00767) |
+| 2026-07-01 | complexity | 0 | 单细胞水平的分布和关系可以区分细胞分裂和生长模型 | [link](https://arxiv.org/abs/2607.00467) |
+| 2026-07-01 | network | 0 | 网络舆论动态的量子模型 | [link](https://arxiv.org/abs/2607.01452) |
+| 2026-07-01 | bio_inspired | 0 | MMAO-Cls：用于联合特征选择和分类器调整的代谢多智能体优化 | [link](https://arxiv.org/abs/2607.01539) |
+| 2026-07-01 | bio_inspired | 0 | MMAO-Dyn：用于动态优化的代谢多智能体优化器 | [link](https://arxiv.org/abs/2607.00846) |
+| 2026-07-01 | bio_inspired | 0 | 异质 SI 流行病模型的最优控制 | [link](https://arxiv.org/abs/2607.00584) |
+| 2026-07-01 | bio_inspired | 0 | 径向交互断层扫描：从一张范围扩展图像识别非传递进化博弈 | [link](https://arxiv.org/abs/2607.00378) |
+| 2026-06-30 | network | 0 | 腐败网络中权力获取的不平等：来自哥伦比亚的证据 | [link](https://arxiv.org/abs/2607.00242) |
+| 2026-06-30 | network | 0 | 当一种协议不适合时：通过进化博弈动态进行自组织网络路由 | [link](https://arxiv.org/abs/2606.31414) |
+| 2026-06-29 | network | 0 | 网络中强大的秘密存储 | [link](https://arxiv.org/abs/2606.30261) |
+| 2026-06-29 | info_theory | 0 | 稀疏聚合的有损压缩 | [link](https://arxiv.org/abs/2606.30425) |
+| 2026-06-29 | bio_inspired | 0 | 最小 MMAO：自适应元启发式搜索的资源闭环框架 | [link](https://arxiv.org/abs/2606.30450) |
+| 2026-06-28 | info_theory | 0 | SoftBinary 编码：一种新的信息论神经压缩范式 | [link](https://arxiv.org/abs/2606.29578) |
+| 2026-06-28 | bio_inspired | 0 | 使用生成模型模拟蛋白质进化：从现有序列数据到进化动力学 | [link](https://arxiv.org/abs/2606.29529) |
+| 2026-06-27 | info_theory | 0 | 减法抖动量化模型下的通道容量 | [link](https://arxiv.org/abs/2606.28842) |
+| 2026-06-13 | info_theory | 0 | ConCise：无需培训的结论链状态压缩，可实现经济高效的多步 RAG 服务 | [link](https://arxiv.org/abs/2606.28361) |
