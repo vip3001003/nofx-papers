@@ -1380,3 +1380,44 @@
 | 2026-06-28 | bio_inspired | 0 | 使用生成模型模拟蛋白质进化：从现有序列数据到进化动力学 | [link](https://arxiv.org/abs/2606.29529) |
 | 2026-06-27 | info_theory | 0 | 减法抖动量化模型下的通道容量 | [link](https://arxiv.org/abs/2606.28842) |
 | 2026-06-13 | info_theory | 0 | ConCise：无需培训的结论链状态压缩，可实现经济高效的多步 RAG 服务 | [link](https://arxiv.org/abs/2606.28361) |
+| 2026-07-06 | complexity | 4 | 非守恒标量场理论中的成核和时间反演对称性破缺 | [link](https://arxiv.org/abs/2607.05194) |
+| 2026-07-04 | momentum | 4 | 方差比的谱推广：长期投资组合协方差的特征结构和美国股票收益的多记忆因子模型 | [link](https://arxiv.org/abs/2607.03858) |
+| 2026-07-03 | risk | 4 | 主动管理型 ETF 的投资组合优化和尾部风险分析 | [link](https://arxiv.org/abs/2607.03082) |
+| 2026-07-06 | complexity | 3 | 量子计算资源和共形场论：统一自旋、玻色子和费米子 | [link](https://arxiv.org/abs/2607.05343) |
+| 2026-07-06 | complexity | 3 | 驱动居里-韦斯模型的临界行为 | [link](https://arxiv.org/abs/2607.05130) |
+| 2026-07-05 | complexity | 3 | 红外发散作为流动真空 | [link](https://arxiv.org/abs/2607.04115) |
+| 2026-07-05 | network | 3 | 宏观强化调整可逆社会传染的过渡顺序 | [link](https://arxiv.org/abs/2607.04354) |
+| 2026-07-06 | bio_inspired | 2 | 一种基于最优性能评分的大规模稀疏多目标优化算法 | [link](https://arxiv.org/abs/2607.04765) |
+| 2026-07-05 | complexity | 2 | 共形场论测量后激发态的纠缠 | [link](https://arxiv.org/abs/2607.04268) |
+| 2026-07-04 | complexity | 2 | 通过熵产生获得自由能和最佳反应坐标 | [link](https://arxiv.org/abs/2607.03722) |
+| 2026-07-04 | network | 2 | 税收移民作为社会传染：适用于斯堪的纳维亚财富税辩论的引爆点模型 | [link](https://arxiv.org/abs/2607.03868) |
+| 2026-07-03 | complexity | 2 | 结构的信息成本：网络动力系统中的表征复杂性 | [link](https://arxiv.org/abs/2607.03608) |
+| 2026-07-03 | network | 2 | 具有部分功能的多路流网络中基于过载的级联 | [link](https://arxiv.org/abs/2607.02844) |
+| 2026-06-23 | bio_inspired | 2 | 用于群体状态感知的自适应增强量子启发模拟分岔算法 | [link](https://arxiv.org/abs/2607.02540) |
+| 2026-07-06 | complexity | 1 | 能量保护、单调性和远离平衡的切换 | [link](https://arxiv.org/abs/2607.05303) |
+| 2026-07-06 | complexity | 1 | 非均匀系统中的均匀分布：经典密度泛函理论中产生恒定密度分布的壁势 | [link](https://arxiv.org/abs/2607.04863) |
+| 2026-07-06 | complexity | 1 | 有限可编程量子位环境中探针级浴出现的扇区内存阻碍 | [link](https://arxiv.org/abs/2607.04791) |
+| 2026-07-04 | complexity | 1 | 通过广义 Clifford 电路解开 Haldane 相 | [link](https://arxiv.org/abs/2607.03939) |
+| 2026-07-04 | complexity | 1 | 统计力学中的重加权原理 | [link](https://arxiv.org/abs/2607.03867) |
+| 2026-07-04 | complexity | 1 | 量子隧道姆潘巴效应 | [link](https://arxiv.org/abs/2607.03845) |
+| 2026-07-04 | complexity | 1 | 测量引起的局部粒子数的空间不均匀波动及其在准周期自由费米子链中的交叉 | [link](https://arxiv.org/abs/2607.03799) |
+| 2026-07-03 | complexity | 1 | 网络上 $SIS$ 流行病的方差：扩散近似 | [link](https://arxiv.org/abs/2607.03300) |
+| 2026-07-03 | complexity | 1 | 电池放电的有限时间热力学：功率效率权衡和优化 | [link](https://arxiv.org/abs/2607.03157) |
+| 2026-07-03 | info_theory | 1 | 走向多样化和全面的互信息估计基准 | [link](https://arxiv.org/abs/2607.03487) |
+| 2026-07-02 | network | 1 | 从图元到现实世界网络：选择性媒体影响下的动态舆论动态 | [link](https://arxiv.org/abs/2607.02821) |
+| 2026-07-06 | complexity | 0 | 平面伊辛晶格的通用模拟器 | [link](https://arxiv.org/abs/2607.05308) |
+| 2026-07-06 | complexity | 0 | 波动谐波陷阱中的半马尔可夫切换：年龄结构公式 | [link](https://arxiv.org/abs/2607.05173) |
+| 2026-07-06 | complexity | 0 | 具有灵活可调子问题大小的伊辛机辅助大邻域搜索 | [link](https://arxiv.org/abs/2607.05169) |
+| 2026-07-06 | complexity | 0 | 存在二次势的情况下多维广义朗之万动力学的数据驱动参数化 | [link](https://arxiv.org/abs/2607.05151) |
+| 2026-07-06 | complexity | 0 | 伊辛机辅助大邻域搜索子问题的几何特征 | [link](https://arxiv.org/abs/2607.05014) |
+| 2026-07-06 | complexity | 0 | 神经元的规范量化 | [link](https://arxiv.org/abs/2607.05000) |
+| 2026-07-06 | network | 0 | 通过控制时间交互网络来控制动态 | [link](https://arxiv.org/abs/2607.04998) |
+| 2026-07-05 | complexity | 0 | 基本物理常数对生物分子过程的速度限制 | [link](https://arxiv.org/abs/2607.04549) |
+| 2026-07-05 | complexity | 0 | 竞争性勘探中首次发现的普遍波动 | [link](https://arxiv.org/abs/2607.04252) |
+| 2026-07-05 | complexity | 0 | 标准化维格纳负率作为 AdS$_3$ 坠落的二阶矩探针 | [link](https://arxiv.org/abs/2607.04065) |
+| 2026-07-05 | network | 0 | 合并症网络分析揭示了奥地利和非奥地利住院患者之间的诊断差异：一项全人群队列研究 | [link](https://arxiv.org/abs/2607.04296) |
+| 2026-07-04 | complexity | 0 | 强耦合量子功统计中的正交边 | [link](https://arxiv.org/abs/2607.03950) |
+| 2026-07-04 | complexity | 0 | 史瓦西黑洞的全息热机 | [link](https://arxiv.org/abs/2607.03749) |
+| 2026-07-04 | complexity | 0 | 主动湍流中被动液滴变形的间歇特征 | [link](https://arxiv.org/abs/2607.03737) |
+| 2026-07-03 | complexity | 0 | 来自不可约自由度的热化层次 | [link](https://arxiv.org/abs/2607.03535) |
+| 2026-07-03 | complexity | 0 | 稀疏损耗光子晶格中的格里菲斯反常吸收 | [link](https://arxiv.org/abs/2607.03205) |
