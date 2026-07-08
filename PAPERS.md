@@ -1421,3 +1421,28 @@
 | 2026-07-04 | complexity | 0 | 主动湍流中被动液滴变形的间歇特征 | [link](https://arxiv.org/abs/2607.03737) |
 | 2026-07-03 | complexity | 0 | 来自不可约自由度的热化层次 | [link](https://arxiv.org/abs/2607.03535) |
 | 2026-07-03 | complexity | 0 | 稀疏损耗光子晶格中的格里菲斯反常吸收 | [link](https://arxiv.org/abs/2607.03205) |
+| 2026-07-07 | complexity | 3 | 鲁棒 q 负多重分形去趋势互相关系数 | [link](https://arxiv.org/abs/2607.06324) |
+| 2026-07-07 | complexity | 3 | 作为重正化群交叉的拉姆齐社区数 | [link](https://arxiv.org/abs/2607.05954) |
+| 2026-07-07 | complexity | 2 | 关键$J_1$-$J_2$横向场伊辛链中静态空位作为参数化共形缺陷 | [link](https://arxiv.org/abs/2607.06511) |
+| 2026-07-07 | complexity | 2 | 具有严格动力学约束的晶格自旋系统中的热力学相变：数值模拟结果 | [link](https://arxiv.org/abs/2607.06205) |
+| 2026-07-07 | complexity | 2 | 识别无法维持扩散不平衡的非理想反应扩散系统 | [link](https://arxiv.org/abs/2607.06030) |
+| 2026-07-07 | network | 2 | 远程社会压力与多重网络合作的演变 | [link](https://arxiv.org/abs/2607.06056) |
+| 2026-07-06 | network | 2 | 罗马-拜占庭贸易网络的结构分歧，0--1453\，CE：持久同源性、拓扑速度和帝国崩溃的临界指标 | [link](https://arxiv.org/abs/2607.05695) |
+| 2026-07-07 | ml | 1 | 强化学习能否有效发现价格操纵行为？ | [link](https://arxiv.org/abs/2607.06121) |
+| 2026-07-07 | complexity | 1 | Polyakov 循环驯服相变 | [link](https://arxiv.org/abs/2607.06203) |
+| 2026-07-07 | complexity | 1 | 双手性活性粒子中鲁棒的拓扑保护边缘传输 | [link](https://arxiv.org/abs/2607.06193) |
+| 2026-07-07 | complexity | 1 | 相干传输中任意电流的不确定性关系 | [link](https://arxiv.org/abs/2607.06190) |
+| 2026-07-06 | complexity | 1 | 激活速率过程的现代观点：平衡时的单向通量、相关函数和分裂概率 | [link](https://arxiv.org/abs/2607.05672) |
+| 2026-07-07 | complexity | 0 | 从有限密度 O(N) 模型中的纠缠熵确定热力学 | [link](https://arxiv.org/abs/2607.06286) |
+| 2026-07-07 | complexity | 0 | 态和整数分区的量子密度：半经典方法 | [link](https://arxiv.org/abs/2607.06146) |
+| 2026-07-07 | complexity | 0 | 机械失速时的隐熵产生：互易布朗电机中的精确重建 | [link](https://arxiv.org/abs/2607.06131) |
+| 2026-07-07 | complexity | 0 | 过阻尼二聚体的条件停留时间和顺序转变动力学 | [link](https://arxiv.org/abs/2607.06110) |
+| 2026-07-06 | complexity | 0 | 低密度对齐正方形随机顺序吸附中可用性函数的完全局部展开：四阶终止 | [link](https://arxiv.org/abs/2607.05634) |
+| 2026-07-06 | complexity | 0 | Corbino 盘中层析电子的磁输运 | [link](https://arxiv.org/abs/2607.05540) |
+| 2026-07-06 | complexity | 0 | 局部淬灭后的高维混沌特征和随机矩阵特征 | [link](https://arxiv.org/abs/2607.05512) |
+| 2026-07-06 | complexity | 0 | 两个可积极限之间量子混沌的反常抑制 | [link](https://arxiv.org/abs/2607.05506) |
+| 2026-07-05 | bio_inspired | 0 | 用于帕金森病自适应深部脑刺激的神经形态硅神经元控制器 | [link](https://arxiv.org/abs/2607.05453) |
+| 2026-06-30 | network | 0 | 通过马尔可夫链的近似集总实现网络动力学的基于边缘的平均场近似 | [link](https://arxiv.org/abs/2607.05425) |
+| 2026-06-26 | info_theory | 0 | 无线网络中增强信道状态反馈的压缩对比预测编码 | [link](https://arxiv.org/abs/2607.05419) |
+| 2026-06-26 | info_theory | 0 | 率失真类型问题的学习计算范式调查 | [link](https://arxiv.org/abs/2607.05417) |
+| 2026-06-23 | info_theory | 0 | 嵌套和分层重复的文本距离：基于压缩的视角 | [link](https://arxiv.org/abs/2607.05416) |
