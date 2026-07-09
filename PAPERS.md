@@ -1446,3 +1446,20 @@
 | 2026-06-26 | info_theory | 0 | 无线网络中增强信道状态反馈的压缩对比预测编码 | [link](https://arxiv.org/abs/2607.05419) |
 | 2026-06-26 | info_theory | 0 | 率失真类型问题的学习计算范式调查 | [link](https://arxiv.org/abs/2607.05417) |
 | 2026-06-23 | info_theory | 0 | 嵌套和分层重复的文本距离：基于压缩的视角 | [link](https://arxiv.org/abs/2607.05416) |
+| 2026-07-08 | complexity | 2 | DNA 处理依赖于偏置力的循环时间 | [link](https://arxiv.org/abs/2607.07561) |
+| 2026-07-08 | complexity | 2 | 蜂窝晶格解除临界临界点处纠缠熵的临界 SO(5) 标度 | [link](https://arxiv.org/abs/2607.07248) |
+| 2026-07-08 | complexity | 2 | 双温度系统中密度引起的重入粗化 | [link](https://arxiv.org/abs/2607.07113) |
+| 2026-07-08 | complexity | 1 | 超均匀系统是最大程度不可逆的 | [link](https://arxiv.org/abs/2607.07411) |
+| 2026-07-08 | complexity | 1 | 驯服非线性能量扩散：时间晶体能量凝聚的情况 | [link](https://arxiv.org/abs/2607.07325) |
+| 2026-07-08 | complexity | 1 | 全球能源和碳排放分布的热力学描述 | [link](https://arxiv.org/abs/2607.07315) |
+| 2026-07-08 | network | 1 | 重尾网络上的强制凝结和反凝结 | [link](https://arxiv.org/abs/2607.07399) |
+| 2026-07-07 | complexity | 1 | 微观动态熵 II：哈密顿系统的统计和随机热力学 | [link](https://arxiv.org/abs/2607.06814) |
+| 2026-07-07 | complexity | 1 | 微观动态熵 I：量化大型和小型系统中的哈密顿不可逆性 | [link](https://arxiv.org/abs/2607.06787) |
+| 2026-07-08 | complexity | 0 | 区间内的费勒扩散：非均匀涨落引起的不对称逃逸 | [link](https://arxiv.org/abs/2607.07649) |
+| 2026-07-08 | complexity | 0 | 随机量子自动机中的纠缠不对称性 | [link](https://arxiv.org/abs/2607.07556) |
+| 2026-07-08 | complexity | 0 | 用于生物分子排列、聚类和域识别的 RMSD 之外的距离度量的贝叶斯学习 | [link](https://arxiv.org/abs/2607.07352) |
+| 2026-07-08 | complexity | 0 | Mealy 自动机生成的孤子系统的不变测度 | [link](https://arxiv.org/abs/2607.06942) |
+| 2026-07-07 | complexity | 0 | 神经网络麦克斯韦妖学习冷阻尼以提取功 | [link](https://arxiv.org/abs/2607.06822) |
+| 2026-07-07 | complexity | 0 | 多体动力学中的局部马尔可夫阶和全局推理 | [link](https://arxiv.org/abs/2607.06689) |
+| 2026-07-07 | complexity | 0 | 受监控 Clifford 回路的通用净化动力学 | [link](https://arxiv.org/abs/2607.06683) |
+| 2026-07-07 | info_theory | 0 | 近似稀疏信号的一位压缩感知的近最优下界 | [link](https://arxiv.org/abs/2607.06750) |
