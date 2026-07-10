@@ -1463,3 +1463,22 @@
 | 2026-07-07 | complexity | 0 | 多体动力学中的局部马尔可夫阶和全局推理 | [link](https://arxiv.org/abs/2607.06689) |
 | 2026-07-07 | complexity | 0 | 受监控 Clifford 回路的通用净化动力学 | [link](https://arxiv.org/abs/2607.06683) |
 | 2026-07-07 | info_theory | 0 | 近似稀疏信号的一位压缩感知的近最优下界 | [link](https://arxiv.org/abs/2607.06750) |
+| 2026-07-09 | complexity | 3 | 在临界淬火后从洛施密特回波中提取共形数据 | [link](https://arxiv.org/abs/2607.08649) |
+| 2026-07-09 | complexity | 3 | 对称破缺测量下测量引起的临界的普遍性 | [link](https://arxiv.org/abs/2607.08589) |
+| 2026-07-09 | complexity | 3 | 驱动耗散玻色子晶格中的量子和经典波茨临界点 | [link](https://arxiv.org/abs/2607.08425) |
+| 2026-07-09 | crypto | 2 | 国民经济中面临压力的稳定币：来自奥地利加密资产服务提供商的交易级证据 | [link](https://arxiv.org/abs/2607.08524) |
+| 2026-07-09 | network | 2 | 网络动态过程的统计推断 | [link](https://arxiv.org/abs/2607.08672) |
+| 2026-07-08 | complexity | 2 | 部分开放非对称量子贝克图中的复间距比统计 | [link](https://arxiv.org/abs/2607.07878) |
+| 2026-07-08 | complexity | 2 | 随机正则图上 Ising 模型的边双色图方法 | [link](https://arxiv.org/abs/2607.07867) |
+| 2026-07-08 | complexity | 2 | 受监控超导链中的超对数纠缠缩放 | [link](https://arxiv.org/abs/2607.07835) |
+| 2026-07-09 | complexity | 1 | 孤立量子多体系统及其子系统中超出平衡的温度 | [link](https://arxiv.org/abs/2607.08655) |
+| 2026-07-09 | complexity | 1 | 相关场中粒子的随机动力学 | [link](https://arxiv.org/abs/2607.08627) |
+| 2026-07-09 | complexity | 1 | 量子动力学三方纠缠中马尔可夫间隙的操作意义 | [link](https://arxiv.org/abs/2607.08615) |
+| 2026-07-08 | complexity | 1 | 组件反应网络中的平衡 | [link](https://arxiv.org/abs/2607.07959) |
+| 2026-07-08 | complexity | 1 | 非线性对流扩散中的热力学结构和成分 | [link](https://arxiv.org/abs/2607.07829) |
+| 2026-07-08 | complexity | 1 | 三维伊辛模型的七环和八环临界指数 | [link](https://arxiv.org/abs/2607.07776) |
+| 2026-07-09 | complexity | 0 | 在实验可行的量子热机中接近有限功率下的卡诺效率 | [link](https://arxiv.org/abs/2607.08713) |
+| 2026-07-09 | complexity | 0 | 大$N$瓜随机张量的双重普遍性 | [link](https://arxiv.org/abs/2607.08677) |
+| 2026-07-09 | network | 0 | 谣言在社区网络中传播 | [link](https://arxiv.org/abs/2607.08546) |
+| 2026-07-08 | complexity | 0 | 自主工作的波动定理 | [link](https://arxiv.org/abs/2607.07843) |
+| 2026-07-08 | complexity | 0 | 克雷洛夫空间中非厄米系统绝热性的捷径 | [link](https://arxiv.org/abs/2607.07802) |
