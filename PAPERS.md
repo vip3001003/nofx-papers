@@ -1482,3 +1482,25 @@
 | 2026-07-09 | network | 0 | 谣言在社区网络中传播 | [link](https://arxiv.org/abs/2607.08546) |
 | 2026-07-08 | complexity | 0 | 自主工作的波动定理 | [link](https://arxiv.org/abs/2607.07843) |
 | 2026-07-08 | complexity | 0 | 克雷洛夫空间中非厄米系统绝热性的捷径 | [link](https://arxiv.org/abs/2607.07802) |
+| 2026-07-10 | volume | 9 | 订单流何时重要？加密货币期货中依赖于状态的 L2 流动性-状态转换 | [link](https://arxiv.org/abs/2607.09230) |
+| 2026-07-10 | crypto | 6 | 刻钟效应：加密货币期货的定期算法交易和回报可预测性 | [link](https://arxiv.org/abs/2607.09426) |
+| 2026-07-10 | complexity | 3 | 非饱和土壤水的统计物理：动力学理论和非交换孔隙水动力学 | [link](https://arxiv.org/abs/2607.09416) |
+| 2026-07-06 | bio_inspired | 3 | LLM驱动的多目标贝叶斯优化算法的进化生成 | [link](https://arxiv.org/abs/2607.08791) |
+| 2026-07-10 | complexity | 2 | 伊辛反铁磁体中条带相的有限时间冷却和可及性 | [link](https://arxiv.org/abs/2607.09411) |
+| 2026-07-10 | complexity | 2 | 完美准晶体的无序尺度 | [link](https://arxiv.org/abs/2607.09274) |
+| 2026-07-10 | complexity | 2 | 非线性系统中普遍性类的预测重整化群论 | [link](https://arxiv.org/abs/2607.09079) |
+| 2026-07-10 | network | 2 | 异构网络拓扑引发Widom线 | [link](https://arxiv.org/abs/2607.09174) |
+| 2026-07-09 | volume | 2 | 订单簿市场中的羊群效应和流动性。一、稳健的流动性-压力交叉及其自反机制 | [link](https://arxiv.org/abs/2607.08907) |
+| 2026-07-10 | risk | 1 | 增强型多目标进化算法基数约束下的大规模投资组合优化问题 | [link](https://arxiv.org/abs/2607.09566) |
+| 2026-07-10 | complexity | 1 | 内富勒烯锯齿状链中的量子相 | [link](https://arxiv.org/abs/2607.09396) |
+| 2026-07-10 | bio_inspired | 1 | 科学发现的进化智能：从进化计算到累积发现系统 | [link](https://arxiv.org/abs/2607.09025) |
+| 2026-07-09 | complexity | 1 | 经典和量子模拟中水热容异常的结构起源 | [link](https://arxiv.org/abs/2607.08957) |
+| 2026-07-10 | complexity | 0 | 热隔离驱动量子系统的涨落定理：非绝热性、过剩功和强不等式 | [link](https://arxiv.org/abs/2607.09615) |
+| 2026-07-10 | complexity | 0 | 具有宏观零模式扇区的量子混沌 | [link](https://arxiv.org/abs/2607.09504) |
+| 2026-07-10 | complexity | 0 | 经典自旋液体中对称保护的箍缩曲线 | [link](https://arxiv.org/abs/2607.09470) |
+| 2026-07-10 | complexity | 0 | 广义Rosenzweig--Porter模型分形相的水平统计 | [link](https://arxiv.org/abs/2607.09444) |
+| 2026-07-10 | complexity | 0 | 艾铃情节有误导性吗？激活参数的阿伦尼乌斯分析案例 | [link](https://arxiv.org/abs/2607.09341) |
+| 2026-07-10 | network | 0 | 帝国崩溃和分裂的拓扑特征：汉代网络中的行政解散、领土重组和预警观测（206~BCE\,--\,220~CE） | [link](https://arxiv.org/abs/2607.09010) |
+| 2026-07-10 | info_theory | 0 | 关于具有单独失真约束的矢量源的高斯二次率失真函数 | [link](https://arxiv.org/abs/2607.09545) |
+| 2026-07-09 | complexity | 0 | 共形场论中的共形嵌入和拓扑缺陷的精确 Lindbladian 动力学 | [link](https://arxiv.org/abs/2607.08827) |
+| 2026-07-09 | network | 0 | 移动网络的自相似性 | [link](https://arxiv.org/abs/2607.08853) |
