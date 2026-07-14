@@ -1504,3 +1504,36 @@
 | 2026-07-10 | info_theory | 0 | 关于具有单独失真约束的矢量源的高斯二次率失真函数 | [link](https://arxiv.org/abs/2607.09545) |
 | 2026-07-09 | complexity | 0 | 共形场论中的共形嵌入和拓扑缺陷的精确 Lindbladian 动力学 | [link](https://arxiv.org/abs/2607.08827) |
 | 2026-07-09 | network | 0 | 移动网络的自相似性 | [link](https://arxiv.org/abs/2607.08853) |
+| 2026-07-13 | complexity | 4 | Lieb 晶格上混合自旋伊辛模型中的热相变：零磁场之外的精确结果 | [link](https://arxiv.org/abs/2607.11661) |
+| 2026-07-13 | complexity | 4 | 3D 经典海森堡模型中表面特殊过渡的有限时间缩放 | [link](https://arxiv.org/abs/2607.11066) |
+| 2026-07-13 | complexity | 3 | 与环境弱耦合的开放系统中量子临界性的独特时间尺度维度 | [link](https://arxiv.org/abs/2607.11206) |
+| 2026-07-12 | complexity | 3 | O$(n)$ 模型的维度和自旋插值：从精确锚点到 RG 改进的临界指数 | [link](https://arxiv.org/abs/2607.10865) |
+| 2026-07-11 | complexity | 3 | 相关维格纳矩阵中的级联 Volterra 算子 BBP 跃迁 | [link](https://arxiv.org/abs/2607.10503) |
+| 2026-07-11 | complexity | 3 | 重新审视连续特征 Axelrod 模型的非平衡相变 | [link](https://arxiv.org/abs/2607.10381) |
+| 2026-07-11 | complexity | 3 | 解释自动编码器的学习动态：伊辛模型的瞬态缩放和新兴概念 | [link](https://arxiv.org/abs/2607.10285) |
+| 2026-07-11 | complexity | 3 | 统一熵框架中真实流体的几何普适性和热力学微观结构 | [link](https://arxiv.org/abs/2607.10076) |
+| 2026-07-13 | complexity | 2 | 慢就是快：提高加速热弛豫的障碍 | [link](https://arxiv.org/abs/2607.11877) |
+| 2026-07-13 | complexity | 2 | 通过模糊三球正则化的量子相变的共形性质 | [link](https://arxiv.org/abs/2607.11371) |
+| 2026-07-13 | bio_inspired | 2 | 通过模型预测控制对流行病动态的优化控制：健康经济权衡分析 | [link](https://arxiv.org/abs/2607.11306) |
+| 2026-07-11 | complexity | 2 | 由随机场引起的交织长程有序 | [link](https://arxiv.org/abs/2607.10337) |
+| 2026-07-13 | complexity | 1 | 带有税收和再分配的随机乘法财富模型的福克-普朗克方法 | [link](https://arxiv.org/abs/2607.11755) |
+| 2026-07-13 | complexity | 1 | 利用有限尺寸效应来衡量 $2D$ Ising 模型中的老化 | [link](https://arxiv.org/abs/2607.11524) |
+| 2026-07-13 | complexity | 1 | 超越临界减速：慢速模式、极端拖尾和倾斜过渡中的场退相干 | [link](https://arxiv.org/abs/2607.11350) |
+| 2026-07-13 | bio_inspired | 1 | 用于节俭神经架构搜索的变压器引导群体智能 | [link](https://arxiv.org/abs/2607.11826) |
+| 2026-07-12 | complexity | 1 | 洛施密特振幅的克雷洛夫复杂度 | [link](https://arxiv.org/abs/2607.10921) |
+| 2026-07-12 | complexity | 1 | 从有限的子系统中学习拓扑量子相 | [link](https://arxiv.org/abs/2607.10656) |
+| 2026-07-12 | network | 1 | 阈值级联造成的机构危害 | [link](https://arxiv.org/abs/2607.10726) |
+| 2026-07-11 | network | 1 | 时态高阶网络的免疫 | [link](https://arxiv.org/abs/2607.10171) |
+| 2026-07-10 | bio_inspired | 1 | 通过 2-adic 和 3-adic 约束在 Collat​​z 指数代码空间中进行自适应搜索 | [link](https://arxiv.org/abs/2607.10041) |
+| 2026-07-13 | complexity | 0 | 将 Mpemba 效应扩展到欠阻尼领域 | [link](https://arxiv.org/abs/2607.11797) |
+| 2026-07-13 | complexity | 0 | 经典 Blume-Capel 模型中的静物：spin-1 钻石链中的伪过渡 | [link](https://arxiv.org/abs/2607.11669) |
+| 2026-07-13 | complexity | 0 | 量子双缝干涉的经典概率实现 | [link](https://arxiv.org/abs/2607.11580) |
+| 2026-07-13 | network | 0 | 用于图压缩的双曲嵌入 | [link](https://arxiv.org/abs/2607.11379) |
+| 2026-07-12 | complexity | 0 | Lee-Yang 哈密顿量的谱隙 | [link](https://arxiv.org/abs/2607.10765) |
+| 2026-07-12 | complexity | 0 | $\mathbb{Z}^2$ 上硬棒和硬矩形系统中形成向列相的纵横比的严格限制 | [link](https://arxiv.org/abs/2607.10510) |
+| 2026-07-11 | complexity | 0 | 瞬态哈密顿量的 Krylov 复杂度 | [link](https://arxiv.org/abs/2607.10454) |
+| 2026-07-11 | complexity | 0 | 活性布朗晶体中单空位跳跃的阿累尼乌斯型描述和噪声成分依赖性 | [link](https://arxiv.org/abs/2607.10192) |
+| 2026-07-11 | info_theory | 0 | 概率流的路径相关熵拉格朗日：平衡-熵路由和可组合信息势 | [link](https://arxiv.org/abs/2607.10493) |
+| 2026-07-08 | info_theory | 0 | 噪声锚定扩散反演中的压缩不对称性和轨迹束缚 | [link](https://arxiv.org/abs/2607.09784) |
+| 2026-07-07 | network | 0 | 科学的支柱：论文及其来源之间的引用网络分析 | [link](https://arxiv.org/abs/2607.09771) |
+| 2026-06-14 | info_theory | 0 | KV 缓存压缩的消融、统计推断和验证 | [link](https://arxiv.org/abs/2607.09683) |
