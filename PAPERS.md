@@ -1537,3 +1537,26 @@
 | 2026-07-08 | info_theory | 0 | 噪声锚定扩散反演中的压缩不对称性和轨迹束缚 | [link](https://arxiv.org/abs/2607.09784) |
 | 2026-07-07 | network | 0 | 科学的支柱：论文及其来源之间的引用网络分析 | [link](https://arxiv.org/abs/2607.09771) |
 | 2026-06-14 | info_theory | 0 | KV 缓存压缩的消融、统计推断和验证 | [link](https://arxiv.org/abs/2607.09683) |
+| 2026-07-14 | bio_inspired | 4 | 一种新的双群体约束多目标进化优化算法，具有修复约束处理的结构优化功能 | [link](https://arxiv.org/abs/2607.12240) |
+| 2026-07-14 | complexity | 3 | 测量引起的空间相变 | [link](https://arxiv.org/abs/2607.12386) |
+| 2026-07-13 | complexity | 3 | 手性活性体系中的体相和微相分离 | [link](https://arxiv.org/abs/2607.12045) |
+| 2026-07-13 | complexity | 3 | 全息术中虫洞的强到弱自发对称性断裂 | [link](https://arxiv.org/abs/2607.12022) |
+| 2026-07-14 | complexity | 2 | 子空间重启时量子行走中漂移扩散的出现 | [link](https://arxiv.org/abs/2607.12727) |
+| 2026-07-14 | complexity | 2 | 从稳定的周期轨道到多体混沌：通过新兴能带结构的工程实现双可调预热化 | [link](https://arxiv.org/abs/2607.12355) |
+| 2026-07-14 | complexity | 1 | Mpemba 效应中的最优准备和可达状态约束 | [link](https://arxiv.org/abs/2607.12955) |
+| 2026-07-14 | complexity | 1 | 超新星中微子和生物分子同手性的起源 | [link](https://arxiv.org/abs/2607.12813) |
+| 2026-07-14 | complexity | 1 | 粘弹性细胞骨架介导的熵驱动启动和细胞摄取：Onsager 变分原理的动力学相图 | [link](https://arxiv.org/abs/2607.12766) |
+| 2026-07-14 | complexity | 1 | Pokrovsky--Talapov 和 Berezinskii--Kosterlitz--面内磁场下双层超导薄膜中的无意识相变 | [link](https://arxiv.org/abs/2607.12401) |
+| 2026-07-13 | complexity | 1 | 非平衡响应的拓扑构件 | [link](https://arxiv.org/abs/2607.12096) |
+| 2026-07-04 | bio_inspired | 1 | 迈向自我进化代理：一种受人类启发的自适应探索-利用框架，用于遗传网络编程 | [link](https://arxiv.org/abs/2607.11913) |
+| 2026-07-14 | complexity | 0 | 密度波动的相干玻色-爱因斯坦凝聚 | [link](https://arxiv.org/abs/2607.12926) |
+| 2026-07-14 | complexity | 0 | 紧急价键环流形的微观 Spin-1 母哈密顿量 | [link](https://arxiv.org/abs/2607.12925) |
+| 2026-07-14 | complexity | 0 | 蜂拥而至和意见动态 | [link](https://arxiv.org/abs/2607.12844) |
+| 2026-07-14 | complexity | 0 | 随机行走冲击的半开放边界 | [link](https://arxiv.org/abs/2607.12795) |
+| 2026-07-14 | complexity | 0 | 非阿贝尔守恒定律的热激活长程纠缠 | [link](https://arxiv.org/abs/2607.12710) |
+| 2026-07-14 | complexity | 0 | 从相空间到克雷洛夫空间，一次一个壳 | [link](https://arxiv.org/abs/2607.12585) |
+| 2026-07-14 | complexity | 0 | 具有大跳跃统计的随机变量和的高斯余数层次结构 | [link](https://arxiv.org/abs/2607.12357) |
+| 2026-07-14 | bio_inspired | 0 | 具有自适应增量和脉冲频率编码的 32 通道基于事件的生物信号模拟前端 | [link](https://arxiv.org/abs/2607.12901) |
+| 2026-07-13 | complexity | 0 | 收获重塑种群动态 | [link](https://arxiv.org/abs/2607.12093) |
+| 2026-07-13 | complexity | 0 | 随机图上的相关性产生的量子混沌 | [link](https://arxiv.org/abs/2607.11662) |
+| 2026-07-13 | complexity | 0 | 流体-流体界面处的密度演化：广义吉布斯-杜昂理论 | [link](https://arxiv.org/abs/2607.11988) |
