@@ -1560,3 +1560,22 @@
 | 2026-07-13 | complexity | 0 | 收获重塑种群动态 | [link](https://arxiv.org/abs/2607.12093) |
 | 2026-07-13 | complexity | 0 | 随机图上的相关性产生的量子混沌 | [link](https://arxiv.org/abs/2607.11662) |
 | 2026-07-13 | complexity | 0 | 流体-流体界面处的密度演化：广义吉布斯-杜昂理论 | [link](https://arxiv.org/abs/2607.11988) |
+| 2026-07-15 | crypto | 4 | 通过复杂性措施检测加密货币交易所的异常交易模式 | [link](https://arxiv.org/abs/2607.13916) |
+| 2026-07-14 | bio_inspired | 4 | 计算连续体中服务放置的混合多目标进化算法：与遗传可追溯性的比较研究 | [link](https://arxiv.org/abs/2607.13200) |
+| 2026-07-15 | bio_inspired | 3 | 客观交互对大规模目标优化算法性能的影响 | [link](https://arxiv.org/abs/2607.13377) |
+| 2026-07-15 | complexity | 2 | 马尔可夫相互作用粒子的非平衡统计力学 | [link](https://arxiv.org/abs/2607.13391) |
+| 2026-07-15 | bio_inspired | 2 | 规格：特定进化电路合成 | [link](https://arxiv.org/abs/2607.14027) |
+| 2026-07-14 | complexity | 2 | 稳健的拓扑振荡器控制同步昼夜节律的可调相变 | [link](https://arxiv.org/abs/2607.13322) |
+| 2026-07-14 | network | 2 | 非洲城际网络中的冲突、流动性和碎片化 | [link](https://arxiv.org/abs/2607.13231) |
+| 2026-07-15 | complexity | 1 | 费米--Pasta--Ulam 系统中的冷却速率和玻璃态行为 | [link](https://arxiv.org/abs/2607.13833) |
+| 2026-07-14 | complexity | 1 | 通过自洽横向场模拟用于量子退火的 XX 催化剂 | [link](https://arxiv.org/abs/2607.13150) |
+| 2026-07-15 | complexity | 0 | 精确可解的单列扩散宏观涨落理论 | [link](https://arxiv.org/abs/2607.14073) |
+| 2026-07-15 | complexity | 0 | 二维共形场论和全息术中扭曲相关器的时间纠缠 | [link](https://arxiv.org/abs/2607.14012) |
+| 2026-07-15 | complexity | 0 | 具有瞬态突触记忆的神经元网络中静默状态的活动再生 | [link](https://arxiv.org/abs/2607.14000) |
+| 2026-07-15 | complexity | 0 | 布朗城堡接口的改进 Family-Vicsek 标度和概率分布 | [link](https://arxiv.org/abs/2607.13922) |
+| 2026-07-15 | complexity | 0 | $1/f$ 噪声发生的条件以及扩散方程的示例 | [link](https://arxiv.org/abs/2607.13856) |
+| 2026-07-15 | complexity | 0 | 空间约束协同演化非线性选民模型中的意见形成 | [link](https://arxiv.org/abs/2607.13616) |
+| 2026-07-15 | complexity | 0 | 非线性广义 Langevin 方程的 Loewner 理论方法：熵在有色噪声环境中的作用 | [link](https://arxiv.org/abs/2607.13384) |
+| 2026-07-15 | bio_inspired | 0 | S-CARD-CMSA：具有用于多模式优化的密度过滤报告的分数感知候选档案 | [link](https://arxiv.org/abs/2607.13764) |
+| 2026-07-14 | complexity | 0 | N 个步道交互步行者的精确集体首次通过统计 | [link](https://arxiv.org/abs/2607.13213) |
+| 2026-07-14 | complexity | 0 | 晶格上的半对偶化和不可逆粒子涡对偶缺陷 | [link](https://arxiv.org/abs/2607.13138) |
