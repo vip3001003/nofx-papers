@@ -1579,3 +1579,26 @@
 | 2026-07-15 | bio_inspired | 0 | S-CARD-CMSA：具有用于多模式优化的密度过滤报告的分数感知候选档案 | [link](https://arxiv.org/abs/2607.13764) |
 | 2026-07-14 | complexity | 0 | N 个步道交互步行者的精确集体首次通过统计 | [link](https://arxiv.org/abs/2607.13213) |
 | 2026-07-14 | complexity | 0 | 晶格上的半对偶化和不可逆粒子涡对偶缺陷 | [link](https://arxiv.org/abs/2607.13138) |
+| 2026-07-16 | complexity | 4 | 具有不对称和时滞交互的随机二元网络 | [link](https://arxiv.org/abs/2607.15215) |
+| 2026-07-16 | bio_inspired | 3 | 基于置信度的排序与自适应采样以实现噪声黑盒优化 | [link](https://arxiv.org/abs/2607.14936) |
+| 2026-07-16 | complexity | 2 | 通过 Trotterization 调整量子过程的普适性类 | [link](https://arxiv.org/abs/2607.14663) |
+| 2026-07-16 | complexity | 2 | 使用稀疏主干网的重叠网络社区检测 | [link](https://arxiv.org/abs/2607.14531) |
+| 2026-07-15 | complexity | 2 | 混合反馈控制揭示的量子多体混合相空间 | [link](https://arxiv.org/abs/2607.14223) |
+| 2026-07-16 | complexity | 1 | 通过纠缠隐形传态镜头进行深度热化的局部性 | [link](https://arxiv.org/abs/2607.15276) |
+| 2026-07-16 | complexity | 1 | 投票和欧盟选举的热力学理论 | [link](https://arxiv.org/abs/2607.15119) |
+| 2026-07-16 | complexity | 1 | 非平衡朗之万计算中的矩分辨读数和储层多样性 | [link](https://arxiv.org/abs/2607.14520) |
+| 2026-07-16 | network | 1 | RACiMo：Red Ambiental Ciudadana de Monitoreo：哥伦比亚以学生为中心的环境监测、数据素养和气候意识公民科学网络 | [link](https://arxiv.org/abs/2607.14805) |
+| 2026-07-16 | bio_inspired | 1 | 随机进化博弈中多态性的出现 | [link](https://arxiv.org/abs/2607.14950) |
+| 2026-07-15 | complexity | 1 | 滑动自旋链中的长寿命内存 | [link](https://arxiv.org/abs/2607.14383) |
+| 2026-07-16 | complexity | 0 | 具有惯性的聚合物珠系统中的可调 Mpemba 效应 | [link](https://arxiv.org/abs/2607.15266) |
+| 2026-07-16 | complexity | 0 | 可积自旋链中的周期轨道和量子多体疤痕 | [link](https://arxiv.org/abs/2607.15132) |
+| 2026-07-16 | complexity | 0 | 学习路径积分蒙特卡罗中的费米子符号结构 | [link](https://arxiv.org/abs/2607.15060) |
+| 2026-07-16 | complexity | 0 | 粗糙表面接触随机过程模型 | [link](https://arxiv.org/abs/2607.14953) |
+| 2026-07-16 | complexity | 0 | Corbino 几何中磁输运的层析流态与奇偶效应 | [link](https://arxiv.org/abs/2607.14929) |
+| 2026-07-16 | complexity | 0 | 随机正则图中的偏心率分布 | [link](https://arxiv.org/abs/2607.14799) |
+| 2026-07-16 | complexity | 0 | 高柔性细长结构弯曲弹性的数值和实验框架 | [link](https://arxiv.org/abs/2607.14594) |
+| 2026-07-16 | info_theory | 0 | 通过变换编码对加权图邻接矩阵进行有损压缩 | [link](https://arxiv.org/abs/2607.14834) |
+| 2026-07-16 | info_theory | 0 | 变量与变量代码压缩比的统计：精确矩和渐近行为 | [link](https://arxiv.org/abs/2607.14676) |
+| 2026-07-16 | info_theory | 0 | 随机采样的空间熵下界 | [link](https://arxiv.org/abs/2607.14503) |
+| 2026-07-15 | complexity | 0 | 自相似扩散中初始条件的记忆：重正化群视角 | [link](https://arxiv.org/abs/2607.14388) |
+| 2026-07-15 | complexity | 0 | 没有纠缠的魔法：精确复兴及其费舍尔信息来源 | [link](https://arxiv.org/abs/2607.14222) |
