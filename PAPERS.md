@@ -1602,3 +1602,4 @@
 | 2026-07-16 | info_theory | 0 | 随机采样的空间熵下界 | [link](https://arxiv.org/abs/2607.14503) |
 | 2026-07-15 | complexity | 0 | 自相似扩散中初始条件的记忆：重正化群视角 | [link](https://arxiv.org/abs/2607.14388) |
 | 2026-07-15 | complexity | 0 | 没有纠缠的魔法：精确复兴及其费舍尔信息来源 | [link](https://arxiv.org/abs/2607.14222) |
+| 2026-07-16 | risk | 5 | 用于投资组合优化的 SciPhy 强化学习 | [link](https://arxiv.org/abs/2607.15195) |
