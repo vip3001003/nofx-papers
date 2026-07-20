@@ -1603,3 +1603,20 @@
 | 2026-07-15 | complexity | 0 | 自相似扩散中初始条件的记忆：重正化群视角 | [link](https://arxiv.org/abs/2607.14388) |
 | 2026-07-15 | complexity | 0 | 没有纠缠的魔法：精确复兴及其费舍尔信息来源 | [link](https://arxiv.org/abs/2607.14222) |
 | 2026-07-16 | risk | 5 | 用于投资组合优化的 SciPhy 强化学习 | [link](https://arxiv.org/abs/2607.15195) |
+| 2026-07-17 | complexity | 4 | 动态量子相变从突然淬灭到慢淬灭极限的命运 | [link](https://arxiv.org/abs/2607.15649) |
+| 2026-07-17 | network | 3 | 扩散引起的不稳定性促进生态进化网络中的合作 | [link](https://arxiv.org/abs/2607.15989) |
+| 2026-07-17 | complexity | 2 | 反铁磁仓本晶格中的之字形有序、缺陷和反常弛豫 | [link](https://arxiv.org/abs/2607.15911) |
+| 2026-07-16 | complexity | 2 | 碎片化的 ETH：预热、时间尺度和集合不等价 | [link](https://arxiv.org/abs/2607.15350) |
+| 2026-07-17 | complexity | 1 | 反馈控制的非平衡热力学：相空间视角 | [link](https://arxiv.org/abs/2607.16186) |
+| 2026-07-17 | complexity | 1 | 用于修正玻尔兹曼采样的神经非平衡哈密顿蒙特卡罗 | [link](https://arxiv.org/abs/2607.15682) |
+| 2026-07-17 | network | 1 | 带有团簇的图中的度相关性 | [link](https://arxiv.org/abs/2607.15519) |
+| 2026-07-17 | bio_inspired | 1 | 语义复杂性的进化路径依赖 | [link](https://arxiv.org/abs/2607.15836) |
+| 2026-07-17 | bio_inspired | 1 | 进化算法引导的物理神经网络设计法学硕士 | [link](https://arxiv.org/abs/2607.15560) |
+| 2026-07-17 | complexity | 0 | 取决于属性的材料时间 | [link](https://arxiv.org/abs/2607.15920) |
+| 2026-07-17 | complexity | 0 | 随机 Erdős-Rényi 图上能量景观的超度量组织：势垒层次的拓扑起源 | [link](https://arxiv.org/abs/2607.15902) |
+| 2026-07-17 | complexity | 0 | 函数重正化群中 Kuramoto-Sivashinsky 方程的标度范围 | [link](https://arxiv.org/abs/2607.15784) |
+| 2026-07-17 | complexity | 0 | 拓扑如何塑造聚电解质的相行为 | [link](https://arxiv.org/abs/2607.15703) |
+| 2026-07-17 | complexity | 0 | 稠密二元偶极流体混合物剪切粘度的动力学理论 | [link](https://arxiv.org/abs/2607.15691) |
+| 2026-07-17 | info_theory | 0 | 归一化在 1 位压缩感知二进制迭代硬阈值中的作用 | [link](https://arxiv.org/abs/2607.15530) |
+| 2026-07-16 | complexity | 0 | 分子液体中振动强耦合增强瑞利散射介观Ginzburg-Landau模型 | [link](https://arxiv.org/abs/2607.15497) |
+| 2026-07-16 | complexity | 0 | 瑞利-贝纳德对流中的环流统计 | [link](https://arxiv.org/abs/2607.15489) |
