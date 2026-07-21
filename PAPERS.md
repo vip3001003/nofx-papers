@@ -1620,3 +1620,43 @@
 | 2026-07-17 | info_theory | 0 | 归一化在 1 位压缩感知二进制迭代硬阈值中的作用 | [link](https://arxiv.org/abs/2607.15530) |
 | 2026-07-16 | complexity | 0 | 分子液体中振动强耦合增强瑞利散射介观Ginzburg-Landau模型 | [link](https://arxiv.org/abs/2607.15497) |
 | 2026-07-16 | complexity | 0 | 瑞利-贝纳德对流中的环流统计 | [link](https://arxiv.org/abs/2607.15489) |
+| 2026-07-17 | risk | 6 | 重尾和不对称波动下的投资组合优化：来自台湾 ETF 的证据 | [link](https://arxiv.org/abs/2607.16450) |
+| 2026-07-20 | complexity | 4 | 模糊球上二维量子伊辛跃迁的通用动态标度 | [link](https://arxiv.org/abs/2607.18028) |
+| 2026-07-18 | complexity | 4 | 非热随机场 Blume-Capel 和 Blume-Emery-Grifitths 模型中的 Glauber 动力学相变 | [link](https://arxiv.org/abs/2607.16561) |
+| 2026-07-20 | complexity | 2 | 颗粒悬浮液的颗粒尺度结构 | [link](https://arxiv.org/abs/2607.18090) |
+| 2026-07-20 | complexity | 2 | 从无序到完美晶体有序极限的通用干扰临界值和自组织原理 | [link](https://arxiv.org/abs/2607.17549) |
+| 2026-07-20 | complexity | 2 | 不间断重采样计算的维度 | [link](https://arxiv.org/abs/2607.17469) |
+| 2026-07-19 | complexity | 2 | 具有有限连通性的三体 Hopfield 模型的统计力学 | [link](https://arxiv.org/abs/2607.17234) |
+| 2026-07-18 | complexity | 2 | Blume-Capel 模型的 Lee-Yang 性质 | [link](https://arxiv.org/abs/2607.16958) |
+| 2026-07-18 | complexity | 2 | 关于反馈控制所需的信息 | [link](https://arxiv.org/abs/2607.16639) |
+| 2026-07-18 | bio_inspired | 2 | 通过进化算法进行一般约束优化的混合增强拉格朗日方法 | [link](https://arxiv.org/abs/2607.16876) |
+| 2026-07-18 | bio_inspired | 2 | 具有一般频率依赖回报的公共物品博弈的演化动力学 | [link](https://arxiv.org/abs/2607.16809) |
+| 2026-07-18 | bio_inspired | 2 | 决策变量分析引导的大规模多目标优化的差分模糊搜索 | [link](https://arxiv.org/abs/2607.16723) |
+| 2026-07-17 | complexity | 2 | Lebwohl-Lasher 模型中各向同性向列相转变的表示相关机器学习 | [link](https://arxiv.org/abs/2607.16481) |
+| 2026-07-17 | complexity | 2 | 随机重置：预测、推理和设计的非平衡框架 | [link](https://arxiv.org/abs/2607.16474) |
+| 2026-07-20 | complexity | 1 | 核心光环复杂度最大化的统一离散连续理论 | [link](https://arxiv.org/abs/2607.17907) |
+| 2026-07-19 | complexity | 1 | 作为水动力极限的理查兹方程：非饱和土壤水连续动力学方程的 Chapman--Enskog 简化 | [link](https://arxiv.org/abs/2607.17358) |
+| 2026-07-18 | volume | 1 | 订单簿市场中的羊群效应和流动性。二.基本面锚定和流动性的弹性 | [link](https://arxiv.org/abs/2607.16970) |
+| 2026-07-18 | complexity | 1 | 正则树上次线性顶点强化随机游走的占据-凝聚转变 | [link](https://arxiv.org/abs/2607.16971) |
+| 2026-07-18 | complexity | 1 | 退火和淬火贴纸无序缔合聚合物的理论：平均场溶液和相行为 | [link](https://arxiv.org/abs/2607.16807) |
+| 2026-07-18 | complexity | 1 | 外磁场中二维伊辛模型的近似热力学 | [link](https://arxiv.org/abs/2607.16735) |
+| 2026-07-17 | complexity | 1 | 平衡和非平衡玻璃形成液体的弛豫统一理论 | [link](https://arxiv.org/abs/2607.16460) |
+| 2026-07-17 | complexity | 1 | 来自微观描述的非局域静电场理论 | [link](https://arxiv.org/abs/2607.16429) |
+| 2026-07-17 | bio_inspired | 1 | 从最优策略到个体差异：重新思考生物学的强化学习 | [link](https://arxiv.org/abs/2607.16542) |
+| 2026-07-20 | complexity | 0 | 手性凯莱树的半分形和定位 | [link](https://arxiv.org/abs/2607.18179) |
+| 2026-07-20 | complexity | 0 | 从各向同性捕获势释放的自由费米气体的膨胀 | [link](https://arxiv.org/abs/2607.18007) |
+| 2026-07-20 | complexity | 0 | 网络上高阶 SIS 流行病模型的原则性封闭框架 | [link](https://arxiv.org/abs/2607.18003) |
+| 2026-07-20 | complexity | 0 | Kuramoto-Sivashinsky 方程中的大规模行为：施温格-戴森路线 | [link](https://arxiv.org/abs/2607.17915) |
+| 2026-07-20 | complexity | 0 | 关于使用黎曼流形上的扩散的 Belopol'skaya-Daletskii 表示来构造路径积分 | [link](https://arxiv.org/abs/2607.17871) |
+| 2026-07-20 | bio_inspired | 0 | 基因组冗余如何促进进化创新 | [link](https://arxiv.org/abs/2607.17687) |
+| 2026-07-19 | complexity | 0 | 克雷洛夫可观测量的信息内容：一种机器学习方法 | [link](https://arxiv.org/abs/2607.17346) |
+| 2026-07-19 | complexity | 0 | 一维量子准晶中长程和准长程空间有序的共存 | [link](https://arxiv.org/abs/2607.17334) |
+| 2026-07-19 | complexity | 0 | 具有质量方差的逆向选择：最大熵方法 | [link](https://arxiv.org/abs/2607.17239) |
+| 2026-07-19 | complexity | 0 | 酶反应的流驱动：计数统计数据和长时间电流 | [link](https://arxiv.org/abs/2607.17072) |
+| 2026-07-19 | info_theory | 0 | 率失真感知理论：重新定义信息表示的基本限制 | [link](https://arxiv.org/abs/2607.17232) |
+| 2026-07-18 | complexity | 0 | 活性物质中的集体环形成 | [link](https://arxiv.org/abs/2607.16905) |
+| 2026-07-18 | complexity | 0 | $p$-Body $\simeq$ Range $p-1$：精确阶次范围映射和对偶单位性 | [link](https://arxiv.org/abs/2607.16642) |
+| 2026-07-18 | info_theory | 0 | 非线性系统鲁棒规划的相对熵有界模糊机会约束 | [link](https://arxiv.org/abs/2607.16977) |
+| 2026-07-18 | info_theory | 0 | Renyi 和最小熵估计的紧样本界限 | [link](https://arxiv.org/abs/2607.16966) |
+| 2026-07-18 | info_theory | 0 | 分布模糊下非线性协方差控制的近似相对熵约束 | [link](https://arxiv.org/abs/2607.16914) |
+| 2026-07-17 | complexity | 0 | 局域量子场论中魔法的普遍性 | [link](https://arxiv.org/abs/2607.16403) |
