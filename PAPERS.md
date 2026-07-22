@@ -1660,3 +1660,29 @@
 | 2026-07-18 | info_theory | 0 | Renyi 和最小熵估计的紧样本界限 | [link](https://arxiv.org/abs/2607.16966) |
 | 2026-07-18 | info_theory | 0 | 分布模糊下非线性协方差控制的近似相对熵约束 | [link](https://arxiv.org/abs/2607.16914) |
 | 2026-07-17 | complexity | 0 | 局域量子场论中魔法的普遍性 | [link](https://arxiv.org/abs/2607.16403) |
+| 2026-07-21 | complexity | 4 | (1+1)维共形场理论中的边界淬火 | [link](https://arxiv.org/abs/2607.19166) |
+| 2026-07-21 | complexity | 3 | 量子力学中的时间之箭、不可逆性、平衡和测量 | [link](https://arxiv.org/abs/2607.19142) |
+| 2026-07-21 | complexity | 2 | 布朗多体动力学的熵幂泛函理论 | [link](https://arxiv.org/abs/2607.19255) |
+| 2026-07-21 | complexity | 2 | 小系统的离散分布和统计力学 | [link](https://arxiv.org/abs/2607.18968) |
+| 2026-07-21 | complexity | 2 | 双稳态基因切换模型中的确定性级联粗化 | [link](https://arxiv.org/abs/2607.18891) |
+| 2026-07-21 | network | 2 | 相对平衡时通用动力学网络耦合的单快照推断 | [link](https://arxiv.org/abs/2607.18977) |
+| 2026-07-21 | bio_inspired | 2 | 进化熵决定了格陵兰鲨的寿命 | [link](https://arxiv.org/abs/2607.19203) |
+| 2026-07-20 | complexity | 2 | 开放量子长程系统中从规范相图到可调谐相图 | [link](https://arxiv.org/abs/2607.18542) |
+| 2026-07-20 | complexity | 2 | 二维狄拉克半金属的量子临界扇和涌现相对论对称性 | [link](https://arxiv.org/abs/2607.18396) |
+| 2026-07-21 | complexity | 1 | 量子同步 | [link](https://arxiv.org/abs/2607.19328) |
+| 2026-07-21 | complexity | 1 | 四边形曲面的统计特性 | [link](https://arxiv.org/abs/2607.19221) |
+| 2026-07-21 | complexity | 1 | 具有反应性颗粒物质的可积分多物质 SSEP | [link](https://arxiv.org/abs/2607.18959) |
+| 2026-07-20 | complexity | 1 | 临界信息压缩 | [link](https://arxiv.org/abs/2607.18388) |
+| 2026-07-20 | complexity | 1 | 用于贝叶斯推理和 $\mathbb{Z}_q$ 表面代码解码的西森阈值估计 | [link](https://arxiv.org/abs/2607.18374) |
+| 2026-07-21 | complexity | 0 | 全局量子淬灭后广泛电荷的动态相关函数 | [link](https://arxiv.org/abs/2607.19208) |
+| 2026-07-21 | complexity | 0 | 密集联想记忆的自由能景观 | [link](https://arxiv.org/abs/2607.19195) |
+| 2026-07-21 | complexity | 0 | 量子自适应代理的降维 | [link](https://arxiv.org/abs/2607.19156) |
+| 2026-07-21 | complexity | 0 | 百利金随机映射中的准平稳和准遍历分布 | [link](https://arxiv.org/abs/2607.19084) |
+| 2026-07-21 | complexity | 0 | 驱动蛋白热力学性能中的能量转换、波动抑制和信息传递 | [link](https://arxiv.org/abs/2607.18905) |
+| 2026-07-21 | complexity | 0 | 调和约束棒中不存在隐藏的解析守恒量 | [link](https://arxiv.org/abs/2607.18872) |
+| 2026-07-21 | complexity | 0 | 具有程度依赖性相互作用的可行物种的生态网络 | [link](https://arxiv.org/abs/2607.18809) |
+| 2026-07-20 | complexity | 0 | 状态 $k$-来自哈密顿演化的设计 | [link](https://arxiv.org/abs/2607.18537) |
+| 2026-07-20 | complexity | 0 | 包括惯性在内的软物质动力学的变分公式 | [link](https://arxiv.org/abs/2607.18457) |
+| 2026-07-20 | complexity | 0 | 魔法状态空间中的魔法保护纠缠和克利福德不可约结构 | [link](https://arxiv.org/abs/2607.18400) |
+| 2026-07-20 | complexity | 0 | ERG 中导数展开的渐近行为 | [link](https://arxiv.org/abs/2607.18397) |
+| 2026-07-16 | bio_inspired | 0 | 流行病与风险意识的长期共存：人类适应性反应和疲劳的影响 | [link](https://arxiv.org/abs/2607.18301) |
