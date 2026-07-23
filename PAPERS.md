@@ -1686,3 +1686,22 @@
 | 2026-07-20 | complexity | 0 | 魔法状态空间中的魔法保护纠缠和克利福德不可约结构 | [link](https://arxiv.org/abs/2607.18400) |
 | 2026-07-20 | complexity | 0 | ERG 中导数展开的渐近行为 | [link](https://arxiv.org/abs/2607.18397) |
 | 2026-07-16 | bio_inspired | 0 | 流行病与风险意识的长期共存：人类适应性反应和疲劳的影响 | [link](https://arxiv.org/abs/2607.18301) |
+| 2026-07-22 | complexity | 2 | 平均场自旋玻璃模型的机器学习辅助蒙特卡罗算法的动态临界性 | [link](https://arxiv.org/abs/2607.20243) |
+| 2026-07-22 | complexity | 2 | J1-J2 Potts 模型淬火动力学的对数标度校正 | [link](https://arxiv.org/abs/2607.20081) |
+| 2026-07-22 | complexity | 2 | 生长汇合细胞单层中六元有序的出现 | [link](https://arxiv.org/abs/2607.19963) |
+| 2026-07-22 | complexity | 2 | Cuprates 的 Charge-Kondo-Breakdown 场景中的多临界性和 RG 拓扑 | [link](https://arxiv.org/abs/2607.19807) |
+| 2026-07-21 | complexity | 2 | 物理网络中扩散动力学的局域化转变 | [link](https://arxiv.org/abs/2607.19486) |
+| 2026-07-22 | complexity | 1 | 非互易布朗二聚体的最优有限时间控制：热力学异常和多重跃迁 | [link](https://arxiv.org/abs/2607.20420) |
+| 2026-07-22 | complexity | 1 | 维度 $d+1$ 的狄利克雷随机环境中的随机游走 | [link](https://arxiv.org/abs/2607.20279) |
+| 2026-07-22 | complexity | 1 | 运动性破坏了吸收状态羊群的稳定性 | [link](https://arxiv.org/abs/2607.20034) |
+| 2026-07-21 | complexity | 1 | 重温马尔可夫状态模型：无偏可观测值的原理和算法 | [link](https://arxiv.org/abs/2607.19452) |
+| 2026-07-22 | complexity | 0 | 低密度奇偶校验 (LDPC) 码玻璃景观中的稳定山谷 | [link](https://arxiv.org/abs/2607.20421) |
+| 2026-07-22 | complexity | 0 | 无“分子混沌”型近似的玻尔兹曼方程的推导 | [link](https://arxiv.org/abs/2607.20134) |
+| 2026-07-22 | complexity | 0 | 流体记忆通过前后运动增强主动跳动 | [link](https://arxiv.org/abs/2607.19820) |
+| 2026-07-22 | complexity | 0 | 堵塞非晶固体中不稳定模态的弱非线性动力学 | [link](https://arxiv.org/abs/2607.19818) |
+| 2026-07-22 | complexity | 0 | 用于识别 SU($N$) 费米子系统中无间隙的扭转算子方法 | [link](https://arxiv.org/abs/2607.19694) |
+| 2026-07-22 | complexity | 0 | 核量子效应作为一个去噪问题 | [link](https://arxiv.org/abs/2607.19680) |
+| 2026-07-22 | info_theory | 0 | 关于傅里叶压缩感知的样本复杂性：小波与剪切波 | [link](https://arxiv.org/abs/2607.20020) |
+| 2026-07-21 | complexity | 0 | 白蚁的感知、交通和构建 | [link](https://arxiv.org/abs/2607.19594) |
+| 2026-07-21 | complexity | 0 | 量子电池的量子共振增强性能 | [link](https://arxiv.org/abs/2607.19477) |
+| 2026-07-21 | network | 0 | 用于野火敏感性绘图的张量网络机器学习：从 Grokking 动力学到类表示的量子混合性 | [link](https://arxiv.org/abs/2607.19503) |
