@@ -1705,3 +1705,18 @@
 | 2026-07-21 | complexity | 0 | 白蚁的感知、交通和构建 | [link](https://arxiv.org/abs/2607.19594) |
 | 2026-07-21 | complexity | 0 | 量子电池的量子共振增强性能 | [link](https://arxiv.org/abs/2607.19477) |
 | 2026-07-21 | network | 0 | 用于野火敏感性绘图的张量网络机器学习：从 Grokking 动力学到类表示的量子混合性 | [link](https://arxiv.org/abs/2607.19503) |
+| 2026-07-23 | complexity | 3 | 逐步平衡和部分观察下的最优反馈控制 | [link](https://arxiv.org/abs/2607.21523) |
+| 2026-07-23 | complexity | 3 | 受挫自旋-赝自旋锯齿链中的热赝转变 | [link](https://arxiv.org/abs/2607.21359) |
+| 2026-07-23 | complexity | 3 | Kramers-Wannier 对偶性的纠缠不对称性和量子 Mpemba 效应 | [link](https://arxiv.org/abs/2607.21226) |
+| 2026-07-23 | risk | 2 | 通过拓扑数据分析和新闻情绪进行动态再平衡下的投资组合优化 | [link](https://arxiv.org/abs/2607.21170) |
+| 2026-07-23 | complexity | 1 | 超越 Calabrese-Cardy 标度：德西特 RT 表面的卓越点灵敏度 | [link](https://arxiv.org/abs/2607.21536) |
+| 2026-07-23 | complexity | 1 | 单一长度尺度规则弹道聚集：液滴列车的行进 | [link](https://arxiv.org/abs/2607.21315) |
+| 2026-07-22 | complexity | 1 | 无哈密顿淬火的酉 $k$ 设计 | [link](https://arxiv.org/abs/2607.20640) |
+| 2026-07-22 | complexity | 1 | 量子系统的自动化和工作操作员的出现 | [link](https://arxiv.org/abs/2607.20602) |
+| 2026-07-23 | complexity | 0 | 硬晶体中不同直接相关性的自由体积起源：来自精确一维模型的见解 | [link](https://arxiv.org/abs/2607.21379) |
+| 2026-07-23 | complexity | 0 | 具有链间相互作用的双链半柔性链的螺旋稳定性 | [link](https://arxiv.org/abs/2607.21133) |
+| 2026-07-23 | complexity | 0 | 风味电流相关器和非阿贝尔流体动力学近似：带电扇区 | [link](https://arxiv.org/abs/2607.20991) |
+| 2026-07-23 | complexity | 0 | 量子动力学和复杂性的巨大偏差 | [link](https://arxiv.org/abs/2607.20959) |
+| 2026-07-23 | complexity | 0 | 拓扑平凡扭转算子的无间隙指示器 | [link](https://arxiv.org/abs/2607.20944) |
+| 2026-07-23 | bio_inspired | 0 | 进化勒夏特列原理：通过价格方程中的时间尺度分离实现表型可塑性和遗传同化 | [link](https://arxiv.org/abs/2607.20915) |
+| 2026-07-22 | complexity | 0 | 来自仪表平均的扰动稳定自校正经典记忆 | [link](https://arxiv.org/abs/2607.20605) |
