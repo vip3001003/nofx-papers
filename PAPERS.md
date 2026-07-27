@@ -1720,3 +1720,25 @@
 | 2026-07-23 | complexity | 0 | 拓扑平凡扭转算子的无间隙指示器 | [link](https://arxiv.org/abs/2607.20944) |
 | 2026-07-23 | bio_inspired | 0 | 进化勒夏特列原理：通过价格方程中的时间尺度分离实现表型可塑性和遗传同化 | [link](https://arxiv.org/abs/2607.20915) |
 | 2026-07-22 | complexity | 0 | 来自仪表平均的扰动稳定自校正经典记忆 | [link](https://arxiv.org/abs/2607.20605) |
+| 2026-07-23 | crypto | 6 | 加密货币是真正的金融泡沫吗？定量分析的证据 | [link](https://arxiv.org/abs/2607.21826) |
+| 2026-07-23 | complexity | 3 | 全息术中的量子姆潘巴效应 | [link](https://arxiv.org/abs/2607.20899) |
+| 2026-07-24 | complexity | 2 | 一维非线性脉动流体动力学的有效场论 | [link](https://arxiv.org/abs/2607.22527) |
+| 2026-07-23 | complexity | 2 | 计算具有较高 Berry 曲率的边缘模式：量子自旋链的体拓扑序参数 | [link](https://arxiv.org/abs/2607.21705) |
+| 2026-07-23 | complexity | 2 | 预热多体自旋网络中的可调谐 Mpemba 效应 | [link](https://arxiv.org/abs/2607.21669) |
+| 2026-07-24 | complexity | 1 | 热介质中的非马尔可夫重夸克平衡和平衡相关函数 | [link](https://arxiv.org/abs/2607.22403) |
+| 2026-07-24 | complexity | 1 | 无序神经模型中稳定吸引子的多重性 | [link](https://arxiv.org/abs/2607.22047) |
+| 2026-07-24 | complexity | 1 | 惯性异步计算 | [link](https://arxiv.org/abs/2607.21965) |
+| 2026-07-24 | bio_inspired | 1 | 强化学习超启发式的运行时分析 | [link](https://arxiv.org/abs/2607.22036) |
+| 2026-07-24 | bio_inspired | 1 | 基于模型的细菌运动策略优化，以最大化种群产量 | [link](https://arxiv.org/abs/2607.21884) |
+| 2026-07-22 | network | 1 | 服务生态演进：复杂网络视角的综合考察 | [link](https://arxiv.org/abs/2607.21650) |
+| 2026-07-24 | complexity | 0 | 许多相互作用的粒子的极端首次通过时间 | [link](https://arxiv.org/abs/2607.22528) |
+| 2026-07-24 | complexity | 0 | 分形量子多体疤痕和 ZX 微积分的哈密顿逆设计 | [link](https://arxiv.org/abs/2607.22495) |
+| 2026-07-24 | complexity | 0 | 拓扑界面和对偶性中的纠缠 | [link](https://arxiv.org/abs/2607.22451) |
+| 2026-07-24 | complexity | 0 | 超空间采样：通过额外维度的副本交换来规避自由能障碍 | [link](https://arxiv.org/abs/2607.22417) |
+| 2026-07-24 | complexity | 0 | 一维晶格上的费米子：具有相移的局部源和汇 | [link](https://arxiv.org/abs/2607.22240) |
+| 2026-07-24 | complexity | 0 | 识别谐波束缚活跃布朗动力学中剩余活动的特征 | [link](https://arxiv.org/abs/2607.22222) |
+| 2026-07-24 | complexity | 0 | 仅用微米级制造要求测试分子整流的实验方案 | [link](https://arxiv.org/abs/2607.22203) |
+| 2026-07-24 | network | 0 | 来自商业性审查平台的性接触网络的跨国结构 | [link](https://arxiv.org/abs/2607.21972) |
+| 2026-07-24 | info_theory | 0 | 具有最大熵的约束多关系图 | [link](https://arxiv.org/abs/2607.22383) |
+| 2026-07-23 | complexity | 0 | 准周期 XXZ 模型中的热雪崩 | [link](https://arxiv.org/abs/2607.21708) |
+| 2026-07-23 | complexity | 0 | 非阿贝尔码中的混合状态拓扑顺序和纠错阈值：严格的结果 | [link](https://arxiv.org/abs/2607.21706) |
