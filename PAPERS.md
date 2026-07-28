@@ -1742,3 +1742,41 @@
 | 2026-07-24 | info_theory | 0 | 具有最大熵的约束多关系图 | [link](https://arxiv.org/abs/2607.22383) |
 | 2026-07-23 | complexity | 0 | 准周期 XXZ 模型中的热雪崩 | [link](https://arxiv.org/abs/2607.21708) |
 | 2026-07-23 | complexity | 0 | 非阿贝尔码中的混合状态拓扑顺序和纠错阈值：严格的结果 | [link](https://arxiv.org/abs/2607.21706) |
+| 2026-07-26 | bio_inspired | 4 | 多目标优化进化算法中动态群体大小的可证明加速 | [link](https://arxiv.org/abs/2607.23800) |
+| 2026-07-27 | complexity | 3 | 非互易但平衡的临界动力学 | [link](https://arxiv.org/abs/2607.24252) |
+| 2026-07-27 | complexity | 3 | 伪厄米哈密顿量中的动态量子相变：不平衡配对 Kitaev 模型 | [link](https://arxiv.org/abs/2607.23956) |
+| 2026-07-27 | network | 3 | 老师最了解：网络化 Langevin Dynamics AI 谄媚中的自发对称性破缺和临界点 | [link](https://arxiv.org/abs/2607.24304) |
+| 2026-07-27 | network | 3 | 通过谱子流形简化复杂网络的非线性模型 | [link](https://arxiv.org/abs/2607.24121) |
+| 2026-07-25 | complexity | 3 | 可区分的氦 4 中两种液态之间量子涨落驱动的传输交叉 | [link](https://arxiv.org/abs/2607.23127) |
+| 2026-07-27 | complexity | 2 | 量子领域自主工作的涨落定理 | [link](https://arxiv.org/abs/2607.24690) |
+| 2026-07-27 | complexity | 2 | 分支形态发生晶格模型中形态和拓扑的控制 | [link](https://arxiv.org/abs/2607.24619) |
+| 2026-07-27 | complexity | 2 | 非互易纳米机械系统中的手性热波动和增强制冷 | [link](https://arxiv.org/abs/2607.24209) |
+| 2026-07-26 | complexity | 2 | 感染的空间传播：拉锋和推锋之间的转变 | [link](https://arxiv.org/abs/2607.23728) |
+| 2026-07-26 | complexity | 2 | 玻璃平均场模型中的局部微观力学揭示了其非平衡 RSB 相的关键特性 | [link](https://arxiv.org/abs/2607.23603) |
+| 2026-07-25 | complexity | 2 | 非平衡浴中手性入侵者动力学的动力学和流体动力学理论 | [link](https://arxiv.org/abs/2607.23223) |
+| 2026-07-25 | complexity | 2 | 入侵者在稀释和流体动力学状态下的手性动力学 | [link](https://arxiv.org/abs/2607.23221) |
+| 2026-07-27 | complexity | 1 | 从局部收益到全球不稳定：规范 2x2 进化博弈中时空混沌的光谱制图 | [link](https://arxiv.org/abs/2607.24638) |
+| 2026-07-27 | complexity | 1 | 根据开放系统的刘维尔型层次结构重构自适应分辨率模拟的耦合力 | [link](https://arxiv.org/abs/2607.24574) |
+| 2026-07-27 | complexity | 1 | 受监控费米子链中的量子费希尔信息和不完美检测 | [link](https://arxiv.org/abs/2607.24438) |
+| 2026-07-27 | complexity | 1 | 通过双正交刘维尔本征模的随机反非驱动 | [link](https://arxiv.org/abs/2607.24393) |
+| 2026-07-27 | complexity | 1 | 具有热力学可变首次通过时间的热力学。二.过热液体爆炸沸腾动力学、临界指数、分数阶微积分 | [link](https://arxiv.org/abs/2607.24094) |
+| 2026-07-27 | complexity | 1 | 具有热力学可变首次通过时间的热力学。一、从随机轨迹到非线性输运方程 | [link](https://arxiv.org/abs/2607.24078) |
+| 2026-07-26 | complexity | 1 | 多个量子位的最佳动态冷却 | [link](https://arxiv.org/abs/2607.23641) |
+| 2026-07-25 | bio_inspired | 1 | 学生学业资源分配的遗传算法 | [link](https://arxiv.org/abs/2607.23316) |
+| 2026-07-27 | complexity | 0 | 对称性丰富的拓扑相中的任意子凝聚：$G$-多重融合类别的分级 | [link](https://arxiv.org/abs/2607.24740) |
+| 2026-07-27 | complexity | 0 | 符号优化的量子蒙特卡罗 | [link](https://arxiv.org/abs/2607.24679) |
+| 2026-07-27 | complexity | 0 | 复杂网络上非马尔可夫流行病的极端爆发 | [link](https://arxiv.org/abs/2607.24615) |
+| 2026-07-27 | complexity | 0 | 用于通过小冲压试验的多模态测量估计材料本构参数的摊余后验 | [link](https://arxiv.org/abs/2607.24534) |
+| 2026-07-27 | complexity | 0 | 关于汉斯·卡佩尔的回忆 | [link](https://arxiv.org/abs/2607.24380) |
+| 2026-07-27 | complexity | 0 | 不可逆Kennedy-Tasaki对偶的独特有限温度相图 | [link](https://arxiv.org/abs/2607.24231) |
+| 2026-07-27 | complexity | 0 | 自催化反应网络中的动态滞后 | [link](https://arxiv.org/abs/2607.24163) |
+| 2026-07-27 | complexity | 0 | 流体动力学活性物质中响应选择的隐藏超均匀性 | [link](https://arxiv.org/abs/2607.24102) |
+| 2026-07-27 | info_theory | 0 | 通过阈值符号排名进行基于 LLM 的源代码压缩 | [link](https://arxiv.org/abs/2607.24192) |
+| 2026-07-26 | complexity | 0 | 二维 Uhlenbeck-Ford 模型：流体相自由能计算的参考系统 | [link](https://arxiv.org/abs/2607.23824) |
+| 2026-07-26 | complexity | 0 | 费米子的排列不变量子态层析成像 | [link](https://arxiv.org/abs/2607.23579) |
+| 2026-07-26 | bio_inspired | 0 | 约束约束不可知贝叶斯优化：适用于所有阈值的一种模型 | [link](https://arxiv.org/abs/2607.23448) |
+| 2026-07-25 | complexity | 0 | 具有竞争相互作用的群体感应活性粒子的微相分离 | [link](https://arxiv.org/abs/2607.23259) |
+| 2026-07-25 | complexity | 0 | 主动流驱动向列相锚定在刚性壁上 | [link](https://arxiv.org/abs/2607.23164) |
+| 2026-07-25 | complexity | 0 | 受挫的伊辛环的数字技术：反非绝热术语的作用 | [link](https://arxiv.org/abs/2607.23074) |
+| 2026-07-25 | network | 0 | 在由外向性、开放性和宜人性驱动的动态网络囚徒困境中，个人和集体从合作和互惠中获益 | [link](https://arxiv.org/abs/2607.23168) |
+| 2026-07-23 | bio_inspired | 0 | 学习访问计算：可访问性可塑性作为自适应智能的原理 | [link](https://arxiv.org/abs/2607.22748) |
