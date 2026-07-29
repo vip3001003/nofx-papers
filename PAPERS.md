@@ -1780,3 +1780,38 @@
 | 2026-07-25 | complexity | 0 | 受挫的伊辛环的数字技术：反非绝热术语的作用 | [link](https://arxiv.org/abs/2607.23074) |
 | 2026-07-25 | network | 0 | 在由外向性、开放性和宜人性驱动的动态网络囚徒困境中，个人和集体从合作和互惠中获益 | [link](https://arxiv.org/abs/2607.23168) |
 | 2026-07-23 | bio_inspired | 0 | 学习访问计算：可访问性可塑性作为自适应智能的原理 | [link](https://arxiv.org/abs/2607.22748) |
+| 2026-07-27 | complexity | 4 | 相关矩阵中的相变和阶参数：最大特征值的 Wishart-Ensemble 视角 | [link](https://arxiv.org/abs/2607.25030) |
+| 2026-07-28 | complexity | 3 | 不要截断，分解：来自强相关态的长程量子系统的平均场动力学 | [link](https://arxiv.org/abs/2607.25434) |
+| 2026-07-27 | complexity | 3 | 从强到弱对称破缺算子置乱的有效场论 | [link](https://arxiv.org/abs/2607.24925) |
+| 2026-07-28 | complexity | 2 | 非平衡驱动的非单调扩散 | [link](https://arxiv.org/abs/2607.25902) |
+| 2026-07-28 | complexity | 2 | 无出口人群中的宏观壁压力和微观接触载荷：社会群体凝聚力和边界缓冲 | [link](https://arxiv.org/abs/2607.25780) |
+| 2026-07-28 | complexity | 2 | 二元液体混合物中重力控制的非平衡卡西米尔压力 | [link](https://arxiv.org/abs/2607.25697) |
+| 2026-07-28 | complexity | 2 | 有间隙的 XYZ 自旋-$\frac12$ 链中的纠缠不对称性 | [link](https://arxiv.org/abs/2607.25625) |
+| 2026-07-28 | complexity | 2 | 通过浅变分量子电路检测量子相变 | [link](https://arxiv.org/abs/2607.25345) |
+| 2026-07-28 | network | 2 | 涨潮会抬高所有的船吗？随经济增长动态网络的财富交换模型 | [link](https://arxiv.org/abs/2607.25874) |
+| 2026-07-27 | complexity | 2 | 有向格上的强连通渗流 | [link](https://arxiv.org/abs/2607.24975) |
+| 2026-07-27 | complexity | 2 | 使用泡利传播高效计算实时相关器 | [link](https://arxiv.org/abs/2607.24924) |
+| 2026-07-28 | complexity | 1 | 无自旋费米子中的流体动力学模式与相移噪声的相互作用 | [link](https://arxiv.org/abs/2607.25938) |
+| 2026-07-28 | complexity | 1 | 来自环聚合物分子动力学的玻色子凝聚相实时动力学 | [link](https://arxiv.org/abs/2607.25892) |
+| 2026-07-28 | complexity | 1 | 平均场非互易自旋玻璃中的涨落耗散违规 | [link](https://arxiv.org/abs/2607.25782) |
+| 2026-07-28 | complexity | 1 | 晶膜中的临界波纹和狄拉克费米子 | [link](https://arxiv.org/abs/2607.25767) |
+| 2026-07-27 | complexity | 1 | 用于量子计算的基于内核的状态密度估计器 | [link](https://arxiv.org/abs/2607.24972) |
+| 2026-07-27 | network | 1 | 突发传染的复杂性：将机械复杂性与相关异质性分开 | [link](https://arxiv.org/abs/2607.25139) |
+| 2026-07-28 | complexity | 0 | 驱动耗散自旋截断维格纳近似的路径积分方法 | [link](https://arxiv.org/abs/2607.26029) |
+| 2026-07-28 | complexity | 0 | Krylov-空间内存核心 | [link](https://arxiv.org/abs/2607.26011) |
+| 2026-07-28 | complexity | 0 | 具有非马尔可夫影响矩阵的可解量子电路 | [link](https://arxiv.org/abs/2607.25969) |
+| 2026-07-28 | complexity | 0 | 汤川流体的变分方法。二.瞬时弹性模量和声速 | [link](https://arxiv.org/abs/2607.25923) |
+| 2026-07-28 | complexity | 0 | 汤川流体的变分方法。一、热力学 | [link](https://arxiv.org/abs/2607.25908) |
+| 2026-07-28 | complexity | 0 | 零和游戏中的开放式创新 | [link](https://arxiv.org/abs/2607.25677) |
+| 2026-07-28 | complexity | 0 | 量子淬灭后子系统距离的离散幂律衰减 | [link](https://arxiv.org/abs/2607.25661) |
+| 2026-07-28 | complexity | 0 | 中心自旋模型中相互作用赋予的 PT 对称性及其对退相干、单选和非马尔可夫性的影响 | [link](https://arxiv.org/abs/2607.25561) |
+| 2026-07-28 | complexity | 0 | 乘法事件时钟的对数老化扩散：稀有事件统计、超慢传输和集合时间不等式 | [link](https://arxiv.org/abs/2607.25374) |
+| 2026-07-28 | complexity | 0 | 淬火结构玻璃的松弛：拐点“减速带”上的硬化束缚势下降 | [link](https://arxiv.org/abs/2607.25360) |
+| 2026-07-28 | network | 0 | 疾病死亡率和免疫力下降驱动的流行病动态和网络拓扑的协同演化 | [link](https://arxiv.org/abs/2607.25475) |
+| 2026-07-28 | info_theory | 0 | 速率-失真-欺骗的权衡 | [link](https://arxiv.org/abs/2607.25997) |
+| 2026-07-27 | complexity | 0 | Floquet 介质的广义基尔霍夫热辐射定律 | [link](https://arxiv.org/abs/2607.24985) |
+| 2026-07-27 | complexity | 0 | 基于代理的黑手党游戏中的累积怀疑和吸收动态 | [link](https://arxiv.org/abs/2607.24980) |
+| 2026-07-27 | complexity | 0 | 涨落定理的非厄米熵产生 | [link](https://arxiv.org/abs/2607.24961) |
+| 2026-07-27 | complexity | 0 | OPE = QNM | [link](https://arxiv.org/abs/2607.24909) |
+| 2026-07-27 | complexity | 0 | TempLat：用于晶格场论的多功能 C++ 引擎 | [link](https://arxiv.org/abs/2607.24908) |
+| 2026-07-27 | network | 0 | 城域网络中的系统最优性与自组织：最优传输分析 | [link](https://arxiv.org/abs/2607.25003) |
