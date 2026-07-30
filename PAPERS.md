@@ -1815,3 +1815,29 @@
 | 2026-07-27 | complexity | 0 | OPE = QNM | [link](https://arxiv.org/abs/2607.24909) |
 | 2026-07-27 | complexity | 0 | TempLat：用于晶格场论的多功能 C++ 引擎 | [link](https://arxiv.org/abs/2607.24908) |
 | 2026-07-27 | network | 0 | 城域网络中的系统最优性与自组织：最优传输分析 | [link](https://arxiv.org/abs/2607.25003) |
+| 2026-07-29 | crypto | 4 | 关键性在哪里？七个加密永续清算级联的预警信号是事件异构的 | [link](https://arxiv.org/abs/2607.27070) |
+| 2026-07-29 | complexity | 3 | 拓扑相变的微观研究：渗滤观点 | [link](https://arxiv.org/abs/2607.26707) |
+| 2026-07-29 | complexity | 3 | 二维量子伊辛模型中的界面演化 | [link](https://arxiv.org/abs/2607.26662) |
+| 2026-07-28 | crypto | 3 | 比特币在时钟上运行：为什么每个价格指标都会消失，而减半时钟却不会 | [link](https://arxiv.org/abs/2607.26188) |
+| 2026-07-28 | complexity | 3 | 行为-环境信息循环驱动感官导航 | [link](https://arxiv.org/abs/2607.26295) |
+| 2026-07-20 | bio_inspired | 3 | 优化封闭基础设施中氢气泄漏检测的传感器放置：使用基于 CFD 的遗传算法和 DeepSets 神经代理的比较研究 | [link](https://arxiv.org/abs/2607.26078) |
+| 2026-07-29 | complexity | 2 | 确定低温差斯特林发动机的临界温差：非线性动力学方法 | [link](https://arxiv.org/abs/2607.26539) |
+| 2026-07-28 | complexity | 2 | 量子图灵模式 | [link](https://arxiv.org/abs/2607.26331) |
+| 2026-07-29 | complexity | 1 | 守恒相分离中的边界驱动各向异性粗化 | [link](https://arxiv.org/abs/2607.26920) |
+| 2026-07-28 | complexity | 1 | 边界驱动的多物种调和过程 | [link](https://arxiv.org/abs/2607.26262) |
+| 2026-07-29 | complexity | 0 | 随机杨图极限形状的神经变分框架 | [link](https://arxiv.org/abs/2607.27061) |
+| 2026-07-29 | complexity | 0 | 监测量子动力学中拓扑跃迁的时间干扰 | [link](https://arxiv.org/abs/2607.27045) |
+| 2026-07-29 | complexity | 0 | 二态发生器提取：预选和后选量子动力学中的特性电流和两层时间箭头 | [link](https://arxiv.org/abs/2607.26999) |
+| 2026-07-29 | complexity | 0 | 李杨零点和粒子涨落 | [link](https://arxiv.org/abs/2607.26975) |
+| 2026-07-29 | complexity | 0 | 解开间歇流结构对湍流中异常尺度和多重分形的贡献 | [link](https://arxiv.org/abs/2607.26896) |
+| 2026-07-29 | complexity | 0 | 奇扩散率在状态相关可观测量多点统计中的作用 | [link](https://arxiv.org/abs/2607.26824) |
+| 2026-07-29 | complexity | 0 | 传感与驱动之间双向信息传输驱动的导航 | [link](https://arxiv.org/abs/2607.26798) |
+| 2026-07-29 | complexity | 0 | 重新审视玻璃化转变的高维理论：跳跃和局部缺陷 | [link](https://arxiv.org/abs/2607.26793) |
+| 2026-07-29 | complexity | 0 | 相关高斯力中的量子布朗输运 | [link](https://arxiv.org/abs/2607.26678) |
+| 2026-07-29 | complexity | 0 | 有源无序介质中干扰的非厄米随机矩阵理论 | [link](https://arxiv.org/abs/2607.26406) |
+| 2026-07-28 | complexity | 0 | 关于$R$-副统计I：基础 | [link](https://arxiv.org/abs/2607.26351) |
+| 2026-07-28 | complexity | 0 | 磁性斯格明子聚合物中尺度相关的普遍性类交叉 | [link](https://arxiv.org/abs/2607.26289) |
+| 2026-07-28 | complexity | 0 | 风味自由度在无序定位量子模拟中的作用 | [link](https://arxiv.org/abs/2607.26156) |
+| 2026-07-28 | complexity | 0 | 具有非完整约束的机械系统的 Lindbladian 量化 | [link](https://arxiv.org/abs/2607.26146) |
+| 2026-07-28 | complexity | 0 | 粒子碰撞量子模拟的状态准备和检测 | [link](https://arxiv.org/abs/2607.26142) |
+| 2026-07-28 | network | 0 | 流动性和接触网络影响流行病结果：大规模基于代理的建模研究 | [link](https://arxiv.org/abs/2607.26217) |
