@@ -1841,3 +1841,36 @@
 | 2026-07-28 | complexity | 0 | 具有非完整约束的机械系统的 Lindbladian 量化 | [link](https://arxiv.org/abs/2607.26146) |
 | 2026-07-28 | complexity | 0 | 粒子碰撞量子模拟的状态准备和检测 | [link](https://arxiv.org/abs/2607.26142) |
 | 2026-07-28 | network | 0 | 流动性和接触网络影响流行病结果：大规模基于代理的建模研究 | [link](https://arxiv.org/abs/2607.26217) |
+| 2026-07-29 | risk | 7 | 打败市场只需要三个矩阵吗？用于投资组合优化的可观察矩阵动态 | [link](https://arxiv.org/abs/2607.27461) |
+| 2026-07-30 | crypto | 4 | 经常训练，有选择地部署：加密市场中的前向门控模型替换 | [link](https://arxiv.org/abs/2607.28577) |
+| 2026-07-29 | complexity | 4 | 生命的连续游戏：生长边缘的细胞出现和自组织 | [link](https://arxiv.org/abs/2607.27402) |
+| 2026-07-30 | complexity | 3 | 异质图反馈 Ising 神经网络中的同步、运动波和尖峰相分离 | [link](https://arxiv.org/abs/2607.28275) |
+| 2026-07-30 | complexity | 3 | 从指数尾到高斯尾：分形波前缩放和相变处的 $κ$-Weibull 分布 | [link](https://arxiv.org/abs/2607.28172) |
+| 2026-07-30 | ml | 2 | FinSMART：通过市场一致的强化学习进行算法交易的金融情绪分析 | [link](https://arxiv.org/abs/2607.28127) |
+| 2026-07-30 | complexity | 2 | 三维卡达尔--Parisi--极化子凝聚中的张标度 | [link](https://arxiv.org/abs/2607.28106) |
+| 2026-07-30 | complexity | 2 | 迪克超辐射退相干的标度理论 | [link](https://arxiv.org/abs/2607.28034) |
+| 2026-07-30 | complexity | 2 | 驱动蛋白分子马达化学机械模型中的 Mpemba 效应 | [link](https://arxiv.org/abs/2607.27998) |
+| 2026-07-29 | complexity | 2 | 弹性体中的相变和微相。一、稳定域的出现 | [link](https://arxiv.org/abs/2607.27516) |
+| 2026-07-29 | complexity | 2 | 当基于轨迹的界限失效时：噪声反馈下的信息热力学 | [link](https://arxiv.org/abs/2607.27299) |
+| 2026-07-30 | complexity | 1 | 具有破缺反演对称性的晶格复合费米液体 | [link](https://arxiv.org/abs/2607.28613) |
+| 2026-07-30 | complexity | 1 | 热扩散系综理论 | [link](https://arxiv.org/abs/2607.27839) |
+| 2026-07-30 | complexity | 1 | 非互易性导致布朗二聚体失去平衡 | [link](https://arxiv.org/abs/2607.27740) |
+| 2026-07-30 | network | 1 | 有针对性的隔离策略可缓解复杂网络上的 SIS 模型网络流行病 | [link](https://arxiv.org/abs/2607.27624) |
+| 2026-07-29 | complexity | 1 | 名义一维里德堡阵列中几何诱导的畴壁钉扎和 $\mathbb{Z}_2$ 不对称性 | [link](https://arxiv.org/abs/2607.27358) |
+| 2026-07-29 | complexity | 1 | 手性活性模型 B 的平均场理论：粗化抑制和手性指法不稳定性 | [link](https://arxiv.org/abs/2607.27305) |
+| 2026-07-29 | complexity | 1 | 具有平行轨迹回火的基于能量的模型的平衡训练 | [link](https://arxiv.org/abs/2607.27077) |
+| 2026-07-30 | complexity | 0 | 起重 起重产品代码 | [link](https://arxiv.org/abs/2607.28621) |
+| 2026-07-30 | complexity | 0 | 量子混沌和几何随机性的扩散传输 | [link](https://arxiv.org/abs/2607.28579) |
+| 2026-07-30 | complexity | 0 | 马尔可夫扩散理论中从显微镜到宏观的两种不同的几何描述 | [link](https://arxiv.org/abs/2607.28578) |
+| 2026-07-30 | complexity | 0 | 收敛到一维 Riviera 模型的精确动力学 | [link](https://arxiv.org/abs/2607.28419) |
+| 2026-07-30 | complexity | 0 | 相互作用的量子对称排斥过程 | [link](https://arxiv.org/abs/2607.28255) |
+| 2026-07-30 | complexity | 0 | 连接连续控制和 Floquet 驱动，为多体旋转链充电 | [link](https://arxiv.org/abs/2607.27985) |
+| 2026-07-30 | complexity | 0 | 高斯非相对论自发随机流体动力学 | [link](https://arxiv.org/abs/2607.27540) |
+| 2026-07-30 | network | 0 | 使用多层网络预测跨行业的人员流动 | [link](https://arxiv.org/abs/2607.28494) |
+| 2026-07-30 | bio_inspired | 0 | 哈希化学：复杂性进化增长的最小模型 | [link](https://arxiv.org/abs/2607.28219) |
+| 2026-07-30 | bio_inspired | 0 | 数据驱动的阶段结构宿主寄生蜂模型，用于优化赤眼蜂对大豆荚螟（Leguminivora glyinivorella）爆发的干预措施 | [link](https://arxiv.org/abs/2607.28053) |
+| 2026-07-30 | bio_inspired | 0 | 波动环境下有限种群中通过下注对冲的进化适应 | [link](https://arxiv.org/abs/2607.27983) |
+| 2026-07-29 | complexity | 0 | 二聚体运输马达中的信息驱动步进 | [link](https://arxiv.org/abs/2607.27495) |
+| 2026-07-29 | complexity | 0 | 从粉色到棕色：Aubry-Andr{é} 模型中交互驱动的噪声颜色变化 | [link](https://arxiv.org/abs/2607.27340) |
+| 2026-07-29 | info_theory | 0 | 熵光滑凸优化无法加速 | [link](https://arxiv.org/abs/2607.27476) |
+| 2026-07-23 | network | 0 | 静态和动态网络上具有局部社会影响的集体决策的演化动力学 | [link](https://arxiv.org/abs/2607.27233) |
