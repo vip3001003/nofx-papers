@@ -1874,3 +1874,21 @@
 | 2026-07-29 | complexity | 0 | 从粉色到棕色：Aubry-Andr{é} 模型中交互驱动的噪声颜色变化 | [link](https://arxiv.org/abs/2607.27340) |
 | 2026-07-29 | info_theory | 0 | 熵光滑凸优化无法加速 | [link](https://arxiv.org/abs/2607.27476) |
 | 2026-07-23 | network | 0 | 静态和动态网络上具有局部社会影响的集体决策的演化动力学 | [link](https://arxiv.org/abs/2607.27233) |
+| 2026-07-31 | complexity | 3 | 活性物质系统的熵产生作为计算性能的指标 | [link](https://arxiv.org/abs/2607.29434) |
+| 2026-07-31 | complexity | 3 | 标量曲率密度作为热力学几何中的新不变量：度量依赖性和临界指数 | [link](https://arxiv.org/abs/2607.29170) |
+| 2026-07-30 | complexity | 3 | 驱动耗散超导体中的迈斯纳效应和约瑟夫森辐射 | [link](https://arxiv.org/abs/2607.28734) |
+| 2026-07-31 | complexity | 2 | 单缺陷紧束缚链的光谱观点 | [link](https://arxiv.org/abs/2607.29467) |
+| 2026-07-31 | complexity | 2 | 空模型约束如何影响投影二分网络中的统计验证 | [link](https://arxiv.org/abs/2607.29242) |
+| 2026-07-31 | complexity | 2 | 动态随机存取存储单元中电荷离散性和信息擦除的能量效率 | [link](https://arxiv.org/abs/2607.29015) |
+| 2026-07-31 | complexity | 2 | 润湿转变附近液-汽界面处的协方差驱动动量校正 | [link](https://arxiv.org/abs/2607.28938) |
+| 2026-07-30 | complexity | 1 | 结构玻璃的统计规范理论：平衡情景和玻璃形成能力 | [link](https://arxiv.org/abs/2607.28786) |
+| 2026-07-30 | complexity | 1 | 推导热力学第二定律并探索其边界 | [link](https://arxiv.org/abs/2607.28765) |
+| 2026-07-30 | complexity | 1 | 强变形环面码的有间隙父哈密顿量 | [link](https://arxiv.org/abs/2607.28740) |
+| 2026-07-24 | bio_inspired | 1 | NeuroSynth：一种受生物学启发的持续强化学习架构，用于减轻灾难性遗忘 | [link](https://arxiv.org/abs/2607.28663) |
+| 2026-07-31 | complexity | 0 | 杨的简单充要条件--Baxter可积性 | [link](https://arxiv.org/abs/2607.29660) |
+| 2026-07-31 | complexity | 0 | 非互易扭矩引导活性粒子自组装成具有可控功能的簇 | [link](https://arxiv.org/abs/2607.29651) |
+| 2026-07-31 | complexity | 0 | 作为受体波动反应的超选择性 | [link](https://arxiv.org/abs/2607.29599) |
+| 2026-07-31 | complexity | 0 | Spindrift：从受限路径积分蒙特卡罗中的热纯度学习量子简并性 | [link](https://arxiv.org/abs/2607.29590) |
+| 2026-07-31 | complexity | 0 | 单纯复形上的最优导航 | [link](https://arxiv.org/abs/2607.29450) |
+| 2026-07-30 | complexity | 0 | 对称戴森排除过程的精确结果 | [link](https://arxiv.org/abs/2607.28807) |
+| 2026-07-30 | complexity | 0 | 具有非互易相互作用的非热随机场伊辛模型中的无序诱导时间晶体 | [link](https://arxiv.org/abs/2607.28781) |
