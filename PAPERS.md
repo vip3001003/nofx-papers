@@ -1892,3 +1892,43 @@
 | 2026-07-31 | complexity | 0 | 单纯复形上的最优导航 | [link](https://arxiv.org/abs/2607.29450) |
 | 2026-07-30 | complexity | 0 | 对称戴森排除过程的精确结果 | [link](https://arxiv.org/abs/2607.28807) |
 | 2026-07-30 | complexity | 0 | 具有非互易相互作用的非热随机场伊辛模型中的无序诱导时间晶体 | [link](https://arxiv.org/abs/2607.28781) |
+| 2026-08-01 | volume | 6 | 微观结构均值回归的最优交易 | [link](https://arxiv.org/abs/2608.00885) |
+| 2026-07-31 | risk | 5 | 布朗运动之外的回撤风险：蒙特卡罗框架、非高斯扩展和长记忆 | [link](https://arxiv.org/abs/2608.00127) |
+| 2026-07-31 | complexity | 5 | 量子电路编译中的相变 | [link](https://arxiv.org/abs/2608.00189) |
+| 2026-08-03 | bio_inspired | 4 | 迈向自主公式阿尔法发现：进化计算的视角 | [link](https://arxiv.org/abs/2608.01789) |
+| 2026-08-02 | risk | 4 | 共形凯利：共形预测区间作为分数凯利头寸调整的尺度 | [link](https://arxiv.org/abs/2608.01494) |
+| 2026-08-01 | bio_inspired | 4 | SDDMO-Bench：流数据驱动的动态多目标优化的基准套件 | [link](https://arxiv.org/abs/2608.00474) |
+| 2026-08-03 | complexity | 3 | 结构化信号的贝叶斯推理：种植自旋玻璃中西森线上的静态复制对称性破缺 | [link](https://arxiv.org/abs/2608.02373) |
+| 2026-08-03 | bio_inspired | 3 | 帕累托最优代理模型集合辅助的进化算法 | [link](https://arxiv.org/abs/2608.01777) |
+| 2026-07-31 | complexity | 3 | 多体临界相的渐近可解模型：移动边缘、疤痕和倒疤痕 | [link](https://arxiv.org/abs/2608.00157) |
+| 2026-08-03 | risk | 2 | 路径组合优化：缺陷、提升和路径复杂性的代价 | [link](https://arxiv.org/abs/2608.02355) |
+| 2026-08-03 | complexity | 2 | 多主体 LLM 命名游戏中共识形成的微观动力学 | [link](https://arxiv.org/abs/2608.02178) |
+| 2026-08-03 | complexity | 2 | 二维 kagomé 晶格上的非齐次 Ising 模型：费米子场方法 | [link](https://arxiv.org/abs/2608.02156) |
+| 2026-08-02 | volume | 2 | 长期相关市场订单流下扩散价格动态悖论的精确可解模型 | [link](https://arxiv.org/abs/2608.00988) |
+| 2026-08-02 | complexity | 2 | 随机几何图中集团渗透的格里菲斯相 | [link](https://arxiv.org/abs/2608.01487) |
+| 2026-08-02 | complexity | 2 | Baxter-Wu 模型中的算法重叠：Novotny-Evertz 更新下的集群动态 | [link](https://arxiv.org/abs/2608.01280) |
+| 2026-08-02 | complexity | 2 | 非厄米系统中噪声增强的时间边界态 | [link](https://arxiv.org/abs/2608.01179) |
+| 2026-08-03 | complexity | 1 | 前端选择不是由重正化群稳定性决定的 | [link](https://arxiv.org/abs/2608.02211) |
+| 2026-08-03 | complexity | 1 | 二维伊辛单层和双层磁热效应的通用标度 | [link](https://arxiv.org/abs/2608.01811) |
+| 2026-08-03 | network | 1 | 图的 Forman-Ricci 曲率的马尔可夫和格基 | [link](https://arxiv.org/abs/2608.01929) |
+| 2026-08-02 | complexity | 1 | 漏斗状蛋白质能量景观是热波动下功能进化的结果 | [link](https://arxiv.org/abs/2608.01143) |
+| 2026-08-03 | complexity | 0 | 具有赝模的开放量子系统的热化 | [link](https://arxiv.org/abs/2608.02517) |
+| 2026-08-03 | complexity | 0 | 将复杂性作为广义和远程 Aubry-Andre-Harper 模型中的探针展开 | [link](https://arxiv.org/abs/2608.02451) |
+| 2026-08-03 | complexity | 0 | 记忆量子重置 | [link](https://arxiv.org/abs/2608.02297) |
+| 2026-08-03 | complexity | 0 | 高斯编队纠缠的最优性 | [link](https://arxiv.org/abs/2608.01909) |
+| 2026-08-03 | complexity | 0 | 板球运动中连续个人最好成绩之间的差距分布：数据和模型 | [link](https://arxiv.org/abs/2608.01882) |
+| 2026-08-03 | complexity | 0 | 通过多体量子 Mpemba 效应验证和校准量子硬件 | [link](https://arxiv.org/abs/2608.01788) |
+| 2026-08-03 | complexity | 0 | LieStoNet：从随机动力系统的时空数据中学习李对称性 | [link](https://arxiv.org/abs/2608.01582) |
+| 2026-08-03 | network | 0 | 网络信息增强不可靠新闻域检测 | [link](https://arxiv.org/abs/2608.02399) |
+| 2026-08-03 | network | 0 | 本地网络增长：简单规则如何导致网络复杂性 | [link](https://arxiv.org/abs/2608.01853) |
+| 2026-08-03 | info_theory | 0 | 估计量子泛函的近乎严格的下界：乌尔曼保真度、迹距离和冯诺依曼熵 | [link](https://arxiv.org/abs/2608.02600) |
+| 2026-08-02 | complexity | 0 | 利用局域运算和经典通信识别量子多体系统中的热和功 | [link](https://arxiv.org/abs/2608.00993) |
+| 2026-08-02 | complexity | 0 | 类 ChatGPT 人工智能中的温度驱动反演和非线性动力学 | [link](https://arxiv.org/abs/2608.00939) |
+| 2026-08-02 | complexity | 0 | 球堆积密度 Minkowski 下界的猜想改进分析 | [link](https://arxiv.org/abs/2608.00920) |
+| 2026-08-01 | complexity | 0 | 自主量子能量泵的工作统计 | [link](https://arxiv.org/abs/2608.00638) |
+| 2026-08-01 | complexity | 0 | 用量子力学打鸭子 | [link](https://arxiv.org/abs/2608.00579) |
+| 2026-08-01 | info_theory | 0 | 用于带宽有限的视觉通信的与通道无关的语义压缩 | [link](https://arxiv.org/abs/2608.00394) |
+| 2026-07-31 | complexity | 0 | 具有 Onsager-Casimir 对称性的记忆：粘弹性流体中的旋转粒子 | [link](https://arxiv.org/abs/2608.00344) |
+| 2026-07-31 | complexity | 0 | 从飞行日志到大气科学：滑翔伞作为对流传感器来识别热预报器 | [link](https://arxiv.org/abs/2608.00241) |
+| 2026-07-31 | complexity | 0 | 周期性驱动量子系统中的耗散：部分世俗化和热力学一致性 | [link](https://arxiv.org/abs/2608.00225) |
+| 2026-07-31 | complexity | 0 | 基于测量的 GHZ 状态准备的最佳解码：最大效用解码器 | [link](https://arxiv.org/abs/2608.00160) |
