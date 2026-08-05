@@ -1932,3 +1932,19 @@
 | 2026-07-31 | complexity | 0 | 从飞行日志到大气科学：滑翔伞作为对流传感器来识别热预报器 | [link](https://arxiv.org/abs/2608.00241) |
 | 2026-07-31 | complexity | 0 | 周期性驱动量子系统中的耗散：部分世俗化和热力学一致性 | [link](https://arxiv.org/abs/2608.00225) |
 | 2026-07-31 | complexity | 0 | 基于测量的 GHZ 状态准备的最佳解码：最大效用解码器 | [link](https://arxiv.org/abs/2608.00160) |
+| 2026-08-04 | network | 7 | 测量清算级联的引擎：一阶转变内的亚临界分支 | [link](https://arxiv.org/abs/2608.03616) |
+| 2026-08-04 | complexity | 3 | Maxwell--Cattaneo-Vernotte热传导模型的热力学一致初始化：解析解和工程应用 | [link](https://arxiv.org/abs/2608.03495) |
+| 2026-08-04 | complexity | 3 | 受监控的随机 Clifford 电路的典型输出状态：图论方法 | [link](https://arxiv.org/abs/2608.03102) |
+| 2026-08-04 | complexity | 2 | 定向聚合物玻璃的光谱路线 | [link](https://arxiv.org/abs/2608.03730) |
+| 2026-08-04 | complexity | 2 | 相互作用吸附层的中间散射函数作为特征函数：伊辛晶格-气体表面扩散的闭式理论 | [link](https://arxiv.org/abs/2608.03398) |
+| 2026-08-04 | bio_inspired | 2 | 单目标景观对多目标优化的影响 | [link](https://arxiv.org/abs/2608.03266) |
+| 2026-08-04 | complexity | 1 | 作为指数族系综渐近边际的 Kappa 分布 | [link](https://arxiv.org/abs/2608.03960) |
+| 2026-08-04 | complexity | 1 | 动态相关函数熵产生的下限 | [link](https://arxiv.org/abs/2608.03619) |
+| 2026-08-03 | complexity | 1 | 处于临界状态的二维非齐次经典系统 | [link](https://arxiv.org/abs/2608.02903) |
+| 2026-08-03 | complexity | 1 | 弱监控量子临界态中的通用交叉 | [link](https://arxiv.org/abs/2608.02716) |
+| 2026-08-04 | complexity | 0 | 斐波那契数系和多体 Aubry-André 模型中的定位准则 | [link](https://arxiv.org/abs/2608.03458) |
+| 2026-08-04 | complexity | 0 | H 函数与熵之间的差异：深入了解严格建立的硬球气体玻尔兹曼方程 | [link](https://arxiv.org/abs/2608.03355) |
+| 2026-08-04 | complexity | 0 | 增殖活性物质的流体动力学描述 | [link](https://arxiv.org/abs/2608.03317) |
+| 2026-08-04 | complexity | 0 | 精确的共振不足以实现声子能量扩散 | [link](https://arxiv.org/abs/2608.03180) |
+| 2026-08-03 | complexity | 0 | 本征态热化破坏的二参数 Ansatz | [link](https://arxiv.org/abs/2608.02744) |
+| 2026-08-03 | complexity | 0 | 谢尔宾斯基冰中的分形解禁闭和禁闭 | [link](https://arxiv.org/abs/2608.02741) |
