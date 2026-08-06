@@ -1948,3 +1948,25 @@
 | 2026-08-04 | complexity | 0 | 精确的共振不足以实现声子能量扩散 | [link](https://arxiv.org/abs/2608.03180) |
 | 2026-08-03 | complexity | 0 | 本征态热化破坏的二参数 Ansatz | [link](https://arxiv.org/abs/2608.02744) |
 | 2026-08-03 | complexity | 0 | 谢尔宾斯基冰中的分形解禁闭和禁闭 | [link](https://arxiv.org/abs/2608.02741) |
+| 2026-08-05 | complexity | 3 | 接近临界点的非互易和奇守恒动力学中的缩放行为 | [link](https://arxiv.org/abs/2608.05027) |
+| 2026-08-05 | complexity | 3 | 跨越伊辛跃迁的二维晶格 $φ^4$ 模型的双粒子不可约顶点 | [link](https://arxiv.org/abs/2608.04497) |
+| 2026-08-05 | complexity | 2 | 构建具有可调例外点和受控状态纯化的非厄米理论 | [link](https://arxiv.org/abs/2608.05052) |
+| 2026-08-04 | complexity | 2 | 实验性 Kuramoto 平台 | [link](https://arxiv.org/abs/2608.04119) |
+| 2026-08-05 | complexity | 1 | 解决受限流体中分子波动引起的空间和时间耦合传输 | [link](https://arxiv.org/abs/2608.04920) |
+| 2026-08-05 | complexity | 1 | 杂阴离子材料中短程有序的结构手性 | [link](https://arxiv.org/abs/2608.04841) |
+| 2026-08-05 | complexity | 1 | 从非平衡格林函数分析 Floquet 量子统计 | [link](https://arxiv.org/abs/2608.04558) |
+| 2026-08-05 | complexity | 1 | 非厄米狄拉克费米子的平衡热力学：热量和磁响应 | [link](https://arxiv.org/abs/2608.04369) |
+| 2026-08-05 | info_theory | 1 | Petz 和夹层 Rényi 条件熵的锐连续性 | [link](https://arxiv.org/abs/2608.04947) |
+| 2026-08-04 | complexity | 1 | 奇怪金属中费米子的纠缠熵 | [link](https://arxiv.org/abs/2608.04098) |
+| 2026-08-05 | complexity | 0 | 二维 Toda--Arnoldi 对应：全纯 Krylov 几何和反非绝热输运 | [link](https://arxiv.org/abs/2608.04850) |
+| 2026-08-05 | complexity | 0 | 层流间隙反映了管道流动中的湍流 | [link](https://arxiv.org/abs/2608.04823) |
+| 2026-08-05 | complexity | 0 | 压力控制排水下的残余饱和度 | [link](https://arxiv.org/abs/2608.04748) |
+| 2026-08-05 | complexity | 0 | 改进的面向汽车的随机交通流模型平均场理论 | [link](https://arxiv.org/abs/2608.04731) |
+| 2026-08-05 | complexity | 0 | 通过扰动本征态淬灭对本征态热化假说进行单本征态检验 | [link](https://arxiv.org/abs/2608.04696) |
+| 2026-08-05 | complexity | 0 | 对称投影吉布斯态的量子化拓扑不变量 | [link](https://arxiv.org/abs/2608.04350) |
+| 2026-08-05 | complexity | 0 | 随机递归树中的等级和层分布 | [link](https://arxiv.org/abs/2608.04303) |
+| 2026-08-04 | complexity | 0 | 吉布斯变分原理和玻尔兹曼不可逆定理 | [link](https://arxiv.org/abs/2608.04129) |
+| 2026-08-04 | complexity | 0 | $\mathscr{PT}$-对称多通道 Kondo 系统中单调杂质熵流的分解 | [link](https://arxiv.org/abs/2608.04083) |
+| 2026-08-04 | complexity | 0 | 通过相对熵最小变化原理统一量子测量结构 | [link](https://arxiv.org/abs/2608.04055) |
+| 2026-08-04 | network | 0 | 有效生成具有最小平均最短路径距离的网络 | [link](https://arxiv.org/abs/2608.04131) |
+| 2026-08-04 | network | 0 | 用于发现和重用高阶网络数据集的存储库 | [link](https://arxiv.org/abs/2608.03491) |
