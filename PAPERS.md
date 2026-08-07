@@ -1970,3 +1970,26 @@
 | 2026-08-04 | complexity | 0 | 通过相对熵最小变化原理统一量子测量结构 | [link](https://arxiv.org/abs/2608.04055) |
 | 2026-08-04 | network | 0 | 有效生成具有最小平均最短路径距离的网络 | [link](https://arxiv.org/abs/2608.04131) |
 | 2026-08-04 | network | 0 | 用于发现和重用高阶网络数据集的存储库 | [link](https://arxiv.org/abs/2608.03491) |
+| 2026-08-05 | complexity | 5 | 超越平衡的成核：双稳态生态系统中的前沿控制入侵 | [link](https://arxiv.org/abs/2608.05251) |
+| 2026-08-06 | complexity | 4 | 大的自旋波波动抑制马尔萨斯群体的活动 | [link](https://arxiv.org/abs/2608.05805) |
+| 2026-08-06 | bio_inspired | 4 | 动态多目标优化的特点骨架重构算法 | [link](https://arxiv.org/abs/2608.06096) |
+| 2026-08-06 | complexity | 3 | 隧道耦合卢廷格液体之间的场空间纠缠动力学 | [link](https://arxiv.org/abs/2608.05968) |
+| 2026-08-05 | complexity | 3 | 下一代超粗粒度：关键内部状态的自洽推理 | [link](https://arxiv.org/abs/2608.05388) |
+| 2026-08-06 | complexity | 2 | 硬球流体中的传输系数：热力学与动力学描述 | [link](https://arxiv.org/abs/2608.06143) |
+| 2026-08-05 | complexity | 2 | 超流氦 | [link](https://arxiv.org/abs/2608.05354) |
+| 2026-08-06 | complexity | 1 | 美国和法国名字的热力学统计 | [link](https://arxiv.org/abs/2608.06048) |
+| 2026-08-06 | complexity | 1 | 伊辛连续跃迁存在周期性磁驱动时的动态缩放行为 | [link](https://arxiv.org/abs/2608.05936) |
+| 2026-08-06 | complexity | 1 | 通过分子动力学模拟计算剪切粘度：OrthoBoXY 方法与 Green-Kubo 方法的比较 | [link](https://arxiv.org/abs/2608.05845) |
+| 2026-08-05 | complexity | 1 | 测量改变临界值理论 | [link](https://arxiv.org/abs/2608.05289) |
+| 2026-08-06 | complexity | 0 | 首代动力学的通用控制预算 | [link](https://arxiv.org/abs/2608.06368) |
+| 2026-08-06 | complexity | 0 | 首次检测过程中的量子涨落关系 | [link](https://arxiv.org/abs/2608.06194) |
+| 2026-08-06 | complexity | 0 | 竞争分配政策下的集体搜捕 | [link](https://arxiv.org/abs/2608.06084) |
+| 2026-08-06 | complexity | 0 | 玻色马尔可夫开放量子动力学的可行蒙特卡罗随机模拟标准 | [link](https://arxiv.org/abs/2608.06056) |
+| 2026-08-06 | complexity | 0 | 测量引起的纠缠哈密顿量 | [link](https://arxiv.org/abs/2608.06006) |
+| 2026-08-06 | complexity | 0 | 量子 Mpemba 效应对纠缠生成的指数加速 | [link](https://arxiv.org/abs/2608.05935) |
+| 2026-08-06 | complexity | 0 | 二维旋转费米子激发态的纠缠缩放和全计数统计 | [link](https://arxiv.org/abs/2608.05722) |
+| 2026-08-06 | complexity | 0 | 来自不可逆阈值动力学的冷冻迷宫的形态学 | [link](https://arxiv.org/abs/2608.05496) |
+| 2026-08-06 | network | 0 | 时间网络上的传播结构 | [link](https://arxiv.org/abs/2608.06175) |
+| 2026-08-06 | bio_inspired | 0 | 中继，而不是路由：自适应群体切换，实现经济高效的法学硕士驱动的进化 | [link](https://arxiv.org/abs/2608.05651) |
+| 2026-08-05 | complexity | 0 | 通过状态图几何和状态图异质性识别多体量子系统中的慢弛豫 | [link](https://arxiv.org/abs/2608.05298) |
+| 2026-08-05 | bio_inspired | 0 | 可靠数据驱动的时间使用优化的质量多样性 | [link](https://arxiv.org/abs/2608.05230) |
