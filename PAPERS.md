@@ -1993,3 +1993,25 @@
 | 2026-08-06 | bio_inspired | 0 | 中继，而不是路由：自适应群体切换，实现经济高效的法学硕士驱动的进化 | [link](https://arxiv.org/abs/2608.05651) |
 | 2026-08-05 | complexity | 0 | 通过状态图几何和状态图异质性识别多体量子系统中的慢弛豫 | [link](https://arxiv.org/abs/2608.05298) |
 | 2026-08-05 | bio_inspired | 0 | 可靠数据驱动的时间使用优化的质量多样性 | [link](https://arxiv.org/abs/2608.05230) |
+| 2026-08-07 | complexity | 4 | 四个空间维度附近标量场的临界动力学 | [link](https://arxiv.org/abs/2608.07292) |
+| 2026-08-06 | complexity | 4 | 通过层次结构级联：正则化器引发的特征检测作为深度线性神经网络中的相变 | [link](https://arxiv.org/abs/2608.06597) |
+| 2026-08-07 | complexity | 2 | 交互创造了孤立的动态人工智能行为 | [link](https://arxiv.org/abs/2608.07457) |
+| 2026-08-07 | complexity | 2 | 跨越二维驱动耗散凝聚体中的通用标度定律 | [link](https://arxiv.org/abs/2608.07242) |
+| 2026-08-07 | risk | 1 | 经过认证的高维 Wasserstein 稳健投资组合优化 | [link](https://arxiv.org/abs/2608.07032) |
+| 2026-08-07 | complexity | 1 | 临界量子链中的逸度解析稳定熵：离散 Selberg 和和精确可解的 Rényi 指数 | [link](https://arxiv.org/abs/2608.06995) |
+| 2026-08-06 | bio_inspired | 1 | LyEvO：李亚普诺夫引导的进化优化，用于安全、鲁棒的模拟到真实的政策学习 | [link](https://arxiv.org/abs/2608.06481) |
+| 2026-08-07 | complexity | 0 | 纠缠姆潘巴效应 | [link](https://arxiv.org/abs/2608.07465) |
+| 2026-08-07 | complexity | 0 | 觅食海龟的主动运动产生异常循环 | [link](https://arxiv.org/abs/2608.07448) |
+| 2026-08-07 | complexity | 0 | 从关卡统计分析传播复杂性：从混沌到可积 | [link](https://arxiv.org/abs/2608.07412) |
+| 2026-08-07 | complexity | 0 | ISAW 的回转半径分布 | [link](https://arxiv.org/abs/2608.07195) |
+| 2026-08-07 | complexity | 0 | 随机势对热和量子激活的统计稳定性 | [link](https://arxiv.org/abs/2608.07194) |
+| 2026-08-07 | complexity | 0 | Horndeski 重力下霍金蒸发的异常淬灭和动态冷却 | [link](https://arxiv.org/abs/2608.07182) |
+| 2026-08-07 | complexity | 0 | 学习区分混沌和噪声的定量标准 | [link](https://arxiv.org/abs/2608.07109) |
+| 2026-08-07 | complexity | 0 | 单弛豫粘弹性流体中的主动布朗运动 | [link](https://arxiv.org/abs/2608.07059) |
+| 2026-08-07 | network | 0 | 用于链路预测和拓扑重建的双曲图嵌入器 | [link](https://arxiv.org/abs/2608.07029) |
+| 2026-08-06 | complexity | 0 | 狄拉克方程的格子玻尔兹曼实现的精确量子电路 | [link](https://arxiv.org/abs/2608.06570) |
+| 2026-08-06 | complexity | 0 | 扩散随机量子电路中局域相关器的KPZ超扩散 | [link](https://arxiv.org/abs/2608.06459) |
+| 2026-08-06 | network | 0 | 异构网络上临界点的基线参考空间预警信号 | [link](https://arxiv.org/abs/2608.06608) |
+| 2026-08-06 | info_theory | 0 | 调整优化偏差的基于熵的决定系数 | [link](https://arxiv.org/abs/2608.06624) |
+| 2026-08-06 | info_theory | 0 | 一次性信息论的成对错误概率框架 | [link](https://arxiv.org/abs/2608.06577) |
+| 2026-08-06 | bio_inspired | 0 | 图上莫兰过程中的替代者及其进化稳定性 | [link](https://arxiv.org/abs/2608.06552) |
