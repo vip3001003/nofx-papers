@@ -2015,3 +2015,42 @@
 | 2026-08-06 | info_theory | 0 | 调整优化偏差的基于熵的决定系数 | [link](https://arxiv.org/abs/2608.06624) |
 | 2026-08-06 | info_theory | 0 | 一次性信息论的成对错误概率框架 | [link](https://arxiv.org/abs/2608.06577) |
 | 2026-08-06 | bio_inspired | 0 | 图上莫兰过程中的替代者及其进化稳定性 | [link](https://arxiv.org/abs/2608.06552) |
+| 2026-08-10 | crypto | 8 | 欧洲加密货币交易所交易产品的异常检测 | [link](https://arxiv.org/abs/2608.09576) |
+| 2026-08-10 | complexity | 3 | 伪分布：热力学几何和经验应用 | [link](https://arxiv.org/abs/2608.09297) |
+| 2026-08-09 | complexity | 3 | Reliability-Safety Trade-off in AI Distillation: A Renormalization-Group Approach | [link](https://arxiv.org/abs/2608.08572) |
+| 2026-08-09 | complexity | 3 | Lee-Yang Theory Guided Force Field Refinement Based on Phase Diagrams | [link](https://arxiv.org/abs/2608.08546) |
+| 2026-08-08 | complexity | 3 | 基于涨落的数相动力学证据——受抑轨道超流体 | [link](https://arxiv.org/abs/2608.08124) |
+| 2026-08-08 | network | 3 | 平台诱导群体解散和个体重新布线的有害信息的自适应高阶传染 | [link](https://arxiv.org/abs/2608.07874) |
+| 2026-08-10 | complexity | 2 | 开放量子系统复杂性的状态诊断 | [link](https://arxiv.org/abs/2608.09705) |
+| 2026-08-10 | complexity | 2 | 具有用于渗透的广义边闭包的集成级循环消息传递 | [link](https://arxiv.org/abs/2608.09397) |
+| 2026-08-10 | complexity | 2 | 突发行为对通信延迟具有鲁棒性，但代价是系统演进速度变慢 | [link](https://arxiv.org/abs/2608.09038) |
+| 2026-08-09 | complexity | 2 | 复杂系统中 q-高斯拟合方法的系统比较 | [link](https://arxiv.org/abs/2608.08666) |
+| 2026-08-09 | complexity | 2 | Organizing transitions and their cascades: Generalized symmetry enforcement in massless flows or Higgs transitions | [link](https://arxiv.org/abs/2608.08428) |
+| 2026-08-08 | complexity | 2 | 共同观察可以屏蔽集体波动，同时保持地方独立性 | [link](https://arxiv.org/abs/2608.08358) |
+| 2026-08-08 | complexity | 2 | Out-of-equilibrium inhomogeneous XX chains: Exact results and the hydrodynamic limit | [link](https://arxiv.org/abs/2608.08205) |
+| 2026-08-08 | complexity | 2 | $\mathrm{SO}(3)$ SLAC 费米子的金属 Gross-Neveu 临界性和超导性 | [link](https://arxiv.org/abs/2608.07990) |
+| 2026-08-08 | bio_inspired | 2 | 用于在 LLM 驱动的优化中解耦结构和参数的混合嵌套线束 | [link](https://arxiv.org/abs/2608.08156) |
+| 2026-08-10 | complexity | 1 | 使用机器学习代理集体变量对离子胶体晶体系统的自由能景观进行采样 | [link](https://arxiv.org/abs/2608.09714) |
+| 2026-08-10 | info_theory | 1 | 智能窃听代码设计：通过信息论和深度学习集成利用无线内生安全 | [link](https://arxiv.org/abs/2608.09387) |
+| 2026-08-09 | complexity | 1 | 自注意力中的集群吸引子流形和动态凝聚 | [link](https://arxiv.org/abs/2608.08922) |
+| 2026-08-09 | complexity | 1 | 通过局部自由空间和碰撞势解决吉布斯悖论 | [link](https://arxiv.org/abs/2608.08457) |
+| 2026-08-08 | complexity | 1 | 结构因素的化学势：I.中性多组分混合物 | [link](https://arxiv.org/abs/2608.08357) |
+| 2026-08-08 | complexity | 1 | 高容量通用 Hopfield 网络 | [link](https://arxiv.org/abs/2608.08226) |
+| 2026-08-07 | complexity | 1 | 具有宇宙学不动点的经典分形 | [link](https://arxiv.org/abs/2608.07672) |
+| 2026-08-07 | complexity | 1 | 大质量量子场论中束缚态的模糊光谱 | [link](https://arxiv.org/abs/2608.07655) |
+| 2026-08-05 | bio_inspired | 1 | HPSO：基于超图拓扑的粒子群优化 | [link](https://arxiv.org/abs/2608.07587) |
+| 2026-07-29 | bio_inspired | 1 | AutoPSO：自动粒子群优化的元框架 | [link](https://arxiv.org/abs/2608.07539) |
+| 2026-07-29 | bio_inspired | 1 | 基于VLM主观评价的动画进化模型 | [link](https://arxiv.org/abs/2608.07537) |
+| 2026-08-10 | complexity | 0 | 广义踢伊辛链中纠缠的传播 | [link](https://arxiv.org/abs/2608.09695) |
+| 2026-08-10 | complexity | 0 | 由于液-气界面的存在而产生有效的一体相互作用 | [link](https://arxiv.org/abs/2608.09375) |
+| 2026-08-10 | complexity | 0 | Scalene Yang--Baxter triples as a source of hidden symmetries beyond the ordinary Yang--Baxter equation | [link](https://arxiv.org/abs/2608.09081) |
+| 2026-08-10 | complexity | 0 | 无序玻色子谐振器中的通用熵占据统计 | [link](https://arxiv.org/abs/2608.09007) |
+| 2026-08-10 | info_theory | 0 | 分离阿贝尔熵锥和同态熵锥 | [link](https://arxiv.org/abs/2608.09543) |
+| 2026-08-10 | bio_inspired | 0 | 使用重放实验识别进化搜索中的增强事件 | [link](https://arxiv.org/abs/2608.09833) |
+| 2026-08-09 | complexity | 0 | 保留的隐性过剩在限价市场中产生记忆 | [link](https://arxiv.org/abs/2608.08625) |
+| 2026-08-09 | complexity | 0 | 二维 SSEP 中的非等谱可积性和精确电流波动 | [link](https://arxiv.org/abs/2608.08480) |
+| 2026-08-08 | complexity | 0 | 偏向 q 投票者模型中基于持久概率的动力学和相图 | [link](https://arxiv.org/abs/2608.08324) |
+| 2026-08-08 | complexity | 0 | 三维晶格流体的三次等变神经密度泛函理论 | [link](https://arxiv.org/abs/2608.08137) |
+| 2026-08-08 | complexity | 0 | 具有粒子暂停的开放排除过程中的低频输出波动 | [link](https://arxiv.org/abs/2608.08074) |
+| 2026-08-08 | complexity | 0 | 转角分析揭示了活细胞中分子异常扩散中隐藏的各向异性 | [link](https://arxiv.org/abs/2608.07975) |
+| 2026-08-07 | volume | 0 | 粗糙霍克斯的微观结构基础--赫斯顿模型 | [link](https://arxiv.org/abs/2608.07709) |
