@@ -2054,3 +2054,7 @@
 | 2026-08-08 | complexity | 0 | 具有粒子暂停的开放排除过程中的低频输出波动 | [link](https://arxiv.org/abs/2608.08074) |
 | 2026-08-08 | complexity | 0 | 转角分析揭示了活细胞中分子异常扩散中隐藏的各向异性 | [link](https://arxiv.org/abs/2608.07975) |
 | 2026-08-07 | volume | 0 | 粗糙霍克斯的微观结构基础--赫斯顿模型 | [link](https://arxiv.org/abs/2608.07709) |
+| 2026-08-11 | bio_inspired | 2 | 具有动态约束的单调子模问题的多任务帕累托优化 | [link](https://arxiv.org/abs/2608.10425) |
+| 2026-08-10 | bio_inspired | 2 | 图神经网络--成本不确定下物理互联网供应链优化的引导遗传算法 | [link](https://arxiv.org/abs/2608.10245) |
+| 2026-08-11 | bio_inspired | 0 | EvoMem：用于代码优化的内存增强演进 | [link](https://arxiv.org/abs/2608.10795) |
+| 2026-08-11 | bio_inspired | 0 | 优化廉价，部署强大：具有成本意识的跨层传输以实现进化优化 | [link](https://arxiv.org/abs/2608.10694) |
