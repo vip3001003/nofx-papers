@@ -2058,3 +2058,41 @@
 | 2026-08-10 | bio_inspired | 2 | 图神经网络--成本不确定下物理互联网供应链优化的引导遗传算法 | [link](https://arxiv.org/abs/2608.10245) |
 | 2026-08-11 | bio_inspired | 0 | EvoMem：用于代码优化的内存增强演进 | [link](https://arxiv.org/abs/2608.10795) |
 | 2026-08-11 | bio_inspired | 0 | 优化廉价，部署强大：具有成本意识的跨层传输以实现进化优化 | [link](https://arxiv.org/abs/2608.10694) |
+| 2026-08-12 | network | 6 | 部门间的相互依赖导致签署金融网络结构性平衡的丧失 | [link](https://arxiv.org/abs/2608.12023) |
+| 2026-08-11 | crypto | 4 | 加密货币和股票市场中程式化事实的普遍性和异质性 | [link](https://arxiv.org/abs/2608.10852) |
+| 2026-08-12 | complexity | 3 | 二叉树上最小加过程的有限深度缩放和精确的伯努利叶恒等式 | [link](https://arxiv.org/abs/2608.12295) |
+| 2026-08-12 | complexity | 3 | 半空间约束 Riesz 气体中的限制跃迁 | [link](https://arxiv.org/abs/2608.11813) |
+| 2026-08-11 | complexity | 3 | 量子碰撞模型中非马尔可夫浴的交换涨落定理 | [link](https://arxiv.org/abs/2608.11488) |
+| 2026-08-11 | complexity | 3 | 主动排除过程中的干扰转换 | [link](https://arxiv.org/abs/2608.11041) |
+| 2026-08-11 | complexity | 3 | 一维混合接触过程中的稳态相变 | [link](https://arxiv.org/abs/2608.10948) |
+| 2026-08-12 | complexity | 2 | 二维量子磁体中的界面相和动力学：从普遍性到量子模拟的“全息”方法 | [link](https://arxiv.org/abs/2608.12312) |
+| 2026-08-11 | complexity | 2 | 强耦合多体开放量子系统的功分配 | [link](https://arxiv.org/abs/2608.11196) |
+| 2026-08-11 | complexity | 2 | 经典非相互作用多体系统熵的精确表达式 | [link](https://arxiv.org/abs/2608.11104) |
+| 2026-08-11 | complexity | 2 | 强非线性多体系统的平衡分布 | [link](https://arxiv.org/abs/2608.10352) |
+| 2026-08-11 | bio_inspired | 2 | 热带商业建筑 HVAC 控制的情境质量多样性进化强化学习 | [link](https://arxiv.org/abs/2608.11324) |
+| 2026-08-10 | complexity | 2 | 异构延迟耦合网络的广义主稳定性 | [link](https://arxiv.org/abs/2608.10076) |
+| 2026-08-07 | bio_inspired | 2 | 梯度下降的自适应混合粒子群优化 | [link](https://arxiv.org/abs/2608.11258) |
+| 2026-08-12 | complexity | 1 | 浅层随机量子电路中的条件依赖性和斯克鲁奇系综 | [link](https://arxiv.org/abs/2608.12255) |
+| 2026-08-12 | complexity | 1 | 参数扫描的快捷方式 | [link](https://arxiv.org/abs/2608.12154) |
+| 2026-08-12 | complexity | 1 | 非平稳扩散系统电流多次统计的宏观涨落理论 | [link](https://arxiv.org/abs/2608.12119) |
+| 2026-08-12 | complexity | 1 | 通过系统控制增强量子热机的功率--储层耦合 | [link](https://arxiv.org/abs/2608.12055) |
+| 2026-08-12 | complexity | 1 | 多物种等离子体气氛中的双极电场：α粒子和随机加热的影响 | [link](https://arxiv.org/abs/2608.12014) |
+| 2026-08-12 | complexity | 1 | 跨尺度的磁性活性物质 | [link](https://arxiv.org/abs/2608.11875) |
+| 2026-08-11 | complexity | 1 | 非齐次 SSH 链中空间扩展零模式的通用缩放 | [link](https://arxiv.org/abs/2608.11021) |
+| 2026-08-11 | info_theory | 1 | 打破冯诺依曼熵估计的二次障碍 | [link](https://arxiv.org/abs/2608.11151) |
+| 2026-08-10 | complexity | 1 | 滑动窗口量子纠错动力学 | [link](https://arxiv.org/abs/2608.10081) |
+| 2026-08-10 | network | 1 | 复加权图上的奥利维耶里奇曲率 | [link](https://arxiv.org/abs/2608.10132) |
+| 2026-08-12 | complexity | 0 | 多状态切换环境中人口波动的动态 | [link](https://arxiv.org/abs/2608.12208) |
+| 2026-08-12 | complexity | 0 | 以最高效率实现理想热机循环——理想气体及其他 | [link](https://arxiv.org/abs/2608.11966) |
+| 2026-08-12 | complexity | 0 | 单颗粒厚条纹熔化中的密度选择拓扑路径 | [link](https://arxiv.org/abs/2608.11880) |
+| 2026-08-12 | info_theory | 0 | 有损压缩、真实性和协调 | [link](https://arxiv.org/abs/2608.12222) |
+| 2026-08-11 | complexity | 0 | 活塞式聚合物随机热机 | [link](https://arxiv.org/abs/2608.11507) |
+| 2026-08-11 | complexity | 0 | 量子伊辛链中假真空衰变率的操作可识别性 | [link](https://arxiv.org/abs/2608.11339) |
+| 2026-08-11 | complexity | 0 | 多体量子混沌开始时的光谱局域几何响应 | [link](https://arxiv.org/abs/2608.11309) |
+| 2026-08-11 | complexity | 0 | 具有连续对称性的噪声量子多体动力学的几何：纠缠和相关​​性 | [link](https://arxiv.org/abs/2608.11297) |
+| 2026-08-11 | complexity | 0 | 稳态响应的精确首次通过时间响应理论 | [link](https://arxiv.org/abs/2608.11202) |
+| 2026-08-11 | complexity | 0 | 作为随机探索过程的重整化群 | [link](https://arxiv.org/abs/2608.11106) |
+| 2026-08-11 | complexity | 0 | 循环驱动非晶固体不可逆性的动力学机制 | [link](https://arxiv.org/abs/2608.11073) |
+| 2026-08-11 | complexity | 0 | 随机 XNOR 跳变模型中的异常电流波动 | [link](https://arxiv.org/abs/2608.10536) |
+| 2026-08-10 | complexity | 0 | 量子轨迹中明显违反第二定律的界限 | [link](https://arxiv.org/abs/2608.10118) |
+| 2026-08-04 | info_theory | 0 | 扩散压缩：利用扩散 LM 进行无损压缩 | [link](https://arxiv.org/abs/2608.11249) |
