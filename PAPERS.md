@@ -2096,3 +2096,20 @@
 | 2026-08-11 | complexity | 0 | 随机 XNOR 跳变模型中的异常电流波动 | [link](https://arxiv.org/abs/2608.10536) |
 | 2026-08-10 | complexity | 0 | 量子轨迹中明显违反第二定律的界限 | [link](https://arxiv.org/abs/2608.10118) |
 | 2026-08-04 | info_theory | 0 | 扩散压缩：利用扩散 LM 进行无损压缩 | [link](https://arxiv.org/abs/2608.11249) |
+| 2026-08-13 | complexity | 4 | 自组织临界性中的对称性出现 | [link](https://arxiv.org/abs/2608.13500) |
+| 2026-08-12 | complexity | 3 | 近藤自旋-$s$链的边界相和热力学：从过度筛选的近藤到边界束缚态 | [link](https://arxiv.org/abs/2608.12453) |
+| 2026-08-13 | volume | 2 | FlowLOB：通过流量匹配高效可控的限价订单簿生成 | [link](https://arxiv.org/abs/2608.13096) |
+| 2026-08-12 | complexity | 2 | 倾斜余弦势下布朗粒子的中间散射函数 | [link](https://arxiv.org/abs/2608.12421) |
+| 2026-08-13 | complexity | 1 | 可迁移三维经典密度泛函的等变学习 | [link](https://arxiv.org/abs/2608.13506) |
+| 2026-08-13 | complexity | 1 | 逆谱几何中隐藏的戴森普适性 | [link](https://arxiv.org/abs/2608.13475) |
+| 2026-08-13 | complexity | 1 | 神经二次型：突发学习和缩放定律的统一最小模型 | [link](https://arxiv.org/abs/2608.13335) |
+| 2026-08-13 | complexity | 1 | 量子临界性中的相关性与因果性 | [link](https://arxiv.org/abs/2608.12770) |
+| 2026-07-30 | network | 1 | 营养结构预测大脑网络模型中的癫痫发作传播 | [link](https://arxiv.org/abs/2608.12382) |
+| 2026-08-13 | complexity | 0 | 非周期性足以实现宏观热化 | [link](https://arxiv.org/abs/2608.13462) |
+| 2026-08-13 | complexity | 0 | 毛细管自折叠链 | [link](https://arxiv.org/abs/2608.13349) |
+| 2026-08-13 | complexity | 0 | 超越说服：两极分化社会中的移动选举界面 | [link](https://arxiv.org/abs/2608.13184) |
+| 2026-08-13 | complexity | 0 | 使用扩散模型估计解析连续性中的不确定性 | [link](https://arxiv.org/abs/2608.13123) |
+| 2026-08-13 | complexity | 0 | 三态IRF元胞自动机的局域和准局域守恒定律及其量子变形 | [link](https://arxiv.org/abs/2608.13080) |
+| 2026-08-13 | complexity | 0 | 学习热力学：记忆、适应性和价值的类型化四成分核算 | [link](https://arxiv.org/abs/2608.12791) |
+| 2026-08-13 | network | 0 | 高阶动态网络的降维 | [link](https://arxiv.org/abs/2608.12676) |
+| 2026-08-12 | complexity | 0 | 水中离子的扩散和溶剂化动力学：超越布朗近似 | [link](https://arxiv.org/abs/2608.12562) |
