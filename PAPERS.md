@@ -2113,3 +2113,26 @@
 | 2026-08-13 | complexity | 0 | 学习热力学：记忆、适应性和价值的类型化四成分核算 | [link](https://arxiv.org/abs/2608.12791) |
 | 2026-08-13 | network | 0 | 高阶动态网络的降维 | [link](https://arxiv.org/abs/2608.12676) |
 | 2026-08-12 | complexity | 0 | 水中离子的扩散和溶剂化动力学：超越布朗近似 | [link](https://arxiv.org/abs/2608.12562) |
+| 2026-08-14 | bio_inspired | 4 | 耦合自适应代理排队模型中的吸收相变 | [link](https://arxiv.org/abs/2608.14398) |
+| 2026-08-13 | complexity | 4 | 非阿贝尔戈德斯通模式的远离平衡标度 | [link](https://arxiv.org/abs/2608.13666) |
+| 2026-08-14 | risk | 3 | 约束因子组合优化中的光子量子计算与经典求解器 | [link](https://arxiv.org/abs/2608.14134) |
+| 2026-08-14 | network | 3 | 印加帝国网络的结构分歧，1400--1572~CE：持续同源、替代拓扑和斩首崩溃的拓扑特征 | [link](https://arxiv.org/abs/2608.13857) |
+| 2026-08-13 | complexity | 3 | Far-from-equilibrium topological phase transition in one dimension | [link](https://arxiv.org/abs/2608.13658) |
+| 2026-08-14 | complexity | 2 | 晶体材料的通用热力学原子间势 | [link](https://arxiv.org/abs/2608.14502) |
+| 2026-08-13 | complexity | 2 | 本征态热化的相变：通过 AGT 对应的禁止奇点和瞬子增殖 | [link](https://arxiv.org/abs/2608.13246) |
+| 2026-08-14 | complexity | 1 | 量子快照揭示了紧凑的共形边界模式 | [link](https://arxiv.org/abs/2608.14327) |
+| 2026-08-14 | complexity | 1 | 有效场论中扩散模型中的信息传播 | [link](https://arxiv.org/abs/2608.14308) |
+| 2026-08-14 | complexity | 1 | 真空角 $θ= π$ 下两种风味 Schwinger 模型中的纠缠谱排序和风味偏振 | [link](https://arxiv.org/abs/2608.14296) |
+| 2026-08-14 | complexity | 1 | 量子计算机硬件的小世界结构 | [link](https://arxiv.org/abs/2608.13855) |
+| 2026-08-13 | complexity | 1 | 本征态热化系统相变的 Lee-Yang 范式 | [link](https://arxiv.org/abs/2608.13174) |
+| 2026-08-14 | complexity | 0 | 二维铁磁体中相互作用状态的线性响应 | [link](https://arxiv.org/abs/2608.14477) |
+| 2026-08-14 | complexity | 0 | 将多维热力学不确定性关系推广到任意计数变量的组合 | [link](https://arxiv.org/abs/2608.14276) |
+| 2026-08-14 | complexity | 0 | 非正交状态擦除是明显违反第二定律背后的资源 | [link](https://arxiv.org/abs/2608.13881) |
+| 2026-08-14 | network | 0 | 超越成对网络的弹性 | [link](https://arxiv.org/abs/2608.13950) |
+| 2026-08-14 | network | 0 | 用于帝国网络分析的双拓扑管道：持久同源性、结构脆弱性和阿兹特克崩溃 | [link](https://arxiv.org/abs/2608.13845) |
+| 2026-08-14 | info_theory | 0 | 通过稀疏回归代码进行有损压缩：广义构造和有限长度界限 | [link](https://arxiv.org/abs/2608.14494) |
+| 2026-08-14 | info_theory | 0 | 熵泛函的结构表征 | [link](https://arxiv.org/abs/2608.13917) |
+| 2026-08-14 | bio_inspired | 0 | 符号回归中进化特征构建的自适应保护及其在信用分类中的应用 | [link](https://arxiv.org/abs/2608.14209) |
+| 2026-08-13 | complexity | 0 | 重整化群流的开放系统探测 | [link](https://arxiv.org/abs/2608.13664) |
+| 2026-08-13 | info_theory | 0 | 用于多用户语义通信中延迟最小化的能量感知压缩计算协同适应 | [link](https://arxiv.org/abs/2608.13632) |
+| 2026-08-13 | bio_inspired | 0 | SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers | [link](https://arxiv.org/abs/2608.13702) |
