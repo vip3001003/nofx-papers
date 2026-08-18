@@ -2136,3 +2136,32 @@
 | 2026-08-13 | complexity | 0 | 重整化群流的开放系统探测 | [link](https://arxiv.org/abs/2608.13664) |
 | 2026-08-13 | info_theory | 0 | 用于多用户语义通信中延迟最小化的能量感知压缩计算协同适应 | [link](https://arxiv.org/abs/2608.13632) |
 | 2026-08-13 | bio_inspired | 0 | SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers | [link](https://arxiv.org/abs/2608.13702) |
+| 2026-08-15 | complexity | 4 | 非相干泵浦发射器群中向超辐射的转变 | [link](https://arxiv.org/abs/2608.15329) |
+| 2026-08-17 | complexity | 3 | 谢林分离模型中缺乏临界标度 | [link](https://arxiv.org/abs/2608.16557) |
+| 2026-08-17 | complexity | 3 | Rare-event sampling for stochastic dynamics in network systems using cluster updates | [link](https://arxiv.org/abs/2608.16171) |
+| 2026-08-16 | complexity | 3 | 关键投影系综中的通用框架势层次 | [link](https://arxiv.org/abs/2608.15467) |
+| 2026-08-16 | network | 3 | A theory of spatial early warning signals for tipping points on complex networks | [link](https://arxiv.org/abs/2608.15476) |
+| 2026-08-17 | complexity | 2 | 来自熵电子关联效应的空腔诱导金属相的证据 | [link](https://arxiv.org/abs/2608.16593) |
+| 2026-08-17 | network | 2 | 街道网络形态的光谱指纹：城市结构的尺寸调整图拉普拉斯描述符 | [link](https://arxiv.org/abs/2608.16758) |
+| 2026-08-17 | info_theory | 2 | 提示的价值：法学硕士相对柯尔莫哥洛夫复杂性方法 | [link](https://arxiv.org/abs/2608.16438) |
+| 2026-08-15 | complexity | 2 | 远程 Lee-Yang 的 $6-ε$ 扩展和渗流临界值 | [link](https://arxiv.org/abs/2608.15120) |
+| 2026-08-15 | bio_inspired | 2 | Chameleon：一种自适应人工智能驱动的蜜罐架构，使用威胁校准的粒子群优化和语义欺骗快速探索随机树 | [link](https://arxiv.org/abs/2608.15407) |
+| 2026-08-14 | complexity | 2 | 超晶格中的相干声子阻挡 | [link](https://arxiv.org/abs/2608.14880) |
+| 2026-08-17 | complexity | 1 | 通过 Sierpiski-Gasket Aharonov-Bohm 干涉仪中的工程耗散实现巨大的热放大 | [link](https://arxiv.org/abs/2608.16877) |
+| 2026-08-17 | complexity | 1 | 描述 Lieb-Liniger Bose 气体动力学相关函数时出现的 Fredholm 行列式的渐近分析 | [link](https://arxiv.org/abs/2608.16727) |
+| 2026-08-16 | complexity | 1 | 三环杨-李边缘奇点的动态临界指数 | [link](https://arxiv.org/abs/2608.15887) |
+| 2026-08-16 | complexity | 1 | 汤川网络中有限各向异性传播锥的重正化群锁定 | [link](https://arxiv.org/abs/2608.15661) |
+| 2026-08-16 | complexity | 1 | 量子多体物理中的零点定理 | [link](https://arxiv.org/abs/2608.15542) |
+| 2026-08-16 | complexity | 1 | Postselection-Free Reconstruction of Monitored SPT Flux-Charge Responses | [link](https://arxiv.org/abs/2608.15477) |
+| 2026-08-16 | complexity | 1 | 包括生物系统在内的材料中的信息、秩序、复杂性和熵：基于状态变量的热力学理论 | [link](https://arxiv.org/abs/2608.15462) |
+| 2026-08-15 | complexity | 1 | Nonequilibrium Maxwell-Demon NEMD simulations of transport: I. Extrapolating shear viscosity to the hydrodynamic limit | [link](https://arxiv.org/abs/2608.15371) |
+| 2026-08-17 | complexity | 0 | 量子混沌态的谱边刚性 | [link](https://arxiv.org/abs/2608.16847) |
+| 2026-08-17 | complexity | 0 | 折叠高斯频率量子谐波振荡器的统计力学 | [link](https://arxiv.org/abs/2608.16617) |
+| 2026-08-17 | complexity | 0 | 物理上允许的核物质状态方程的深度学习分类 | [link](https://arxiv.org/abs/2608.16051) |
+| 2026-08-17 | info_theory | 0 | UniTAC：通过加权失真测量进行通用任务感知压缩 | [link](https://arxiv.org/abs/2608.16696) |
+| 2026-08-16 | complexity | 0 | 贝里相输运的 Hodge 结构：拓扑、几何和噪声 | [link](https://arxiv.org/abs/2608.15789) |
+| 2026-08-16 | complexity | 0 | 有隙量子晶格系统中截断相互作用尾部产生的局部可观测误差 | [link](https://arxiv.org/abs/2608.15576) |
+| 2026-08-15 | complexity | 0 | 遍历动力学下量子资源的等价性 | [link](https://arxiv.org/abs/2608.15197) |
+| 2026-08-15 | complexity | 0 | 各向异性海森堡模型中的量子多体疤痕、磁振子对凝聚和希尔伯特空间破碎 | [link](https://arxiv.org/abs/2608.15017) |
+| 2026-08-15 | info_theory | 0 | 通过成对错误概率的一次性信息理论：有损、联合源通道、擦除和多用户编码 | [link](https://arxiv.org/abs/2608.15169) |
+| 2026-08-14 | complexity | 0 | 有限 Zeta 函数 Mott 系列石墨烯光热电器件的精确热电传输系数和品质因数 | [link](https://arxiv.org/abs/2608.14850) |
