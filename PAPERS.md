@@ -2165,3 +2165,27 @@
 | 2026-08-15 | complexity | 0 | 各向异性海森堡模型中的量子多体疤痕、磁振子对凝聚和希尔伯特空间破碎 | [link](https://arxiv.org/abs/2608.15017) |
 | 2026-08-15 | info_theory | 0 | 通过成对错误概率的一次性信息理论：有损、联合源通道、擦除和多用户编码 | [link](https://arxiv.org/abs/2608.15169) |
 | 2026-08-14 | complexity | 0 | 有限 Zeta 函数 Mott 系列石墨烯光热电器件的精确热电传输系数和品质因数 | [link](https://arxiv.org/abs/2608.14850) |
+| 2026-08-18 | risk | 4 | 针对稳定 Lévy 流程的熵风险值投资组合优化 | [link](https://arxiv.org/abs/2608.18022) |
+| 2026-08-18 | complexity | 3 | 热容量作为主动系统中形状和干扰转变的标记 | [link](https://arxiv.org/abs/2608.17903) |
+| 2026-08-18 | complexity | 3 | 动力学约束立方晶格系统平衡树堆积构型中的自发对称破缺 | [link](https://arxiv.org/abs/2608.17308) |
+| 2026-08-18 | complexity | 3 | 单纯复形上基于关联的随机游走 | [link](https://arxiv.org/abs/2608.17229) |
+| 2026-08-17 | complexity | 3 | 统计稳定全息量子湍流：超均匀涡旋物质和交叉 | [link](https://arxiv.org/abs/2608.17012) |
+| 2026-08-18 | complexity | 2 | 轻重模型中的关键行为和交叉缩放 | [link](https://arxiv.org/abs/2608.18016) |
+| 2026-08-18 | complexity | 2 | 奇异量子踢动转子的长程非线性西格玛模型 | [link](https://arxiv.org/abs/2608.17649) |
+| 2026-08-18 | complexity | 2 | 一维光子凝聚阵列中的 KPZ 缩放 | [link](https://arxiv.org/abs/2608.17602) |
+| 2026-08-18 | complexity | 2 | 熵与疯狂：时间之箭与喧嚣 | [link](https://arxiv.org/abs/2608.17586) |
+| 2026-08-18 | complexity | 2 | 一类 $U(1)$-对称自旋 1 链中不存在非平凡局部守恒量 | [link](https://arxiv.org/abs/2608.17548) |
+| 2026-08-18 | complexity | 2 | 具有现场增益和损失的非厄米特 Aubry-André 模型中本地化转变的平衡和非平衡缩放行为 | [link](https://arxiv.org/abs/2608.17527) |
+| 2026-08-18 | complexity | 2 | 用于网络上罕见随机动力学的条件路径蒙特卡罗：细节和推导 | [link](https://arxiv.org/abs/2608.17511) |
+| 2026-08-18 | complexity | 1 | 非阿贝尔单纯网络中没有玻璃的挫败感 | [link](https://arxiv.org/abs/2608.17817) |
+| 2026-08-18 | complexity | 1 | 转录网络中前馈循环丰度的信息论视角 | [link](https://arxiv.org/abs/2608.17699) |
+| 2026-08-18 | complexity | 1 | 接近解限量子临界点的规范约束的自旋配合物 | [link](https://arxiv.org/abs/2608.17631) |
+| 2026-08-18 | info_theory | 1 | 有限字母表 i.i.d 的规范 T 复杂度的一阶熵定律来源 | [link](https://arxiv.org/abs/2608.17958) |
+| 2026-08-17 | complexity | 1 | 来自矩阵产品状态的 AdS 中的体临界值和边界谱 | [link](https://arxiv.org/abs/2608.16992) |
+| 2026-08-18 | complexity | 0 | 对称稳定自回归序列的近单位根持久性 | [link](https://arxiv.org/abs/2608.17927) |
+| 2026-08-18 | complexity | 0 | 球密集圆柱堆积的固态理论 | [link](https://arxiv.org/abs/2608.17850) |
+| 2026-08-18 | info_theory | 0 | 量子 Rényi 和 Tsallis 熵的近样本最优估计器 | [link](https://arxiv.org/abs/2608.18070) |
+| 2026-08-17 | complexity | 0 | Lieb--Oxford 不等式的固定粒子数优化器 | [link](https://arxiv.org/abs/2608.17155) |
+| 2026-08-17 | complexity | 0 | 用于基本函数和过滤函数的逐元素评估的迭代张量网络变换 | [link](https://arxiv.org/abs/2608.17135) |
+| 2026-08-17 | complexity | 0 | 使用风观测跟踪三个太阳周期的非线性太阳风动力学 | [link](https://arxiv.org/abs/2608.17037) |
+| 2026-08-17 | complexity | 0 | Lanczos 系数的测地距离解释 | [link](https://arxiv.org/abs/2608.16982) |
