@@ -2189,3 +2189,12 @@
 | 2026-08-17 | complexity | 0 | 用于基本函数和过滤函数的逐元素评估的迭代张量网络变换 | [link](https://arxiv.org/abs/2608.17135) |
 | 2026-08-17 | complexity | 0 | 使用风观测跟踪三个太阳周期的非线性太阳风动力学 | [link](https://arxiv.org/abs/2608.17037) |
 | 2026-08-17 | complexity | 0 | Lanczos 系数的测地距离解释 | [link](https://arxiv.org/abs/2608.16982) |
+| 2026-08-18 | ml | 3 | 通过强化学习进行多层次做市 | [link](https://arxiv.org/abs/2608.18195) |
+| 2026-08-19 | complexity | 2 | 拓扑在多带玻色子的传输噪声中并不沉默 | [link](https://arxiv.org/abs/2608.18527) |
+| 2026-08-19 | complexity | 1 | 重整化群变换的簇表示及伊辛模型RG流收敛于远离临界点的平凡不动点的严格证明 | [link](https://arxiv.org/abs/2608.18862) |
+| 2026-08-19 | complexity | 1 | 周期性 Baxter-Fendley $Z_N$ 时钟链的精确匹配多项式解 | [link](https://arxiv.org/abs/2608.18633) |
+| 2026-08-19 | info_theory | 1 | GCNO：用于基于物理的无线信道压缩的格拉米安切比雪夫神经算子 | [link](https://arxiv.org/abs/2608.18522) |
+| 2026-08-19 | complexity | 0 | 量子纠错中的子系统对称性和分形模型 | [link](https://arxiv.org/abs/2608.18961) |
+| 2026-08-19 | complexity | 0 | 阿贝尔和非阿贝尔拓扑码的整数线性规划解码器 | [link](https://arxiv.org/abs/2608.18512) |
+| 2026-08-19 | complexity | 0 | 量子存储器中的熵刚性：几何和代数如何控制简并校正的开始 | [link](https://arxiv.org/abs/2608.18420) |
+| 2026-08-10 | info_theory | 0 | 熵约束自适应随机量化 | [link](https://arxiv.org/abs/2608.18147) |
