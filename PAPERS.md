@@ -2198,3 +2198,35 @@
 | 2026-08-19 | complexity | 0 | 阿贝尔和非阿贝尔拓扑码的整数线性规划解码器 | [link](https://arxiv.org/abs/2608.18512) |
 | 2026-08-19 | complexity | 0 | 量子存储器中的熵刚性：几何和代数如何控制简并校正的开始 | [link](https://arxiv.org/abs/2608.18420) |
 | 2026-08-10 | info_theory | 0 | 熵约束自适应随机量化 | [link](https://arxiv.org/abs/2608.18147) |
+| 2026-08-20 | complexity | 3 | $(1+1)$维伊辛临界点附近的通用介子谱 | [link](https://arxiv.org/abs/2608.20221) |
+| 2026-08-20 | complexity | 3 | 合作的出现：声誉调节强化学习 | [link](https://arxiv.org/abs/2608.20016) |
+| 2026-08-20 | risk | 2 | CVaR 约束下的动态投资组合优化 | [link](https://arxiv.org/abs/2608.20179) |
+| 2026-08-20 | complexity | 2 | Nonlinear Drude weight of the one-dimensional Hubbard model | [link](https://arxiv.org/abs/2608.20269) |
+| 2026-08-20 | complexity | 2 | 偶极和多极粒子光驱动旋转的Floquet理论 | [link](https://arxiv.org/abs/2608.20197) |
+| 2026-08-20 | complexity | 2 | Biorthogonal Conformal Dynamics in Non-Hermitian Quantum Quenches | [link](https://arxiv.org/abs/2608.20156) |
+| 2026-08-20 | complexity | 2 | 金属-绝缘体转变中的涨落控制的不对称动力学 | [link](https://arxiv.org/abs/2608.20100) |
+| 2026-08-20 | complexity | 2 | Kibble--介观尺度迪克模型中的 Zurek 标度 | [link](https://arxiv.org/abs/2608.20067) |
+| 2026-08-20 | complexity | 2 | 热响应微凝胶非平衡溶胀动力学的溶剂通量理论 | [link](https://arxiv.org/abs/2608.19884) |
+| 2026-08-19 | ml | 2 | 集中流动性供给：强化学习视角 | [link](https://arxiv.org/abs/2608.19389) |
+| 2026-08-19 | complexity | 2 | 信息内容波动造成的统计复杂性 | [link](https://arxiv.org/abs/2608.19485) |
+| 2026-08-19 | complexity | 2 | 量子 Rényi-Jarzynski 等式 | [link](https://arxiv.org/abs/2608.19320) |
+| 2026-08-20 | complexity | 1 | 隐藏在响应波动中的记忆：轨迹级波动响应理论和非马尔可夫跳跃动力学的不等式 | [link](https://arxiv.org/abs/2608.20328) |
+| 2026-08-20 | complexity | 1 | 学习 Potts 模型和 $Z_3$ Toric 代码：更高和普通的西森临界性 | [link](https://arxiv.org/abs/2608.20268) |
+| 2026-08-20 | complexity | 1 | 晶格哈密顿系统中量子相变的严格存在性和位置 | [link](https://arxiv.org/abs/2608.20209) |
+| 2026-08-20 | complexity | 1 | 量子学习和传感的潮起潮落 | [link](https://arxiv.org/abs/2608.20155) |
+| 2026-08-20 | complexity | 1 | 强化学习利用近似误差进行长时间量子模拟 | [link](https://arxiv.org/abs/2608.20139) |
+| 2026-08-19 | complexity | 1 | 在嘈杂的量子计算机上具有软化动力学约束的玻璃动力学 | [link](https://arxiv.org/abs/2608.19335) |
+| 2026-08-11 | bio_inspired | 1 | 尖峰变压器的尖峰局部交互和自适应互补融合 | [link](https://arxiv.org/abs/2608.19238) |
+| 2026-08-20 | complexity | 0 | 双摆翻转率预测 | [link](https://arxiv.org/abs/2608.20276) |
+| 2026-08-20 | complexity | 0 | 具有扩散边界的布朗运动的分裂概率：在聚合物易位中的应用 | [link](https://arxiv.org/abs/2608.20226) |
+| 2026-08-20 | complexity | 0 | 量子图灵模式的动物学 | [link](https://arxiv.org/abs/2608.20151) |
+| 2026-08-20 | complexity | 0 | 玻尔兹曼在希尔伯特空间中计数 | [link](https://arxiv.org/abs/2608.20136) |
+| 2026-08-20 | complexity | 0 | 欠阻尼朗之万动力学的精确波动响应关系 | [link](https://arxiv.org/abs/2608.20013) |
+| 2026-08-20 | complexity | 0 | 动态一对多量子计量：求和规则和无矩阵精度界限 | [link](https://arxiv.org/abs/2608.19988) |
+| 2026-08-20 | complexity | 0 | 具有急剧金属-绝缘体转变的块状有机导体中的挥发性电阻开关状态 | [link](https://arxiv.org/abs/2608.19864) |
+| 2026-08-20 | complexity | 0 | 算术伊辛模型的精确配分函数 | [link](https://arxiv.org/abs/2608.19605) |
+| 2026-08-20 | info_theory | 0 | Bernard-Letac 公平抽样构造的算法、复杂性和熵 | [link](https://arxiv.org/abs/2608.20234) |
+| 2026-08-19 | complexity | 0 | 动态参考中的状态可转换性和波动定理：多数化满足鞅 | [link](https://arxiv.org/abs/2608.19391) |
+| 2026-08-19 | complexity | 0 | 非阿贝尔学习性转变的统计力学 | [link](https://arxiv.org/abs/2608.19325) |
+| 2026-08-19 | complexity | 0 | 量子态转移的热节流 | [link](https://arxiv.org/abs/2608.19315) |
+| 2026-08-19 | complexity | 0 | 全息局域算子通过守恒动量和自旋淬灭 | [link](https://arxiv.org/abs/2608.19305) |
