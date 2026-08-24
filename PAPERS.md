@@ -2230,3 +2230,4 @@
 | 2026-08-19 | complexity | 0 | 非阿贝尔学习性转变的统计力学 | [link](https://arxiv.org/abs/2608.19325) |
 | 2026-08-19 | complexity | 0 | 量子态转移的热节流 | [link](https://arxiv.org/abs/2608.19315) |
 | 2026-08-19 | complexity | 0 | 全息局域算子通过守恒动量和自旋淬灭 | [link](https://arxiv.org/abs/2608.19305) |
+| 2026-08-21 | network | 1 | 消息顺序选择拉普拉斯共谱网络上相反的集体意见 | [link](https://arxiv.org/abs/2608.20704) |
