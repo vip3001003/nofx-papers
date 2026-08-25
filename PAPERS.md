@@ -2231,3 +2231,41 @@
 | 2026-08-19 | complexity | 0 | 量子态转移的热节流 | [link](https://arxiv.org/abs/2608.19315) |
 | 2026-08-19 | complexity | 0 | 全息局域算子通过守恒动量和自旋淬灭 | [link](https://arxiv.org/abs/2608.19305) |
 | 2026-08-21 | network | 1 | 消息顺序选择拉普拉斯共谱网络上相反的集体意见 | [link](https://arxiv.org/abs/2608.20704) |
+| 2026-08-22 | crypto | 7 | Short-horizon mean reversion in cryptocurrency markets: a matched cross-market measurement | [link](https://arxiv.org/abs/2608.21888) |
+| 2026-08-24 | complexity | 3 | Landau theory, effective temperature, and tricritical phenomena in a holographic nonequilibrium steady state | [link](https://arxiv.org/abs/2608.23378) |
+| 2026-08-24 | bio_inspired | 3 | JANUS: Online Jacobian-Aligned Infill for Black-Box Optimization | [link](https://arxiv.org/abs/2608.22862) |
+| 2026-08-21 | complexity | 3 | Many-body ergodicity breaking from wavefunction snapshots | [link](https://arxiv.org/abs/2608.21524) |
+| 2026-08-24 | complexity | 2 | Free-Energy Differences from Nonequilibrium Fluctuations in High Dissipation | [link](https://arxiv.org/abs/2608.23394) |
+| 2026-08-24 | complexity | 2 | 量子多体系统中的普遍平衡魔法 | [link](https://arxiv.org/abs/2608.22939) |
+| 2026-08-24 | complexity | 2 | Evolution of cooperation with Q-learning: how much information do we need? | [link](https://arxiv.org/abs/2608.22705) |
+| 2026-08-22 | complexity | 2 | Nonequilibrium statistics of harmonically trapped run-and-tumble particles: An exact convolution approach | [link](https://arxiv.org/abs/2608.21781) |
+| 2026-08-21 | complexity | 2 | Emergent Second Law for Time-Dependent Nonequilibrium States | [link](https://arxiv.org/abs/2608.21661) |
+| 2026-08-24 | complexity | 1 | Non-Abelian Spin Counting of Ordered Stochastic Trajectories: Reentrant Finite-Time Chern Numbers | [link](https://arxiv.org/abs/2608.23533) |
+| 2026-08-24 | complexity | 1 | Cramer-Rao Inequality Generalizes the Equilibrium Energy Fluctuation-Response Relation to Nonequilibrium Steady States | [link](https://arxiv.org/abs/2608.23455) |
+| 2026-08-24 | complexity | 1 | Quantum Monte Carlo in the Age of Many-Body Quantum Information | [link](https://arxiv.org/abs/2608.23231) |
+| 2026-08-24 | complexity | 1 | Universality of superdiffusion in simple random graphs | [link](https://arxiv.org/abs/2608.23207) |
+| 2026-08-24 | complexity | 1 | `It from Bit': is there a second law of quantum complexity? | [link](https://arxiv.org/abs/2608.22977) |
+| 2026-08-24 | complexity | 1 | Spontaneous currents determine capillary rise in active matter | [link](https://arxiv.org/abs/2608.22878) |
+| 2026-08-24 | complexity | 1 | Note on Boltzmann's H-Theorem and Detailed Balance Dynamics | [link](https://arxiv.org/abs/2608.22867) |
+| 2026-08-24 | bio_inspired | 1 | Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing | [link](https://arxiv.org/abs/2608.22729) |
+| 2026-08-22 | complexity | 1 | 合成维度中的关键拓扑光子学 | [link](https://arxiv.org/abs/2608.21791) |
+| 2026-08-22 | complexity | 1 | Superdiffusivity of random walks on the three-dimensional randomly oriented Manhattan lattice | [link](https://arxiv.org/abs/2608.21701) |
+| 2026-08-21 | complexity | 1 | Scaling vs entanglement in measurement-induced phase transition for non-integrable systems | [link](https://arxiv.org/abs/2608.21578) |
+| 2026-08-24 | complexity | 0 | Run-and-tumble particles with preferred reorientation | [link](https://arxiv.org/abs/2608.23519) |
+| 2026-08-24 | complexity | 0 | Breakdown of Edgeworth Expansion in Finite-Blocklength Regime and Exact Absorption via $q$-Deformation | [link](https://arxiv.org/abs/2608.23303) |
+| 2026-08-24 | complexity | 0 | Correlation inequalities for transversal field models with application to quantum glasses | [link](https://arxiv.org/abs/2608.23177) |
+| 2026-08-24 | complexity | 0 | 用于 μ 子优化的物理响应和记忆模型 | [link](https://arxiv.org/abs/2608.22994) |
+| 2026-08-24 | complexity | 0 | 粗粒度动力学尺度收紧了马尔可夫循环的热力学谱范围 | [link](https://arxiv.org/abs/2608.22934) |
+| 2026-08-24 | complexity | 0 | 芯片上的集体自排序 | [link](https://arxiv.org/abs/2608.22673) |
+| 2026-08-24 | info_theory | 0 | Compressed sensing matrices from orthogonal spaces over finite fields of odd characteristic | [link](https://arxiv.org/abs/2608.23062) |
+| 2026-08-24 | info_theory | 0 | Entropy of Bernoulli Measures Conditioned on Affine Subspaces and a Problem of Ancheta--Massey | [link](https://arxiv.org/abs/2608.22837) |
+| 2026-08-23 | complexity | 0 | Time reversal of complex evolution on a quantum computer | [link](https://arxiv.org/abs/2608.22489) |
+| 2026-08-23 | complexity | 0 | Dataset Complexity Shapes Finite-Distance Loss Geometry in Neural Networks | [link](https://arxiv.org/abs/2608.22361) |
+| 2026-08-23 | complexity | 0 | Spanning trees in the Assignment Problem: two theorems and two conjectures | [link](https://arxiv.org/abs/2608.22308) |
+| 2026-08-23 | info_theory | 0 | Entropy power inequalities in compact groups | [link](https://arxiv.org/abs/2608.22534) |
+| 2026-08-22 | complexity | 0 | Experimental Investigation of Tunable-Order Hilbert-Space Ergodicity | [link](https://arxiv.org/abs/2608.21959) |
+| 2026-08-22 | complexity | 0 | High-Efficiency Ising Machine with Time-Dimensional Exchange Coupling | [link](https://arxiv.org/abs/2608.21753) |
+| 2026-08-22 | complexity | 0 | Non-uniform swelling of polyelectrolyte hydrogels: effects of charge regulation | [link](https://arxiv.org/abs/2608.21698) |
+| 2026-08-22 | info_theory | 0 | Width-Independent Compressibility of Deep Neural Networks | [link](https://arxiv.org/abs/2608.21752) |
+| 2026-08-21 | complexity | 0 | 网络哈密顿模型中的运动自由度 | [link](https://arxiv.org/abs/2608.21634) |
+| 2026-08-21 | info_theory | 0 | Gauss--Hermite Quadrature for Gaussian-Mixture Entropy with an Action-Space Hermite Surrogate | [link](https://arxiv.org/abs/2608.21467) |
