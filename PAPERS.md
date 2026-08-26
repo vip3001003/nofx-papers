@@ -2269,3 +2269,30 @@
 | 2026-08-22 | info_theory | 0 | Width-Independent Compressibility of Deep Neural Networks | [link](https://arxiv.org/abs/2608.21752) |
 | 2026-08-21 | complexity | 0 | 网络哈密顿模型中的运动自由度 | [link](https://arxiv.org/abs/2608.21634) |
 | 2026-08-21 | info_theory | 0 | Gauss--Hermite Quadrature for Gaussian-Mixture Entropy with an Action-Space Hermite Surrogate | [link](https://arxiv.org/abs/2608.21467) |
+| 2026-08-25 | risk | 3 | Generalizing Markowitz Portfolio Optimization by a Quadratic Risk Measure | [link](https://arxiv.org/abs/2608.24449) |
+| 2026-08-25 | complexity | 3 | Kinetic Turnover in the Early-Stage Nucleation of Multi-Shell Condensed Clusters | [link](https://arxiv.org/abs/2608.24792) |
+| 2026-08-25 | complexity | 3 | Beyond capillary condensation: Shear-induced bridging transitions in patterned slits | [link](https://arxiv.org/abs/2608.24755) |
+| 2026-08-25 | complexity | 3 | Dynamic quantum phase transitions in the two-leg Creutz ladder with long-range hopping | [link](https://arxiv.org/abs/2608.24514) |
+| 2026-08-25 | complexity | 3 | Emergence of Stigmergic Transport in Granular Environments | [link](https://arxiv.org/abs/2608.24383) |
+| 2026-08-25 | complexity | 3 | Critical bifurcation and deconfined quantum criticality in an interacting cluster Ising chain | [link](https://arxiv.org/abs/2608.24248) |
+| 2026-08-25 | complexity | 3 | A Minimal Thermodynamically Consistent Chemical Oscillator | [link](https://arxiv.org/abs/2608.24200) |
+| 2026-08-25 | complexity | 3 | Bulk Phase Transition and Edge Behavior in Temporally Correlated Random Matrices | [link](https://arxiv.org/abs/2608.23944) |
+| 2026-08-25 | complexity | 2 | Ideal Bose-Einstein condensation in the canonical ensemble: exact asymptotic estimates from large deviations | [link](https://arxiv.org/abs/2608.24625) |
+| 2026-08-25 | info_theory | 2 | 通过连续的启示实现撕纸通道的容量 | [link](https://arxiv.org/abs/2608.24506) |
+| 2026-08-25 | complexity | 1 | Jerky Motion of Active Granular Particles | [link](https://arxiv.org/abs/2608.24689) |
+| 2026-08-25 | complexity | 1 | Exact autoregressive sampling of planar Ising spin glasses via the Kac--Ward theory | [link](https://arxiv.org/abs/2608.24382) |
+| 2026-08-24 | complexity | 1 | The Loss Floor of Denoising Score Matching: Fisher Geometry from Schrödinger Bridges | [link](https://arxiv.org/abs/2608.23916) |
+| 2026-08-24 | complexity | 1 | Entropy Production Bounds the Accuracy of Computation in Markov Networks | [link](https://arxiv.org/abs/2608.23764) |
+| 2026-08-25 | complexity | 0 | Fast generation of spectrally-shaped disorder, on the sphere | [link](https://arxiv.org/abs/2608.24867) |
+| 2026-08-25 | complexity | 0 | Transport interpretation of entanglement Hamiltonian cumulants in integrable quantum quenches | [link](https://arxiv.org/abs/2608.24613) |
+| 2026-08-25 | complexity | 0 | Boundary Free Energies, Quenched Mixing, and Gibbs-State Selection in Disordered Ising Models | [link](https://arxiv.org/abs/2608.24261) |
+| 2026-08-25 | complexity | 0 | Geometric Thermodynamics of Scallop Motion with Two Control Parameters | [link](https://arxiv.org/abs/2608.24158) |
+| 2026-08-25 | complexity | 0 | Collective Order Decouples Boundary Selection from Macroscopic Chirality in Confined Active Matter | [link](https://arxiv.org/abs/2608.23942) |
+| 2026-08-25 | info_theory | 0 | 持久交叉熵 | [link](https://arxiv.org/abs/2608.24549) |
+| 2026-08-25 | info_theory | 0 | 压缩感知 - 深度学习的介绍和关系 | [link](https://arxiv.org/abs/2608.24211) |
+| 2026-08-25 | bio_inspired | 0 | 基因型-表型图的全局几何阐明了外显率和突变适应性之间的权衡 | [link](https://arxiv.org/abs/2608.24704) |
+| 2026-08-24 | complexity | 0 | Jamming states in random sequential adsorption of diffusion-limited aggregates | [link](https://arxiv.org/abs/2608.23905) |
+| 2026-08-24 | complexity | 0 | Weak irreducibility as a spectral criterion for phase coexistence | [link](https://arxiv.org/abs/2608.23757) |
+| 2026-08-24 | complexity | 0 | Renormalization Group Flow Matching for Scalable Local Generative Modeling | [link](https://arxiv.org/abs/2608.23696) |
+| 2026-08-24 | info_theory | 0 | A Mathematical Theory of Interpretation: Rational Entropy, Spectral Readout, and Confusability as a Resource | [link](https://arxiv.org/abs/2608.23892) |
+| 2026-08-24 | bio_inspired | 0 | Coronavirus Optimization Algorithm: A Success-History Adaptive Evolutionary Framework with Archive-Assisted Search and Stagnation Recovery for Global Optimization | [link](https://arxiv.org/abs/2608.23847) |
