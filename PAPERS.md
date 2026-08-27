@@ -2296,3 +2296,24 @@
 | 2026-08-24 | complexity | 0 | Renormalization Group Flow Matching for Scalable Local Generative Modeling | [link](https://arxiv.org/abs/2608.23696) |
 | 2026-08-24 | info_theory | 0 | A Mathematical Theory of Interpretation: Rational Entropy, Spectral Readout, and Confusability as a Resource | [link](https://arxiv.org/abs/2608.23892) |
 | 2026-08-24 | bio_inspired | 0 | Coronavirus Optimization Algorithm: A Success-History Adaptive Evolutionary Framework with Archive-Assisted Search and Stagnation Recovery for Global Optimization | [link](https://arxiv.org/abs/2608.23847) |
+| 2026-08-26 | complexity | 3 | 什么决定了同域物种形成的关键基因组长度？封闭形式和渐近理论 | [link](https://arxiv.org/abs/2608.25995) |
+| 2026-08-26 | complexity | 2 | 作为耗散动态相变的杨-李临界性：无后选择的非厄米物理的量子模拟 | [link](https://arxiv.org/abs/2608.26082) |
+| 2026-08-26 | complexity | 2 | 表征简单排除过程的完全非平衡动力学 | [link](https://arxiv.org/abs/2608.25606) |
+| 2026-08-25 | complexity | 2 | 导数展开近似中共形 Ward 恒等式的收敛性 | [link](https://arxiv.org/abs/2608.25103) |
+| 2026-08-25 | complexity | 2 | 定向行走塑造了非互易系统中熵产率的通用平方根定律 | [link](https://arxiv.org/abs/2608.25030) |
+| 2026-08-26 | complexity | 1 | 手性活性物质涨落带的拓扑 | [link](https://arxiv.org/abs/2608.26055) |
+| 2026-08-25 | complexity | 1 | 具有最小耗散的有限松弛协议 | [link](https://arxiv.org/abs/2608.25207) |
+| 2026-08-25 | complexity | 1 | 热化包和最佳冰块 | [link](https://arxiv.org/abs/2608.25141) |
+| 2026-08-25 | complexity | 1 | 超导量子位阵列中的混合态对称性保护拓扑和强弱自发对称性破缺 | [link](https://arxiv.org/abs/2608.24993) |
+| 2026-08-25 | complexity | 1 | 电耦合导体中的非局部热噪声：微观二维研究 | [link](https://arxiv.org/abs/2608.24980) |
+| 2026-08-25 | complexity | 1 | 非互易材料封闭圆柱形结构中的传热和扭矩 | [link](https://arxiv.org/abs/2608.24967) |
+| 2026-08-26 | complexity | 0 | 活性奥恩斯坦-乌伦贝克粒子气体中的电流波动 | [link](https://arxiv.org/abs/2608.25916) |
+| 2026-08-26 | complexity | 0 | 具有长距离跳跃的一维系统中的半局域基态 | [link](https://arxiv.org/abs/2608.25806) |
+| 2026-08-26 | complexity | 0 | 精确化学-热都市布朗发动机：化学杠杆、温度中性失速、功率优化和多循环耗散 | [link](https://arxiv.org/abs/2608.25638) |
+| 2026-08-26 | complexity | 0 | 带锚节点的超图上的 $(k,n)$-核心渗透 | [link](https://arxiv.org/abs/2608.25560) |
+| 2026-08-26 | complexity | 0 | 拥挤溶液中聚合物的动力学和构象行为 | [link](https://arxiv.org/abs/2608.25242) |
+| 2026-08-26 | network | 0 | 有向网络的巨型强双连通分量：生成函数方法 | [link](https://arxiv.org/abs/2608.25562) |
+| 2026-08-26 | info_theory | 0 | 约束最大熵连续聚合 | [link](https://arxiv.org/abs/2608.25533) |
+| 2026-08-25 | complexity | 0 | 二维手性 XYZ 模型中的动态分裂和节点玻色液体 | [link](https://arxiv.org/abs/2608.25224) |
+| 2026-08-25 | complexity | 0 | Delta 函数踢动是快速驱动惯性随机系统的最佳选择 | [link](https://arxiv.org/abs/2608.25070) |
+| 2026-08-25 | complexity | 0 | 量子几何的涨落耗散结构 | [link](https://arxiv.org/abs/2608.25006) |
