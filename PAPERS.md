@@ -2317,3 +2317,27 @@
 | 2026-08-25 | complexity | 0 | 二维手性 XYZ 模型中的动态分裂和节点玻色液体 | [link](https://arxiv.org/abs/2608.25224) |
 | 2026-08-25 | complexity | 0 | Delta 函数踢动是快速驱动惯性随机系统的最佳选择 | [link](https://arxiv.org/abs/2608.25070) |
 | 2026-08-25 | complexity | 0 | 量子几何的涨落耗散结构 | [link](https://arxiv.org/abs/2608.25006) |
+| 2026-08-27 | ml | 6 | 用于算法交易的表格深度学习：用于股票信号生成的跨机制贝叶斯优化 | [link](https://arxiv.org/abs/2608.27076) |
+| 2026-07-07 | crypto | 5 | A Frequency-Controlled Comparison of Tick- and Minute-Based Information Bars for Cryptocurrency Markets | [link](https://arxiv.org/abs/2608.26158) |
+| 2026-08-27 | complexity | 3 | Dynamical slowdown, bottlenecks, and multiscaling in Voigt-regularised turbulence | [link](https://arxiv.org/abs/2608.27355) |
+| 2026-08-27 | complexity | 3 | Long-time Dynamics of Many-body Open Quantum Systems using Quantum Generating Functions | [link](https://arxiv.org/abs/2608.27237) |
+| 2026-07-25 | crypto | 3 | 预测具有经济意义的比特币走势：具有利润优化阈值的多规模 TCN | [link](https://arxiv.org/abs/2608.26174) |
+| 2026-08-27 | complexity | 2 | Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases | [link](https://arxiv.org/abs/2608.27453) |
+| 2026-08-27 | complexity | 2 | Localization Delocalization Transition in Diffusion with Adaptive Resetting | [link](https://arxiv.org/abs/2608.27090) |
+| 2026-08-27 | complexity | 2 | Brownian yet non-Gaussian diffusion through equilibrium nonlinear friction | [link](https://arxiv.org/abs/2608.26773) |
+| 2026-08-27 | complexity | 2 | When dissipative steady states admit thermodynamic occupation laws | [link](https://arxiv.org/abs/2608.26621) |
+| 2026-08-27 | complexity | 2 | Dynamical phase selection controls compute scaling in looped transformers | [link](https://arxiv.org/abs/2608.26556) |
+| 2026-08-27 | info_theory | 2 | TOPIQ: Statistical Error Propagation for Quantity-of-Interest Prediction under Lossy Compression | [link](https://arxiv.org/abs/2608.26912) |
+| 2026-08-26 | complexity | 2 | Critical Properties and Glass Transitions in Randomly Coupled Fields | [link](https://arxiv.org/abs/2608.26279) |
+| 2026-08-27 | complexity | 1 | Dynamics of local quantum information in random unitary circuits | [link](https://arxiv.org/abs/2608.27440) |
+| 2026-08-27 | complexity | 1 | Quenched activity induces nonuniversal scaling in nonreciprocal XY Models and surfaces | [link](https://arxiv.org/abs/2608.26919) |
+| 2026-08-27 | complexity | 1 | Approximating the peculiar velocity distribution of dark matter halos with Tsallis statistics | [link](https://arxiv.org/abs/2608.26572) |
+| 2026-08-27 | complexity | 1 | Phase transitions and microphases in elastomers. II. Anisotropy-driven morphologies | [link](https://arxiv.org/abs/2608.26520) |
+| 2026-08-27 | complexity | 0 | Geometric optimality of entanglement-induced fast qubit reset | [link](https://arxiv.org/abs/2608.26897) |
+| 2026-08-27 | complexity | 0 | Adiabatic Otto-like quantum thermodynamical cycle in the non-quasi-static regime | [link](https://arxiv.org/abs/2608.26690) |
+| 2026-08-27 | complexity | 0 | Emptiness formation in the Lieb-Liniger gas: hydrodynamic instantons and a conjectured rate function | [link](https://arxiv.org/abs/2608.26640) |
+| 2026-08-27 | complexity | 0 | Random Recursive Simplicial Complexes | [link](https://arxiv.org/abs/2608.26547) |
+| 2026-08-26 | complexity | 0 | Fluctuation--response relations from an emergent $\mathbb{Z}_2$ symmetry in the rotating stochastic Landau model | [link](https://arxiv.org/abs/2608.26468) |
+| 2026-08-26 | complexity | 0 | Information-theoretic formulation of the Traveling Salesman Problem | [link](https://arxiv.org/abs/2608.26339) |
+| 2026-08-26 | complexity | 0 | Lieb-Schultz-Mattis Constraints for Quantum Channels: A Spacetime-Duality View | [link](https://arxiv.org/abs/2608.26266) |
+| 2026-08-26 | complexity | 0 | Least Variable Quantum Counting Processes | [link](https://arxiv.org/abs/2608.26240) |
