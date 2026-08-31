@@ -2341,3 +2341,24 @@
 | 2026-08-26 | complexity | 0 | Information-theoretic formulation of the Traveling Salesman Problem | [link](https://arxiv.org/abs/2608.26339) |
 | 2026-08-26 | complexity | 0 | Lieb-Schultz-Mattis Constraints for Quantum Channels: A Spacetime-Duality View | [link](https://arxiv.org/abs/2608.26266) |
 | 2026-08-26 | complexity | 0 | Least Variable Quantum Counting Processes | [link](https://arxiv.org/abs/2608.26240) |
+| 2026-08-27 | crypto | 3 | 通过粗糙贝尔戈米模型对比特币反向期权进行定价和校准 | [link](https://arxiv.org/abs/2608.27575) |
+| 2026-08-27 | complexity | 3 | Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories | [link](https://arxiv.org/abs/2608.27561) |
+| 2026-08-28 | info_theory | 2 | Ada-TokenCom：通过大型模型驱动的令牌压缩和生成进行速率自适应令牌通信 | [link](https://arxiv.org/abs/2608.28086) |
+| 2026-08-27 | complexity | 2 | Adaptive workforce exploration in complex productivity landscapes | [link](https://arxiv.org/abs/2608.27656) |
+| 2026-08-27 | complexity | 2 | Criticality and universality in network dismantling | [link](https://arxiv.org/abs/2608.27613) |
+| 2026-08-27 | complexity | 2 | Scale-free correlations in extremely persistent active matter | [link](https://arxiv.org/abs/2608.27572) |
+| 2026-08-28 | complexity | 1 | 离散酉系统中的可解弛豫：Ruelle-Pollicott 共振和 CMV 矩阵 | [link](https://arxiv.org/abs/2608.28575) |
+| 2026-08-28 | complexity | 1 | 非局部魔力的精确量化 | [link](https://arxiv.org/abs/2608.28563) |
+| 2026-08-28 | complexity | 1 | 集体觅食的紧急聚集 | [link](https://arxiv.org/abs/2608.28046) |
+| 2026-08-28 | complexity | 0 | 电荷依赖性沉积的无序随机顺序吸附的广义模型 | [link](https://arxiv.org/abs/2608.28289) |
+| 2026-08-28 | complexity | 0 | hyperkagome 晶格的格格林函数：来自正交微分伽罗瓦群的 30 级模均匀化 | [link](https://arxiv.org/abs/2608.28141) |
+| 2026-08-28 | complexity | 0 | 相关无序与相关噪声：主动系统中的排序 | [link](https://arxiv.org/abs/2608.28012) |
+| 2026-08-28 | complexity | 0 | 三维 U(1) 规范理论的一种不同的连续统极限 | [link](https://arxiv.org/abs/2608.27976) |
+| 2026-08-28 | complexity | 0 | 变形环的形状演化和动力学 | [link](https://arxiv.org/abs/2608.27952) |
+| 2026-08-28 | complexity | 0 | 热力学计算机的热力学自由度 | [link](https://arxiv.org/abs/2608.27938) |
+| 2026-08-28 | network | 0 | 中国本土偏见的缩小和破坏性影响的上升：来自全球引文网络分析的证据 | [link](https://arxiv.org/abs/2608.28139) |
+| 2026-08-28 | info_theory | 0 | 使用级联块行的低阶压缩加速 S-NFC 进行百万箔条 RCS 计算 | [link](https://arxiv.org/abs/2608.27936) |
+| 2026-08-28 | info_theory | 0 | 平均熵的差分方程 | [link](https://arxiv.org/abs/2608.27829) |
+| 2026-08-27 | complexity | 0 | Noise-robust navigation from an adaptive run-and-tumble policy | [link](https://arxiv.org/abs/2608.27751) |
+| 2026-08-27 | complexity | 0 | Error-Adaptive Quasi-local Decoding of the Toric Code | [link](https://arxiv.org/abs/2608.27740) |
+| 2026-08-27 | complexity | 0 | Bound state of a He-3 atom at free He-4 surfaces | [link](https://arxiv.org/abs/2608.27664) |
