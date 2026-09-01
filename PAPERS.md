@@ -2362,3 +2362,36 @@
 | 2026-08-27 | complexity | 0 | Noise-robust navigation from an adaptive run-and-tumble policy | [link](https://arxiv.org/abs/2608.27751) |
 | 2026-08-27 | complexity | 0 | Error-Adaptive Quasi-local Decoding of the Toric Code | [link](https://arxiv.org/abs/2608.27740) |
 | 2026-08-27 | complexity | 0 | Bound state of a He-3 atom at free He-4 surfaces | [link](https://arxiv.org/abs/2608.27664) |
+| 2026-08-31 | complexity | 4 | 非平衡双珠系统中惯性驱动的信息流和对称性破缺 | [link](https://arxiv.org/abs/2608.30849) |
+| 2026-08-30 | complexity | 3 | 弹道到局域动力学作为约瑟夫森结量子相变的特征 | [link](https://arxiv.org/abs/2608.29830) |
+| 2026-08-30 | bio_inspired | 3 | Evolutionary Soups: Evolving Mixture-of-Experts for Multi-Objective LLM Alignment | [link](https://arxiv.org/abs/2608.29978) |
+| 2026-08-29 | crypto | 3 | 现实市场摩擦下的深度对冲：比特币期权动态期权对冲的制度条件实证研究 | [link](https://arxiv.org/abs/2608.29025) |
+| 2026-08-31 | complexity | 2 | 带角速度的大$N$矢量模型 | [link](https://arxiv.org/abs/2608.31151) |
+| 2026-08-31 | complexity | 2 | 彩色指数随机图模型 | [link](https://arxiv.org/abs/2608.31130) |
+| 2026-08-31 | complexity | 2 | 连续对称三层平面亚铁磁体的补偿 | [link](https://arxiv.org/abs/2608.30941) |
+| 2026-08-31 | complexity | 2 | 统计力学中的松弛问题 | [link](https://arxiv.org/abs/2608.30871) |
+| 2026-08-30 | complexity | 2 | 弱不对称包含过程的平衡涨落 | [link](https://arxiv.org/abs/2608.29957) |
+| 2026-08-30 | complexity | 2 | 表示转换揭示复杂系统中的预测结构：关键系统中的轨迹级重建 | [link](https://arxiv.org/abs/2608.29777) |
+| 2026-08-30 | complexity | 2 | 长程淬灭无序二维 Potts 模型的相图和临界行为 | [link](https://arxiv.org/abs/2608.29710) |
+| 2026-08-30 | complexity | 2 | From Freezing to Terminal Packing: A Puzzle and a Paradox | [link](https://arxiv.org/abs/2608.29676) |
+| 2026-08-31 | complexity | 1 | 通过学习多尺度采样克服受挫的自旋系统中的严重减速 | [link](https://arxiv.org/abs/2608.31114) |
+| 2026-08-31 | complexity | 1 | 量子多体系统中跨热力学层次的功提取 | [link](https://arxiv.org/abs/2608.31001) |
+| 2026-08-31 | complexity | 1 | 水通过热激活膜的自扩散 | [link](https://arxiv.org/abs/2608.30863) |
+| 2026-08-31 | complexity | 1 | 非平衡珠弹簧模型中的动力学温度和惯性效应 | [link](https://arxiv.org/abs/2608.30809) |
+| 2026-08-31 | complexity | 1 | 哈密​​顿模型的主动布朗动力学：从平衡到活动的转变 | [link](https://arxiv.org/abs/2608.30670) |
+| 2026-08-30 | complexity | 1 | 结构因素的化学势：II。带电多组分混合物 | [link](https://arxiv.org/abs/2608.30060) |
+| 2026-08-30 | complexity | 1 | Branching stochastic mechanics. I. Clustering and connected correlations within a branching-process representation of the Schrödinger equation | [link](https://arxiv.org/abs/2608.29807) |
+| 2026-08-30 | complexity | 1 | Active embracement enables autonomous tweezing in active star polymers | [link](https://arxiv.org/abs/2608.29728) |
+| 2026-08-31 | complexity | 0 | 在约束系统中有效搜索可兴奋零模式 | [link](https://arxiv.org/abs/2608.31165) |
+| 2026-08-31 | complexity | 0 | 振荡器网络中复值模式的学习规则 | [link](https://arxiv.org/abs/2608.30800) |
+| 2026-08-31 | complexity | 0 | 缓慢变化的相互作用链中的共振统计、Fock 空间分支和长程配对网络 | [link](https://arxiv.org/abs/2608.30761) |
+| 2026-08-31 | complexity | 0 | 非周期链中的 Hartree 碎片和长程对网络 | [link](https://arxiv.org/abs/2608.30746) |
+| 2026-08-31 | complexity | 0 | 有效的核心排斥而不排斥：重新审视两物种对灭绝 | [link](https://arxiv.org/abs/2608.30630) |
+| 2026-08-31 | complexity | 0 | 延时反馈使阿伦尼乌斯逃逸变成对数 | [link](https://arxiv.org/abs/2608.30624) |
+| 2026-08-31 | complexity | 0 | 无穷小不可逆过程的 d'Q = TdS：关于克劳修斯不等式的微分形式 | [link](https://arxiv.org/abs/2608.30421) |
+| 2026-08-30 | complexity | 0 | 布朗闪光棘轮中不对称控制的共振传输 | [link](https://arxiv.org/abs/2608.29991) |
+| 2026-08-30 | complexity | 0 | 通过高斯费米子态的单占用测量精确纠缠交换 | [link](https://arxiv.org/abs/2608.29933) |
+| 2026-08-30 | bio_inspired | 0 | Observation delays can bias inference of selective advantage in evolutionary competition | [link](https://arxiv.org/abs/2608.30085) |
+| 2026-08-29 | complexity | 0 | 具有任意镜面位移的量子光力学：具有非马尔可夫反作用噪声的非线性朗之万方程 | [link](https://arxiv.org/abs/2608.29429) |
+| 2026-08-29 | complexity | 0 | 从部分信息和有限资源中提取量子功 | [link](https://arxiv.org/abs/2608.29394) |
+| 2026-08-29 | complexity | 0 | 冯·诺依曼熵的凸守恒意味着幺正性或反幺正性 | [link](https://arxiv.org/abs/2608.29373) |
