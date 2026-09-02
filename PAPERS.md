@@ -2395,3 +2395,40 @@
 | 2026-08-29 | complexity | 0 | 具有任意镜面位移的量子光力学：具有非马尔可夫反作用噪声的非线性朗之万方程 | [link](https://arxiv.org/abs/2608.29429) |
 | 2026-08-29 | complexity | 0 | 从部分信息和有限资源中提取量子功 | [link](https://arxiv.org/abs/2608.29394) |
 | 2026-08-29 | complexity | 0 | 冯·诺依曼熵的凸守恒意味着幺正性或反幺正性 | [link](https://arxiv.org/abs/2608.29373) |
+| 2026-09-01 | complexity | 4 | Kibble--Zurek Mechanism and Defect Freezing in Imbalanced-Pairing Kitaev Models | [link](https://arxiv.org/abs/2609.00971) |
+| 2026-09-01 | complexity | 3 | 可观察和状态选择性预热化以及预热寿命的界限 | [link](https://arxiv.org/abs/2609.01606) |
+| 2026-09-01 | complexity | 3 | Dynamical phase transitions for single particles in the semiclassical and weak noise limits | [link](https://arxiv.org/abs/2609.01197) |
+| 2026-09-01 | complexity | 3 | 一维分数 $U(1)$ Ginzburg--Landau 模型中的类 BKT 相关缩放和扭曲响应 | [link](https://arxiv.org/abs/2609.00721) |
+| 2026-09-01 | bio_inspired | 3 | 网络价格提取：最先进的技术和自适应无浏览器实现 | [link](https://arxiv.org/abs/2609.01030) |
+| 2026-09-01 | complexity | 2 | Thermal screening and critical scaling of quantum energy teleportation in a harmonic chain | [link](https://arxiv.org/abs/2609.00928) |
+| 2026-09-01 | complexity | 2 | Synchronization Pathways and Resilience in Power Grids | [link](https://arxiv.org/abs/2609.00910) |
+| 2026-08-31 | complexity | 2 | 热力学第二定律中的无鬼高梯度牛顿引力 | [link](https://arxiv.org/abs/2609.00317) |
+| 2026-08-31 | complexity | 2 | Hermitian 和非 Hermitian 随机矩阵的水平统计之间的对偶性 | [link](https://arxiv.org/abs/2609.00162) |
+| 2026-08-31 | complexity | 2 | 尺寸依赖性的生长速率放大了纳米晶体中无限小的不对称性 | [link](https://arxiv.org/abs/2609.00145) |
+| 2026-08-31 | complexity | 2 | 二维和三维扩散目标的贝叶斯跟踪 | [link](https://arxiv.org/abs/2609.00144) |
+| 2026-09-01 | complexity | 1 | 斯特拉托诺维奇型加性泛函的浓度 | [link](https://arxiv.org/abs/2609.01581) |
+| 2026-09-01 | complexity | 1 | Chemotaxis-induced linear instabilities and pattern formation in a reaction-diffusion model | [link](https://arxiv.org/abs/2609.01159) |
+| 2026-09-01 | complexity | 1 | Information geometry of non-equilibrium quantum states: Mixed metric structures on an extended information manifold | [link](https://arxiv.org/abs/2609.00977) |
+| 2026-09-01 | complexity | 1 | Optimizing diffusion-limited transport, with applications to electrochemical systems | [link](https://arxiv.org/abs/2609.00849) |
+| 2026-09-01 | bio_inspired | 1 | Rethinking Learnability in Offline Data-driven Optimization | [link](https://arxiv.org/abs/2609.01493) |
+| 2026-09-01 | bio_inspired | 1 | GeoPAR: Large-Scale Multi-Agent Combinatorial Optimization with Geometry-Guided Parallel Autoregressive Learning | [link](https://arxiv.org/abs/2609.00577) |
+| 2026-08-31 | complexity | 1 | 连接一维集体行为的自发机制和场诱发机制的人类人工智能定理 | [link](https://arxiv.org/abs/2609.00322) |
+| 2026-08-31 | complexity | 1 | 非厄米特随机矩阵的精确联合特征值密度是 Calogero 散射态 | [link](https://arxiv.org/abs/2609.00164) |
+| 2026-08-31 | complexity | 1 | 相互作用的噪声量子物质的非线性脉动流体动力学 | [link](https://arxiv.org/abs/2609.00159) |
+| 2026-08-31 | complexity | 1 | 模糊四球上的自由标量和 Yang--Lee 5d CFT 的调节 | [link](https://arxiv.org/abs/2609.00148) |
+| 2026-08-31 | bio_inspired | 1 | Investigating Hyperparameter Optimization and Transferability for ES-HyperNEAT: A TPE Approach | [link](https://arxiv.org/abs/2609.00449) |
+| 2026-09-01 | complexity | 0 | 感觉适应中的零极点几何、模型简化和可识别性 | [link](https://arxiv.org/abs/2609.01329) |
+| 2026-09-01 | complexity | 0 | An exact and fast solution of the inverse Regularized Optimal Transport problem | [link](https://arxiv.org/abs/2609.01278) |
+| 2026-09-01 | complexity | 0 | 趋化性模式形成的非单调控制 | [link](https://arxiv.org/abs/2609.01127) |
+| 2026-09-01 | complexity | 0 | Interfacial orbital torques excite nanoscale terahertz magnons | [link](https://arxiv.org/abs/2609.01118) |
+| 2026-09-01 | complexity | 0 | Statistical Language Competition Model with Dynamic Edge Weighting on a Random Network | [link](https://arxiv.org/abs/2609.01078) |
+| 2026-09-01 | complexity | 0 | 对复杂系统中的冲击进行有效分类需要休眠报告器 | [link](https://arxiv.org/abs/2609.00725) |
+| 2026-09-01 | complexity | 0 | 强化周期过程第二定律 | [link](https://arxiv.org/abs/2609.00639) |
+| 2026-09-01 | complexity | 0 | 热力学不确定性下的反馈增强量子计量和时钟精度 | [link](https://arxiv.org/abs/2609.00622) |
+| 2026-09-01 | complexity | 0 | 反复振动下粘性颗粒材料的键数控制耐久性 | [link](https://arxiv.org/abs/2609.00587) |
+| 2026-09-01 | complexity | 0 | 平视费米子 | [link](https://arxiv.org/abs/2609.00545) |
+| 2026-09-01 | network | 0 | 议会提及网络反映了芬兰政治话语的组织和动态 | [link](https://arxiv.org/abs/2609.01497) |
+| 2026-09-01 | info_theory | 0 | Multiplicative comparisons of Rényi entropies for weighted Bernoulli sums | [link](https://arxiv.org/abs/2609.01529) |
+| 2026-09-01 | bio_inspired | 0 | 自我报告不是验证：进化搜索中法学硕士运营商的基于环境的审计 | [link](https://arxiv.org/abs/2609.00652) |
+| 2026-08-31 | network | 0 | 社交网络上的微生物组动态建模：宿主之间的传播如何塑造宿主内部的进化 | [link](https://arxiv.org/abs/2609.00320) |
+| 2026-08-31 | info_theory | 0 | Shannon's problem on the monotonicity of entropy and a Conjecture of Tao | [link](https://arxiv.org/abs/2609.00399) |
