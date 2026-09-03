@@ -2432,3 +2432,30 @@
 | 2026-09-01 | bio_inspired | 0 | 自我报告不是验证：进化搜索中法学硕士运营商的基于环境的审计 | [link](https://arxiv.org/abs/2609.00652) |
 | 2026-08-31 | network | 0 | 社交网络上的微生物组动态建模：宿主之间的传播如何塑造宿主内部的进化 | [link](https://arxiv.org/abs/2609.00320) |
 | 2026-08-31 | info_theory | 0 | Shannon's problem on the monotonicity of entropy and a Conjecture of Tao | [link](https://arxiv.org/abs/2609.00399) |
+| 2026-09-02 | complexity | 4 | 模型玻璃对非热准静态收缩的响应 | [link](https://arxiv.org/abs/2609.02692) |
+| 2026-09-02 | complexity | 3 | 非均匀平衡流体的多元超密度泛函理论：从第一原理到基于模拟的机器学习 | [link](https://arxiv.org/abs/2609.02594) |
+| 2026-09-02 | complexity | 3 | 优化中的渗流动力学：方差级联和离散尺度不变性 | [link](https://arxiv.org/abs/2609.02373) |
+| 2026-09-01 | complexity | 3 | 使用活性布朗粒子的传染的微观动力学：由保护控制的通用缩放和传播 | [link](https://arxiv.org/abs/2609.01927) |
+| 2026-09-01 | complexity | 3 | 量化站点重访的贪婪最近邻方法：比较两种同域渡鸦物种 | [link](https://arxiv.org/abs/2609.01858) |
+| 2026-09-01 | bio_inspired | 3 | 强化学习选择优化器 | [link](https://arxiv.org/abs/2609.01811) |
+| 2026-09-02 | risk | 2 | 获取基于强化学习的投资组合优化的 ESG 偏好 | [link](https://arxiv.org/abs/2609.02677) |
+| 2026-09-02 | complexity | 2 | 具有活性的粒子的最优功反馈——利用位置信息在活性波动上滑行 | [link](https://arxiv.org/abs/2609.02720) |
+| 2026-09-02 | complexity | 2 | 内存驱动的拓扑缺陷和非常规长程有序 | [link](https://arxiv.org/abs/2609.02586) |
+| 2026-09-02 | complexity | 2 | 拓扑缺陷核心的通用指纹 | [link](https://arxiv.org/abs/2609.02521) |
+| 2026-09-02 | complexity | 2 | 对标量活性物质中守恒伊辛临界值的非平衡校正：沃德恒等式、谱和长交叉 | [link](https://arxiv.org/abs/2609.02351) |
+| 2026-09-02 | complexity | 2 | 层次模型中的重整化群和长程条件互信息 | [link](https://arxiv.org/abs/2609.02141) |
+| 2026-09-01 | complexity | 2 | 类活塞信息引擎 II：活性物质中的边界控制最优 | [link](https://arxiv.org/abs/2609.01760) |
+| 2026-09-02 | complexity | 1 | 脆性对振动剪切下活性玻璃屈服转变的普遍作用 | [link](https://arxiv.org/abs/2609.02609) |
+| 2026-09-02 | complexity | 1 | 分支随机力学。二.玻姆/费舍尔反馈的相对定位和集体极点 | [link](https://arxiv.org/abs/2609.02520) |
+| 2026-09-02 | complexity | 1 | 硬壁半线连续时间量子行走有限支撑约束下的最大速度赤字 | [link](https://arxiv.org/abs/2609.01970) |
+| 2026-09-02 | bio_inspired | 1 | 语义引导的多目标进化算法自动张量化：多智能体框架 | [link](https://arxiv.org/abs/2609.02387) |
+| 2026-09-01 | complexity | 1 | 具有反酉对称性的涨落高斯态中的双线性相关性 | [link](https://arxiv.org/abs/2609.01724) |
+| 2026-09-01 | bio_inspired | 1 | CircuitsDNA：通过进化综合发现非常规多精度算术电路 | [link](https://arxiv.org/abs/2609.01735) |
+| 2026-09-02 | complexity | 0 | 在部分反应楔中生存 | [link](https://arxiv.org/abs/2609.02665) |
+| 2026-09-02 | complexity | 0 | 布朗热机中热景观和能垒的热力学优化 | [link](https://arxiv.org/abs/2609.02613) |
+| 2026-09-02 | complexity | 0 | 地带上梯形的广义随机停车 | [link](https://arxiv.org/abs/2609.02491) |
+| 2026-09-02 | complexity | 0 | 周期性驱动随机系统中的阻抗 | [link](https://arxiv.org/abs/2609.02458) |
+| 2026-09-02 | complexity | 0 | 反应性目标对间歇性重启扩散传输的影响 | [link](https://arxiv.org/abs/2609.02355) |
+| 2026-09-02 | bio_inspired | 0 | 用于贝叶斯系统发育推理的自适应时间树转换核 | [link](https://arxiv.org/abs/2609.02445) |
+| 2026-09-02 | bio_inspired | 0 | 用于路由优化的 LLM 驱动的耦合启发式组件的联合演化 | [link](https://arxiv.org/abs/2609.02353) |
+| 2026-09-01 | complexity | 0 | 混合量子行走中的通用缩放和协议相关幅度 | [link](https://arxiv.org/abs/2609.01951) |
