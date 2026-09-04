@@ -2459,3 +2459,40 @@
 | 2026-09-02 | bio_inspired | 0 | 用于贝叶斯系统发育推理的自适应时间树转换核 | [link](https://arxiv.org/abs/2609.02445) |
 | 2026-09-02 | bio_inspired | 0 | 用于路由优化的 LLM 驱动的耦合启发式组件的联合演化 | [link](https://arxiv.org/abs/2609.02353) |
 | 2026-09-01 | complexity | 0 | 混合量子行走中的通用缩放和协议相关幅度 | [link](https://arxiv.org/abs/2609.01951) |
+| 2026-09-03 | complexity | 3 | Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter | [link](https://arxiv.org/abs/2609.03991) |
+| 2026-09-03 | complexity | 3 | 最优控制和非平衡松弛中有限时间转移的等价类 | [link](https://arxiv.org/abs/2609.03862) |
+| 2026-09-03 | complexity | 3 | Universal scaling of fluctuations and correlations across the superfluid transition | [link](https://arxiv.org/abs/2609.03433) |
+| 2026-09-03 | network | 3 | ESRIcascade.jl: A Julia package for fast computation of the Economic Systemic Risk Index | [link](https://arxiv.org/abs/2609.03782) |
+| 2026-09-02 | complexity | 3 | Death by mutants: unusual multicritical dynamics in a two-species model for absorbing state transitions | [link](https://arxiv.org/abs/2609.03123) |
+| 2026-09-03 | momentum | 2 | 稳健投资组合复制的熵因子模型 | [link](https://arxiv.org/abs/2609.03552) |
+| 2026-09-03 | complexity | 2 | 对受监控马约拉纳链的有效哈密顿描述：相关幂律跳跃和非常规纠缠缩放 | [link](https://arxiv.org/abs/2609.04091) |
+| 2026-09-03 | complexity | 2 | 无序各向异性海森堡链中的离散时间晶体 | [link](https://arxiv.org/abs/2609.04037) |
+| 2026-09-03 | complexity | 2 | 谢林顿-柯克帕特里克自旋玻璃中边缘态的淬火复杂性 | [link](https://arxiv.org/abs/2609.04006) |
+| 2026-09-03 | complexity | 2 | Universal Driven Critical Dynamics of Entanglement Entropy | [link](https://arxiv.org/abs/2609.03854) |
+| 2026-09-03 | complexity | 2 | Granular Rods Fall Faster in Denser Obstacle Fields | [link](https://arxiv.org/abs/2609.03473) |
+| 2026-09-03 | complexity | 2 | Revealing Many-Body Phases at finite temperatures through Quantum Coherence Distribution | [link](https://arxiv.org/abs/2609.03226) |
+| 2026-09-03 | bio_inspired | 2 | 通过预融合边缘修剪实现易处理贝叶斯网络融合的遗传算法 | [link](https://arxiv.org/abs/2609.03724) |
+| 2026-09-02 | complexity | 2 | Optimal Control of Periodic Nonequilibrium Mechanochemical Systems via Automatic Differentiation | [link](https://arxiv.org/abs/2609.03217) |
+| 2026-09-02 | complexity | 2 | Non-Kolmogorov-Arnold-Moser Quantum Sensors for Quantum Parameter Estimation | [link](https://arxiv.org/abs/2609.03092) |
+| 2026-09-03 | complexity | 1 | 热力学浓度不等式：控制有限时间和小样本热力学推理中的不确定性 | [link](https://arxiv.org/abs/2609.04162) |
+| 2026-09-03 | complexity | 1 | 边界驱动排除过程中样本特定的类校正响应 | [link](https://arxiv.org/abs/2609.03560) |
+| 2026-09-03 | complexity | 1 | Symmetry-breaking line defects embedded to a 3D $O(N)$ critical bulk | [link](https://arxiv.org/abs/2609.03289) |
+| 2026-09-03 | network | 1 | Dynamic probabilistic decision networks | [link](https://arxiv.org/abs/2609.03632) |
+| 2026-09-02 | complexity | 1 | Accelerating stochastic processes through nonequilibrium driving: Thermodynamic constraints on the maximum speed-up | [link](https://arxiv.org/abs/2609.03179) |
+| 2026-09-03 | complexity | 0 | 量子热化实现最佳近似量子纠错 | [link](https://arxiv.org/abs/2609.04121) |
+| 2026-09-03 | complexity | 0 | 开放晶格规范理论中的非阿贝尔弦熔化和热化 | [link](https://arxiv.org/abs/2609.04117) |
+| 2026-09-03 | complexity | 0 | Performance of Nanoring-based Transparent Conductors: a Computational Investigation | [link](https://arxiv.org/abs/2609.03876) |
+| 2026-09-03 | complexity | 0 | 自洽弛豫理论中汤川流体的弗兰克尔线 | [link](https://arxiv.org/abs/2609.03606) |
+| 2026-09-03 | complexity | 0 | BU-MBAR：MBAR 方程的混合求解策略 | [link](https://arxiv.org/abs/2609.03541) |
+| 2026-09-03 | network | 0 | Design Principles for Reproducible Networks | [link](https://arxiv.org/abs/2609.03852) |
+| 2026-09-03 | bio_inspired | 0 | Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated Tree-Based Genetic Programming | [link](https://arxiv.org/abs/2609.03352) |
+| 2026-09-02 | complexity | 0 | Generative Nested Sampling of Atomistic Thermodynamic Landscapes | [link](https://arxiv.org/abs/2609.03193) |
+| 2026-09-02 | complexity | 0 | Relativistic transformation of temperature for exotic cosmological fluids | [link](https://arxiv.org/abs/2609.03124) |
+| 2026-09-02 | complexity | 0 | The stealthiest particle configurations in 8 and 24 dimensions | [link](https://arxiv.org/abs/2609.03121) |
+| 2026-09-02 | complexity | 0 | Large deviations for linear regressions | [link](https://arxiv.org/abs/2609.03111) |
+| 2026-09-02 | complexity | 0 | Optimal control theory for measured quantum Schrödinger bridges | [link](https://arxiv.org/abs/2609.03097) |
+| 2026-09-02 | complexity | 0 | Orbital current rectifier and linear magnon Edelstein effect in $p$-wave antialtermagnets | [link](https://arxiv.org/abs/2609.03075) |
+| 2026-09-02 | complexity | 0 | Estimating the asymptotics of integer partitions in intermediate dimensions ($d = 3,4,5,6$) | [link](https://arxiv.org/abs/2609.03034) |
+| 2026-09-02 | complexity | 0 | Microscopically exact transport equation for the quantum Calogero model | [link](https://arxiv.org/abs/2609.03018) |
+| 2026-09-02 | info_theory | 0 | Finite-Sample Limits of Entropy-Based Structure Identification in Discretized Nonlinear Systems | [link](https://arxiv.org/abs/2609.03074) |
+| 2026-09-02 | bio_inspired | 0 | 进化导航性和上位性权衡的依赖于体系结构的影响 | [link](https://arxiv.org/abs/2609.02961) |
