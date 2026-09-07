@@ -2496,3 +2496,27 @@
 | 2026-09-02 | complexity | 0 | Microscopically exact transport equation for the quantum Calogero model | [link](https://arxiv.org/abs/2609.03018) |
 | 2026-09-02 | info_theory | 0 | Finite-Sample Limits of Entropy-Based Structure Identification in Discretized Nonlinear Systems | [link](https://arxiv.org/abs/2609.03074) |
 | 2026-09-02 | bio_inspired | 0 | 进化导航性和上位性权衡的依赖于体系结构的影响 | [link](https://arxiv.org/abs/2609.02961) |
+| 2026-09-04 | complexity | 7 | 用于投资组合分配的场耦合 XY 模型中的张量网络推理 | [link](https://arxiv.org/abs/2609.05045) |
+| 2026-09-04 | crypto | 6 | 股票和加密货币市场中的人工智能：进展、盈利能力证据以及自动化投资的局限性 | [link](https://arxiv.org/abs/2609.04917) |
+| 2026-09-04 | complexity | 5 | 高阶网络系统的低维相图 | [link](https://arxiv.org/abs/2609.04692) |
+| 2026-09-04 | complexity | 2 | 非交互作用的 Ornstein-Uhlenbeck 过程：异常点、反常松弛、伪平衡和边界制冷 | [link](https://arxiv.org/abs/2609.05391) |
+| 2026-09-04 | complexity | 2 | 量子自旋链的平均场理论 | [link](https://arxiv.org/abs/2609.04717) |
+| 2026-09-04 | bio_inspired | 2 | 匹配型捕食者-猎物相互作用中的生态进化循环 | [link](https://arxiv.org/abs/2609.04834) |
+| 2026-09-03 | complexity | 2 | Stability of Collective Neutrino Oscillations -- A Distributional Approach | [link](https://arxiv.org/abs/2609.04441) |
+| 2026-09-04 | complexity | 1 | 分子界面流变学：脂膜剪切粘度 | [link](https://arxiv.org/abs/2609.05373) |
+| 2026-09-04 | complexity | 1 | 使用倾斜投影仪的粗粒度远离平衡动力学 | [link](https://arxiv.org/abs/2609.05217) |
+| 2026-09-04 | complexity | 1 | 不可逆性开始时的马尔可夫链 | [link](https://arxiv.org/abs/2609.05183) |
+| 2026-09-04 | complexity | 0 | 将异质动力学与局部熵联系起来 | [link](https://arxiv.org/abs/2609.05276) |
+| 2026-09-04 | complexity | 0 | 竞争性体积和表面阻止机制下的扩散 | [link](https://arxiv.org/abs/2609.05247) |
+| 2026-09-04 | complexity | 0 | 易碎玻璃形成体中的玻璃态动力学、交叉温度和密度缩放 | [link](https://arxiv.org/abs/2609.05159) |
+| 2026-09-04 | complexity | 0 | 粗粒度隐藏表示：通过映射熵进行无监督神经元选择 | [link](https://arxiv.org/abs/2609.05126) |
+| 2026-09-04 | complexity | 0 | 杨--巴克斯特门砖砌电路中算子纠缠的增长 | [link](https://arxiv.org/abs/2609.05121) |
+| 2026-09-04 | complexity | 0 | 多孔分形介质中的反常扩散 | [link](https://arxiv.org/abs/2609.04992) |
+| 2026-09-04 | complexity | 0 | 支配随机摆钟的通用热力学定律 | [link](https://arxiv.org/abs/2609.04957) |
+| 2026-09-04 | complexity | 0 | 顶点受抑准周期爱因斯坦人工自旋冰中的激发笼 | [link](https://arxiv.org/abs/2609.04854) |
+| 2026-09-04 | complexity | 0 | 无限 $U$ $SU(N)$ 哈伯德链中的自旋电荷从属关系 | [link](https://arxiv.org/abs/2609.04814) |
+| 2026-09-04 | complexity | 0 | 热力学学习 | [link](https://arxiv.org/abs/2609.04732) |
+| 2026-09-04 | complexity | 0 | 作为一维湍流模型的 SLE 曲线动力学中的标度定律和能量耗散 | [link](https://arxiv.org/abs/2609.04719) |
+| 2026-09-04 | complexity | 0 | 波动环境中过阻尼近似的分解 | [link](https://arxiv.org/abs/2609.04668) |
+| 2026-09-04 | bio_inspired | 0 | 迈向进化转移优化的有效评估：任务参数化应用的案例研究 | [link](https://arxiv.org/abs/2609.05040) |
+| 2026-09-03 | complexity | 0 | Fukui-Kawakami chains: spectrum and hidden $\mathfrak{gl}(1｜1)$-symmetry | [link](https://arxiv.org/abs/2609.04378) |
