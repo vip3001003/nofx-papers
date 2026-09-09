@@ -2520,3 +2520,45 @@
 | 2026-09-04 | complexity | 0 | 波动环境中过阻尼近似的分解 | [link](https://arxiv.org/abs/2609.04668) |
 | 2026-09-04 | bio_inspired | 0 | 迈向进化转移优化的有效评估：任务参数化应用的案例研究 | [link](https://arxiv.org/abs/2609.05040) |
 | 2026-09-03 | complexity | 0 | Fukui-Kawakami chains: spectrum and hidden $\mathfrak{gl}(1｜1)$-symmetry | [link](https://arxiv.org/abs/2609.04378) |
+| 2026-09-08 | network | 4 | Double explosive transitions in adaptive multilayer networks with higher-order interactions | [link](https://arxiv.org/abs/2609.08854) |
+| 2026-09-05 | ml | 4 | Explainable Deep Learning for Price-Trade Dynamics: From Black-Box Forecasts to Effective Parametric Models | [link](https://arxiv.org/abs/2609.06085) |
+| 2026-09-07 | complexity | 3 | Storing Infinite Dynamical Attractors in Nonreciprocal Associative Neural Networks | [link](https://arxiv.org/abs/2609.07341) |
+| 2026-09-08 | complexity | 2 | 相互作用范围对流体多临界性的影响：互变晶格模型的计算研究 | [link](https://arxiv.org/abs/2609.09074) |
+| 2026-09-08 | complexity | 2 | 具有平带定位的无精打采的量子行走中的重启和首次检测 | [link](https://arxiv.org/abs/2609.08973) |
+| 2026-09-07 | complexity | 2 | Topographic Disorder, Wind Coupling, and Directional Fire Spread: Critical Behavior in a Terrain-Weighted Forest Fire Model | [link](https://arxiv.org/abs/2609.07763) |
+| 2026-09-07 | complexity | 2 | Exact Hamiltonian Dynamics of Rare Events in Active Matter | [link](https://arxiv.org/abs/2609.07496) |
+| 2026-09-07 | complexity | 2 | Emergent Equilibrium Structure Along a Critical Cluster Recursion | [link](https://arxiv.org/abs/2609.07332) |
+| 2026-09-03 | bio_inspired | 2 | Spread of Chronic Wasting Disease under Stochastic Environmental Conditions and its Control using Deep Reinforcement Learning | [link](https://arxiv.org/abs/2609.05566) |
+| 2026-09-08 | complexity | 1 | 可积淬火的大规模动力学 | [link](https://arxiv.org/abs/2609.09139) |
+| 2026-09-08 | complexity | 1 | 非互惠什么时候很重要？尺度依赖性和非平衡特征 | [link](https://arxiv.org/abs/2609.08820) |
+| 2026-09-08 | complexity | 1 | 边界泛函的非平衡随机热力学：从 Zubarev 系综到随机粒子分离 | [link](https://arxiv.org/abs/2609.08477) |
+| 2026-09-08 | complexity | 1 | 信息几何物理学 - 第一部分：概率单纯形的最小作用原理 | [link](https://arxiv.org/abs/2609.08285) |
+| 2026-09-07 | volume | 1 | 订单流中的机制 | [link](https://arxiv.org/abs/2609.07989) |
+| 2026-09-07 | complexity | 1 | Tensor network investigation of the monomer-dimer model on the honeycomb lattice | [link](https://arxiv.org/abs/2609.07899) |
+| 2026-09-07 | complexity | 1 | 非平衡量子多体系统中的受限典型性 | [link](https://arxiv.org/abs/2609.07832) |
+| 2026-09-07 | complexity | 1 | Bose-Hubbard 模型的精确费米子对偶 | [link](https://arxiv.org/abs/2609.07830) |
+| 2026-09-07 | complexity | 1 | Human mutation field reveals an equilibrium-like structure with irreversible circulation | [link](https://arxiv.org/abs/2609.07500) |
+| 2026-09-07 | complexity | 1 | Fragility from Enthalpy Fluctuations and Fictive-Temperature Dynamics | [link](https://arxiv.org/abs/2609.07396) |
+| 2026-08-26 | bio_inspired | 1 | Optimizing Train Driving to Minimize the Electricity Cost of an Entire Railway Traffic Mesh using Evolutionary Algorithms | [link](https://arxiv.org/abs/2609.05493) |
+| 2026-09-08 | complexity | 0 | 复制解释了人工智能代理在野外的集体行为 | [link](https://arxiv.org/abs/2609.09150) |
+| 2026-09-08 | complexity | 0 | 陈绝缘体中手性边缘态的发散轨道抗磁性 | [link](https://arxiv.org/abs/2609.09065) |
+| 2026-09-08 | complexity | 0 | 俘获量子 Calogero 模型中的精确相空间旋转 | [link](https://arxiv.org/abs/2609.08987) |
+| 2026-09-08 | complexity | 0 | 信息几何中作为非度量测地线的随机过程 | [link](https://arxiv.org/abs/2609.08870) |
+| 2026-09-08 | complexity | 0 | 从当地背景到气候科学：物理教师初始培训中的低成本实验 | [link](https://arxiv.org/abs/2609.08834) |
+| 2026-09-08 | complexity | 0 | Effective particle size governs structure and dynamics in rough hard-particle fluids | [link](https://arxiv.org/abs/2609.08699) |
+| 2026-09-08 | complexity | 0 | 随机学习动态中信息获取的速度限制 | [link](https://arxiv.org/abs/2609.08219) |
+| 2026-09-08 | network | 0 | HierX: Fast Multi-Scale Distance-Decay Interaction on Million-Node Networks | [link](https://arxiv.org/abs/2609.08676) |
+| 2026-09-08 | info_theory | 0 | On Weighted Mathai-Haubold Entropy Measures | [link](https://arxiv.org/abs/2609.08889) |
+| 2026-09-08 | info_theory | 0 | Sequential Lossy Compression With Causal Conditional Perception | [link](https://arxiv.org/abs/2609.08611) |
+| 2026-09-07 | complexity | 0 | 杠杆学习：接收到的每一位都会破坏熵 | [link](https://arxiv.org/abs/2609.08054) |
+| 2026-09-07 | complexity | 0 | Transcription rate dynamics and RNA copy number noise: General relations and data-driven predictions | [link](https://arxiv.org/abs/2609.07993) |
+| 2026-09-07 | complexity | 0 | BCFT 的截断 Polyakov 自举：Neumann-Dirichlet 流和 Ising 特殊过渡 | [link](https://arxiv.org/abs/2609.07841) |
+| 2026-09-07 | complexity | 0 | 有限系统旋节线分解过程中早期光谱选择的方向记忆 | [link](https://arxiv.org/abs/2609.07764) |
+| 2026-09-07 | complexity | 0 | Thermodynamic Cyclic Processes with Markov Samplers in Bayesian Inference | [link](https://arxiv.org/abs/2609.07660) |
+| 2026-09-07 | complexity | 0 | Microcanonical Hamiltonian Monte Carlo and the Helmholtz Theorem | [link](https://arxiv.org/abs/2609.07620) |
+| 2026-09-07 | complexity | 0 | Exact spin form factors and correlations at a massive Kramers-Wannier interface | [link](https://arxiv.org/abs/2609.07612) |
+| 2026-09-07 | complexity | 0 | 被动和主动粒子致密混合物中的剧烈相分离 | [link](https://arxiv.org/abs/2609.07572) |
+| 2026-09-06 | network | 0 | Blind directions of physical learning networks: where to measure and what to measure | [link](https://arxiv.org/abs/2609.06582) |
+| 2026-09-05 | info_theory | 0 | Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model | [link](https://arxiv.org/abs/2609.06008) |
+| 2026-09-02 | info_theory | 0 | Recursive overlap Bernoulli distributions and an entropy concavity conjecture | [link](https://arxiv.org/abs/2609.05546) |
+| 2026-08-27 | bio_inspired | 0 | Optimal long-run control of endemic infections: bang-bang threshold policies in a stochastic SIS model | [link](https://arxiv.org/abs/2609.05495) |
