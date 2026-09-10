@@ -2562,3 +2562,39 @@
 | 2026-09-05 | info_theory | 0 | Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model | [link](https://arxiv.org/abs/2609.06008) |
 | 2026-09-02 | info_theory | 0 | Recursive overlap Bernoulli distributions and an entropy concavity conjecture | [link](https://arxiv.org/abs/2609.05546) |
 | 2026-08-27 | bio_inspired | 0 | Optimal long-run control of endemic infections: bang-bang threshold policies in a stochastic SIS model | [link](https://arxiv.org/abs/2609.05495) |
+| 2026-09-09 | complexity | 4 | 监测的长程量子行走的首次检测统计中的相变 | [link](https://arxiv.org/abs/2609.10510) |
+| 2026-09-09 | complexity | 2 | 量子 Mpemba 效应的对称结构相关诊断 | [link](https://arxiv.org/abs/2609.10470) |
+| 2026-09-09 | complexity | 2 | 量化超均匀和非超均匀多粒子系统中的平移和键向有序度量 | [link](https://arxiv.org/abs/2609.10359) |
+| 2026-09-09 | complexity | 2 | 更新重置机制下的间歇连续时间随机游走 | [link](https://arxiv.org/abs/2609.09738) |
+| 2026-09-09 | info_theory | 2 | Fundamental Limits of Joint Target Detection and Parameter Estimation - Characterizing Mixed-State Sensing Limits via Posterior Entropy Volume | [link](https://arxiv.org/abs/2609.09667) |
+| 2026-09-09 | bio_inspired | 2 | 使用遗传算法的有限树宽贝叶斯网络的结构融合 | [link](https://arxiv.org/abs/2609.10276) |
+| 2026-09-08 | complexity | 2 | Transient and universal regimes in quantum reaction-transport kinetics | [link](https://arxiv.org/abs/2609.09305) |
+| 2026-09-09 | complexity | 1 | 非平衡自由能计算的最优中间哈密顿量：马尔可夫模型的数值研究 | [link](https://arxiv.org/abs/2609.10519) |
+| 2026-09-09 | complexity | 1 | $N$ 级系统中马尔可夫 Mpemba 效应的有效协议 | [link](https://arxiv.org/abs/2609.09988) |
+| 2026-09-09 | complexity | 1 | 两种活动状态之间随机切换驱动的浓度分布模态变化的热力学和统计特征 | [link](https://arxiv.org/abs/2609.09979) |
+| 2026-09-09 | complexity | 1 | 量化体内上皮组织的细胞形状和密度波动 | [link](https://arxiv.org/abs/2609.09874) |
+| 2026-09-09 | complexity | 1 | 非互易简谐链中的能量传输结构与涨落定理 | [link](https://arxiv.org/abs/2609.09593) |
+| 2026-09-09 | complexity | 1 | Dyck-Fredkin 自旋链中的次广泛非稳定剂 | [link](https://arxiv.org/abs/2609.09545) |
+| 2026-09-09 | network | 1 | 识别时间网络中的节点和连接记忆的基本限制：边际伪影和传播动态 | [link](https://arxiv.org/abs/2609.10399) |
+| 2026-09-09 | network | 1 | How neighbourhood ideology shapes misinformation belief in densely tied social networks | [link](https://arxiv.org/abs/2609.10277) |
+| 2026-09-08 | complexity | 1 | Topological instability and reentrant crystallization in active solids | [link](https://arxiv.org/abs/2609.09500) |
+| 2026-09-08 | complexity | 1 | 淬火二元玻色-爱因斯坦凝聚态中的预热波纹 | [link](https://arxiv.org/abs/2609.09464) |
+| 2026-09-09 | complexity | 0 | 受保护的域和加权网络上的合作成本 | [link](https://arxiv.org/abs/2609.10463) |
+| 2026-09-09 | complexity | 0 | 谱的算术：因式分解、统计和对称函数 | [link](https://arxiv.org/abs/2609.10391) |
+| 2026-09-09 | complexity | 0 | 阿贝尔沙堆模型中的普遍相关性 | [link](https://arxiv.org/abs/2609.10352) |
+| 2026-09-09 | complexity | 0 | 意大利企业对企业发票数据：网络分析 | [link](https://arxiv.org/abs/2609.10227) |
+| 2026-09-09 | complexity | 0 | pyeCE：嵌入式集群扩展的 Python 实现 | [link](https://arxiv.org/abs/2609.10190) |
+| 2026-09-09 | complexity | 0 | 柔性聚合物链中结的拓扑相关混合 | [link](https://arxiv.org/abs/2609.10188) |
+| 2026-09-09 | complexity | 0 | 二维 Kagomé 晶格上的各向异性 Ising 模型作为非齐次 XYZ 可积模型 | [link](https://arxiv.org/abs/2609.10163) |
+| 2026-09-09 | complexity | 0 | 非限制Feller过程的无限遍历理论与泛函统计 | [link](https://arxiv.org/abs/2609.10106) |
+| 2026-09-09 | complexity | 0 | 球形约束对软斥力球柱2-TIPS的影响 | [link](https://arxiv.org/abs/2609.10014) |
+| 2026-09-09 | complexity | 0 | 三个硬方块中的构型空间分离和结构选择 | [link](https://arxiv.org/abs/2609.09936) |
+| 2026-09-09 | complexity | 0 | 由掺杂引起并源自不同自旋激发的轨道选择性电子模式：轨道选择性莫特跃迁的基本特征 | [link](https://arxiv.org/abs/2609.09741) |
+| 2026-09-09 | complexity | 0 | 分数维纳维-斯托克斯方程更新过程指南 | [link](https://arxiv.org/abs/2609.09620) |
+| 2026-09-09 | complexity | 0 | 粗粒度为动态、末端连接的星形聚合物网络创建极简模型 | [link](https://arxiv.org/abs/2609.09594) |
+| 2026-09-09 | complexity | 0 | 热量子传感：费希尔信息和高斯信号之外的工作 | [link](https://arxiv.org/abs/2609.09583) |
+| 2026-09-09 | info_theory | 0 | Haar-Bayesian Pure-State Prediction under Relative-Entropy Loss: Arbitrary-Effect Reduction and Global Optimality | [link](https://arxiv.org/abs/2609.10072) |
+| 2026-09-08 | complexity | 0 | 浓度在确定 NaCl 成核机制中的作用：途径共存的故事 | [link](https://arxiv.org/abs/2609.09518) |
+| 2026-09-08 | complexity | 0 | Gap-controlled thermalization in a SSH model version of the Fermi-Pasta-Ulam-Tsingou chain | [link](https://arxiv.org/abs/2609.09498) |
+| 2026-09-08 | complexity | 0 | Exact asymptotic equivalence between precisions of record-times and integrated currents | [link](https://arxiv.org/abs/2609.09479) |
+| 2026-09-08 | network | 0 | Identifiability of Latent Space Network Models on Anisotropic Thurston Geometries | [link](https://arxiv.org/abs/2609.09236) |
