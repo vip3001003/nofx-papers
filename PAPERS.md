@@ -2598,3 +2598,27 @@
 | 2026-09-08 | complexity | 0 | Gap-controlled thermalization in a SSH model version of the Fermi-Pasta-Ulam-Tsingou chain | [link](https://arxiv.org/abs/2609.09498) |
 | 2026-09-08 | complexity | 0 | Exact asymptotic equivalence between precisions of record-times and integrated currents | [link](https://arxiv.org/abs/2609.09479) |
 | 2026-09-08 | network | 0 | Identifiability of Latent Space Network Models on Anisotropic Thurston Geometries | [link](https://arxiv.org/abs/2609.09236) |
+| 2026-09-10 | ml | 8 | 机制切换订单流下稳健做市的深度学习 | [link](https://arxiv.org/abs/2609.11614) |
+| 2026-06-11 | volume | 4 | 市场微观结构中的隐私补贴 | [link](https://arxiv.org/abs/2609.10543) |
+| 2026-09-10 | complexity | 3 | 作为协议持续时间的函数，有效擦除欠阻尼存储器：等温到绝热转变 | [link](https://arxiv.org/abs/2609.11473) |
+| 2026-09-10 | bio_inspired | 3 | 通过迭代顺序迁移解决少样本多目标多任务优化问题 | [link](https://arxiv.org/abs/2609.11228) |
+| 2026-09-10 | complexity | 2 | 量化对称性破缺 | [link](https://arxiv.org/abs/2609.11926) |
+| 2026-09-09 | complexity | 2 | 无序发射系统有效模型推理的共识 | [link](https://arxiv.org/abs/2609.10731) |
+| 2026-09-10 | complexity | 1 | 经过认证的模糊球上共形场论的简化基仿真 | [link](https://arxiv.org/abs/2609.11675) |
+| 2026-09-10 | complexity | 1 | 一维精确可解流体中的无序基态 | [link](https://arxiv.org/abs/2609.11394) |
+| 2026-09-10 | complexity | 1 | 化学主方程产生的宏观混沌的信息论表征 | [link](https://arxiv.org/abs/2609.11340) |
+| 2026-09-10 | complexity | 1 | 跨淬灭无序的自旋系统的通用采样 | [link](https://arxiv.org/abs/2609.11336) |
+| 2026-09-10 | complexity | 1 | 带漂移的随机游走的重复性和瞬态性 $ρx^α/t^β$ | [link](https://arxiv.org/abs/2609.11046) |
+| 2026-09-10 | info_theory | 1 | 汉明球中的最大柯尔莫哥洛夫复杂度 | [link](https://arxiv.org/abs/2609.11362) |
+| 2026-09-05 | bio_inspired | 1 | 脉冲扰动阶段结构生态进化模型的建立与分析 | [link](https://arxiv.org/abs/2609.10581) |
+| 2026-09-10 | complexity | 0 | 稳定器代码中 Rényi 相干信息的层次结构 | [link](https://arxiv.org/abs/2609.11930) |
+| 2026-09-10 | complexity | 0 | 基于块熵区域的梯度解缠器非局部费米子模式优化 | [link](https://arxiv.org/abs/2609.11811) |
+| 2026-09-10 | complexity | 0 | 用于容错量子计算和平移不变稳定器代码的本地解码器 | [link](https://arxiv.org/abs/2609.11457) |
+| 2026-09-10 | complexity | 0 | 时间随机可积量子电路中罕见的历史转变 | [link](https://arxiv.org/abs/2609.11415) |
+| 2026-09-10 | complexity | 0 | 不可定向域上的方向顺序 | [link](https://arxiv.org/abs/2609.11367) |
+| 2026-09-10 | complexity | 0 | 信息几何物理学 - 第二部分：概率单纯形的小步主动推理 | [link](https://arxiv.org/abs/2609.11187) |
+| 2026-09-10 | complexity | 0 | 时空密度矩阵的类时纠缠：晶格实现 | [link](https://arxiv.org/abs/2609.10967) |
+| 2026-09-10 | info_theory | 0 | 对数凹随机变量的熵凹性：非对称反例 | [link](https://arxiv.org/abs/2609.11418) |
+| 2026-09-09 | complexity | 0 | 具有可调逻辑动态的 Floquet Majorana XYZ 代码 | [link](https://arxiv.org/abs/2609.10683) |
+| 2026-09-09 | complexity | 0 | 具有磁变形的 3d Ising 场理论：模糊球体与 TCSA 的结合 | [link](https://arxiv.org/abs/2609.10670) |
+| 2026-09-06 | bio_inspired | 0 | 基于阈值的持续优化选择：叶子脱落实例化 | [link](https://arxiv.org/abs/2609.10588) |
