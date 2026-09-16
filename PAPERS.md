@@ -2622,3 +2622,59 @@
 | 2026-09-09 | complexity | 0 | 具有可调逻辑动态的 Floquet Majorana XYZ 代码 | [link](https://arxiv.org/abs/2609.10683) |
 | 2026-09-09 | complexity | 0 | 具有磁变形的 3d Ising 场理论：模糊球体与 TCSA 的结合 | [link](https://arxiv.org/abs/2609.10670) |
 | 2026-09-06 | bio_inspired | 0 | 基于阈值的持续优化选择：叶子脱落实例化 | [link](https://arxiv.org/abs/2609.10588) |
+| 2026-09-12 | ml | 6 | ViperQ: Order Flow Pattern Recognition via Auction Market Theory for Reinforcement Learning Trading | [link](https://arxiv.org/abs/2609.13825) |
+| 2026-09-13 | crypto | 4 | Public Opinion as an Option: Leveraging Prediction Markets to Hedge Exposure to Spot Crypto Volatility | [link](https://arxiv.org/abs/2609.14267) |
+| 2026-09-07 | bio_inspired | 4 | Joint UAV Activation and Placement for Post-Disaster Wireless Restoration via a Hybrid Quantum-Inspired Evolutionary Framework | [link](https://arxiv.org/abs/2609.16019) |
+| 2026-09-15 | complexity | 3 | Unsupervised Machine Learning of the Contact Process | [link](https://arxiv.org/abs/2609.16506) |
+| 2026-09-14 | complexity | 3 | Modulated structures in discrete approximations to a three-dimensional cholesteric model on a recursive lattice | [link](https://arxiv.org/abs/2609.15891) |
+| 2026-09-14 | complexity | 3 | Penalized Maximum Likelihood Inference of Core-Periphery Networks | [link](https://arxiv.org/abs/2609.15796) |
+| 2026-09-14 | bio_inspired | 3 | Navigating the Delicate Geometry of Beehive Mite Infestation with Optimal Control | [link](https://arxiv.org/abs/2609.16316) |
+| 2026-09-12 | volume | 3 | Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables | [link](https://arxiv.org/abs/2609.13715) |
+| 2026-09-11 | volume | 3 | Same Book, Different Fills: Partial Identification of FIFO Execution from Aggregate Order Books | [link](https://arxiv.org/abs/2609.13597) |
+| 2026-09-04 | bio_inspired | 3 | Machine learning-assisted calibration of Agent-based Models: surrogate-based optimization with Genetic Algorithm and Particle Swarm Optimization | [link](https://arxiv.org/abs/2609.13247) |
+| 2026-09-15 | complexity | 2 | Numerical Study of Stability of Clean Critical Points across Aperiodic, Topological, and Uncorrelated Disorder | [link](https://arxiv.org/abs/2609.17166) |
+| 2026-09-15 | complexity | 2 | Odd diffusion and power-law correlations in chiral mass-transport processes | [link](https://arxiv.org/abs/2609.16821) |
+| 2026-09-15 | bio_inspired | 2 | Geometry of learning dynamics: Gradient descent versus natural gradient on the ridge of optimization | [link](https://arxiv.org/abs/2609.16805) |
+| 2026-09-14 | complexity | 2 | The Role of Completeness in Probing Symmetry Breaking | [link](https://arxiv.org/abs/2609.16153) |
+| 2026-09-14 | complexity | 2 | Optical and magnetic signatures of drive-enhanced coherence in phase-disordered superconducting bilayers | [link](https://arxiv.org/abs/2609.16137) |
+| 2026-09-14 | complexity | 2 | Fractional vortices in a spin-isotropic spiral spin liquid | [link](https://arxiv.org/abs/2609.15941) |
+| 2026-09-14 | complexity | 2 | Bridging Control, Inference, Transport, and Thermodynamics: From Theory to Applications in Learning | [link](https://arxiv.org/abs/2609.15897) |
+| 2026-09-13 | info_theory | 2 | Dependency, Compression, and Synergy: A Unified Information-Theoretic View of Multimodal Learning | [link](https://arxiv.org/abs/2609.14421) |
+| 2026-09-15 | complexity | 1 | On the relaxation dynamics of non-equilibrium quantum systems | [link](https://arxiv.org/abs/2609.17447) |
+| 2026-09-15 | complexity | 1 | Local energetic coupling enhances the expressivity of chemical computation | [link](https://arxiv.org/abs/2609.17339) |
+| 2026-09-15 | complexity | 1 | Optimal Linear-Rate Conversion of Unknown Mixed Qubit States via SWAP Tests | [link](https://arxiv.org/abs/2609.17311) |
+| 2026-09-15 | complexity | 1 | Quantum Brownian motion in a temperature gradient | [link](https://arxiv.org/abs/2609.17239) |
+| 2026-09-15 | complexity | 1 | Latent kinetic Ising models of neural spike trains | [link](https://arxiv.org/abs/2609.17213) |
+| 2026-09-15 | info_theory | 1 | Phase Transition in Binary Compressed Sensing via Annealing with Adaptive Regularization | [link](https://arxiv.org/abs/2609.16712) |
+| 2026-09-14 | complexity | 1 | Hidden kinetic correlations control collective phases of entropy-conditioned histories | [link](https://arxiv.org/abs/2609.16355) |
+| 2026-09-14 | bio_inspired | 1 | HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses | [link](https://arxiv.org/abs/2609.15938) |
+| 2026-09-11 | info_theory | 1 | A New Upper Bound on the Binary Deletion Channel Capacity | [link](https://arxiv.org/abs/2609.13351) |
+| 2026-09-15 | complexity | 0 | Coupling spherical p-spin systems | [link](https://arxiv.org/abs/2609.17522) |
+| 2026-09-15 | complexity | 0 | Renormalizing small ball events for branching random walk | [link](https://arxiv.org/abs/2609.17520) |
+| 2026-09-15 | complexity | 0 | Trajectory Statistics Govern Mechanical Power Transfer in Active Baths | [link](https://arxiv.org/abs/2609.17047) |
+| 2026-09-15 | complexity | 0 | Floquet Dressing and Bath Spectral Effects on the Geometric Phase of a Driven Dissipative Qubit | [link](https://arxiv.org/abs/2609.16609) |
+| 2026-09-15 | complexity | 0 | Diffusivity in Dissipative Quantum Transport from an Exactly Solvable Krylov Chain | [link](https://arxiv.org/abs/2609.16559) |
+| 2026-09-15 | complexity | 0 | Bridging Between Statistical Mechanics and Black Hole Evolution: Theoretical Formalism | [link](https://arxiv.org/abs/2609.16534) |
+| 2026-09-15 | complexity | 0 | Anomalous First Passage in Evolution: Edge-KPZ Theory | [link](https://arxiv.org/abs/2609.16499) |
+| 2026-09-15 | network | 0 | Multiscale Reconstruction of Multiplex Networks with Higher-Order Interactions | [link](https://arxiv.org/abs/2609.17354) |
+| 2026-09-15 | info_theory | 0 | A Multiuser Channel Capacity Region | [link](https://arxiv.org/abs/2609.17212) |
+| 2026-09-15 | bio_inspired | 0 | LLMDE: A Large Language Model-Driven Differential Evolution Algorithm for Portfolio Optimization | [link](https://arxiv.org/abs/2609.16846) |
+| 2026-09-15 | bio_inspired | 0 | Learning to Optimize UAV Path Planning for Data Sensing in Wireless Sensor Networks | [link](https://arxiv.org/abs/2609.16629) |
+| 2026-09-14 | complexity | 0 | Geometric View of Iterative Fixed-Node Dynamics | [link](https://arxiv.org/abs/2609.16308) |
+| 2026-09-14 | complexity | 0 | Schwinger-Keldysh effective actions for non-hydrodynamic poles and branch cuts | [link](https://arxiv.org/abs/2609.16164) |
+| 2026-09-14 | complexity | 0 | Investigating Interacting Fermionic Models with Locality-Preserving Qubit Encodings | [link](https://arxiv.org/abs/2609.16142) |
+| 2026-09-14 | complexity | 0 | Designs without disorder: unitary $k$-designs from a single-site bulk defect | [link](https://arxiv.org/abs/2609.16140) |
+| 2026-09-14 | complexity | 0 | Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble | [link](https://arxiv.org/abs/2609.16106) |
+| 2026-09-14 | complexity | 0 | Pauli spectrum and nonstabilizerness of random fermionic Gaussian states | [link](https://arxiv.org/abs/2609.15739) |
+| 2026-09-14 | complexity | 0 | Reconstruction of the superstatistical temperature distribution from single-particle kinetic energies | [link](https://arxiv.org/abs/2609.15466) |
+| 2026-09-14 | complexity | 0 | Sharp Bounds on the Mean Efficiency of a Fluctuating Machine | [link](https://arxiv.org/abs/2609.15443) |
+| 2026-09-14 | network | 0 | Higher-order interactions reveal synergistic backbones of cycling infrastructure networks | [link](https://arxiv.org/abs/2609.16285) |
+| 2026-09-14 | network | 0 | ProtoGuide: Prototype-Driven Guidance for Class-Conditional Graph Generation | [link](https://arxiv.org/abs/2609.15239) |
+| 2026-09-14 | info_theory | 0 | An Overview of Rate-Distortion-Perception Theory | [link](https://arxiv.org/abs/2609.15580) |
+| 2026-09-13 | bio_inspired | 0 | When is global evolutionary search useful for variational quantum algorithms? A landscape-first study | [link](https://arxiv.org/abs/2609.14594) |
+| 2026-09-12 | network | 0 | From Network Inequality to Network Fairness: A Perspective on Responsible Decision-Making | [link](https://arxiv.org/abs/2609.13867) |
+| 2026-09-11 | network | 0 | Diverse Minds, Divided Networks? Personality Composition, Polarization, and Collective Intelligence in LLM-Based Social Simulations | [link](https://arxiv.org/abs/2609.12444) |
+| 2026-09-11 | info_theory | 0 | Log-Sobolev inequality, von Neumann entropy and Entanglement of Formation | [link](https://arxiv.org/abs/2609.12667) |
+| 2026-09-11 | bio_inspired | 0 | MAAPO:an innovative membrane algorithm based on artificial protozoa optimizer for multilevel threshold image segmentation | [link](https://arxiv.org/abs/2609.12756) |
+| 2026-09-11 | bio_inspired | 0 | Sequential reduction for discrete latent variables in ecological and evolutionary models using RTMB | [link](https://arxiv.org/abs/2609.13333) |
+| 2026-09-10 | info_theory | 0 | Scalable Discrete-to-Continuous Channel Simulation for Compression and Privacy | [link](https://arxiv.org/abs/2609.12067) |
