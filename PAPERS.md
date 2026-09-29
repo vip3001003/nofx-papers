@@ -2678,3 +2678,90 @@
 | 2026-09-11 | bio_inspired | 0 | MAAPO:an innovative membrane algorithm based on artificial protozoa optimizer for multilevel threshold image segmentation | [link](https://arxiv.org/abs/2609.12756) |
 | 2026-09-11 | bio_inspired | 0 | Sequential reduction for discrete latent variables in ecological and evolutionary models using RTMB | [link](https://arxiv.org/abs/2609.13333) |
 | 2026-09-10 | info_theory | 0 | Scalable Discrete-to-Continuous Channel Simulation for Compression and Privacy | [link](https://arxiv.org/abs/2609.12067) |
+| 2026-09-27 | volume | 5 | Evolution of Market Microstructure in the Age of AI | [link](https://arxiv.org/abs/2609.33058) |
+| 2026-09-25 | volume | 5 | Agentic Limit Order Books: Phase Transitions and Market Impact | [link](https://arxiv.org/abs/2609.31260) |
+| 2026-09-27 | complexity | 4 | Criticality without Temperature in an Ising Spin System | [link](https://arxiv.org/abs/2609.33361) |
+| 2026-09-22 | crypto | 4 | Loss Choice or Model Choice? The Role of Forecast Level in Cryptocurrency Volatility Forecasting | [link](https://arxiv.org/abs/2609.27024) |
+| 2026-09-28 | complexity | 3 | Out-of-equilibrium finite-time percolation transitions and spinodal-like behaviors after quenches across magnetic first-order transitions of Ising systems | [link](https://arxiv.org/abs/2609.35485) |
+| 2026-09-25 | complexity | 3 | Complexity drives the symmetry breaking of temperature fluctuations | [link](https://arxiv.org/abs/2609.31521) |
+| 2026-09-25 | bio_inspired | 3 | Landscape Limits of Quantum-Inspired Evolutionary Optimization across 256 continuous functions | [link](https://arxiv.org/abs/2609.30938) |
+| 2026-09-23 | network | 3 | Transfer Dynamics and Spectral Cascades in Graph-Coupled Kuramoto Networks | [link](https://arxiv.org/abs/2609.28432) |
+| 2026-09-18 | crypto | 3 | Asymptotic Invariance of Kelly Allocation Under Power-Law Asset Dynamics: Evidence from Bitcoin | [link](https://arxiv.org/abs/2609.22612) |
+| 2026-09-16 | bio_inspired | 3 | Benchmarking Tabular Foundation Models as Surrogates in Expensive Evolutionary Optimization | [link](https://arxiv.org/abs/2609.18130) |
+| 2026-09-28 | complexity | 2 | Global synchronization of topological signals with time-delayed interactions | [link](https://arxiv.org/abs/2609.34609) |
+| 2026-09-28 | complexity | 2 | Fluctuations and multifractality in stochastic models of interface growth and population dynamics | [link](https://arxiv.org/abs/2609.34468) |
+| 2026-09-26 | complexity | 2 | Periodically modulated traveling waves in integrate-and-fire networks: recursive speed law and propagation failure | [link](https://arxiv.org/abs/2609.33006) |
+| 2026-09-26 | complexity | 2 | Domain growth in lipid membranes and the budding instability | [link](https://arxiv.org/abs/2609.32951) |
+| 2026-09-25 | bio_inspired | 2 | Modeling quantum neural network gradient with reinforcement learning | [link](https://arxiv.org/abs/2609.31066) |
+| 2026-09-24 | network | 2 | Deep-learning-aided dismantling of interdependent networks | [link](https://arxiv.org/abs/2609.28977) |
+| 2026-09-24 | bio_inspired | 2 | Online Task Adaptation via Self-Organisation | [link](https://arxiv.org/abs/2609.29281) |
+| 2026-09-23 | bio_inspired | 2 | An Unbounded Archive-based Transfer Strategy for Dynamic Multi-Objective Optimization with a Changing Number of Objectives | [link](https://arxiv.org/abs/2609.27430) |
+| 2026-09-19 | bio_inspired | 2 | Adaptive Differential Evolution and Multistart Search for Noisy QAOA Optimization | [link](https://arxiv.org/abs/2609.23180) |
+| 2026-09-17 | momentum | 2 | Principal component error in high-dimensional factor models | [link](https://arxiv.org/abs/2609.20550) |
+| 2026-09-16 | network | 2 | Modelling opinion dynamics during crises as complex contagion with feedback | [link](https://arxiv.org/abs/2609.18684) |
+| 2026-09-16 | bio_inspired | 2 | A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits | [link](https://arxiv.org/abs/2609.18702) |
+| 2026-09-28 | complexity | 1 | Correlation measure for statistical systems | [link](https://arxiv.org/abs/2609.34859) |
+| 2026-09-28 | complexity | 1 | Second largest eigenvalue does not bound stationary entropy production | [link](https://arxiv.org/abs/2609.34352) |
+| 2026-09-28 | bio_inspired | 1 | CMDO: A Cognitive Memory-Driven Optimization Algorithm for Adaptive Population-Based Search | [link](https://arxiv.org/abs/2609.35657) |
+| 2026-09-27 | complexity | 1 | Temperature--Hamiltonian Ambiguity in Strong-Coupling Quantum Equilibrium | [link](https://arxiv.org/abs/2609.33389) |
+| 2026-09-27 | bio_inspired | 1 | ADPTNet: Adaptive with Prescriptive Timescales Non-Linear SSM for Sequence Modelling | [link](https://arxiv.org/abs/2609.34034) |
+| 2026-09-26 | complexity | 1 | Mpemba effect without a wall | [link](https://arxiv.org/abs/2609.32871) |
+| 2026-09-26 | complexity | 1 | Continuously varying exponents in the distribution of waiting times in the symmetric exclusion process on a percolation cluster | [link](https://arxiv.org/abs/2609.32314) |
+| 2026-09-25 | complexity | 1 | Odd stochastic density functional theory | [link](https://arxiv.org/abs/2609.32080) |
+| 2026-09-25 | network | 1 | Vertices that belong to every minimum dominating set of a graph and their connection with transportation sharing systems with study cases in Campo de Gibraltar area | [link](https://arxiv.org/abs/2609.31818) |
+| 2026-09-24 | bio_inspired | 1 | Prevalence and the rate of antigenic evolution are jointly determined in an eco-evolutionary SIR model | [link](https://arxiv.org/abs/2609.30515) |
+| 2026-09-23 | network | 1 | Dynamics-structure interchangeability in binary opinion models on multiplex networks | [link](https://arxiv.org/abs/2609.28340) |
+| 2026-09-23 | bio_inspired | 1 | Spiking Neural Network Predicting Sequence of the External Worlds States in Model-Based Reinforcement Learning | [link](https://arxiv.org/abs/2609.27459) |
+| 2026-09-18 | info_theory | 1 | Opportunistic Conditional Entropy Coding with Frozen Analysis and Synthesis Transforms | [link](https://arxiv.org/abs/2609.21816) |
+| 2026-09-18 | info_theory | 1 | Fronthaul Compression for Uplink Cloud-RAN with Finite-Alphabet Inputs: A Reverse Mercury/Waterfilling Approach | [link](https://arxiv.org/abs/2609.21265) |
+| 2026-09-18 | bio_inspired | 1 | A Confidence-Driven Evolutionary Algorithm for Noisy Optimization with Joint Chance Constraints | [link](https://arxiv.org/abs/2609.21318) |
+| 2026-09-16 | info_theory | 1 | Source Entropy-Guided Adaptive Transmission for Communication-Driven Multi-View Sensing | [link](https://arxiv.org/abs/2609.19457) |
+| 2026-09-16 | info_theory | 1 | Computing the entropy rate of a quantized stationary Gaussian process | [link](https://arxiv.org/abs/2609.18784) |
+| 2026-09-16 | bio_inspired | 1 | Artificial Neural Networks as Surrogate Models in Black Box Optimization | [link](https://arxiv.org/abs/2609.22329) |
+| 2026-09-15 | network | 1 | Modelling sexual partnership dynamics and population heterogeneities in agent-based dynamic network models | [link](https://arxiv.org/abs/2609.17622) |
+| 2026-09-28 | complexity | 0 | Speed-Fisher Information: Chaos and Irreversibility in Classical and Quantum Dynamics | [link](https://arxiv.org/abs/2609.35687) |
+| 2026-09-28 | complexity | 0 | Optimal performance in a chaotic Floquet quantum battery | [link](https://arxiv.org/abs/2609.35655) |
+| 2026-09-28 | complexity | 0 | A Unified Rational-Function Approximation for Square-Well, Square-Shoulder, and Nonadditive Hard-Sphere Mixtures | [link](https://arxiv.org/abs/2609.34914) |
+| 2026-09-28 | complexity | 0 | Cylinder Defect Casimir Energy and Weyl Anomalies | [link](https://arxiv.org/abs/2609.34529) |
+| 2026-09-28 | complexity | 0 | The equivalence of topological indices for $\mathrm{U}(1)\rtimes\mathbb{Z}_2$-symmetric quantum spin chains | [link](https://arxiv.org/abs/2609.34119) |
+| 2026-09-28 | info_theory | 0 | The Hidden Perception Constraint in Task-Aware Compression | [link](https://arxiv.org/abs/2609.35684) |
+| 2026-09-28 | info_theory | 0 | Monotonicity of the Rényi channel capacity under non-signaling assisted channel simulation | [link](https://arxiv.org/abs/2609.34213) |
+| 2026-09-28 | bio_inspired | 0 | Arbitrary-Accuracy Neural Approximation with Optimal Neuron Count and Near-Optimal Bit Complexity | [link](https://arxiv.org/abs/2609.35628) |
+| 2026-09-28 | bio_inspired | 0 | EvE: An Alternate Optimizer to Adam | [link](https://arxiv.org/abs/2609.35614) |
+| 2026-09-27 | complexity | 0 | Swapping Quantum Annealing Errors into a Cavity | [link](https://arxiv.org/abs/2609.33975) |
+| 2026-09-27 | complexity | 0 | Rare but stable: hidden states in the 1D swarmalator model | [link](https://arxiv.org/abs/2609.33929) |
+| 2026-09-27 | complexity | 0 | Hall conductance of dilute electrolytes from odd stochastic density functional theory | [link](https://arxiv.org/abs/2609.33797) |
+| 2026-09-27 | complexity | 0 | On mechanistically accessible copolymer sequences | [link](https://arxiv.org/abs/2609.33784) |
+| 2026-09-27 | complexity | 0 | Non-stationary Statistics and Energetics of Brownian Motion under Stochastic Harmonic Confinement | [link](https://arxiv.org/abs/2609.33751) |
+| 2026-09-27 | complexity | 0 | Quantum Dynamics of Full Counting Statistics in Fermionic Lattices with Localized Gain | [link](https://arxiv.org/abs/2609.33724) |
+| 2026-09-27 | complexity | 0 | Boolean Cumulants and Exact Reduced Descriptions of Renewal-Driven Systems | [link](https://arxiv.org/abs/2609.33621) |
+| 2026-09-27 | network | 0 | Rethinking Group Differences in Psychopathology Networks: A Slow-Fast Perspective on Context and Symptom Activation | [link](https://arxiv.org/abs/2609.33736) |
+| 2026-09-26 | complexity | 0 | Trimers, pairs and localisation on disordered random graphs | [link](https://arxiv.org/abs/2609.32768) |
+| 2026-09-26 | complexity | 0 | Backward Kolmogorov Transport: Sampling Invariant Laws of Reversible Diffusions from Trajectory Data | [link](https://arxiv.org/abs/2609.32664) |
+| 2026-09-26 | complexity | 0 | Escaping Alignment: A Physical Trap Model of Best-of-N Jailbreaking | [link](https://arxiv.org/abs/2609.32116) |
+| 2026-09-25 | complexity | 0 | Spread Complexity for Local Operator Quenches with Conserved Momentum | [link](https://arxiv.org/abs/2609.31867) |
+| 2026-09-25 | complexity | 0 | Exact Characterization of the Holevo Bound by a Quantum Fisher Information Family | [link](https://arxiv.org/abs/2609.31601) |
+| 2026-09-25 | network | 0 | Unifying non-Markovian Dynamics and Agent Heterogeneity in Scalable Stochastic Networks | [link](https://arxiv.org/abs/2609.31125) |
+| 2026-09-25 | network | 0 | Reachability Does Not Imply Searchability in Expanding Networks | [link](https://arxiv.org/abs/2609.31042) |
+| 2026-09-25 | info_theory | 0 | Relational Compression: A Framework for Relational Fidelity in Constrained Representations | [link](https://arxiv.org/abs/2609.31816) |
+| 2026-09-23 | info_theory | 0 | A Sample-Based Approach for Hierarchical Information-Theoretic Compression of Probabilistic Occupancy Grids | [link](https://arxiv.org/abs/2609.27330) |
+| 2026-09-22 | network | 0 | Network-based modeling of cocaine trafficking flows and displacement effects | [link](https://arxiv.org/abs/2609.26864) |
+| 2026-09-22 | bio_inspired | 0 | In-Context Guidance: Learning Inter-Task Synergies via Numerical Foundational Models for Few-Shot Multitask Optimization | [link](https://arxiv.org/abs/2609.25836) |
+| 2026-09-20 | network | 0 | Inferring Latent Geometries in Weighted Spatio-Functional Networks | [link](https://arxiv.org/abs/2609.23933) |
+| 2026-09-20 | network | 0 | Network imitation sustains misinformation despite a corrective factual field | [link](https://arxiv.org/abs/2609.23451) |
+| 2026-09-18 | network | 0 | Multilayer Analysis of the Global Trade Network | [link](https://arxiv.org/abs/2609.21614) |
+| 2026-09-18 | info_theory | 0 | Hermite-Fisher bounds and stability for min-entropy power inequalities | [link](https://arxiv.org/abs/2609.22065) |
+| 2026-09-18 | info_theory | 0 | On the Fourier Entropy-Influence Conjecture for Boolean Plateaued Functions | [link](https://arxiv.org/abs/2609.21563) |
+| 2026-09-18 | info_theory | 0 | Orbital Detection: On Maximum-Entropy Priors | [link](https://arxiv.org/abs/2609.21466) |
+| 2026-09-18 | info_theory | 0 | Sharp High-Entropy Bounds for Sums of Independent Discrete Random Variables | [link](https://arxiv.org/abs/2609.21459) |
+| 2026-09-18 | bio_inspired | 0 | Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior | [link](https://arxiv.org/abs/2609.21161) |
+| 2026-09-17 | info_theory | 0 | Copula Operad and Copula Entropy | [link](https://arxiv.org/abs/2609.20512) |
+| 2026-09-17 | info_theory | 0 | Maximum Entropy Probability Distributions on Spheres with Fixed Mean Busemann Function and Holomorphic-Information-Geometric Model of Cognition | [link](https://arxiv.org/abs/2609.20410) |
+| 2026-09-17 | info_theory | 0 | DELUGE: Decomposed Entropy-coded Live Unstructured Geometry Exchange for Real-time Particle Streaming | [link](https://arxiv.org/abs/2609.19750) |
+| 2026-09-16 | network | 0 | Topological Uncertainty and Higher-Order Interactions in Spatial Networks | [link](https://arxiv.org/abs/2609.18439) |
+| 2026-09-16 | network | 0 | Shannon entropy and complex network community detection to study electoral coalition behaviour at municipal scale | [link](https://arxiv.org/abs/2609.18200) |
+| 2026-09-16 | info_theory | 0 | Binary Deletion Channel Capacity to Within One Hundredth of a Bit | [link](https://arxiv.org/abs/2609.19412) |
+| 2026-09-15 | network | 0 | Message capacity and claim wording set the transition points of collective truth-finding in language-model networks | [link](https://arxiv.org/abs/2609.19183) |
+| 2026-09-15 | bio_inspired | 0 | Age-Adaptive Handwriting Reconstruction from an IMU-Based Digital Pen through Shared Representations and Domain-Specific Heads | [link](https://arxiv.org/abs/2609.31666) |
+| 2026-09-11 | bio_inspired | 0 | Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent Memory | [link](https://arxiv.org/abs/2609.17590) |
+| 2026-07-24 | volume | 0 | Herding and Liquidity in Order-Book Markets. III. Leverage and the Onset of Endogenous Liquidity Crises under Weak Anchoring | [link](https://arxiv.org/abs/2609.20192) |
