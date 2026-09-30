@@ -2765,3 +2765,42 @@
 | 2026-09-15 | bio_inspired | 0 | Age-Adaptive Handwriting Reconstruction from an IMU-Based Digital Pen through Shared Representations and Domain-Specific Heads | [link](https://arxiv.org/abs/2609.31666) |
 | 2026-09-11 | bio_inspired | 0 | Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent Memory | [link](https://arxiv.org/abs/2609.17590) |
 | 2026-07-24 | volume | 0 | Herding and Liquidity in Order-Book Markets. III. Leverage and the Onset of Endogenous Liquidity Crises under Weak Anchoring | [link](https://arxiv.org/abs/2609.20192) |
+| 2026-09-29 | complexity | 3 | Emergent activity powers a path to chaos for pairs of acoustically trapped spheres | [link](https://arxiv.org/abs/2609.37946) |
+| 2026-09-29 | complexity | 3 | Scale invariance, fractal dynamics, and critical exponents at the phase transition | [link](https://arxiv.org/abs/2609.37275) |
+| 2026-09-29 | complexity | 3 | Static versus dynamic universality in the site-diluted kagome Ising model | [link](https://arxiv.org/abs/2609.36886) |
+| 2026-09-29 | complexity | 2 | Breakdown of Local Denoising as Semantic Speciation | [link](https://arxiv.org/abs/2609.38176) |
+| 2026-09-29 | complexity | 2 | Strong-to-Weak Spontaneous Symmetry Breaking of Dephased Fermions | [link](https://arxiv.org/abs/2609.37965) |
+| 2026-09-29 | complexity | 2 | Quantum Statistical Thermal Engine at the BCS-BEC crossover | [link](https://arxiv.org/abs/2609.37592) |
+| 2026-09-29 | complexity | 2 | Emergent Symmetries in Ensemble Averages | [link](https://arxiv.org/abs/2609.36542) |
+| 2026-09-29 | info_theory | 2 | Mutual Information Constrained Chernoff Bottleneck | [link](https://arxiv.org/abs/2609.37994) |
+| 2026-09-28 | info_theory | 2 | Voronoi-Markov chain and spatial entropy for point pattern analysis | [link](https://arxiv.org/abs/2609.36158) |
+| 2026-09-28 | bio_inspired | 2 | HeurEvo: Agentic Evolution of Hybrid Solver-Augmented Heuristics for Time-Critical Mathematical Optimization | [link](https://arxiv.org/abs/2609.36303) |
+| 2026-09-28 | bio_inspired | 2 | Failure of the fittest: limits on asexual adaptation to changing environments | [link](https://arxiv.org/abs/2609.35933) |
+| 2026-09-29 | complexity | 1 | Boundary Criticality in (2+1)-dimensional U(1) Dirac Quantum Spin Liquid | [link](https://arxiv.org/abs/2609.38088) |
+| 2026-09-29 | complexity | 1 | Emergence in Network Systems is Bounded by Boundary-Crossing Paths | [link](https://arxiv.org/abs/2609.38037) |
+| 2026-09-29 | complexity | 1 | Non-equilibrium fluctuations of gradient exclusion processes in dimension $d\le 3$ | [link](https://arxiv.org/abs/2609.37897) |
+| 2026-09-29 | complexity | 1 | The Spectral Cost of Detecting Nonequilibrium at Finite Temporal Resolution | [link](https://arxiv.org/abs/2609.37205) |
+| 2026-09-29 | complexity | 1 | Weakly interacting Bose-Einstein condensate with stochastic resetting | [link](https://arxiv.org/abs/2609.37110) |
+| 2026-09-29 | complexity | 1 | Thermodynamics of the space of trajectories governed by a combination of two additive boundary functionals | [link](https://arxiv.org/abs/2609.37102) |
+| 2026-09-29 | complexity | 1 | Crossover of Scaling Behaviors of Work Cumulants in a Driven Gaussian Field Theory | [link](https://arxiv.org/abs/2609.36476) |
+| 2026-09-29 | bio_inspired | 1 | Hybrid Joint-Selective Optimization: Reduced-Space Levenberg-Marquardt Refinement of Low-Dimensional Parameters of Interest | [link](https://arxiv.org/abs/2609.37308) |
+| 2026-09-28 | complexity | 1 | Delay-induced multistability in one-dimensional swarmalators with common intrinsic frequency | [link](https://arxiv.org/abs/2609.36293) |
+| 2026-09-28 | bio_inspired | 1 | Massively Parallel Reinforcement Learning with a Chaotic Reconfigurable Clockless Chip | [link](https://arxiv.org/abs/2609.36347) |
+| 2026-09-29 | complexity | 0 | Classification of topological phases of matter in stochastic systems | [link](https://arxiv.org/abs/2609.38171) |
+| 2026-09-29 | complexity | 0 | The Principle of Minimum Justified Correlation | [link](https://arxiv.org/abs/2609.38124) |
+| 2026-09-29 | complexity | 0 | On the Spectrum of Some Temperley-Lieb Spin Chains | [link](https://arxiv.org/abs/2609.38074) |
+| 2026-09-29 | complexity | 0 | Multiscale Reconstruction of Weighted Networks from Coarse-Grained Data | [link](https://arxiv.org/abs/2609.37957) |
+| 2026-09-29 | complexity | 0 | Blind directions of linear response and the limits of finite-perturbation bounds on efficiency fluctuations | [link](https://arxiv.org/abs/2609.37940) |
+| 2026-09-29 | complexity | 0 | Defect Organization in Coexisting Hexagonal and Square Lattices on Ellipsoids | [link](https://arxiv.org/abs/2609.37668) |
+| 2026-09-29 | complexity | 0 | Exact anomalous current fluctuations in the strong-anisotropy limit of the XXZ chain | [link](https://arxiv.org/abs/2609.37512) |
+| 2026-09-29 | complexity | 0 | Phase separation, morphology, and metastability in the three-dimensional active Potts model | [link](https://arxiv.org/abs/2609.37436) |
+| 2026-09-29 | complexity | 0 | Anomalous transport in periodic systems driven by active fluctuations | [link](https://arxiv.org/abs/2609.37289) |
+| 2026-09-29 | complexity | 0 | Accurate ground-state entropies from population Monte Carlo: The antiferromagnetic Ising model on the Shastry-Sutherland lattice | [link](https://arxiv.org/abs/2609.37174) |
+| 2026-09-29 | complexity | 0 | Locking transition in coupled disordered systems | [link](https://arxiv.org/abs/2609.36846) |
+| 2026-09-29 | complexity | 0 | Derivation of the General Solution of the Black-Scholes Boundary-Value Problem | [link](https://arxiv.org/abs/2609.36447) |
+| 2026-09-29 | complexity | 0 | Localization Transition in Kinetically Deformed one-dimensional Aubry-André Model | [link](https://arxiv.org/abs/2609.36446) |
+| 2026-09-29 | network | 0 | Travel Mode- and Purpose-Specific Origin-Destination Matrices for England and Wales from Fused Travel Survey and Mobile Network Data | [link](https://arxiv.org/abs/2609.36466) |
+| 2026-09-29 | bio_inspired | 0 | Adaptive Rotation for iSOMA: Geometry, Benchmarking, and Noise Robustness in Variational Quantum Objectives | [link](https://arxiv.org/abs/2609.37193) |
+| 2026-09-28 | complexity | 0 | Derivation of Fokker-Planck equation and its entropy production | [link](https://arxiv.org/abs/2609.36260) |
+| 2026-09-28 | complexity | 0 | Autonomous self-harmonic drift in Langevin dynamics causes a compaction of underlying domain for the density of Stochastic Localization | [link](https://arxiv.org/abs/2609.36232) |
+| 2026-09-28 | info_theory | 0 | Dual-Branch Vector-Quantization-Aided Satellite Digital Semantic Communication with Index Compression for High-Resolution RSI Over AFDM | [link](https://arxiv.org/abs/2609.35906) |
