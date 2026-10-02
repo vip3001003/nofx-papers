@@ -2804,3 +2804,53 @@
 | 2026-09-28 | complexity | 0 | Derivation of Fokker-Planck equation and its entropy production | [link](https://arxiv.org/abs/2609.36260) |
 | 2026-09-28 | complexity | 0 | Autonomous self-harmonic drift in Langevin dynamics causes a compaction of underlying domain for the density of Stochastic Localization | [link](https://arxiv.org/abs/2609.36232) |
 | 2026-09-28 | info_theory | 0 | Dual-Branch Vector-Quantization-Aided Satellite Digital Semantic Communication with Index Compression for High-Resolution RSI Over AFDM | [link](https://arxiv.org/abs/2609.35906) |
+| 2026-10-01 | complexity | 6 | Landau-like formalism for the thermal-runaway and filamentation instabilities in switching Mott devices | [link](https://arxiv.org/abs/2610.01055) |
+| 2026-07-09 | volume | 4 | A Multi-Venue Solana/DeFi Microstructure Data Corpus: The RED-2400 Family v2 | [link](https://arxiv.org/abs/2610.00005) |
+| 2026-10-01 | bio_inspired | 3 | Continual Reinforcement Learning with Neuroevolution | [link](https://arxiv.org/abs/2610.01583) |
+| 2026-09-30 | crypto | 3 | Exchange Rate Determination for Cryptocurrency Mergers: A Formal Framework | [link](https://arxiv.org/abs/2609.39264) |
+| 2026-10-01 | volume | 2 | Shared Models, Selective Trading, and Order Flow | [link](https://arxiv.org/abs/2610.01897) |
+| 2026-10-01 | complexity | 2 | Hyperbolic lattices with mass disorder: Phases and phase transitions | [link](https://arxiv.org/abs/2610.02192) |
+| 2026-10-01 | complexity | 2 | Work fluctuation speed limit in boundary conformal field theories | [link](https://arxiv.org/abs/2610.01248) |
+| 2026-10-01 | complexity | 2 | Effects of on-site Gaussian disorder in the ferromagnetic Blume Capel model | [link](https://arxiv.org/abs/2610.01090) |
+| 2026-09-30 | ml | 2 | Beyond Supra-Competitive Outcomes: Collusive Behaviour in Deep Reinforcement Learning for Optimal Execution Games | [link](https://arxiv.org/abs/2610.00619) |
+| 2026-09-30 | risk | 2 | Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process | [link](https://arxiv.org/abs/2609.38765) |
+| 2026-09-30 | complexity | 2 | Thermal entanglement transitions from strong $\textrm{SU}(2)$ symmetry | [link](https://arxiv.org/abs/2610.00826) |
+| 2026-09-30 | complexity | 2 | On the spectra of strong turbulence on water surfaces | [link](https://arxiv.org/abs/2610.00777) |
+| 2026-09-30 | bio_inspired | 2 | Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling | [link](https://arxiv.org/abs/2609.40258) |
+| 2026-09-10 | risk | 2 | Admissible Portfolio Optimization: Information Constraints, Conditional Efficient Frontiers, and the Price of Causal Identification | [link](https://arxiv.org/abs/2610.00147) |
+| 2026-10-01 | complexity | 1 | Universal Bound and Phase Transition in Many-Body Fermionic Non-Gaussianity | [link](https://arxiv.org/abs/2610.02075) |
+| 2026-10-01 | complexity | 1 | Approximation theorems for fermionic Gaussian states | [link](https://arxiv.org/abs/2610.01860) |
+| 2026-10-01 | complexity | 1 | Generalized fluctuation-dissipation theorem and Einstein relation in rotating equilibrium | [link](https://arxiv.org/abs/2610.01797) |
+| 2026-10-01 | complexity | 1 | Scalar field theory for (chiral) active Brownian particles: bottom-up derivation revisited | [link](https://arxiv.org/abs/2610.01672) |
+| 2026-10-01 | complexity | 1 | On thermalization in random free fermions: Statistical origins and energy-dependent ETH structure | [link](https://arxiv.org/abs/2610.01414) |
+| 2026-10-01 | complexity | 1 | Ideal gas of active particles in a box | [link](https://arxiv.org/abs/2610.01287) |
+| 2026-10-01 | complexity | 1 | Fermionic Gaussian Scrooge Ensembles in Deep Thermalization | [link](https://arxiv.org/abs/2610.01209) |
+| 2026-10-01 | complexity | 1 | Dynamical Critical Properties of the Random-Bond three-state Potts Model | [link](https://arxiv.org/abs/2610.01176) |
+| 2026-10-01 | info_theory | 1 | No Model Required: Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse | [link](https://arxiv.org/abs/2610.01493) |
+| 2026-10-01 | bio_inspired | 1 | LESS: Lightweight Evolutionary Supernet Search in Minutes | [link](https://arxiv.org/abs/2610.01468) |
+| 2026-09-30 | complexity | 1 | The half-filled optical Su-Schrieffer-Heeger-Hubbard model with uniaxial strain | [link](https://arxiv.org/abs/2610.00681) |
+| 2026-09-30 | info_theory | 1 | Equality in the Bosonic Quantum Entropy Power Inequality | [link](https://arxiv.org/abs/2609.40061) |
+| 2026-09-30 | bio_inspired | 1 | An Island-Based Parallel Biased Random-Key Genetic Algorithm for the Three-Dimensional Trailer Loading Problem | [link](https://arxiv.org/abs/2609.39272) |
+| 2026-09-30 | bio_inspired | 1 | T-Router: Learning Thalamic Routing for Reasoning with Parameter-Efficient Reinforcement Learning | [link](https://arxiv.org/abs/2609.39109) |
+| 2026-10-01 | complexity | 0 | Local random quantum circuits converge to the Porter-Thomas distribution in polynomial depth | [link](https://arxiv.org/abs/2610.02125) |
+| 2026-10-01 | complexity | 0 | Unitary Schur Sampling of Qudits via Random SWAP Tests: Hunt for Antisymmetry | [link](https://arxiv.org/abs/2610.02103) |
+| 2026-10-01 | complexity | 0 | Strong Simulation of 1D Quantum Circuits via Reduced Transition Matrices | [link](https://arxiv.org/abs/2610.02082) |
+| 2026-10-01 | complexity | 0 | Microscopic origin of the chiral pressure in a two-dimensional fluid | [link](https://arxiv.org/abs/2610.02003) |
+| 2026-10-01 | complexity | 0 | Stationarity and angular momentum conservation in pulsar spin noise | [link](https://arxiv.org/abs/2610.01929) |
+| 2026-10-01 | complexity | 0 | Coherent Release Fronts in Krylov Chains and Thermal AdS$_2$ Response | [link](https://arxiv.org/abs/2610.01862) |
+| 2026-10-01 | complexity | 0 | DSSYK, open ASEP/TASEP and 2d dilaton gravity at strong coupling | [link](https://arxiv.org/abs/2610.01790) |
+| 2026-10-01 | complexity | 0 | Exact first-detection probability in a locally monitored solvable quantum circuit | [link](https://arxiv.org/abs/2610.01703) |
+| 2026-10-01 | complexity | 0 | Optimal sampling strategies in event-chain Monte Carlo | [link](https://arxiv.org/abs/2610.01659) |
+| 2026-10-01 | complexity | 0 | Gate Control Improves Routing Efficiency for Periodic Traffic | [link](https://arxiv.org/abs/2610.01534) |
+| 2026-10-01 | complexity | 0 | Evidence for an Obstruction to Perturbative Renormalization Group in Stochastic Turbulence | [link](https://arxiv.org/abs/2610.01507) |
+| 2026-10-01 | complexity | 0 | Learning ab initio phase-field models | [link](https://arxiv.org/abs/2610.01432) |
+| 2026-10-01 | complexity | 0 | Rapid mixing of quantum spin chains at any finite temperature | [link](https://arxiv.org/abs/2610.01190) |
+| 2026-10-01 | complexity | 0 | Dissipation-Sensitivity Trade-Off in Dissipative Bosonic Systems | [link](https://arxiv.org/abs/2610.01112) |
+| 2026-10-01 | complexity | 0 | Convergence of stationary distributions for a class of zero-range processes and its application to a wealth distribution model with debt | [link](https://arxiv.org/abs/2610.00901) |
+| 2026-09-30 | info_theory | 0 | CAS II: Symmetric Partitions as Kolmogorov Models | [link](https://arxiv.org/abs/2609.40290) |
+| 2026-09-30 | info_theory | 0 | Submodularity of entropy under quantum convolution | [link](https://arxiv.org/abs/2609.40211) |
+| 2026-09-30 | bio_inspired | 0 | Null-model treatment of the sensory-motor boundary changes an evolutionary connectome comparison | [link](https://arxiv.org/abs/2609.39248) |
+| 2026-09-30 | bio_inspired | 0 | Evolutionary foraging in grids: Intermittent search dynamics emerge in finite, depletable landscapes | [link](https://arxiv.org/abs/2609.39239) |
+| 2026-09-30 | bio_inspired | 0 | Self-Evolving Algorithm-Design Agents: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization | [link](https://arxiv.org/abs/2609.38757) |
+| 2026-09-29 | network | 0 | Multiscale Renormalization of Weighted Networks | [link](https://arxiv.org/abs/2609.38283) |
+| 2026-09-29 | bio_inspired | 0 | Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics | [link](https://arxiv.org/abs/2609.38527) |
