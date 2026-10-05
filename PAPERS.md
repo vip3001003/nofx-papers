@@ -2854,3 +2854,25 @@
 | 2026-09-30 | bio_inspired | 0 | Self-Evolving Algorithm-Design Agents: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization | [link](https://arxiv.org/abs/2609.38757) |
 | 2026-09-29 | network | 0 | Multiscale Renormalization of Weighted Networks | [link](https://arxiv.org/abs/2609.38283) |
 | 2026-09-29 | bio_inspired | 0 | Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics | [link](https://arxiv.org/abs/2609.38527) |
+| 2026-10-02 | crypto | 7 | Mixture-of-Experts for Cryptocurrency Order Execution: Training Stability, Tail Risk, and Failure Modes | [link](https://arxiv.org/abs/2610.03369) |
+| 2026-10-02 | complexity | 3 | Functional renormalization group in an external field: constant field versus constant order parameter | [link](https://arxiv.org/abs/2610.03365) |
+| 2026-10-01 | complexity | 3 | Quantum transmission in 1D disordered stealthy hyperuniform Kronig--Penney-like models | [link](https://arxiv.org/abs/2610.02501) |
+| 2026-10-02 | complexity | 2 | Modified logarithmic Sobolev inequality for 1D non-commuting Hamiltonians | [link](https://arxiv.org/abs/2610.03683) |
+| 2026-10-02 | complexity | 2 | Probing fluctuating hydrodynamics through current fluctuations in hard rod gas | [link](https://arxiv.org/abs/2610.03180) |
+| 2026-10-02 | complexity | 2 | Structural crossover of complex networks: bridging degree correlation and fractality | [link](https://arxiv.org/abs/2610.02883) |
+| 2026-10-02 | complexity | 2 | Nonlocal, nonlinear electrostatics: like-charge attraction and asymmetric solvation | [link](https://arxiv.org/abs/2610.02849) |
+| 2026-10-02 | network | 2 | How suboptimal is my stochastic network controller allowed to be? Completion certificates with application to power grids hosting AI data centers | [link](https://arxiv.org/abs/2610.03275) |
+| 2026-10-01 | complexity | 2 | Traveling waves, phase separation and pattern formation in the active stepping stone model | [link](https://arxiv.org/abs/2610.02346) |
+| 2026-10-02 | complexity | 1 | Stochastic thermodynamics and predictability of Ornstein-Uhlenbeck processes: an application to the Madden-Julian Oscillation | [link](https://arxiv.org/abs/2610.03355) |
+| 2026-10-02 | complexity | 1 | Critical coupling and $Δ\langleφ^2\rangle$ in three-dimensional $φ^4$ theory | [link](https://arxiv.org/abs/2610.03028) |
+| 2026-10-01 | complexity | 1 | Entanglement Requires Fluctuations at Conformal Interfaces | [link](https://arxiv.org/abs/2610.02309) |
+| 2026-10-01 | complexity | 1 | Homological Thresholds in Randomly Monitored Quantum Error-Correcting Codes | [link](https://arxiv.org/abs/2610.02310) |
+| 2026-10-02 | complexity | 0 | Maximum-Entropy Extension of Quantum Correlation Functions from Short Real-Time Dynamics | [link](https://arxiv.org/abs/2610.03696) |
+| 2026-10-02 | complexity | 0 | Efficient Block Encoding of Structured Hamiltonians by Separating Where and What | [link](https://arxiv.org/abs/2610.03686) |
+| 2026-10-02 | complexity | 0 | Efficient Sampling for Many-Body Fermionic Non-Gaussianity | [link](https://arxiv.org/abs/2610.03492) |
+| 2026-10-02 | complexity | 0 | Minimax entropy production for arbitrary processes | [link](https://arxiv.org/abs/2610.03478) |
+| 2026-10-02 | complexity | 0 | Spatiotemporal quantum advantages for rare-event sampling | [link](https://arxiv.org/abs/2610.03026) |
+| 2026-10-02 | bio_inspired | 0 | Evolutionary Computation for Trustworthy AI: From Attacks and Defenses to Self-Evolving Era | [link](https://arxiv.org/abs/2610.02996) |
+| 2026-10-01 | complexity | 0 | Counterdiabatic Quantum Circuits | [link](https://arxiv.org/abs/2610.02312) |
+| 2026-10-01 | info_theory | 0 | Joint Movement and Compression Ratio Design for Mobile Embodied AI Networks (MEAN) | [link](https://arxiv.org/abs/2610.02334) |
+| 2026-10-01 | bio_inspired | 0 | SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents | [link](https://arxiv.org/abs/2610.02361) |
