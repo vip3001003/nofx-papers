@@ -2876,3 +2876,50 @@
 | 2026-10-01 | complexity | 0 | Counterdiabatic Quantum Circuits | [link](https://arxiv.org/abs/2610.02312) |
 | 2026-10-01 | info_theory | 0 | Joint Movement and Compression Ratio Design for Mobile Embodied AI Networks (MEAN) | [link](https://arxiv.org/abs/2610.02334) |
 | 2026-10-01 | bio_inspired | 0 | SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents | [link](https://arxiv.org/abs/2610.02361) |
+| 2026-10-05 | volume | 4 | Latent Continuum of Regimes in Limit Order Book Dynamics | [link](https://arxiv.org/abs/2610.05740) |
+| 2026-10-05 | complexity | 4 | Interacting quantum criticality with U(1) symmetry breaking in 1+1 dimensions | [link](https://arxiv.org/abs/2610.06682) |
+| 2026-10-03 | complexity | 3 | Active lattice percolation: an apparently new universality class of percolation transitions | [link](https://arxiv.org/abs/2610.04807) |
+| 2026-10-03 | complexity | 3 | From Equilibrium Criticality to Universal Collective Phases through Nonreciprocal Coupling of Ordered Systems | [link](https://arxiv.org/abs/2610.04450) |
+| 2026-10-03 | bio_inspired | 3 | Chance-Constrained Bi-Objective Evolutionary Optimization for the Open-Pit Mining Operational Planning Problem | [link](https://arxiv.org/abs/2610.04227) |
+| 2026-10-02 | complexity | 3 | Branching Gaps, Coexistence, and Boundary Influence for the Ising Model on Spherically Symmetric Trees | [link](https://arxiv.org/abs/2610.03941) |
+| 2026-10-05 | complexity | 2 | Climbing the Fusion Tree: Center Ordering and Decoding Hierarchy in Non-Abelian Mixed States | [link](https://arxiv.org/abs/2610.06692) |
+| 2026-10-05 | complexity | 2 | Causal memory and structural complexity of a quantum space series | [link](https://arxiv.org/abs/2610.06519) |
+| 2026-10-05 | complexity | 2 | Self-assembly Monte Carlo reveals localized entanglement in giant polymer melts | [link](https://arxiv.org/abs/2610.06498) |
+| 2026-10-05 | bio_inspired | 2 | Visual Swarm Navigation via Deep Reinforcement Learning and Evolutionary Hybrid Design | [link](https://arxiv.org/abs/2610.06400) |
+| 2026-10-04 | complexity | 2 | Onset of Melting in Finite Ion Crystals: The Role of Structural Isomerization | [link](https://arxiv.org/abs/2610.05624) |
+| 2026-10-02 | complexity | 2 | An Absorbing State Model with an Emergent Ising Transition | [link](https://arxiv.org/abs/2610.03936) |
+| 2026-10-02 | complexity | 2 | Exact Temporal Criticalities of Entanglement and Negativity in Gaussian and Non-Gaussian Dissipative Kitaev Chains | [link](https://arxiv.org/abs/2610.03889) |
+| 2026-10-05 | complexity | 1 | Confined Riesz gas: From Newtonian Dynamics to Emergent Hydrodynamics | [link](https://arxiv.org/abs/2610.06626) |
+| 2026-10-05 | complexity | 1 | Rotation Breaks Kibble-Zurek Universality | [link](https://arxiv.org/abs/2610.05934) |
+| 2026-10-05 | bio_inspired | 1 | Stochastic evolutionary dynamics in structured populations: Network degree governs evolutionary stability | [link](https://arxiv.org/abs/2610.05857) |
+| 2026-10-04 | complexity | 1 | Parisi's solution of the Sherrington--Kirkpatrick model from synchronous Monte Carlo dynamics | [link](https://arxiv.org/abs/2610.05557) |
+| 2026-10-04 | complexity | 1 | Multicatalyst reactions induce abrupt transition in a dense catalytic reaction network model | [link](https://arxiv.org/abs/2610.04843) |
+| 2026-10-04 | network | 1 | Fast-variable reduction to complex contagion unifies epidemic models | [link](https://arxiv.org/abs/2610.05467) |
+| 2026-10-04 | info_theory | 1 | The Functional Structure of Post-Compression Recovery in Low-Rank LLMs | [link](https://arxiv.org/abs/2610.05504) |
+| 2026-10-03 | complexity | 1 | MUTACO: Simulator-Efficient Response Matching in Stochastic Nonlinear Systems via Compatibility-Aware Sequential Design | [link](https://arxiv.org/abs/2610.04619) |
+| 2026-10-03 | complexity | 1 | Activated coarsening of motility-induced phase separation in random environments | [link](https://arxiv.org/abs/2610.04373) |
+| 2026-10-02 | complexity | 1 | Fluctuation theorems and exact multi-allele fixation probabilities | [link](https://arxiv.org/abs/2610.04090) |
+| 2026-10-02 | complexity | 1 | On Information Propagation in Krylov Subspaces | [link](https://arxiv.org/abs/2610.03883) |
+| 2026-10-02 | bio_inspired | 1 | Distribution Matching Evolutionary Algorithms for Rare Event Sampling | [link](https://arxiv.org/abs/2610.03833) |
+| 2026-10-01 | bio_inspired | 1 | Evolutionary Giant Tour for CVRP using NSE and ML Heuristic]{Evolutionary Giant Tour approach for CVRP using Node Shift Encoding and Machine Learning repair heuristic | [link](https://arxiv.org/abs/2610.03816) |
+| 2026-09-30 | bio_inspired | 1 | The Quantum Sphere: A Physically Realizable Optimization Benchmark with Provable Linear Convergence in White- and Black-Box Settings | [link](https://arxiv.org/abs/2610.03788) |
+| 2026-10-05 | complexity | 0 | Finite-bath projected ensembles in dual-unitary circuits | [link](https://arxiv.org/abs/2610.06754) |
+| 2026-10-05 | complexity | 0 | Interplay between Excitability and Noise in Analog Spiking Neurons | [link](https://arxiv.org/abs/2610.06720) |
+| 2026-10-05 | complexity | 0 | Hydrodynamics of perceptual matter: from neural representations to collective motion | [link](https://arxiv.org/abs/2610.06249) |
+| 2026-10-05 | complexity | 0 | Casimir force screening by a quantum Boltzmann plasma | [link](https://arxiv.org/abs/2610.06202) |
+| 2026-10-05 | info_theory | 0 | Optimal compression with quantum retrieval | [link](https://arxiv.org/abs/2610.06702) |
+| 2026-10-05 | info_theory | 0 | Improved LZ77 Compression with Match-Length-Dependent Sliding Windows | [link](https://arxiv.org/abs/2610.06530) |
+| 2026-10-05 | info_theory | 0 | The Arbitrary-Placement Problem in Entropy-Minimizing Selection, and a Residual-Entropy Formulation | [link](https://arxiv.org/abs/2610.05925) |
+| 2026-10-05 | bio_inspired | 0 | An evolutionary origin of collective decision making in humans and machines | [link](https://arxiv.org/abs/2610.05676) |
+| 2026-10-04 | bio_inspired | 0 | Optimization Geometry of QAOA and Variational Quantum Algorithms | [link](https://arxiv.org/abs/2610.05524) |
+| 2026-10-03 | complexity | 0 | Collective Sensing as Emergent Bayesian Inference | [link](https://arxiv.org/abs/2610.04415) |
+| 2026-10-03 | complexity | 0 | Dielectric Response of Short and Long Range Models of Nonuniform Liquids and Implications for Machine Learned Interatomic Potentials | [link](https://arxiv.org/abs/2610.04224) |
+| 2026-10-03 | complexity | 0 | How to distinguish chaos from integrability using OTOC | [link](https://arxiv.org/abs/2610.04197) |
+| 2026-10-03 | bio_inspired | 0 | Robust Optimization of Spring Design under Variable Manufacturing Tolerances | [link](https://arxiv.org/abs/2610.04656) |
+| 2026-10-03 | bio_inspired | 0 | Adaptive Operator Selection in Bilevel Large Neighborhood Search for Electric Autonomous Dial-a-Ride Problem under Uncertainty | [link](https://arxiv.org/abs/2610.04219) |
+| 2026-10-02 | complexity | 0 | Casimir Force, Magnetization, and Susceptibility for \\ Ising Chain with an Impurity Atom in the Presence of an External Field | [link](https://arxiv.org/abs/2610.04035) |
+| 2026-10-02 | complexity | 0 | Transport, Hall Effect, and Collective Dynamics of Driven Particles in Active Chiral Media | [link](https://arxiv.org/abs/2610.03977) |
+| 2026-10-02 | complexity | 0 | Probabilistic Algorithms for Ising Machines from Optimization to Generative AI | [link](https://arxiv.org/abs/2610.03972) |
+| 2026-10-02 | complexity | 0 | Efficient Quantum Monte Carlo through Cluster Expansions | [link](https://arxiv.org/abs/2610.03893) |
+| 2026-10-02 | bio_inspired | 0 | AdaEva: Accelerating LLM-Driven Algorithm Design with Adaptive Partial Evaluation | [link](https://arxiv.org/abs/2610.03896) |
+| 2026-09-29 | info_theory | 0 | Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent Systems? | [link](https://arxiv.org/abs/2610.03769) |
