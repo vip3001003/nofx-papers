@@ -2923,3 +2923,29 @@
 | 2026-10-02 | complexity | 0 | Efficient Quantum Monte Carlo through Cluster Expansions | [link](https://arxiv.org/abs/2610.03893) |
 | 2026-10-02 | bio_inspired | 0 | AdaEva: Accelerating LLM-Driven Algorithm Design with Adaptive Partial Evaluation | [link](https://arxiv.org/abs/2610.03896) |
 | 2026-09-29 | info_theory | 0 | Bayes-Sufficient Compression Is Not Enough: How Does Communication Help Multi-Agent Systems? | [link](https://arxiv.org/abs/2610.03769) |
+| 2026-10-05 | bio_inspired | 5 | Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model | [link](https://arxiv.org/abs/2610.07412) |
+| 2026-10-06 | complexity | 3 | Closed analytical form of many-body free volume and thermodynamics of monodisperse hard disks | [link](https://arxiv.org/abs/2610.08265) |
+| 2026-10-06 | complexity | 3 | A New Model for the Income Distribution | [link](https://arxiv.org/abs/2610.08143) |
+| 2026-10-06 | complexity | 3 | A Single Conformal Coordinate Decodes Outcome-Resolved Measurement-Induced Entanglement | [link](https://arxiv.org/abs/2610.07995) |
+| 2026-10-06 | complexity | 3 | Phase diagram and transition properties of the Blume-Capel model: A Monte Carlo study | [link](https://arxiv.org/abs/2610.07567) |
+| 2026-10-05 | complexity | 3 | Kardar-Parisi-Zhang superdiffusion in chaotic quantum circuits | [link](https://arxiv.org/abs/2610.07143) |
+| 2026-10-06 | complexity | 2 | Algebraic Tensor Network Renormalization and Holographic duality | [link](https://arxiv.org/abs/2610.08787) |
+| 2026-10-06 | complexity | 2 | Fluctuating chemically active droplets | [link](https://arxiv.org/abs/2610.08154) |
+| 2026-10-06 | complexity | 2 | Heterogeneous diffusion with recruitment and mortality | [link](https://arxiv.org/abs/2610.08022) |
+| 2026-10-06 | complexity | 2 | Long-Range Nonequilibrium Correlations as a Thermodynamic Speedometer | [link](https://arxiv.org/abs/2610.07964) |
+| 2026-10-05 | complexity | 2 | Threat Evasion and Information Propagation in Cognitive Flocks | [link](https://arxiv.org/abs/2610.07297) |
+| 2026-10-06 | complexity | 1 | Fast free-energy estimation for complex systems with nonreversible simulated tempering | [link](https://arxiv.org/abs/2610.08598) |
+| 2026-10-06 | complexity | 1 | Analytical results for the Shannon entropy of the critical transverse-field Ising chain | [link](https://arxiv.org/abs/2610.08591) |
+| 2026-10-06 | complexity | 1 | Hamiltonian curl-forces in systems coupled to multiple thermal reservoirs | [link](https://arxiv.org/abs/2610.08423) |
+| 2026-10-06 | complexity | 1 | Spontaneous symmetry breaking at any temperature in a local one-dimensional model | [link](https://arxiv.org/abs/2610.07693) |
+| 2026-10-05 | complexity | 1 | Decoupling Spectral Gaps from Entanglement Complexity in Quantum Annealing | [link](https://arxiv.org/abs/2610.07144) |
+| 2026-10-06 | complexity | 0 | Nematic order in monomer-dimer models of Heilmann and Lieb with lateral attraction in dimensions $d\ge 2$ | [link](https://arxiv.org/abs/2610.08600) |
+| 2026-10-06 | complexity | 0 | Replica Fragmentation and Glassy Dynamics in Parity Learning | [link](https://arxiv.org/abs/2610.08503) |
+| 2026-10-06 | complexity | 0 | Symmetry protected quantum many body scars through half-gauging | [link](https://arxiv.org/abs/2610.08304) |
+| 2026-10-06 | complexity | 0 | Stress Tensor in Fundamental Measure Theory of Hard-Sphere Fluids: A Thermomechanical Approach | [link](https://arxiv.org/abs/2610.08289) |
+| 2026-10-06 | complexity | 0 | Spatial density, first passage times, and entropy of run and tumble particles in a bistable potential | [link](https://arxiv.org/abs/2610.08029) |
+| 2026-10-06 | complexity | 0 | Spontaneous Hawking Radiation from Dynamical Black-Hole Formation in Quantum Spin Systems | [link](https://arxiv.org/abs/2610.07794) |
+| 2026-10-06 | complexity | 0 | Shape theorem for excited random walks on the integer lattice | [link](https://arxiv.org/abs/2610.07724) |
+| 2026-10-06 | network | 0 | Keeping the interaction structure explicit: comment on ''Graphs are maximally expressive for higher-order interactions" | [link](https://arxiv.org/abs/2610.08712) |
+| 2026-10-06 | bio_inspired | 0 | Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design | [link](https://arxiv.org/abs/2610.08367) |
+| 2026-10-05 | complexity | 0 | Interacting multicomponent $SU(N)$ magnets | [link](https://arxiv.org/abs/2610.07157) |
