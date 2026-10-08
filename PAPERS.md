@@ -2949,3 +2949,29 @@
 | 2026-10-06 | network | 0 | Keeping the interaction structure explicit: comment on ''Graphs are maximally expressive for higher-order interactions" | [link](https://arxiv.org/abs/2610.08712) |
 | 2026-10-06 | bio_inspired | 0 | Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design | [link](https://arxiv.org/abs/2610.08367) |
 | 2026-10-05 | complexity | 0 | Interacting multicomponent $SU(N)$ magnets | [link](https://arxiv.org/abs/2610.07157) |
+| 2026-10-07 | complexity | 3 | Finite-size scaling analysis of three dimensional Z(2) and O(2) spin models with non-vanishing symmetry breaking parameter | [link](https://arxiv.org/abs/2610.10350) |
+| 2026-10-07 | complexity | 3 | Characterizing Fermionic Non-Gaussianity in the Sachdev-Ye-Kitaev Model via Replica Twist Entropy | [link](https://arxiv.org/abs/2610.10123) |
+| 2026-10-07 | complexity | 3 | Percolation on interdependent one-dimensional long-range networks | [link](https://arxiv.org/abs/2610.10097) |
+| 2026-10-07 | complexity | 2 | Heat transport in weakly anharmonic Fermi-Pasta-Ulam-Tsingou chains | [link](https://arxiv.org/abs/2610.09936) |
+| 2026-10-07 | complexity | 2 | Singlet sector of the vector model with angular potential | [link](https://arxiv.org/abs/2610.09815) |
+| 2026-10-07 | complexity | 2 | Mathematical statistics of wild mammal biomass | [link](https://arxiv.org/abs/2610.09744) |
+| 2026-10-06 | complexity | 2 | An efficient variational polaron master equation for non-Markovian spin-boson dynamics: Transformed initial states and general observables | [link](https://arxiv.org/abs/2610.08953) |
+| 2026-10-06 | info_theory | 2 | An Accuracy--Information Tradeoff for Loss-Difference Conditional Mutual Information | [link](https://arxiv.org/abs/2610.09206) |
+| 2026-10-07 | complexity | 1 | Trend formation with sparse global sampling | [link](https://arxiv.org/abs/2610.10521) |
+| 2026-10-07 | complexity | 1 | Iterated Graph Systems (II): Bernoulli percolation and critical-exponent universality classes on hierarchical lattices | [link](https://arxiv.org/abs/2610.10469) |
+| 2026-10-07 | complexity | 1 | Effective-Geometry Rescaling and Universal Critical Behavior in the Anisotropic Three-State Potts Model on the Square Lattice | [link](https://arxiv.org/abs/2610.10467) |
+| 2026-10-07 | complexity | 1 | Gaussian Scrooge Ensemble from Deep Thermalization in Free-Fermions | [link](https://arxiv.org/abs/2610.10279) |
+| 2026-10-07 | complexity | 1 | Redundant Records of the Past: Unifying Quantum Darwinism and Decoherent Histories | [link](https://arxiv.org/abs/2610.09845) |
+| 2026-10-07 | complexity | 1 | Correspondence between Asymptotic Quantum Many-Body Scars in Closed Systems and Diffusive Nambu-Goldstone Modes in Open Systems | [link](https://arxiv.org/abs/2610.09662) |
+| 2026-10-07 | complexity | 0 | From a Hierarchy of Stochastic Differential Equations to a Hierarchy of Generalized Beta Distributions | [link](https://arxiv.org/abs/2610.10476) |
+| 2026-10-07 | complexity | 0 | Vortex screening and the fate of the BKT transition with long-range couplings | [link](https://arxiv.org/abs/2610.10171) |
+| 2026-10-07 | complexity | 0 | Revealing more on complex energy landscapes by passing less local information: Cavity approach with trust region in non-convex optimization problems | [link](https://arxiv.org/abs/2610.10096) |
+| 2026-10-07 | complexity | 0 | On Bonart's interpretation of the Square-Root Impact Law | [link](https://arxiv.org/abs/2610.10053) |
+| 2026-10-07 | complexity | 0 | A repeating sequence of simple rules creates a universal computer | [link](https://arxiv.org/abs/2610.09879) |
+| 2026-10-07 | complexity | 0 | Predicting activation-barrier and plasticity-onset statistics in a model of glasses | [link](https://arxiv.org/abs/2610.09619) |
+| 2026-10-07 | complexity | 0 | Heat Transport of the $β$-Fermi--Pasta--Ulam--Tsingou chain in the long-wave limit | [link](https://arxiv.org/abs/2610.09405) |
+| 2026-10-07 | complexity | 0 | Vertex crossings in a symmetric Markov multinomial model | [link](https://arxiv.org/abs/2610.09258) |
+| 2026-10-07 | network | 0 | A General Capacity Frontier of Complex Networks | [link](https://arxiv.org/abs/2610.09574) |
+| 2026-10-07 | info_theory | 0 | Settling the Sample Complexity of Rényi Entropy Estimation | [link](https://arxiv.org/abs/2610.10389) |
+| 2026-10-07 | bio_inspired | 0 | Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2 | [link](https://arxiv.org/abs/2610.10496) |
+| 2026-10-06 | complexity | 0 | Phase diagram of a semiflexible magnetic polymer in three dimensions | [link](https://arxiv.org/abs/2610.08958) |
