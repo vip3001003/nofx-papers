@@ -2975,3 +2975,29 @@
 | 2026-10-07 | info_theory | 0 | Settling the Sample Complexity of Rényi Entropy Estimation | [link](https://arxiv.org/abs/2610.10389) |
 | 2026-10-07 | bio_inspired | 0 | Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2 | [link](https://arxiv.org/abs/2610.10496) |
 | 2026-10-06 | complexity | 0 | Phase diagram of a semiflexible magnetic polymer in three dimensions | [link](https://arxiv.org/abs/2610.08958) |
+| 2026-10-08 | bio_inspired | 4 | Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model Updating | [link](https://arxiv.org/abs/2610.11546) |
+| 2026-10-07 | complexity | 4 | On linearity or non-linearity in machine learning for quantum chaotic dynamics | [link](https://arxiv.org/abs/2610.10697) |
+| 2026-10-07 | complexity | 4 | Thermodynamics of interacting magnetic chain molecules | [link](https://arxiv.org/abs/2610.10671) |
+| 2026-10-08 | complexity | 3 | High-resolution mapping of the phase boundary of the honeycomb-lattice Blume--Capel ferromagnet | [link](https://arxiv.org/abs/2610.11068) |
+| 2026-10-08 | complexity | 2 | The Fiedler dimension of networks of networks: from fractal to small-world architectures | [link](https://arxiv.org/abs/2610.11909) |
+| 2026-10-08 | complexity | 2 | Topological Superradiant Universality Classes in Cavity-Mediated Spin Chains | [link](https://arxiv.org/abs/2610.11495) |
+| 2026-10-08 | complexity | 2 | Markov length can diverge in systems whose universal physics is spatially Markovian | [link](https://arxiv.org/abs/2610.11235) |
+| 2026-10-08 | complexity | 1 | Short-Range Vector Spin Glasses: Parisi Hierarchies and Real-Space Ultrametricity | [link](https://arxiv.org/abs/2610.12441) |
+| 2026-10-08 | complexity | 1 | Mass quench in interacting finite-size quantum field system | [link](https://arxiv.org/abs/2610.12045) |
+| 2026-10-08 | complexity | 1 | Mutual Linearity of Complexes in Chemical Reaction Networks | [link](https://arxiv.org/abs/2610.11970) |
+| 2026-10-08 | complexity | 1 | Explicit upper bounds on the threshold of one-dimensional long-range percolation | [link](https://arxiv.org/abs/2610.11872) |
+| 2026-10-08 | complexity | 1 | Controlling transitions between nonequilibrium states through active bath engineering | [link](https://arxiv.org/abs/2610.11831) |
+| 2026-10-08 | complexity | 1 | Quantum annealing of the random transverse-field Ising model in one, two, and three dimensions | [link](https://arxiv.org/abs/2610.11411) |
+| 2026-10-08 | complexity | 1 | Residual spectral instabilities in representation learning | [link](https://arxiv.org/abs/2610.11257) |
+| 2026-10-08 | bio_inspired | 1 | A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization | [link](https://arxiv.org/abs/2610.12183) |
+| 2026-10-07 | complexity | 1 | Efficiency fluctuations in quantum heat engines with non-quasi-static adiabatic strokes | [link](https://arxiv.org/abs/2610.10647) |
+| 2026-10-07 | complexity | 1 | Axiomatic Incompatibility Between Thermal Equilibrium and Volume-Dependent Entropy in Ideal Gas Theory | [link](https://arxiv.org/abs/2610.10645) |
+| 2026-10-08 | complexity | 0 | Entanglement entropy and magic of ZX-diagrams | [link](https://arxiv.org/abs/2610.12447) |
+| 2026-10-08 | complexity | 0 | A general framework for crystallization in maximal hard-core models | [link](https://arxiv.org/abs/2610.11042) |
+| 2026-10-08 | network | 0 | A Gauge-Invariant Clustering Coefficient for Complex-Weighted Bipartite Networks | [link](https://arxiv.org/abs/2610.11929) |
+| 2026-10-08 | info_theory | 0 | FeatureZ: A General Framework for Feature-Preserving Compression via Pointwise Bounds and Star Classification | [link](https://arxiv.org/abs/2610.12371) |
+| 2026-10-08 | info_theory | 0 | Recovery Guarantees for Posterior Sampling of One-Bit Compressed Sensing | [link](https://arxiv.org/abs/2610.11834) |
+| 2026-10-08 | info_theory | 0 | Language Modeling is Monotone Compression | [link](https://arxiv.org/abs/2610.11031) |
+| 2026-10-07 | complexity | 0 | Quantum non-Markovian response spectra | [link](https://arxiv.org/abs/2610.10684) |
+| 2026-10-07 | complexity | 0 | SC$^\sharp$: superconductivity intertwined with topological order | [link](https://arxiv.org/abs/2610.10679) |
+| 2026-10-06 | network | 0 | A Sign in Space part 2, a new simulated First Contact scenario engaging the global scientific SETI network, and integrating deep space technologies into SETI search | [link](https://arxiv.org/abs/2610.10587) |
