@@ -3001,3 +3001,30 @@
 | 2026-10-07 | complexity | 0 | Quantum non-Markovian response spectra | [link](https://arxiv.org/abs/2610.10684) |
 | 2026-10-07 | complexity | 0 | SC$^\sharp$: superconductivity intertwined with topological order | [link](https://arxiv.org/abs/2610.10679) |
 | 2026-10-06 | network | 0 | A Sign in Space part 2, a new simulated First Contact scenario engaging the global scientific SETI network, and integrating deep space technologies into SETI search | [link](https://arxiv.org/abs/2610.10587) |
+| 2026-10-09 | ml | 3 | MLP-Initialized Reinforcement Learning for Exit Timing in SPX Short-Straddle Portfolios | [link](https://arxiv.org/abs/2610.13126) |
+| 2026-10-09 | complexity | 3 | When irrelevance governs: dissipation-regression scaling in open quantum criticality | [link](https://arxiv.org/abs/2610.13033) |
+| 2026-10-09 | complexity | 2 | Robust Golden Ratio universality as a consequence of a circulant symmetry | [link](https://arxiv.org/abs/2610.13842) |
+| 2026-10-09 | complexity | 2 | Replica Transition at Measurement-Altered Ising Criticality | [link](https://arxiv.org/abs/2610.13802) |
+| 2026-10-09 | complexity | 2 | Locality-Preparation Time Tradeoffs in Dissipative Quantum Systems | [link](https://arxiv.org/abs/2610.13784) |
+| 2026-10-09 | complexity | 2 | Parametric Glassiness in Graphene-based Electronic Lévy Glass | [link](https://arxiv.org/abs/2610.13638) |
+| 2026-10-08 | complexity | 2 | Quadratic XY-anisotropy correction to the spontaneous staggered magnetization of the gapped XYZ spin-$1/2$ chain | [link](https://arxiv.org/abs/2610.12798) |
+| 2026-10-08 | complexity | 2 | Spectral optimization of spherical lattices and applications to classical and quantum interacting spin systems | [link](https://arxiv.org/abs/2610.12663) |
+| 2026-10-08 | complexity | 2 | Entropic-ordered superfluid | [link](https://arxiv.org/abs/2610.12635) |
+| 2026-10-08 | complexity | 2 | Error correction and quantum information spreading on sparse random graphs | [link](https://arxiv.org/abs/2610.12597) |
+| 2026-10-09 | complexity | 1 | Modular Properties of Generalised Gibbs Ensembles: The Deformed KdV Hierarchy | [link](https://arxiv.org/abs/2610.13875) |
+| 2026-10-09 | complexity | 1 | Utilizing Neural Networks for Solving Functional Renormalization Group Flow Equations | [link](https://arxiv.org/abs/2610.13754) |
+| 2026-10-09 | complexity | 1 | Predicting the Final Stationary State of Sheared 2D Euler Fluids | [link](https://arxiv.org/abs/2610.13615) |
+| 2026-10-09 | complexity | 1 | An Instability of the Quantum Markov Length | [link](https://arxiv.org/abs/2610.12929) |
+| 2026-10-09 | network | 1 | Modelling the complex dynamics of online disinformation cascades | [link](https://arxiv.org/abs/2610.13839) |
+| 2026-10-09 | complexity | 0 | A Warped Born Rule Turns an Observer into a Maxwell's Demon | [link](https://arxiv.org/abs/2610.13936) |
+| 2026-10-09 | complexity | 0 | Scalene Yang-Baxter triples realize all nearest-neighbour Hamiltonians with global additive symmetries | [link](https://arxiv.org/abs/2610.13782) |
+| 2026-10-09 | complexity | 0 | Altermagnetic Control of Charge-4e Superconductivity | [link](https://arxiv.org/abs/2610.13584) |
+| 2026-10-09 | complexity | 0 | Graph-theoretic framework for semi-Markov networks: transient and stationary occupation probabilities, hitting times and weak ergodicity breaking | [link](https://arxiv.org/abs/2610.13505) |
+| 2026-10-09 | complexity | 0 | Percolation of Data Constraints and Reorganization of Boolean Function States in Parity Learning | [link](https://arxiv.org/abs/2610.13233) |
+| 2026-10-09 | info_theory | 0 | How far is Kolmogorov-Loveland randomness from Martin-Löf randomness? | [link](https://arxiv.org/abs/2610.13585) |
+| 2026-10-09 | bio_inspired | 0 | REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization | [link](https://arxiv.org/abs/2610.13471) |
+| 2026-10-08 | complexity | 0 | Tropical QFT and the sine-Gordon model | [link](https://arxiv.org/abs/2610.12653) |
+| 2026-10-08 | complexity | 0 | Entropy Production in Mesoscopic Electronic Transport Beyond Weak-Coupling | [link](https://arxiv.org/abs/2610.12652) |
+| 2026-10-08 | complexity | 0 | Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries | [link](https://arxiv.org/abs/2610.12607) |
+| 2026-10-08 | network | 0 | Credit Attribution in Timestamped Soccer Networks Using Multivariate Hawkes Processes | [link](https://arxiv.org/abs/2610.12775) |
+| 2026-10-08 | network | 0 | Separating Field--Camp Alignment from Structural Balance in a Frustrated Random-Field Ising Model of Social Networks | [link](https://arxiv.org/abs/2610.12578) |
