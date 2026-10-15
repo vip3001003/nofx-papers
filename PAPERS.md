@@ -3028,3 +3028,59 @@
 | 2026-10-08 | complexity | 0 | Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries | [link](https://arxiv.org/abs/2610.12607) |
 | 2026-10-08 | network | 0 | Credit Attribution in Timestamped Soccer Networks Using Multivariate Hawkes Processes | [link](https://arxiv.org/abs/2610.12775) |
 | 2026-10-08 | network | 0 | Separating Field--Camp Alignment from Structural Balance in a Frustrated Random-Field Ising Model of Social Networks | [link](https://arxiv.org/abs/2610.12578) |
+| 2026-10-14 | complexity | 5 | Online training of Echo State Networks to predict chaotic dynamical systems | [link](https://arxiv.org/abs/2610.20147) |
+| 2026-10-12 | volume | 4 | Neural Estimation of Irreversibility in Real and Simulated Limit Order Book Paths | [link](https://arxiv.org/abs/2610.16151) |
+| 2026-10-14 | complexity | 3 | Single and coupled quantum van der Pol oscillators: Wigner-function dynamics, exact qutrit solutions, and synchronization | [link](https://arxiv.org/abs/2610.19904) |
+| 2026-10-11 | info_theory | 3 | Rate-Distortion Theory of Gaussian Mixtures via Posterior Label Sampling | [link](https://arxiv.org/abs/2610.15549) |
+| 2026-10-14 | complexity | 2 | Memory-resolved prediction of ligand residence times on the minutes timescale | [link](https://arxiv.org/abs/2610.20271) |
+| 2026-10-14 | complexity | 2 | Understanding the Mpemba Effect through a Rule of Thumb | [link](https://arxiv.org/abs/2610.19870) |
+| 2026-10-13 | complexity | 2 | Measurement-induced criticality for non-Abelian anyons: The monitored golden chain | [link](https://arxiv.org/abs/2610.18965) |
+| 2026-10-13 | complexity | 2 | Directed percolation in higher-order social dilemmas | [link](https://arxiv.org/abs/2610.18506) |
+| 2026-10-13 | complexity | 2 | Macroscopic fluctuation theory of stochastic systems undergoing monitoring | [link](https://arxiv.org/abs/2610.18500) |
+| 2026-10-13 | complexity | 2 | Curie-Weiss cell fluid model: Fitting to experimental critical-point data | [link](https://arxiv.org/abs/2610.18411) |
+| 2026-10-13 | complexity | 2 | Molecular-Dynamics Verification of Effective Gravity under Heat Conduction | [link](https://arxiv.org/abs/2610.18250) |
+| 2026-10-11 | info_theory | 2 | Sharp Rogers--Shephard Inequalities for Rényi Entropy | [link](https://arxiv.org/abs/2610.15716) |
+| 2026-10-14 | complexity | 1 | Seismology of Glasses | [link](https://arxiv.org/abs/2610.19602) |
+| 2026-10-14 | complexity | 1 | How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity | [link](https://arxiv.org/abs/2610.19487) |
+| 2026-10-13 | complexity | 1 | Mutual Information of Measurement in Conformal Field Theories | [link](https://arxiv.org/abs/2610.19286) |
+| 2026-10-13 | complexity | 1 | Kinetic Equations and Turbulence in Large $N$ Vector and SYK-like Models | [link](https://arxiv.org/abs/2610.19130) |
+| 2026-10-13 | complexity | 1 | Instability of Markov chains under infinitesimal coherent dissipation | [link](https://arxiv.org/abs/2610.18983) |
+| 2026-10-13 | complexity | 1 | Exact Microscopic One-Body Reduction in the Symmetric Exclusion Process | [link](https://arxiv.org/abs/2610.18626) |
+| 2026-10-12 | bio_inspired | 1 | Time Window Optimization for Motor Imagery Classification via Temporal Structure Embedded Reinforcement Learning | [link](https://arxiv.org/abs/2610.16921) |
+| 2026-10-11 | info_theory | 1 | Wyner's Common Information and the Common Entropy are NP-Hard to Compute | [link](https://arxiv.org/abs/2610.15402) |
+| 2026-10-10 | network | 1 | Joint Trust-Distrust Structure Shapes Belief Propagation and Collective Dynamics | [link](https://arxiv.org/abs/2610.14565) |
+| 2026-10-14 | complexity | 0 | Droplets obstruct Onsager-type solutions of the Ising model in a magnetic field | [link](https://arxiv.org/abs/2610.20569) |
+| 2026-10-14 | complexity | 0 | Physical limits to stochastic classifiers | [link](https://arxiv.org/abs/2610.20481) |
+| 2026-10-14 | complexity | 0 | Asymptotic behaviour for escaping an interval by Lévy flights under stochastic resetting | [link](https://arxiv.org/abs/2610.20410) |
+| 2026-10-14 | complexity | 0 | Modeling electrodeposition of thin films with compact, dendritic, and random morphologies | [link](https://arxiv.org/abs/2610.20361) |
+| 2026-10-14 | complexity | 0 | Absolute area under a scaled Brownian motion with resetting | [link](https://arxiv.org/abs/2610.19985) |
+| 2026-10-14 | complexity | 0 | Maximum likelihood, neural networks and posterior mean for inferring fractional Brownian motion parameters | [link](https://arxiv.org/abs/2610.19888) |
+| 2026-10-14 | info_theory | 0 | Binary Cyclic Gradient Coding: Exact Recovery and Robustness to Compression | [link](https://arxiv.org/abs/2610.20087) |
+| 2026-10-14 | info_theory | 0 | Bilinear Compressive Security with Finitely Many Samples | [link](https://arxiv.org/abs/2610.19898) |
+| 2026-10-14 | info_theory | 0 | Global and Local Entropy Tests for STL Files Under IEEE-754 Validity Constraints | [link](https://arxiv.org/abs/2610.19852) |
+| 2026-10-13 | complexity | 0 | Beyond the lemon: Spectra of random Lindblad operators with a Hamiltonian component | [link](https://arxiv.org/abs/2610.19261) |
+| 2026-10-13 | complexity | 0 | Viscous hydrodynamics from correlated losses | [link](https://arxiv.org/abs/2610.19083) |
+| 2026-10-13 | complexity | 0 | Optimal Disorder Strength for Approximate Unitary $k$-Designs in Spin Chains | [link](https://arxiv.org/abs/2610.18954) |
+| 2026-10-13 | complexity | 0 | Towards synergy between theory and experiments: First-passage processes under resetting with stochastic return protocols | [link](https://arxiv.org/abs/2610.18814) |
+| 2026-10-13 | complexity | 0 | Finite temperature Fredholm determinants for dynamical correlation functions | [link](https://arxiv.org/abs/2610.18750) |
+| 2026-10-13 | complexity | 0 | Emergent Loop Geometry in Gauge-Equivariant Graph Neural Networks | [link](https://arxiv.org/abs/2610.18742) |
+| 2026-10-13 | complexity | 0 | Extending the mean first-passage-time formalism to the reconstruction of high free-energy barriers: A top-start approach | [link](https://arxiv.org/abs/2610.18653) |
+| 2026-10-13 | complexity | 0 | Charge-selective topological locking and ultraslow coarsening in magnetoelastic media | [link](https://arxiv.org/abs/2610.18320) |
+| 2026-10-13 | complexity | 0 | Large deviations, gradient flows and fluctuating hydrodynamics for fractional diffusion | [link](https://arxiv.org/abs/2610.18182) |
+| 2026-10-13 | network | 0 | Replacement distance controls growth at long wavelengths in a coevolving spatial network | [link](https://arxiv.org/abs/2610.17764) |
+| 2026-10-13 | network | 0 | Collective Benefits and Efficiency in Coupled Echo State Networks | [link](https://arxiv.org/abs/2610.17506) |
+| 2026-10-13 | info_theory | 0 | Relative-Entropy Geometry and Convergence in Nonconvex Wiretap Optimization | [link](https://arxiv.org/abs/2610.18785) |
+| 2026-10-13 | info_theory | 0 | Rarity Determines Minimax Rates of Semantic Entropy From Weak Pairwise Judgments With a Known Channel | [link](https://arxiv.org/abs/2610.17971) |
+| 2026-10-13 | info_theory | 0 | Learned Score-Based Turbo Message Passing for Channel Recovery From Spatially Compressed Measurements | [link](https://arxiv.org/abs/2610.17785) |
+| 2026-10-13 | bio_inspired | 0 | Deep Generative Models for Phylogenetic Inference with Complex Evolutionary Processes | [link](https://arxiv.org/abs/2610.19053) |
+| 2026-10-13 | bio_inspired | 0 | Same Function, Different Trajectory: No Standard Optimizer Is Equivariant to Transformer Reparameterization | [link](https://arxiv.org/abs/2610.18085) |
+| 2026-10-12 | info_theory | 0 | Co-Adaptive Entropy Modeling and Rate-Distortion-Optimal Bit Allocation for Perceptual Audio Coding | [link](https://arxiv.org/abs/2610.17459) |
+| 2026-10-12 | info_theory | 0 | Fourier entropy of threshold functions and their compositions | [link](https://arxiv.org/abs/2610.16069) |
+| 2026-10-12 | bio_inspired | 0 | CIPHEUR: LLM-Guided Structural Search Control for Conflict-Graph Optimization | [link](https://arxiv.org/abs/2610.16158) |
+| 2026-10-11 | ml | 0 | Do Rollups Self-Organize? Multi-Agent Reinforcement Learning in the EIP-4844 Blob Fee Market | [link](https://arxiv.org/abs/2610.15256) |
+| 2026-10-11 | info_theory | 0 | Stabilizer entropy cones as self-dual slices of linear rank cones: a five-party gap and dependence on the local dimension | [link](https://arxiv.org/abs/2610.18905) |
+| 2026-10-11 | info_theory | 0 | Binary Codes Correcting Multiple Edits via Polynomial Hashing and Entropy Recycling | [link](https://arxiv.org/abs/2610.15631) |
+| 2026-10-11 | info_theory | 0 | Entropy/Length Profile Bounds for the Conversion of (Non)linear Codes in the Merge Regime | [link](https://arxiv.org/abs/2610.15252) |
+| 2026-10-11 | bio_inspired | 0 | REPRO: Reflective Evolutionary Prompt Optimizer for Automated LLM Red-Teaming | [link](https://arxiv.org/abs/2610.15513) |
+| 2026-10-11 | bio_inspired | 0 | Temporal invariance of evolutionary entropy and comparative demographic analysis | [link](https://arxiv.org/abs/2610.15466) |
+| 2026-10-10 | bio_inspired | 0 | Compute-Optimal Scaling Laws for Spiking Language Models | [link](https://arxiv.org/abs/2610.15146) |
