@@ -3084,3 +3084,41 @@
 | 2026-10-11 | bio_inspired | 0 | REPRO: Reflective Evolutionary Prompt Optimizer for Automated LLM Red-Teaming | [link](https://arxiv.org/abs/2610.15513) |
 | 2026-10-11 | bio_inspired | 0 | Temporal invariance of evolutionary entropy and comparative demographic analysis | [link](https://arxiv.org/abs/2610.15466) |
 | 2026-10-10 | bio_inspired | 0 | Compute-Optimal Scaling Laws for Spiking Language Models | [link](https://arxiv.org/abs/2610.15146) |
+| 2026-10-15 | complexity | 4 | Quantum instanton approach to metastable collective spin systems: Numerical implementation and applications | [link](https://arxiv.org/abs/2610.21684) |
+| 2026-10-15 | volume | 3 | StochLOB: Heavy-Tailed Score Matching for Robust Limit Order Book Trend Prediction | [link](https://arxiv.org/abs/2610.21081) |
+| 2026-10-15 | complexity | 3 | Synchronization induced by stochastic subsystem resetting in complex networks | [link](https://arxiv.org/abs/2610.21842) |
+| 2026-10-15 | network | 3 | Fractional-order SIS-UAU subdiffusion model for rumor propagation | [link](https://arxiv.org/abs/2610.22008) |
+| 2026-10-15 | bio_inspired | 3 | First Mathematical Runtime Analyses of Evolutionary Multitask Multi-Objective Optimization | [link](https://arxiv.org/abs/2610.21311) |
+| 2026-10-14 | regime | 3 | Regime Detection in Latent Factor Models -- A Bayesian Decision-Theoretic Approach | [link](https://arxiv.org/abs/2610.20366) |
+| 2026-10-15 | crypto | 2 | Pricing the Unprovable: Ambiguity, Turnstile Runs, and the Verifiability Discount in Crypto Protocols | [link](https://arxiv.org/abs/2610.21540) |
+| 2026-10-15 | crypto | 2 | NEST: Stale-Robust Tokenized-Stock Measurement for a Crypto-Treasury LETF Stack | [link](https://arxiv.org/abs/2610.21491) |
+| 2026-10-15 | complexity | 2 | Sluggish random walks with resetting: nonequilibrium aspects | [link](https://arxiv.org/abs/2610.21962) |
+| 2026-10-15 | complexity | 2 | Spin-1/2 Heisenberg diamond-like decorated honeycomb lattice in a magnetic field from the perspective of localized magnons and exact diagonalization | [link](https://arxiv.org/abs/2610.21955) |
+| 2026-10-15 | complexity | 2 | Dynamical phase transition for a logarithm observable in chaotic systems | [link](https://arxiv.org/abs/2610.21288) |
+| 2026-10-15 | network | 2 | Multiplicative Path Weights in Networks: From Katz Connectivity to Mean First-Passage Times | [link](https://arxiv.org/abs/2610.21474) |
+| 2026-10-15 | network | 2 | A Panoramic Network Overview of Shortcut Impact on Power Grids | [link](https://arxiv.org/abs/2610.21157) |
+| 2026-10-15 | complexity | 1 | A rigid commensurate host and a defect that switches: vacancies in the frustrated alternating spin-(1, 1/2) Heisenberg chain | [link](https://arxiv.org/abs/2610.22140) |
+| 2026-10-15 | complexity | 1 | Twist-controlled thermodynamic anomalies in bilayer q-state clock models | [link](https://arxiv.org/abs/2610.21949) |
+| 2026-10-15 | complexity | 1 | Critical Ising Model on the Periodic Cubic Lattice $(\mathbb{Z}/L\mathbb{Z})^{3}$ | [link](https://arxiv.org/abs/2610.21326) |
+| 2026-10-15 | bio_inspired | 1 | A restart rule for genetic algorithms based on Schnabel census | [link](https://arxiv.org/abs/2610.22211) |
+| 2026-10-14 | complexity | 1 | The Blume-Capel Model as a $φ^6$ Field Theory: A Monte Carlo and Flow Model Study | [link](https://arxiv.org/abs/2610.20982) |
+| 2026-10-14 | complexity | 1 | The Magic Barrier: A Universal Feature of Quantum Thermalization | [link](https://arxiv.org/abs/2610.20768) |
+| 2026-10-14 | complexity | 1 | All-temperature superfluidity in two dimensions | [link](https://arxiv.org/abs/2610.20717) |
+| 2026-10-14 | complexity | 1 | Region bounds, error margins and certified positivity in the numerical conformal bootstrap; Or the first mathematically rigorous bounds on the 3d Ising CFT critical exponents | [link](https://arxiv.org/abs/2610.20701) |
+| 2026-10-15 | complexity | 0 | Partial Localization and Multifractality in Heterogeneous Population Growth with Resetting | [link](https://arxiv.org/abs/2610.22038) |
+| 2026-10-15 | complexity | 0 | Diffusion-Induced Stabilization of Nonreciprocal Wealth Dynamics | [link](https://arxiv.org/abs/2610.21861) |
+| 2026-10-15 | complexity | 0 | From Action Principle to Stochastic Thermodynamics of Elastic and Viscous Active Matter | [link](https://arxiv.org/abs/2610.21835) |
+| 2026-10-15 | complexity | 0 | Localization induced by Sinai disorder in mass-exchange models | [link](https://arxiv.org/abs/2610.21777) |
+| 2026-10-15 | complexity | 0 | Operator-Space Entanglement Entropy in Random Fermionic Gaussian Dynamics | [link](https://arxiv.org/abs/2610.21723) |
+| 2026-10-15 | complexity | 0 | Distribution Functions and Moments of Harmonically Trapped Inertial Run-and-Tumble Particles in a Shear-Thickening Medium | [link](https://arxiv.org/abs/2610.21650) |
+| 2026-10-15 | complexity | 0 | Difference between pair creation and anomaly matching: Nontrivial aspects of invertible symmetries and defects in $SU(N)$ models | [link](https://arxiv.org/abs/2610.21478) |
+| 2026-10-15 | info_theory | 0 | Parallel Repetition for Entangled Games via Conditional Relative Entropy | [link](https://arxiv.org/abs/2610.21410) |
+| 2026-10-15 | info_theory | 0 | Superfast Spectral Compressed Sensing with Quadratic Convergence | [link](https://arxiv.org/abs/2610.21068) |
+| 2026-10-14 | complexity | 0 | Fisher information analysis of a Langevin System with Thermal and Athermal Noise | [link](https://arxiv.org/abs/2610.20963) |
+| 2026-10-14 | complexity | 0 | Equality of the Jellium and the Uniform Electron Gas Energies | [link](https://arxiv.org/abs/2610.20910) |
+| 2026-10-14 | complexity | 0 | Casimir Sign Reversal from Finite-Range Bogoliubov Fluctuations | [link](https://arxiv.org/abs/2610.20897) |
+| 2026-10-14 | complexity | 0 | Standard and Bipolar Rectification in Tilted Periodically-Driven Quantum Systems | [link](https://arxiv.org/abs/2610.20765) |
+| 2026-10-14 | complexity | 0 | Ergodic topology sampling toward the continuum with Stochastic Normalizing Flows | [link](https://arxiv.org/abs/2610.20747) |
+| 2026-10-14 | complexity | 0 | Long-lived local coherences at high temperature from frozen domain walls | [link](https://arxiv.org/abs/2610.20724) |
+| 2026-10-14 | complexity | 0 | Surviving readout errors and incomplete postselection in monitored quantum circuits | [link](https://arxiv.org/abs/2610.20712) |
+| 2026-10-14 | complexity | 0 | Quantum Work Statistics from Entanglement-Assisted Invariance | [link](https://arxiv.org/abs/2610.20528) |
