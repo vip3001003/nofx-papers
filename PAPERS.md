@@ -3122,3 +3122,30 @@
 | 2026-10-14 | complexity | 0 | Long-lived local coherences at high temperature from frozen domain walls | [link](https://arxiv.org/abs/2610.20724) |
 | 2026-10-14 | complexity | 0 | Surviving readout errors and incomplete postselection in monitored quantum circuits | [link](https://arxiv.org/abs/2610.20712) |
 | 2026-10-14 | complexity | 0 | Quantum Work Statistics from Entanglement-Assisted Invariance | [link](https://arxiv.org/abs/2610.20528) |
+| 2026-10-16 | complexity | 3 | Emergence of Correlations Between Records and Maximum in Random Time Series | [link](https://arxiv.org/abs/2610.23217) |
+| 2026-10-16 | crypto | 2 | Market Efficiency in a Changing Asset Population: Mobility, Entry, and Survival over Cryptocurrency's Full History | [link](https://arxiv.org/abs/2610.23283) |
+| 2026-10-16 | crypto | 2 | Basis-Only Funding Is Not Dividend Fair: Settlement Design in Crypto Equity Perpetuals | [link](https://arxiv.org/abs/2610.22839) |
+| 2026-10-16 | complexity | 2 | Anti-synchronized collective rotation in magnetic colloidal particles under rotating magnetic fields | [link](https://arxiv.org/abs/2610.23784) |
+| 2026-10-16 | complexity | 2 | Mesoscopic learning dynamics of extensive-width neural networks | [link](https://arxiv.org/abs/2610.23779) |
+| 2026-10-16 | complexity | 2 | Fundamental Bounds on the Oscillation Efficiency of Markov Networks | [link](https://arxiv.org/abs/2610.23310) |
+| 2026-10-16 | complexity | 2 | Inducing Extraordinary-log Criticality through a Quantum Spin Chain | [link](https://arxiv.org/abs/2610.23221) |
+| 2026-10-16 | complexity | 2 | Pressure-Dependent hcp-to-fcc Phase Transition Path Derived from Exact Lattice Summations over Inverse Power Law Potentials | [link](https://arxiv.org/abs/2610.22855) |
+| 2026-10-15 | complexity | 2 | Stability of Quantum LDPC States under Local Pauli Noise | [link](https://arxiv.org/abs/2610.22357) |
+| 2026-10-14 | bio_inspired | 2 | When the implementation matters more than the algorithm: NSGA-II and other multi-objective optimizers in engineering design tools | [link](https://arxiv.org/abs/2610.22397) |
+| 2026-10-16 | complexity | 1 | Scaling of entanglement with distance between subsystems: detection of phase transitions in the $t'$-$π$-flux model | [link](https://arxiv.org/abs/2610.23770) |
+| 2026-10-16 | complexity | 1 | Electrochemical Molecular Dynamics within the Finite-Field Framework | [link](https://arxiv.org/abs/2610.23291) |
+| 2026-10-16 | complexity | 0 | Sampling the XY model with an attention-based neural network | [link](https://arxiv.org/abs/2610.23783) |
+| 2026-10-16 | complexity | 0 | Transport and thermalization under noncommuting localized constraints | [link](https://arxiv.org/abs/2610.23781) |
+| 2026-10-16 | complexity | 0 | Regularization of stochastic fluid dynamics and non-perturbative renormalization of the shear viscosity of incompressible fluids | [link](https://arxiv.org/abs/2610.23442) |
+| 2026-10-16 | complexity | 0 | Nonergodicity from Hilbert-Subspace Cloning | [link](https://arxiv.org/abs/2610.23105) |
+| 2026-10-16 | complexity | 0 | Diffusion-controlled reactions with time-dependent surface reactivity | [link](https://arxiv.org/abs/2610.23017) |
+| 2026-10-16 | complexity | 0 | Parity-dependent sublattice structure of local $2\times2$ correlations in domino tilings of the Aztec diamond | [link](https://arxiv.org/abs/2610.22974) |
+| 2026-10-16 | complexity | 0 | Asymmetric multiscalar fixed points from equiangular tight frames | [link](https://arxiv.org/abs/2610.22923) |
+| 2026-10-16 | network | 0 | Stationary analysis of adaptive aspiration dynamics in graph-structured games | [link](https://arxiv.org/abs/2610.23418) |
+| 2026-10-16 | network | 0 | Validating LLM-generated political networks with survey-reported partisan exposure | [link](https://arxiv.org/abs/2610.23199) |
+| 2026-10-16 | info_theory | 0 | A Class of Rényi-based Concentration Metrics for Kolmogorov-Arnold Geometry in Multilayer Perceptrons | [link](https://arxiv.org/abs/2610.23267) |
+| 2026-10-16 | bio_inspired | 0 | Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence | [link](https://arxiv.org/abs/2610.23161) |
+| 2026-10-15 | complexity | 0 | Bulk-Defect Correspondence in Algebraic Classical Spin Liquids | [link](https://arxiv.org/abs/2610.22585) |
+| 2026-10-15 | complexity | 0 | A thermally and perturbatively stable classical spin model in two dimensions | [link](https://arxiv.org/abs/2610.22548) |
+| 2026-10-15 | complexity | 0 | Entropy Production and Thermalization in Heavy-Quark Langevin Dynamics | [link](https://arxiv.org/abs/2610.22501) |
+| 2026-10-14 | info_theory | 0 | Aligning Information Theory and Formal Verification: A Lean Formalization of Rate-Distortion Theory | [link](https://arxiv.org/abs/2610.22404) |
