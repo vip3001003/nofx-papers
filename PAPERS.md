@@ -3149,3 +3149,50 @@
 | 2026-10-15 | complexity | 0 | A thermally and perturbatively stable classical spin model in two dimensions | [link](https://arxiv.org/abs/2610.22548) |
 | 2026-10-15 | complexity | 0 | Entropy Production and Thermalization in Heavy-Quark Langevin Dynamics | [link](https://arxiv.org/abs/2610.22501) |
 | 2026-10-14 | info_theory | 0 | Aligning Information Theory and Formal Verification: A Lean Formalization of Rate-Distortion Theory | [link](https://arxiv.org/abs/2610.22404) |
+| 2026-10-17 | network | 4 | A general mechanism for collective foraging: percolating recruitment cascades coupled to a maximum-entropy | [link](https://arxiv.org/abs/2610.24865) |
+| 2026-10-19 | complexity | 3 | Systemic collapse emergence from climate-induced perturbations in transportation networks | [link](https://arxiv.org/abs/2610.26428) |
+| 2026-10-19 | complexity | 3 | An infinite sequence of higher order Ehrenfest transitions in a one-dimensional crystal | [link](https://arxiv.org/abs/2610.26371) |
+| 2026-10-19 | complexity | 3 | Universal Quantum Criticality from a Gaussian Variational Manifold | [link](https://arxiv.org/abs/2610.26246) |
+| 2026-10-19 | bio_inspired | 3 | Hybrid metaheuristics for architectural design optimization under small evaluation and wall-clock budgets | [link](https://arxiv.org/abs/2610.26202) |
+| 2026-10-18 | volume | 3 | Probabilistic Limit Order Book Forecasting with Conditional Diffusion Models | [link](https://arxiv.org/abs/2610.25495) |
+| 2026-10-19 | ml | 2 | Cooperative Multi-Agent Reinforcement Learning for Market Making on Prediction-Market Order Books | [link](https://arxiv.org/abs/2610.26789) |
+| 2026-10-19 | complexity | 2 | Nucleation-type criticality with infinite number of free-energy minima beyond mean-field theory | [link](https://arxiv.org/abs/2610.26638) |
+| 2026-10-19 | complexity | 2 | Quantum control as renormalization group flow | [link](https://arxiv.org/abs/2610.26154) |
+| 2026-10-19 | complexity | 2 | Motility-Induced Phase Separation of Run-and-Tumble Particles under Local Stochastic Resetting | [link](https://arxiv.org/abs/2610.26149) |
+| 2026-10-19 | complexity | 2 | Generalised Fluctuating Dynamic Density-Functional Theory: Derivation and Applications | [link](https://arxiv.org/abs/2610.26129) |
+| 2026-10-19 | complexity | 2 | Phase transitions of the antiferromagnetic $J_1$-$J_2$-$J_3$ Ising model on the cubic lattice | [link](https://arxiv.org/abs/2610.25884) |
+| 2026-10-17 | risk | 2 | Rachev-Ratio Portfolio Optimization with TimeGAN Scenarios: Replacement versus Supplementation | [link](https://arxiv.org/abs/2610.24544) |
+| 2026-10-15 | ml | 2 | OrderFlowDiT: Transport-Regularized Diffusion Transformer for Probabilistic Limit-Order Supply Forecasting | [link](https://arxiv.org/abs/2610.22727) |
+| 2026-10-19 | complexity | 1 | On Higher-Form Fracton Hydrodynamics with Momentum Conservation | [link](https://arxiv.org/abs/2610.26862) |
+| 2026-10-19 | complexity | 1 | Field theory guides Monte Carlo in the one-dimensional long-range Ising model | [link](https://arxiv.org/abs/2610.26838) |
+| 2026-10-19 | complexity | 1 | A McLennan formula for equiaccessible steady states | [link](https://arxiv.org/abs/2610.26755) |
+| 2026-10-19 | complexity | 1 | Avalanches and Aging Driven by Parametric Amplification in Kerr Oscillator Networks | [link](https://arxiv.org/abs/2610.26573) |
+| 2026-10-19 | complexity | 1 | Tunable annealing of defects in self-aligning active crystals | [link](https://arxiv.org/abs/2610.26459) |
+| 2026-10-19 | complexity | 1 | Gini coefficient of scientists and universities | [link](https://arxiv.org/abs/2610.26053) |
+| 2026-10-19 | complexity | 1 | The long-range Ising CFT: perturbative and nonperturbative approaches | [link](https://arxiv.org/abs/2610.25940) |
+| 2026-10-18 | info_theory | 1 | A Self-Coupling Gaussian Extremal Inequality for Information-Constrained Optimal Transport with Applications to Rate-Distortion-Perception | [link](https://arxiv.org/abs/2610.25041) |
+| 2026-10-17 | network | 1 | Strategic Origins of Network Structure | [link](https://arxiv.org/abs/2610.24792) |
+| 2026-10-17 | network | 1 | Linear Approximations Provide Rigorous Conditions for Phase Locking in Oscillator Networks and Power Grids | [link](https://arxiv.org/abs/2610.24595) |
+| 2026-10-17 | info_theory | 1 | Information Theory of Random Composition Trees | [link](https://arxiv.org/abs/2610.24788) |
+| 2026-10-19 | complexity | 0 | Boundary-Sensitive Quantum Order on Non-Amenable Lattices | [link](https://arxiv.org/abs/2610.26859) |
+| 2026-10-19 | complexity | 0 | Phase-sensitive quantum-state texture during thermalization of a Dzyaloshinskii-Moriya Heisenberg dimer | [link](https://arxiv.org/abs/2610.26736) |
+| 2026-10-19 | complexity | 0 | Dynamic clustering of active chemotactic Janus particles | [link](https://arxiv.org/abs/2610.26657) |
+| 2026-10-19 | complexity | 0 | Statistical decision theory in thermodynamics | [link](https://arxiv.org/abs/2610.26617) |
+| 2026-10-19 | complexity | 0 | From particles to continuum theories in effective models of self-propelled rods | [link](https://arxiv.org/abs/2610.26593) |
+| 2026-10-19 | complexity | 0 | Phase Diagram of the Two-Dimensional Vicsek Model | [link](https://arxiv.org/abs/2610.26569) |
+| 2026-10-19 | complexity | 0 | Coexistence phase of the two-dimensional Vicsek model | [link](https://arxiv.org/abs/2610.26561) |
+| 2026-10-19 | complexity | 0 | Exact cost of the Euclidean Maximum Traveling Salesman Problem in one dimension | [link](https://arxiv.org/abs/2610.26536) |
+| 2026-10-19 | complexity | 0 | Origins of Faceted Anomalous Scaling | [link](https://arxiv.org/abs/2610.26356) |
+| 2026-10-19 | complexity | 0 | Fate of Arnold tongues and canards in Mobius systems with noise | [link](https://arxiv.org/abs/2610.26354) |
+| 2026-10-19 | complexity | 0 | High-order resonances and emergent coherent dynamics in interacting Stark chains | [link](https://arxiv.org/abs/2610.26328) |
+| 2026-10-19 | complexity | 0 | Poisson-shot-noise induced escape dynamics of a passive particle and a dimer | [link](https://arxiv.org/abs/2610.26316) |
+| 2026-10-19 | complexity | 0 | The resource cost of cooperative invasion | [link](https://arxiv.org/abs/2610.26235) |
+| 2026-10-19 | complexity | 0 | Chirality destroys oriented active solids | [link](https://arxiv.org/abs/2610.25953) |
+| 2026-10-19 | complexity | 0 | Effect of chirality on active elastomers and solids in three dimensions | [link](https://arxiv.org/abs/2610.25945) |
+| 2026-10-19 | network | 0 | Constrained modularity maximization in complex networks via branch-and-price | [link](https://arxiv.org/abs/2610.26562) |
+| 2026-10-19 | info_theory | 0 | The binomial distribution maximises entropy among sums of negatively related indicators with fixed mean and support | [link](https://arxiv.org/abs/2610.26543) |
+| 2026-10-19 | info_theory | 0 | On the Adaptive Covering Complexity of Strings: Unifying Relative and Self-Referential Compression | [link](https://arxiv.org/abs/2610.26021) |
+| 2026-10-18 | info_theory | 0 | From Formulation to Articulation: Considerations for AI-Assisted Research in Information Theory | [link](https://arxiv.org/abs/2610.25490) |
+| 2026-10-15 | bio_inspired | 0 | IWOO: Wave Optics Optimizer Improved with Hybrid Strategies for Numerical Optimization and Engineering Applications | [link](https://arxiv.org/abs/2610.23994) |
+| 2026-10-13 | bio_inspired | 0 | LLM Evolutionary Search Strategies Should be Compared by Tokens | [link](https://arxiv.org/abs/2610.23977) |
+| 2026-10-10 | bio_inspired | 0 | 2-Adic Tree Embeddings: A Modeling and Optimization Framework for Computational Phylogenetics | [link](https://arxiv.org/abs/2610.23963) |
