@@ -3196,3 +3196,46 @@
 | 2026-10-15 | bio_inspired | 0 | IWOO: Wave Optics Optimizer Improved with Hybrid Strategies for Numerical Optimization and Engineering Applications | [link](https://arxiv.org/abs/2610.23994) |
 | 2026-10-13 | bio_inspired | 0 | LLM Evolutionary Search Strategies Should be Compared by Tokens | [link](https://arxiv.org/abs/2610.23977) |
 | 2026-10-10 | bio_inspired | 0 | 2-Adic Tree Embeddings: A Modeling and Optimization Framework for Computational Phylogenetics | [link](https://arxiv.org/abs/2610.23963) |
+| 2026-10-20 | risk | 12 | Market Regime-Based Multi-Asset Portfolio Optimization Using Nested Clustered Optimization for Tactical Asset Allocation | [link](https://arxiv.org/abs/2610.27751) |
+| 2026-10-19 | volume | 4 | LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models | [link](https://arxiv.org/abs/2610.27100) |
+| 2026-10-21 | complexity | 3 | Stochastic resonance in time-delayed bistable active particles | [link](https://arxiv.org/abs/2610.29601) |
+| 2026-10-20 | volume | 3 | Understanding the Inner Workings of a State-Space Foundation Model for Limit Order Books | [link](https://arxiv.org/abs/2610.28753) |
+| 2026-10-20 | complexity | 3 | Initial-State-Dictated Dynamical Universality Classes in Quantum Criticality | [link](https://arxiv.org/abs/2610.28365) |
+| 2026-10-20 | complexity | 3 | Floquet ground state order | [link](https://arxiv.org/abs/2610.28336) |
+| 2026-10-21 | complexity | 2 | Hydrodynamic description of correlation matrix eigenvalues in a finite temperature expanding free fermionic gas | [link](https://arxiv.org/abs/2610.30062) |
+| 2026-10-21 | network | 2 | Condensation and optimal targeting of repeated forcing in heterogeneous networks | [link](https://arxiv.org/abs/2610.29714) |
+| 2026-10-20 | complexity | 2 | Characterizing supersolid phase transitions in trapped quantum gases with tilted dipoles at finite temperature | [link](https://arxiv.org/abs/2610.28621) |
+| 2026-10-20 | complexity | 2 | Microscopically informed self-consistent multi-resolvent closure for dense many-body spectra | [link](https://arxiv.org/abs/2610.28031) |
+| 2026-10-20 | complexity | 2 | Thermodynamic Stability of Classical $\mathbb Z_2$ Lattice Gauge Models | [link](https://arxiv.org/abs/2610.27938) |
+| 2026-10-20 | complexity | 2 | Classical-to-Quantum Transition in Blackbody Radiation Thermodynamics: Planck's Law without Statistical Assumptions | [link](https://arxiv.org/abs/2610.27858) |
+| 2026-10-20 | complexity | 2 | Symmetry Enriched Criticality from Kennedy Tasaki Self-Duality | [link](https://arxiv.org/abs/2610.27666) |
+| 2026-10-20 | bio_inspired | 2 | Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification | [link](https://arxiv.org/abs/2610.27703) |
+| 2026-10-19 | complexity | 2 | Generation of non-Maxwell-Boltzmann energy distributions during thermalization of interacting baths | [link](https://arxiv.org/abs/2610.27369) |
+| 2026-10-19 | complexity | 2 | Large Deviations in Stochastic Dynamics: A Hamiltonian Perspective | [link](https://arxiv.org/abs/2610.27179) |
+| 2026-10-19 | complexity | 2 | Exact spectral integrability of a finite-channel random Schrödinger operator: from fermionization of the Dyson--Riccati gas to Kontsevich integral | [link](https://arxiv.org/abs/2610.27154) |
+| 2026-10-21 | complexity | 1 | Morphological instability and negative geometric friction from contact with active and driven particles | [link](https://arxiv.org/abs/2610.29902) |
+| 2026-10-21 | complexity | 1 | Energy-fed commitment: a minimal model of random selection followed by reinforcement | [link](https://arxiv.org/abs/2610.29670) |
+| 2026-10-21 | complexity | 1 | Mechanism of delayed elastic state absorption versus fatigue failure in cyclic shear of amorphous materials | [link](https://arxiv.org/abs/2610.29615) |
+| 2026-10-21 | complexity | 1 | Splitting Probability in Monitored Quantum Dynamics | [link](https://arxiv.org/abs/2610.29547) |
+| 2026-10-21 | complexity | 1 | Phase Transitions in Learning Driven by Extremal Data | [link](https://arxiv.org/abs/2610.29531) |
+| 2026-10-21 | complexity | 0 | The role of locality and weight sharing in convolutional neural networks | [link](https://arxiv.org/abs/2610.30118) |
+| 2026-10-21 | complexity | 0 | Stockmayer Fluid with a Shifted Dipole. III. Ion Solvation | [link](https://arxiv.org/abs/2610.30094) |
+| 2026-10-21 | complexity | 0 | Generalized Coordinate Bethe Ansatz and Quantum Integrability of the Time-Dependent Massive Thirring Model | [link](https://arxiv.org/abs/2610.29998) |
+| 2026-10-21 | complexity | 0 | Closing of density wake in concentrated colloidal suspensions: two regimes governed by compressibility, friction, and self-propulsion | [link](https://arxiv.org/abs/2610.29801) |
+| 2026-10-21 | complexity | 0 | Algebraic criteria for complete relaxation in autonomous and periodically driven open quantum systems | [link](https://arxiv.org/abs/2610.29084) |
+| 2026-10-21 | network | 0 | Urban climate regressions require representative monitoring networks | [link](https://arxiv.org/abs/2610.29423) |
+| 2026-10-21 | bio_inspired | 0 | HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning | [link](https://arxiv.org/abs/2610.30042) |
+| 2026-10-20 | complexity | 0 | Methods for Deriving Nonlinear Kinetic Equations from the Dynamics of Quantum Systems | [link](https://arxiv.org/abs/2610.28846) |
+| 2026-10-20 | complexity | 0 | Cumulative locality governs collective quantum charging | [link](https://arxiv.org/abs/2610.28614) |
+| 2026-10-20 | complexity | 0 | Local-Channel Stability of Classical $\mathbb Z_2$ Lattice Gauge Models | [link](https://arxiv.org/abs/2610.27939) |
+| 2026-10-20 | complexity | 0 | Monodromy line defects on the fuzzy sphere | [link](https://arxiv.org/abs/2610.27926) |
+| 2026-10-20 | complexity | 0 | Moments of Random Permanents and Hafnians: A Replica Approach | [link](https://arxiv.org/abs/2610.27872) |
+| 2026-10-20 | complexity | 0 | A Transport-Information Framework for Continuous-Fiber-Aligned Coarse-Graining Representation Sets | [link](https://arxiv.org/abs/2610.27811) |
+| 2026-10-20 | info_theory | 0 | Optimal Rényi and Logarithmic Additive Functional Entropy Estimation | [link](https://arxiv.org/abs/2610.28999) |
+| 2026-10-20 | info_theory | 0 | From Common Information to Canonical Correlation Analysis and Beyond: Bridging Information Theory, Signal Processing, and Machine Learning | [link](https://arxiv.org/abs/2610.28978) |
+| 2026-10-20 | info_theory | 0 | Birthday Estimators Are Uniformly Optimal for Renyi Entropy | [link](https://arxiv.org/abs/2610.28581) |
+| 2026-10-19 | complexity | 0 | Dynamics of thermalization in classical three-dimensional many-body systems: Non-Maxwellian distributions and the role of anisotropic trapping | [link](https://arxiv.org/abs/2610.27368) |
+| 2026-10-19 | complexity | 0 | Bilocal flows and universality with field-dependent regulators | [link](https://arxiv.org/abs/2610.27063) |
+| 2026-10-19 | network | 0 | DeGroot Dynamics on Multiplex Networks with Directed and Acyclic Interlayer Connectivities | [link](https://arxiv.org/abs/2610.27198) |
+| 2026-10-19 | network | 0 | A Geometric Principle for Path Selection in Directed Acyclic Graphs | [link](https://arxiv.org/abs/2610.27025) |
+| 2026-10-18 | network | 0 | Anchored Exploration in Product Evolution: A Phylogenetic Network Framework for Semiconductor Designs | [link](https://arxiv.org/abs/2610.26973) |
