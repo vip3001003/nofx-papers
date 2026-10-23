@@ -3239,3 +3239,27 @@
 | 2026-10-19 | network | 0 | DeGroot Dynamics on Multiplex Networks with Directed and Acyclic Interlayer Connectivities | [link](https://arxiv.org/abs/2610.27198) |
 | 2026-10-19 | network | 0 | A Geometric Principle for Path Selection in Directed Acyclic Graphs | [link](https://arxiv.org/abs/2610.27025) |
 | 2026-10-18 | network | 0 | Anchored Exploration in Product Evolution: A Phylogenetic Network Framework for Semiconductor Designs | [link](https://arxiv.org/abs/2610.26973) |
+| 2026-10-22 | complexity | 3 | Site and bond percolation thresholds of all $k$-uniform tilings with $k\le 10$ | [link](https://arxiv.org/abs/2610.31190) |
+| 2026-10-21 | complexity | 3 | Discrete time liquids | [link](https://arxiv.org/abs/2610.30266) |
+| 2026-10-22 | complexity | 2 | Probing quasiperiodic spectral accessibility with a finite-rate quantum Otto cycle | [link](https://arxiv.org/abs/2610.30555) |
+| 2026-10-22 | network | 2 | Core-periphery structure induces double phase transitions in information cascades | [link](https://arxiv.org/abs/2610.30745) |
+| 2026-10-22 | risk | 1 | Directionally Correct Views in Portfolio Optimization | [link](https://arxiv.org/abs/2610.31074) |
+| 2026-10-22 | complexity | 1 | Monodromy Defects of 3D Wilson-Fisher Criticality on the Fuzzy Sphere | [link](https://arxiv.org/abs/2610.31269) |
+| 2026-10-22 | complexity | 1 | Active phase separation from concentration-dependent diffusion in chemical networks | [link](https://arxiv.org/abs/2610.30958) |
+| 2026-10-22 | network | 1 | Network topology shapes consensus and vulnerability in LLM populations | [link](https://arxiv.org/abs/2610.31165) |
+| 2026-10-22 | bio_inspired | 1 | AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments | [link](https://arxiv.org/abs/2610.31326) |
+| 2026-10-22 | complexity | 0 | Mixed State Deep Thermalization under Generic Quantum Errors | [link](https://arxiv.org/abs/2610.31580) |
+| 2026-10-22 | complexity | 0 | Sign-problem-free Bosonic Auxiliary Field Quantum Monte Carlo | [link](https://arxiv.org/abs/2610.31541) |
+| 2026-10-22 | complexity | 0 | Orbital-coherence memory in electrical transport and its self-consistent Maxwell response | [link](https://arxiv.org/abs/2610.31390) |
+| 2026-10-22 | complexity | 0 | Graph-Recurrent Learning of Emergent Collective Dynamics | [link](https://arxiv.org/abs/2610.31350) |
+| 2026-10-22 | complexity | 0 | Quantum Fokker-Planck solvers as trainable generative models | [link](https://arxiv.org/abs/2610.31330) |
+| 2026-10-22 | complexity | 0 | Atomic limits of empirical measures of interacting particle systems with self-duality | [link](https://arxiv.org/abs/2610.31319) |
+| 2026-10-22 | complexity | 0 | Optimal Search Strategies under Finite Resource Constraints: The Role of Environmental Memory and Directional Information in Informed and Blind Protocols | [link](https://arxiv.org/abs/2610.31244) |
+| 2026-10-22 | complexity | 0 | Entropy-production cost limits hierarchical decision-making in homing pigeon flocks | [link](https://arxiv.org/abs/2610.31126) |
+| 2026-10-22 | complexity | 0 | Learning Cole-Hopf Coordinates for Stochastic Growth Dynamics: the KPZ class | [link](https://arxiv.org/abs/2610.30919) |
+| 2026-10-22 | complexity | 0 | Time-reversal-based quantum metrology in a central-spin architecture: from SATIN to butterfly echo | [link](https://arxiv.org/abs/2610.30686) |
+| 2026-10-22 | complexity | 0 | Hierarchical Reduction of Invariant Subspaces: From Fragmentation to Many-Body Scars | [link](https://arxiv.org/abs/2610.30597) |
+| 2026-10-22 | network | 0 | Spatial scaling of network length and shared-node density in bilayer distribution grids | [link](https://arxiv.org/abs/2610.31053) |
+| 2026-10-21 | complexity | 0 | Memory--Transport Competition in Physical Two-Bath Quantum Reset Dynamics | [link](https://arxiv.org/abs/2610.30457) |
+| 2026-10-21 | complexity | 0 | Non-adiabatic Optimisation via Localisation-Delocalisation Transitions | [link](https://arxiv.org/abs/2610.30301) |
+| 2026-10-21 | complexity | 0 | Reentrant $d=2+1$ Superfluidity at High Temperature | [link](https://arxiv.org/abs/2610.30236) |
