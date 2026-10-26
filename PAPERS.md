@@ -3263,3 +3263,18 @@
 | 2026-10-21 | complexity | 0 | Memory--Transport Competition in Physical Two-Bath Quantum Reset Dynamics | [link](https://arxiv.org/abs/2610.30457) |
 | 2026-10-21 | complexity | 0 | Non-adiabatic Optimisation via Localisation-Delocalisation Transitions | [link](https://arxiv.org/abs/2610.30301) |
 | 2026-10-21 | complexity | 0 | Reentrant $d=2+1$ Superfluidity at High Temperature | [link](https://arxiv.org/abs/2610.30236) |
+| 2026-10-23 | complexity | 5 | Entanglement Asymmetry and Asymmetry Contour under Boundary Symmetry Breaking | [link](https://arxiv.org/abs/2610.32733) |
+| 2026-10-23 | complexity | 4 | Banded Chaos and Time-Semicrystalline Order | [link](https://arxiv.org/abs/2610.32297) |
+| 2026-10-23 | complexity | 3 | First- and Second-Order Electron Position Correlators Reveal Topological Phase Transitions | [link](https://arxiv.org/abs/2610.32743) |
+| 2026-10-23 | complexity | 2 | Extended Hydrodynamics of Planar Heisenberg Ferromagnetic Systems | [link](https://arxiv.org/abs/2610.32929) |
+| 2026-10-23 | complexity | 2 | Non-singlets and the phase diagram of Matrix Quantum Mechanics | [link](https://arxiv.org/abs/2610.32856) |
+| 2026-10-23 | network | 2 | Conviction versus Conformity in a Random-Field Ising Electorate: Antagonistic Ties, Network Density, and a Parameter-Free Prediction | [link](https://arxiv.org/abs/2610.32021) |
+| 2026-10-23 | info_theory | 2 | Variance of relative entropy over random states | [link](https://arxiv.org/abs/2610.32899) |
+| 2026-10-23 | complexity | 1 | Measurement speed limit and Cramér-Rao bound for time-averaged estimators | [link](https://arxiv.org/abs/2610.32252) |
+| 2026-10-23 | complexity | 0 | Generalization properties of the token perceptron: the role of embedding and vocabulary | [link](https://arxiv.org/abs/2610.32788) |
+| 2026-10-23 | complexity | 0 | Stochastic and quantum autonomous information machine: efficiency fluctuations, precision and optimization | [link](https://arxiv.org/abs/2610.32683) |
+| 2026-10-23 | complexity | 0 | Multi-scale patterns arising from competing chemotactic interactions | [link](https://arxiv.org/abs/2610.32591) |
+| 2026-10-23 | network | 0 | The Butterfly Defects: Tracing Cooperation in LLM Agent Networks | [link](https://arxiv.org/abs/2610.32726) |
+| 2026-10-23 | network | 0 | The Effects of Generative AI on Collaboration and Social Networks Among Knowledge Workers | [link](https://arxiv.org/abs/2610.32461) |
+| 2026-10-23 | info_theory | 0 | Logarithmic Separation between LZ77 and LZ-End and Grammar Compression | [link](https://arxiv.org/abs/2610.32818) |
+| 2026-10-21 | info_theory | 0 | Spatiotemporal Dynamics of Conway's Game of Life in the Entropy--Complexity Plane | [link](https://arxiv.org/abs/2610.31708) |
