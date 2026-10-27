@@ -3278,3 +3278,45 @@
 | 2026-10-23 | network | 0 | The Effects of Generative AI on Collaboration and Social Networks Among Knowledge Workers | [link](https://arxiv.org/abs/2610.32461) |
 | 2026-10-23 | info_theory | 0 | Logarithmic Separation between LZ77 and LZ-End and Grammar Compression | [link](https://arxiv.org/abs/2610.32818) |
 | 2026-10-21 | info_theory | 0 | Spatiotemporal Dynamics of Conway's Game of Life in the Entropy--Complexity Plane | [link](https://arxiv.org/abs/2610.31708) |
+| 2026-10-26 | complexity | 5 | Learning by Confusion Locates a Parametrization-Dependent Fisher Information Maximum | [link](https://arxiv.org/abs/2610.34769) |
+| 2026-10-26 | crypto | 4 | Weekend Crypto Volatility and Monday Market Risk | [link](https://arxiv.org/abs/2610.35702) |
+| 2026-10-26 | bio_inspired | 4 | Understanding the Co-evolutionary Solution Exchange of the MOEA/D: Already the Smallest Communication Radius Gives the Best-Possible Speed-Up | [link](https://arxiv.org/abs/2610.35373) |
+| 2026-10-26 | volume | 3 | Do Round Numbers Hold Prices? Occupation Densities and Depth-Conditioned Hazards in the Limit Order Book | [link](https://arxiv.org/abs/2610.34787) |
+| 2026-10-26 | info_theory | 3 | Revisiting entropy and entropy-related magnitudes of a symbolic sequence and their estimation | [link](https://arxiv.org/abs/2610.35121) |
+| 2026-10-24 | complexity | 3 | Interplay Between Network Heterogeneity and Activation Thresholds in Global Cascades | [link](https://arxiv.org/abs/2610.33927) |
+| 2026-10-24 | complexity | 3 | Distributional statistics of nonequilibrium | [link](https://arxiv.org/abs/2610.33383) |
+| 2026-10-26 | complexity | 2 | Quantum state revivals, time quasicrystals, and entanglement steering in a Fibonacci-driven central-spin model | [link](https://arxiv.org/abs/2610.35555) |
+| 2026-10-26 | bio_inspired | 2 | An Interactive Evolutionary Multiobjective Optimization Algorithm Based on Interpretable Active Preference Learning | [link](https://arxiv.org/abs/2610.35470) |
+| 2026-10-24 | bio_inspired | 2 | Freezing Mechanism and Topology Dependence of Information Flow Structure in Small-Scale Particle Swarm Optimization | [link](https://arxiv.org/abs/2610.33421) |
+| 2026-10-23 | complexity | 2 | Study of localization properties under subsystem periodic driving | [link](https://arxiv.org/abs/2610.33189) |
+| 2026-10-26 | complexity | 1 | Microscopic Derivation of Stochastic Thin-Film Equation and Extensions to Two-Layer and Evaporating Films | [link](https://arxiv.org/abs/2610.35422) |
+| 2026-10-26 | complexity | 1 | Multipartite dynamics beyond bipartite entanglement equilibration | [link](https://arxiv.org/abs/2610.35377) |
+| 2026-10-26 | complexity | 1 | Interaction dependence of the critical correlation length amplitude ratio in anisotropic scalar lattice $φ^4$ theory | [link](https://arxiv.org/abs/2610.35081) |
+| 2026-10-26 | complexity | 1 | Trajectory Functionals in the Thermodynamics of Radiation-Induced Damage in Structural Materials | [link](https://arxiv.org/abs/2610.34983) |
+| 2026-10-26 | bio_inspired | 1 | Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean | [link](https://arxiv.org/abs/2610.35595) |
+| 2026-10-25 | complexity | 1 | Boundary-condition independence of infinite-chain ground states in the $S=1$ $J$-$D$ antiferromagnetic chain | [link](https://arxiv.org/abs/2610.34330) |
+| 2026-10-25 | complexity | 1 | Virtual defect mediated quantum melting in supersolids | [link](https://arxiv.org/abs/2610.34299) |
+| 2026-10-25 | complexity | 1 | Information geometry of continuum limits in lattice field theory: The Gross-Neveu model with Wilson fermions | [link](https://arxiv.org/abs/2610.34277) |
+| 2026-10-25 | bio_inspired | 1 | Edge-Centric Adaptive Neural Activation via Parametric Tanh Functions | [link](https://arxiv.org/abs/2610.34154) |
+| 2026-10-24 | complexity | 1 | Linear statistics in the Coulomb gas: cumulants beyond rotational invariance | [link](https://arxiv.org/abs/2610.33659) |
+| 2026-10-26 | complexity | 0 | Information-thermodynamic principles unveil the response of complex networks to perturbations | [link](https://arxiv.org/abs/2610.35667) |
+| 2026-10-26 | complexity | 0 | Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator | [link](https://arxiv.org/abs/2610.35627) |
+| 2026-10-26 | complexity | 0 | Maximization of nuclear fusion reactivity via optimal energy distributions | [link](https://arxiv.org/abs/2610.35507) |
+| 2026-10-26 | complexity | 0 | Anomalous Mobility Enhancement in Restricted Geometries | [link](https://arxiv.org/abs/2610.35324) |
+| 2026-10-26 | complexity | 0 | External-field-modified entropic exchange in confined quantum systems: static versus time-dependent electric fields | [link](https://arxiv.org/abs/2610.35178) |
+| 2026-10-26 | complexity | 0 | The mathematical journey of spatial reciprocity | [link](https://arxiv.org/abs/2610.35161) |
+| 2026-10-26 | complexity | 0 | Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks | [link](https://arxiv.org/abs/2610.35123) |
+| 2026-10-26 | complexity | 0 | Simplified Parisi Ansatz III: Constructive Cavity Method and Ultrametricity | [link](https://arxiv.org/abs/2610.34710) |
+| 2026-10-26 | complexity | 0 | Reference-state dependence and interface scaling of superfluid response in a two-dimensional crystal | [link](https://arxiv.org/abs/2610.34664) |
+| 2026-10-26 | info_theory | 0 | Semantic Transferability of Generative Rate-Distortion-Perception Systems | [link](https://arxiv.org/abs/2610.34697) |
+| 2026-10-25 | complexity | 0 | Extremal and global-time statistics of sluggish random walks with stochastic resetting | [link](https://arxiv.org/abs/2610.34568) |
+| 2026-10-25 | complexity | 0 | Wave Is All You Need: A Quantum Language Model Based on Fully Connected Quantum Boltzmann Machine | [link](https://arxiv.org/abs/2610.34492) |
+| 2026-10-25 | complexity | 0 | Jensen-Mercer two-sided bounds for entropy production rate | [link](https://arxiv.org/abs/2610.34112) |
+| 2026-10-24 | complexity | 0 | Path space large deviation on a lattice for interacting particle systems | [link](https://arxiv.org/abs/2610.33524) |
+| 2026-10-24 | complexity | 0 | Large spin large deviations for interacting particle systems | [link](https://arxiv.org/abs/2610.33523) |
+| 2026-10-24 | bio_inspired | 0 | Optimal Connectivity of Random Boolean Networks for Reservoir Computing | [link](https://arxiv.org/abs/2610.33498) |
+| 2026-10-23 | complexity | 0 | OpenFerro: a unified framework for mesoscale ferroic dynamics and enhanced sampling | [link](https://arxiv.org/abs/2610.33335) |
+| 2026-10-23 | complexity | 0 | Optimal Search Strategies under Finite Resource Constraints | [link](https://arxiv.org/abs/2610.33316) |
+| 2026-10-23 | complexity | 0 | The Thermodynamic Complexity of Circuits | [link](https://arxiv.org/abs/2610.33193) |
+| 2026-10-17 | bio_inspired | 0 | Organon : From Evolutionary Search to Recursive Self-Improving Agents for Scientific Discovery | [link](https://arxiv.org/abs/2610.33046) |
+| 2026-10-11 | bio_inspired | 0 | Matched Specialization, Different Adaptation: Second-Moment Structure in Shared Representations | [link](https://arxiv.org/abs/2610.15830) |
