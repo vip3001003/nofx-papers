@@ -3320,3 +3320,30 @@
 | 2026-10-23 | complexity | 0 | The Thermodynamic Complexity of Circuits | [link](https://arxiv.org/abs/2610.33193) |
 | 2026-10-17 | bio_inspired | 0 | Organon : From Evolutionary Search to Recursive Self-Improving Agents for Scientific Discovery | [link](https://arxiv.org/abs/2610.33046) |
 | 2026-10-11 | bio_inspired | 0 | Matched Specialization, Different Adaptation: Second-Moment Structure in Shared Representations | [link](https://arxiv.org/abs/2610.15830) |
+| 2026-10-27 | volume | 5 | Optimal Order Placement under a State-Dependent Hawkes Process Limit Order Book model | [link](https://arxiv.org/abs/2610.37324) |
+| 2026-10-26 | complexity | 4 | Universal Scaling of Conditional Mutual Information in Classical Stochastic Dynamics | [link](https://arxiv.org/abs/2610.36058) |
+| 2026-10-26 | complexity | 4 | Typicality of entanglement growth and transport fluctuations in quantum symmetric exclusion processes | [link](https://arxiv.org/abs/2610.36048) |
+| 2026-10-27 | complexity | 3 | Quantum critical scaling in convective active matter | [link](https://arxiv.org/abs/2610.37569) |
+| 2026-10-27 | complexity | 3 | Chaos picture of spin glasses | [link](https://arxiv.org/abs/2610.37426) |
+| 2026-10-27 | complexity | 3 | The Disordered Universe 2025: Statistical Systems Out of Equilibrium | [link](https://arxiv.org/abs/2610.36997) |
+| 2026-10-27 | complexity | 3 | Atom as an Agent: Emergent Order by Collective Predictive Coding | [link](https://arxiv.org/abs/2610.36673) |
+| 2026-10-27 | complexity | 3 | Detailed balance and phase transition in Nash equilibria of mean-field Ising game | [link](https://arxiv.org/abs/2610.36518) |
+| 2026-10-27 | info_theory | 3 | ATEMPO: Amortized Transfer Entropy Model Per-lag Over-Time | [link](https://arxiv.org/abs/2610.36536) |
+| 2026-10-26 | complexity | 2 | Phase Transitions in Mismatched Bayesian Inference for the Ising Model | [link](https://arxiv.org/abs/2610.36041) |
+| 2026-10-27 | complexity | 1 | On-the-fly Estimation of Quantum-Corrected Thermodynamics in LAMMPS | [link](https://arxiv.org/abs/2610.37586) |
+| 2026-10-27 | complexity | 1 | The Disordered Universe 2025: An Intro and a Vision | [link](https://arxiv.org/abs/2610.37160) |
+| 2026-10-27 | complexity | 1 | Quantum Fisher Information Deficit as a Geometric Signature of Strong-to-Weak Spontaneous Symmetry Breaking | [link](https://arxiv.org/abs/2610.37092) |
+| 2026-10-27 | complexity | 1 | Residual dynamics determine dissipation in strongly coupled linear Langevin systems | [link](https://arxiv.org/abs/2610.37030) |
+| 2026-10-27 | complexity | 1 | Stability reversal, activated escape, and mechanical response of negative-mobility particles | [link](https://arxiv.org/abs/2610.36884) |
+| 2026-10-27 | complexity | 1 | Kinetic Sectors and Nonequilibrium Dynamics in the $δ$-Ising Model | [link](https://arxiv.org/abs/2610.36829) |
+| 2026-10-27 | bio_inspired | 1 | Autonomous fixed-wing interception using reinforcement learning | [link](https://arxiv.org/abs/2610.37470) |
+| 2026-10-26 | complexity | 1 | Activity-based temporal hypergraphs: from individual activity to collective social dynamics | [link](https://arxiv.org/abs/2610.36333) |
+| 2026-10-27 | complexity | 0 | Magnetic structures in a model nickelate: Monte Carlo study | [link](https://arxiv.org/abs/2610.37294) |
+| 2026-10-27 | complexity | 0 | Langevin dynamics towards Generalized Gibbs Ensembles | [link](https://arxiv.org/abs/2610.37129) |
+| 2026-10-27 | complexity | 0 | The Disordered Universe 2025: Open Effective Field Theories | [link](https://arxiv.org/abs/2610.36898) |
+| 2026-10-27 | complexity | 0 | Tribocharging of Granular Materials Dictated by Geometric and Thermoelectric Effects | [link](https://arxiv.org/abs/2610.36757) |
+| 2026-10-27 | complexity | 0 | Constructive Cavity Method for Ising Restricted and Deep Boltzmann Machines with Gaussian Couplings | [link](https://arxiv.org/abs/2610.36505) |
+| 2026-10-27 | bio_inspired | 0 | GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization | [link](https://arxiv.org/abs/2610.37590) |
+| 2026-10-26 | complexity | 0 | Thermodynamic characterization of message-passing: Framework and initial study | [link](https://arxiv.org/abs/2610.36348) |
+| 2026-10-26 | complexity | 0 | Ratchet Effects for Swarmalators on Asymmetric Substrates | [link](https://arxiv.org/abs/2610.36318) |
+| 2026-10-26 | complexity | 0 | Ensemble-dependent condensate statistics and correlations in an ideal Bose gas | [link](https://arxiv.org/abs/2610.36118) |
