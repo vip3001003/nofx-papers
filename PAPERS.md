@@ -3347,3 +3347,42 @@
 | 2026-10-26 | complexity | 0 | Thermodynamic characterization of message-passing: Framework and initial study | [link](https://arxiv.org/abs/2610.36348) |
 | 2026-10-26 | complexity | 0 | Ratchet Effects for Swarmalators on Asymmetric Substrates | [link](https://arxiv.org/abs/2610.36318) |
 | 2026-10-26 | complexity | 0 | Ensemble-dependent condensate statistics and correlations in an ideal Bose gas | [link](https://arxiv.org/abs/2610.36118) |
+| 2026-10-29 | crypto | 6 | Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns | [link](https://arxiv.org/abs/2610.39205) |
+| 2026-10-29 | complexity | 4 | Algebraic strong-to-weak symmetry breaking and partial decodability in the surface code | [link](https://arxiv.org/abs/2610.40567) |
+| 2026-10-29 | complexity | 3 | Multi-excited random walks on general trees | [link](https://arxiv.org/abs/2610.40084) |
+| 2026-10-29 | complexity | 3 | Temporal Correlations and Optimal Feedback Control of an Active Information Engine | [link](https://arxiv.org/abs/2610.39632) |
+| 2026-10-29 | complexity | 2 | Renormalization for Robust Memory without Synchronization | [link](https://arxiv.org/abs/2610.40651) |
+| 2026-10-29 | complexity | 2 | Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits | [link](https://arxiv.org/abs/2610.40638) |
+| 2026-10-29 | complexity | 2 | Quasi-Phases of Quantum Matter | [link](https://arxiv.org/abs/2610.40526) |
+| 2026-10-29 | complexity | 2 | Thermodynamic Crossovers in Supercritical Matter: One, No One, and One Hundred Thousand | [link](https://arxiv.org/abs/2610.39986) |
+| 2026-10-29 | complexity | 2 | Maximum-Entropy Ensemble of Quantum Subsystems with a Fixed Average State | [link](https://arxiv.org/abs/2610.39712) |
+| 2026-10-29 | bio_inspired | 2 | HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization | [link](https://arxiv.org/abs/2610.40023) |
+| 2026-10-27 | info_theory | 2 | A Poisson Transition and Bias Law for KSG Mutual-Information Estimation | [link](https://arxiv.org/abs/2610.37941) |
+| 2026-10-29 | complexity | 1 | Teleported free energy simulations | [link](https://arxiv.org/abs/2610.40428) |
+| 2026-10-29 | complexity | 1 | Seeding and Amplification of Chaos in Long-Range Interacting Spin Chains | [link](https://arxiv.org/abs/2610.40417) |
+| 2026-10-29 | complexity | 1 | Adiabatic Variational Principle: Born-Oppenheimer Theory for Emergent Electronic-Order Dynamics | [link](https://arxiv.org/abs/2610.40117) |
+| 2026-10-29 | complexity | 1 | Nonequilibrium statistical thermodynamics of a small quantum system coupled to quantum reservoirs | [link](https://arxiv.org/abs/2610.39973) |
+| 2026-10-29 | complexity | 1 | Ensemble-dependent effect of disorder on multicritical points in a system with long-range interactions | [link](https://arxiv.org/abs/2610.39929) |
+| 2026-10-29 | complexity | 1 | Two-dimensional binary Lennard-Jones mixtures with ECMC | [link](https://arxiv.org/abs/2610.39793) |
+| 2026-10-29 | complexity | 1 | Fluctuation-dissipation relation in branching particle systems | [link](https://arxiv.org/abs/2610.39624) |
+| 2026-10-29 | bio_inspired | 1 | Dynamic Powergrid Optimization with FPGA-based Neuromorphic Higher-order Ising Machines | [link](https://arxiv.org/abs/2610.40522) |
+| 2026-10-29 | complexity | 0 | Locality in Dissipative Ground-State Preparation | [link](https://arxiv.org/abs/2610.40628) |
+| 2026-10-29 | complexity | 0 | Exceptional Points as Witnesses of Non-Gaussian Noise | [link](https://arxiv.org/abs/2610.40612) |
+| 2026-10-29 | complexity | 0 | Non-Gaussian transport in tempered fractional Laplace motion | [link](https://arxiv.org/abs/2610.40113) |
+| 2026-10-29 | complexity | 0 | The coupled spread of information and potential-driven motion in evacuating agent populations | [link](https://arxiv.org/abs/2610.40081) |
+| 2026-10-29 | complexity | 0 | Dissipative controller as a hidden source of errors in quantum gates | [link](https://arxiv.org/abs/2610.40072) |
+| 2026-10-29 | complexity | 0 | Monte Carlo simulation of mixed spin-orbit ordering | [link](https://arxiv.org/abs/2610.39943) |
+| 2026-10-29 | complexity | 0 | High-temperature expansion of the inverse-square Ising chain in a magnetic field: exact coefficients and finite-size reconstruction | [link](https://arxiv.org/abs/2610.39815) |
+| 2026-10-29 | complexity | 0 | Fractal dimensions of paths on three-dimensional random-walk traces | [link](https://arxiv.org/abs/2610.39612) |
+| 2026-10-29 | complexity | 0 | Diffusion models for the $O(3)$ nonlinear sigma model | [link](https://arxiv.org/abs/2610.39568) |
+| 2026-10-29 | complexity | 0 | Itô versus Stratonovich for shot noise with state-dependent amplitude: why the answer is Marcus | [link](https://arxiv.org/abs/2610.39511) |
+| 2026-10-29 | complexity | 0 | Hop rates of H and D on Pt(111) at finite coverage: the memory equation and the collective friction | [link](https://arxiv.org/abs/2610.39436) |
+| 2026-10-29 | complexity | 0 | A Zoo of Fermionic Relative Rényi Negativities in the Sachdev-Ye-Kitaev Models | [link](https://arxiv.org/abs/2610.39349) |
+| 2026-10-29 | complexity | 0 | Ten-loop fixed-dimension renormalization-group functions of the three-dimensional O(N) model from distributed GPU-accelerated parametric integration | [link](https://arxiv.org/abs/2610.39307) |
+| 2026-10-29 | complexity | 0 | The Constructive Cavity Method for the Ising Perceptron | [link](https://arxiv.org/abs/2610.39141) |
+| 2026-10-29 | complexity | 0 | Two faces of symmetry match in gear-like coupled rotary motors | [link](https://arxiv.org/abs/2610.39121) |
+| 2026-10-29 | network | 0 | Generalized Discrete Fractal Dimensions of Graph Families | [link](https://arxiv.org/abs/2610.39187) |
+| 2026-10-29 | info_theory | 0 | Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy | [link](https://arxiv.org/abs/2610.39196) |
+| 2026-10-29 | bio_inspired | 0 | Diagnosing Optimizer-Landscape Interaction via Representation in Subset Selection Multitasking: Evidence from Piano Fingering | [link](https://arxiv.org/abs/2610.39779) |
+| 2026-10-28 | info_theory | 0 | Generative Rate-Distortion-Perception Theory on Riemannian Manifolds | [link](https://arxiv.org/abs/2610.39024) |
+| 2026-10-28 | info_theory | 0 | Dimension-free exponential entropy quotients over $\mathbb{F}_2$ | [link](https://arxiv.org/abs/2610.38525) |
