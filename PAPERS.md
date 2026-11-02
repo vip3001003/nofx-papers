@@ -3386,3 +3386,24 @@
 | 2026-10-29 | bio_inspired | 0 | Diagnosing Optimizer-Landscape Interaction via Representation in Subset Selection Multitasking: Evidence from Piano Fingering | [link](https://arxiv.org/abs/2610.39779) |
 | 2026-10-28 | info_theory | 0 | Generative Rate-Distortion-Perception Theory on Riemannian Manifolds | [link](https://arxiv.org/abs/2610.39024) |
 | 2026-10-28 | info_theory | 0 | Dimension-free exponential entropy quotients over $\mathbb{F}_2$ | [link](https://arxiv.org/abs/2610.38525) |
+| 2026-10-29 | complexity | 4 | Kibble-Zurek dynamics beyond the thermodynamic limit | [link](https://arxiv.org/abs/2610.40755) |
+| 2026-10-30 | complexity | 3 | Thermal conductivity of Lennard-Jones fluids from equilibrium thermodynamics | [link](https://arxiv.org/abs/2610.41952) |
+| 2026-10-30 | complexity | 3 | Faster-than-power-law decay of order parameter correlations in the two-dimensional RP$^2$ model: a rigorous result by vibe-proving | [link](https://arxiv.org/abs/2610.41256) |
+| 2026-10-30 | complexity | 2 | An internal mode shifts the depinning threshold of dissociated dislocations without changing universality | [link](https://arxiv.org/abs/2610.41451) |
+| 2026-10-30 | complexity | 1 | Relaxation speed in quenched-random force fields | [link](https://arxiv.org/abs/2610.41991) |
+| 2026-10-30 | complexity | 1 | Agentic Global Optimization of Site-Disordered Crystalline Materials | [link](https://arxiv.org/abs/2610.41327) |
+| 2026-10-30 | complexity | 1 | Quantifying Blinking Suppression and Probing Its Mechanism in PPD-Treated Single Quantum Dots | [link](https://arxiv.org/abs/2610.41285) |
+| 2026-10-30 | complexity | 0 | Resolving the spinon hierarchy of the Heisenberg antiferromagnet | [link](https://arxiv.org/abs/2610.42127) |
+| 2026-10-30 | complexity | 0 | Lifting the mixed to the pure: quantum phases of matter from canonical purification | [link](https://arxiv.org/abs/2610.41926) |
+| 2026-10-30 | complexity | 0 | Static and dynamic density correlations of interacting active Brownian particles | [link](https://arxiv.org/abs/2610.41613) |
+| 2026-10-30 | complexity | 0 | Underdamped Stochastic Optimal Transport with Landauer boundary conditions: machine learning and analytical solution | [link](https://arxiv.org/abs/2610.41599) |
+| 2026-10-30 | complexity | 0 | Finite-time Mpemba crossings with imperfect preparation | [link](https://arxiv.org/abs/2610.41591) |
+| 2026-10-30 | complexity | 0 | Root-of-unity limit of the $A_{n-1}$ lens elliptic gamma function solution of the star-star relation | [link](https://arxiv.org/abs/2610.41438) |
+| 2026-10-30 | complexity | 0 | Airy distribution of the quenched spectral form factor in non-interacting fermions | [link](https://arxiv.org/abs/2610.41393) |
+| 2026-10-30 | complexity | 0 | Only the immortal can (almost) flock while turning: Two-dimensional chiral immortal flocks, time crystals and non-universal sub-logarithmic roughness | [link](https://arxiv.org/abs/2610.41316) |
+| 2026-10-30 | complexity | 0 | Coordination three heals, coordination four is hard: the antiferromagnetic Potts model with a costly third state | [link](https://arxiv.org/abs/2610.41277) |
+| 2026-10-30 | complexity | 0 | Frustration-Induced $1/6$-Vortex-Paired Phase in a Kagome XY Model | [link](https://arxiv.org/abs/2610.41161) |
+| 2026-10-29 | complexity | 0 | Triplon thermal Hall response in a honeycomb-lattice $J_1$-$J_2$ Heisenberg antiferromagnet with Dzyaloshinskii--Moriya interactions | [link](https://arxiv.org/abs/2610.40910) |
+| 2026-10-29 | complexity | 0 | Theory of Convective Diffusion | [link](https://arxiv.org/abs/2610.40862) |
+| 2026-10-29 | complexity | 0 | Fock-space delocalization and its control in scarred-vs-ergodic dynamics | [link](https://arxiv.org/abs/2610.40805) |
+| 2026-10-29 | complexity | 0 | Guaranteed Slater Conditions for the Numerical Conformal Bootstrap: Fixing Instabilities in SDPB, Navigator Methods, and Skydiving | [link](https://arxiv.org/abs/2610.40764) |
