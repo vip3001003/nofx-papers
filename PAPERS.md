@@ -3407,3 +3407,43 @@
 | 2026-10-29 | complexity | 0 | Theory of Convective Diffusion | [link](https://arxiv.org/abs/2610.40862) |
 | 2026-10-29 | complexity | 0 | Fock-space delocalization and its control in scarred-vs-ergodic dynamics | [link](https://arxiv.org/abs/2610.40805) |
 | 2026-10-29 | complexity | 0 | Guaranteed Slater Conditions for the Numerical Conformal Bootstrap: Fixing Instabilities in SDPB, Navigator Methods, and Skydiving | [link](https://arxiv.org/abs/2610.40764) |
+| 2026-11-02 | complexity | 5 | Topological origin of the Gutenberg-Richter law: Dynamic decoupling of fault cascades and energy dissipation | [link](https://arxiv.org/abs/2611.02541) |
+| 2026-11-01 | complexity | 3 | Topological Defect Statistics in a Weakly First-Order Phase Transition | [link](https://arxiv.org/abs/2611.02022) |
+| 2026-11-02 | complexity | 2 | Polarity-Programmed Topological Gating of Knotting in Spatially Patterned Active Polymers | [link](https://arxiv.org/abs/2611.03474) |
+| 2026-11-02 | complexity | 2 | Establishing Néel order in the square-lattice antiferromagnetic Heisenberg model: a bootstrap proof | [link](https://arxiv.org/abs/2611.03241) |
+| 2026-11-02 | complexity | 2 | Microscopic Origin of the Equation of Motion for Open Thermodynamic Systems | [link](https://arxiv.org/abs/2611.03235) |
+| 2026-11-02 | complexity | 2 | Universality and Emergent Classicality in Krylov Space | [link](https://arxiv.org/abs/2611.03188) |
+| 2026-11-02 | complexity | 2 | Generative diffusion in long-range correlated landscapes: Speciation cascade and the foam structure of the score | [link](https://arxiv.org/abs/2611.02955) |
+| 2026-11-02 | complexity | 2 | Maximal correlation and optimal transformations of probability distributions in tensor-train format: a variational algorithm | [link](https://arxiv.org/abs/2611.02731) |
+| 2026-11-01 | complexity | 2 | Statistical mechanics of spontaneous behavior | [link](https://arxiv.org/abs/2611.02220) |
+| 2026-11-01 | complexity | 2 | Modeling Crystallization in Concentrated Suspensions of Compressible Microgels | [link](https://arxiv.org/abs/2611.02184) |
+| 2026-11-01 | complexity | 2 | An entropic barrier to equilibration in the discrete nonlinear Schrödinger equation: Rigorous bounds for the microcanonical Brownian motion | [link](https://arxiv.org/abs/2611.02025) |
+| 2026-11-01 | bio_inspired | 2 | Exposure-Length Trade-off Optimization for Obstacle-Aware Intrusion Paths in Heterogeneous Wireless Sensor Networks | [link](https://arxiv.org/abs/2611.01606) |
+| 2026-10-31 | crypto | 2 | Quantifying Repair Risk in Crypto Option Surfaces | [link](https://arxiv.org/abs/2611.00958) |
+| 2026-11-02 | complexity | 1 | Mutual information to all orders from modular flow: a replica-free approach | [link](https://arxiv.org/abs/2611.03630) |
+| 2026-11-02 | complexity | 1 | Functional Dimensional Regularization for the Lee-Yang Model | [link](https://arxiv.org/abs/2611.03318) |
+| 2026-11-02 | complexity | 1 | Mechano-chemical control of enzymatic activity in crowded environments | [link](https://arxiv.org/abs/2611.03239) |
+| 2026-11-02 | complexity | 1 | The normal approximation to macroscopic dynamical fluctuations | [link](https://arxiv.org/abs/2611.03102) |
+| 2026-11-02 | network | 1 | Discovering hierarchical governing equations for community-structured complex network dynamics with LLM agents | [link](https://arxiv.org/abs/2611.02816) |
+| 2026-11-02 | info_theory | 1 | A Sharp Mutual Information Bound for Binary Pairs | [link](https://arxiv.org/abs/2611.02392) |
+| 2026-11-01 | complexity | 1 | When Does Triadic Balance Reduce to Pairwise Order? | [link](https://arxiv.org/abs/2611.02117) |
+| 2026-11-01 | complexity | 1 | Three New Phases in the Two-Dimensional Potts Model at Complex Temperature | [link](https://arxiv.org/abs/2611.01771) |
+| 2026-10-31 | complexity | 1 | Adiabatic pulsed-field dynamics of a frustrated spin-lattice system | [link](https://arxiv.org/abs/2611.01223) |
+| 2026-11-02 | complexity | 0 | Internal friction and frequency-dependent conductivity in the bivariate site energy model for the mixed alkali effect in glasses | [link](https://arxiv.org/abs/2611.03591) |
+| 2026-11-02 | complexity | 0 | The Virasoro Bootstrap: from the $c\sim1$ desert to coupled Potts | [link](https://arxiv.org/abs/2611.03565) |
+| 2026-11-02 | complexity | 0 | When will androids outnumber humans? | [link](https://arxiv.org/abs/2611.03242) |
+| 2026-11-02 | complexity | 0 | Density and Current Fluctuations for Run-and-Tumble Particles With and Without Interactions | [link](https://arxiv.org/abs/2611.03187) |
+| 2026-11-02 | complexity | 0 | Emergent stigmergy and pheromone-guided decisions in a foraging collective | [link](https://arxiv.org/abs/2611.02997) |
+| 2026-11-02 | info_theory | 0 | Information Complexity of Inner Product and Matrix Multiplication via Shannon-to-Min-Entropy Conversion | [link](https://arxiv.org/abs/2611.02684) |
+| 2026-11-02 | info_theory | 0 | Finite attainment and efficient computation of regularized quantum channel relative entropy | [link](https://arxiv.org/abs/2611.02425) |
+| 2026-11-01 | complexity | 0 | Weak-Signal Amplification through Stochastic Resetting | [link](https://arxiv.org/abs/2611.01991) |
+| 2026-11-01 | complexity | 0 | Stochastic Orders of the Exit Pair and the Monotone Response to Resetting | [link](https://arxiv.org/abs/2611.01756) |
+| 2026-11-01 | complexity | 0 | Bounds and sufficient conditions in quantum Zeno effect | [link](https://arxiv.org/abs/2611.01679) |
+| 2026-11-01 | complexity | 0 | The massive phase of the two-dimensional Heisenberg model is stable under small anisotropy | [link](https://arxiv.org/abs/2611.01532) |
+| 2026-11-01 | info_theory | 0 | Communication with Adversarial Users: Byzantine Models in Multi-User Information Theory | [link](https://arxiv.org/abs/2611.01678) |
+| 2026-11-01 | bio_inspired | 0 | Evolutionary characterization of whole-genome doubling across human cancers | [link](https://arxiv.org/abs/2611.01897) |
+| 2026-10-31 | complexity | 0 | Before the First Bond: Depletion-Assisted Stochastic Capture at the Onset of Endocytosis | [link](https://arxiv.org/abs/2611.01321) |
+| 2026-10-31 | complexity | 0 | From First Bond to Stable Adhesion: Multivalent Bond Stabilization in Receptor-Mediated Endocytosis | [link](https://arxiv.org/abs/2611.01293) |
+| 2026-10-31 | complexity | 0 | Density functionals for the Pauli-Fierz Hamiltonian | [link](https://arxiv.org/abs/2611.01208) |
+| 2026-10-31 | info_theory | 0 | Maximal input entropy for binary two-deletion and two-insertion channels | [link](https://arxiv.org/abs/2611.01064) |
+| 2026-10-30 | bio_inspired | 0 | Sharp transitions between optimal therapy regimes reveal robust dosing strategies against drug-induced persistence | [link](https://arxiv.org/abs/2611.00295) |
