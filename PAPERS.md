@@ -3447,3 +3447,32 @@
 | 2026-10-31 | complexity | 0 | Density functionals for the Pauli-Fierz Hamiltonian | [link](https://arxiv.org/abs/2611.01208) |
 | 2026-10-31 | info_theory | 0 | Maximal input entropy for binary two-deletion and two-insertion channels | [link](https://arxiv.org/abs/2611.01064) |
 | 2026-10-30 | bio_inspired | 0 | Sharp transitions between optimal therapy regimes reveal robust dosing strategies against drug-induced persistence | [link](https://arxiv.org/abs/2611.00295) |
+| 2026-11-02 | complexity | 5 | Long-range entangled criticality from coherent errors | [link](https://arxiv.org/abs/2611.03811) |
+| 2026-09-22 | crypto | 5 | Behavioral Prior Elicitation via LLM for Heterogeneous-Agent Bitcoin Flash-Crash Simulation | [link](https://arxiv.org/abs/2611.03660) |
+| 2026-11-03 | volume | 4 | Beyond Anonymous Order Flow: Wallet Identity as a Feature for Short-Horizon Return Prediction | [link](https://arxiv.org/abs/2611.05218) |
+| 2026-11-03 | complexity | 3 | Critical amplitudes of the Baxter-Wu model from MCPA and Wolff simulations: free-exponent and fixed-exponent fits | [link](https://arxiv.org/abs/2611.04733) |
+| 2026-11-03 | complexity | 3 | Capillary Coarsening Drives Re-entrant Statistical Transitions in Early Coffee-Ring Growth | [link](https://arxiv.org/abs/2611.04388) |
+| 2026-11-03 | crypto | 2 | How market volatility responds to a preceding price trend: a lag-resolved measurement in cryptocurrencies and equities | [link](https://arxiv.org/abs/2611.04533) |
+| 2026-11-03 | complexity | 2 | Quantum Error Correction in Nearly Critical Toric Codes | [link](https://arxiv.org/abs/2611.05375) |
+| 2026-11-03 | complexity | 2 | Designing turbulence through hierarchies | [link](https://arxiv.org/abs/2611.04706) |
+| 2026-11-03 | complexity | 2 | Trail systems self-organize through individual route optimization | [link](https://arxiv.org/abs/2611.04346) |
+| 2026-11-02 | complexity | 2 | Non-Hermitian effective dynamics from post-selection protocols | [link](https://arxiv.org/abs/2611.03910) |
+| 2026-11-02 | complexity | 2 | Lattice spin systems coupled to a compact U(1) gauge field with negative gauge coupling favoring frustration | [link](https://arxiv.org/abs/2611.03837) |
+| 2026-11-03 | complexity | 1 | Higher-order interactions renormalize the thermodynamic signature of neural population codes | [link](https://arxiv.org/abs/2611.05336) |
+| 2026-11-03 | complexity | 1 | Exact Rokhsar-Kivelson points hosting first-order phase transitions in $S=1$ compass models | [link](https://arxiv.org/abs/2611.05326) |
+| 2026-11-03 | complexity | 1 | Crossover duality for the quantum long-range Ising chain: perturbation theory around the short-range endpoint and a DMRG test | [link](https://arxiv.org/abs/2611.05284) |
+| 2026-11-03 | complexity | 1 | Amplified transport variability in granular slope flows near the critical angle | [link](https://arxiv.org/abs/2611.04440) |
+| 2026-11-03 | bio_inspired | 1 | Refined CMA-ES for CEC 2026 Bound-Constrained Single-Objective Optimization | [link](https://arxiv.org/abs/2611.04620) |
+| 2026-11-03 | complexity | 0 | How symmetry and complexity shape three-dimensional programmable self-assembly | [link](https://arxiv.org/abs/2611.05301) |
+| 2026-11-03 | complexity | 0 | Universality in Anomalous Diffusion: Power Laws and Faster-Decaying Tails | [link](https://arxiv.org/abs/2611.05258) |
+| 2026-11-03 | complexity | 0 | Operational Thresholds for Long-Range Entanglement in Quantum Networks | [link](https://arxiv.org/abs/2611.05069) |
+| 2026-11-03 | complexity | 0 | Real-Space renormalization for the drawups and drawdowns of stochastic trajectories: universality classes for diffusion processes and random walks via the scale function | [link](https://arxiv.org/abs/2611.04853) |
+| 2026-11-03 | complexity | 0 | Stochastic synthesis and degradation of arbitrary diffusive processes | [link](https://arxiv.org/abs/2611.04843) |
+| 2026-11-03 | complexity | 0 | Strain-Glass Dynamics in the Superionic Conductor Na$_3$PS$_4$ | [link](https://arxiv.org/abs/2611.04547) |
+| 2026-11-03 | complexity | 0 | Topology Does Not Determine Defect Mobility in Active Polar Matter | [link](https://arxiv.org/abs/2611.04428) |
+| 2026-11-03 | complexity | 0 | Negative Junction Logarithms in Scalar Multipartite Entanglement | [link](https://arxiv.org/abs/2611.04220) |
+| 2026-11-03 | info_theory | 0 | Rate-Distortion-Perception Tradeoff for Vector Gaussian Sources with Limited Common Randomness: Exact Characterization and Approximate Universality | [link](https://arxiv.org/abs/2611.04693) |
+| 2026-11-02 | complexity | 0 | Maximum entropy explanation for the ubiquity of power-law mechanical responses | [link](https://arxiv.org/abs/2611.03999) |
+| 2026-11-02 | complexity | 0 | Thermodynamic Bethe Ansatz for the Toda chain from inverse scattering transform | [link](https://arxiv.org/abs/2611.03857) |
+| 2026-11-02 | complexity | 0 | The Inverse Mean First-Passage Time Problem | [link](https://arxiv.org/abs/2611.03831) |
+| 2026-10-20 | info_theory | 0 | Deterministic Causal Quantization with Bounded Error: Adaptive Reconstruction and Entropy bounds | [link](https://arxiv.org/abs/2610.35933) |
