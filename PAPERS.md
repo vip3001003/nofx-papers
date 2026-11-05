@@ -3476,3 +3476,26 @@
 | 2026-11-02 | complexity | 0 | Thermodynamic Bethe Ansatz for the Toda chain from inverse scattering transform | [link](https://arxiv.org/abs/2611.03857) |
 | 2026-11-02 | complexity | 0 | The Inverse Mean First-Passage Time Problem | [link](https://arxiv.org/abs/2611.03831) |
 | 2026-10-20 | info_theory | 0 | Deterministic Causal Quantization with Bounded Error: Adaptive Reconstruction and Entropy bounds | [link](https://arxiv.org/abs/2610.35933) |
+| 2026-11-04 | complexity | 5 | Thermodynamic signatures of the period-doubling route to chemical chaos | [link](https://arxiv.org/abs/2611.06037) |
+| 2026-11-04 | complexity | 2 | Dynamically Reentrant Skyrmion Phase in Oscillating Magnetic Fields | [link](https://arxiv.org/abs/2611.06541) |
+| 2026-11-04 | complexity | 2 | Quasi-Normal Modes and thermalization in integrable Quantum Field Theories from the Thermodynamic Bethe Ansatz | [link](https://arxiv.org/abs/2611.06473) |
+| 2026-11-04 | complexity | 2 | Marginal Operator Deformations and Pseudocriticality in Baxter--Wu Models | [link](https://arxiv.org/abs/2611.06435) |
+| 2026-11-04 | info_theory | 2 | Fano's Inequality and Channel Capacity in the Individual-Sequence Regime | [link](https://arxiv.org/abs/2611.06182) |
+| 2026-11-04 | bio_inspired | 2 | Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes | [link](https://arxiv.org/abs/2611.06879) |
+| 2026-11-03 | complexity | 2 | Topological localization in unentangled random braids | [link](https://arxiv.org/abs/2611.05721) |
+| 2026-11-04 | complexity | 1 | Brownian gyrator model with stochastic resetting | [link](https://arxiv.org/abs/2611.06322) |
+| 2026-11-04 | network | 1 | Phase Locking in Oscillator Networks with Uncertain and State-Dependent Couplings | [link](https://arxiv.org/abs/2611.06466) |
+| 2026-11-03 | complexity | 1 | Krylov meets Fock: Complementary lenses on quantum dynamics | [link](https://arxiv.org/abs/2611.05495) |
+| 2026-11-04 | complexity | 0 | Hidden entropic order of emergent charges in a classical Ampère spin liquid | [link](https://arxiv.org/abs/2611.06795) |
+| 2026-11-04 | complexity | 0 | A local Yang-Baxter obstruction for the hard-square model | [link](https://arxiv.org/abs/2611.06780) |
+| 2026-11-04 | complexity | 0 | How Rich is the Rich-Club? Super Rich-Club Organization in Complex Networks | [link](https://arxiv.org/abs/2611.06756) |
+| 2026-11-04 | complexity | 0 | Mutual linearity in semi-Markov networks | [link](https://arxiv.org/abs/2611.06490) |
+| 2026-11-04 | complexity | 0 | Steady states in asymmetric exclusion processes with reactions: Fluctuations and non-mean field behaviour | [link](https://arxiv.org/abs/2611.06463) |
+| 2026-11-04 | complexity | 0 | Kardar--Parisi--Zhang density hydrodynamics in a coherent XXZ--ASEP Lindbladian | [link](https://arxiv.org/abs/2611.06369) |
+| 2026-11-04 | complexity | 0 | Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders | [link](https://arxiv.org/abs/2611.06154) |
+| 2026-11-04 | complexity | 0 | Exact Transport-Information Correspondence for Distribution-Adaptive Discretization | [link](https://arxiv.org/abs/2611.06059) |
+| 2026-11-04 | complexity | 0 | Emergent Incompressibility in Polariton Condensates for Scalable XY Spin Simulation | [link](https://arxiv.org/abs/2611.05782) |
+| 2026-11-04 | info_theory | 0 | The Invocation Bottleneck in LLM-Based Lossless Compression: What Can Be Removed and What Must Be Traded | [link](https://arxiv.org/abs/2611.05871) |
+| 2026-11-03 | complexity | 0 | Raychaudhuri-Ehlers Kinematics on Quantum State-Space: Caustics and Extrinsic Quantum Geometry | [link](https://arxiv.org/abs/2611.05499) |
+| 2026-11-03 | complexity | 0 | Zero noise extrapolation of transport coefficients | [link](https://arxiv.org/abs/2611.05481) |
+| 2026-11-03 | complexity | 0 | A Fully Polynomial Approximation Algorithm for the Sherrington-Kirkpatrick Model | [link](https://arxiv.org/abs/2611.05446) |
