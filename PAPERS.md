@@ -3499,3 +3499,37 @@
 | 2026-11-03 | complexity | 0 | Raychaudhuri-Ehlers Kinematics on Quantum State-Space: Caustics and Extrinsic Quantum Geometry | [link](https://arxiv.org/abs/2611.05499) |
 | 2026-11-03 | complexity | 0 | Zero noise extrapolation of transport coefficients | [link](https://arxiv.org/abs/2611.05481) |
 | 2026-11-03 | complexity | 0 | A Fully Polynomial Approximation Algorithm for the Sherrington-Kirkpatrick Model | [link](https://arxiv.org/abs/2611.05446) |
+| 2026-11-05 | network | 7 | From elementary processes to chaos: a discrete-time two-stage contagion model and its continuous limit | [link](https://arxiv.org/abs/2611.08353) |
+| 2026-11-05 | complexity | 3 | Thermodynamic geometry of three coupled Ising spins: exact curvature, frustration and bond anisotropy | [link](https://arxiv.org/abs/2611.08072) |
+| 2026-11-05 | complexity | 3 | Percolation of discorectangles oriented predominantly along two mutually perpendicular directions | [link](https://arxiv.org/abs/2611.07484) |
+| 2026-11-05 | complexity | 2 | Typical number and stability of equilibria in large non-reciprocal complex systems | [link](https://arxiv.org/abs/2611.08324) |
+| 2026-11-05 | complexity | 2 | Accessing Fractional Wilson Lines from U(1) Monodromy Defects on the Fuzzy Sphere | [link](https://arxiv.org/abs/2611.08102) |
+| 2026-11-05 | complexity | 2 | First-order condensation and meniscus pinning in finite open wedges | [link](https://arxiv.org/abs/2611.08051) |
+| 2026-11-05 | complexity | 2 | Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding | [link](https://arxiv.org/abs/2611.07845) |
+| 2026-11-05 | complexity | 2 | Solvable macroscopic models for populations of type I excitability neurons with Gaussian noise | [link](https://arxiv.org/abs/2611.07714) |
+| 2026-11-05 | complexity | 2 | Exact and Near-Exact Inverse Renormalization Group with Constrained Monte Carlo | [link](https://arxiv.org/abs/2611.07641) |
+| 2026-11-05 | complexity | 2 | Nonequilibrium orientational bistability of a magnetically-driven slender particle | [link](https://arxiv.org/abs/2611.07538) |
+| 2026-11-05 | complexity | 2 | Background Effects on Thermal Free Energy in Conformal Field Theories | [link](https://arxiv.org/abs/2611.07312) |
+| 2026-11-04 | complexity | 2 | On the critical value of void percolation in high dimensions | [link](https://arxiv.org/abs/2611.07196) |
+| 2026-11-05 | complexity | 1 | Asymptotic analysis of the dynamical field-field correlation function of the impenetrable Bose gas | [link](https://arxiv.org/abs/2611.08350) |
+| 2026-11-05 | complexity | 1 | Active model B+ from run-and-tumble particles on a triangular lattice | [link](https://arxiv.org/abs/2611.08296) |
+| 2026-11-05 | complexity | 1 | Autotaxis of a Run-and-Tumble Agent via Reinforcement Learning | [link](https://arxiv.org/abs/2611.07531) |
+| 2026-11-05 | complexity | 1 | Observable-Based Learning of Effective Entanglement Hamiltonians | [link](https://arxiv.org/abs/2611.07353) |
+| 2026-11-05 | info_theory | 1 | Operational Indirect Rate-Distortion Functions for Classification Tasks | [link](https://arxiv.org/abs/2611.07946) |
+| 2026-11-05 | bio_inspired | 1 | Projection-Free Gradient Tracking Neurodynamic for Distributed Nonnegative Sparse Optimization | [link](https://arxiv.org/abs/2611.07643) |
+| 2026-11-04 | complexity | 1 | The lattice Boltzmann machine | [link](https://arxiv.org/abs/2611.07139) |
+| 2026-11-04 | complexity | 1 | Nonequilibrium Spin-Glass Order in a Long-Range Quantum Ising Glass and Its Sensitivity to Noise | [link](https://arxiv.org/abs/2611.07115) |
+| 2026-11-05 | complexity | 0 | Galois conjugation, droplet growth, and the differential transcendence of the Ising model in nonzero field | [link](https://arxiv.org/abs/2611.08033) |
+| 2026-11-05 | complexity | 0 | Emergent Symmetry in Constant-Density Flocks | [link](https://arxiv.org/abs/2611.07771) |
+| 2026-11-05 | complexity | 0 | Initial heat-current decay versus thermal transport at a three-body resonance in a one-dimensional Fermi gas | [link](https://arxiv.org/abs/2611.07615) |
+| 2026-11-05 | complexity | 0 | Electrical conductivity of a two-dimensional two-component medium: discretization and effective medium approximation | [link](https://arxiv.org/abs/2611.07491) |
+| 2026-11-05 | complexity | 0 | Extensions of the Haldane gap proof: higher dimensions, near degeneracy, fermions and tensor-network states | [link](https://arxiv.org/abs/2611.07400) |
+| 2026-11-05 | complexity | 0 | Frustration-freeness is decidable but unprovable | [link](https://arxiv.org/abs/2611.07337) |
+| 2026-11-05 | network | 0 | A Sequential Framework for Urban Drone Delivery: Network Design, Vehicle Sizing, and Energy and Cost Assessment | [link](https://arxiv.org/abs/2611.07808) |
+| 2026-11-05 | bio_inspired | 0 | SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization | [link](https://arxiv.org/abs/2611.08483) |
+| 2026-11-04 | complexity | 0 | Bearing, heading and the perceptual geometry of collective motion | [link](https://arxiv.org/abs/2611.07214) |
+| 2026-11-04 | complexity | 0 | Thermally-driven quantum reservoir computing | [link](https://arxiv.org/abs/2611.07187) |
+| 2026-11-04 | complexity | 0 | Langmuir kinetics and totally asymmetric volume exclusion in linear chains via Fock space formalism | [link](https://arxiv.org/abs/2611.07053) |
+| 2026-11-04 | complexity | 0 | Constraint Variance Identity and the Matter-Geometry Fluctuation Relation | [link](https://arxiv.org/abs/2611.07015) |
+| 2026-11-04 | complexity | 0 | Conformal Bootstrap Unblocked | [link](https://arxiv.org/abs/2611.07004) |
+| 2026-11-04 | complexity | 0 | On Entanglement Dynamics in Holographic Theories | [link](https://arxiv.org/abs/2611.07010) |
