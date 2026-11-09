@@ -3533,3 +3533,29 @@
 | 2026-11-04 | complexity | 0 | Constraint Variance Identity and the Matter-Geometry Fluctuation Relation | [link](https://arxiv.org/abs/2611.07015) |
 | 2026-11-04 | complexity | 0 | Conformal Bootstrap Unblocked | [link](https://arxiv.org/abs/2611.07004) |
 | 2026-11-04 | complexity | 0 | On Entanglement Dynamics in Holographic Theories | [link](https://arxiv.org/abs/2611.07010) |
+| 2026-11-06 | complexity | 4 | Gibbsian Entropy for General Wigner Distributions | [link](https://arxiv.org/abs/2611.09839) |
+| 2026-11-06 | complexity | 4 | Continuum mean-field theory of spatiotemporal pattern formation in a three-state active Potts model | [link](https://arxiv.org/abs/2611.09180) |
+| 2026-11-06 | complexity | 3 | Deep Learning Theory through the Lens of Statistical Physics: A Topical Review | [link](https://arxiv.org/abs/2611.09138) |
+| 2026-11-05 | volume | 3 | Does a Trading Policy Need to Know What It Trades? Microstructure Invariance and Zero-Shot Transfer of Execution Policies | [link](https://arxiv.org/abs/2611.08701) |
+| 2026-11-06 | ml | 2 | Towards Robust Reinforcement Learning Market Making: Lessons from Loss Function Experimentation | [link](https://arxiv.org/abs/2611.09012) |
+| 2026-11-06 | complexity | 2 | Arrival-time problem in the quantum information era - observation of a Zeno crossover in monitored arrival-time distributions | [link](https://arxiv.org/abs/2611.09814) |
+| 2026-11-06 | bio_inspired | 2 | Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments | [link](https://arxiv.org/abs/2611.09093) |
+| 2026-11-06 | complexity | 1 | Modular Hamiltonian and Typicality of Degenerate States | [link](https://arxiv.org/abs/2611.09595) |
+| 2026-11-06 | complexity | 1 | Open Quantum Time Crystals without External Thermodynamic Resources: Go and No-Go Theorems | [link](https://arxiv.org/abs/2611.09540) |
+| 2026-11-06 | complexity | 1 | Violent relaxation redux | [link](https://arxiv.org/abs/2611.09531) |
+| 2026-11-06 | complexity | 1 | Mathematical analysis of the Markovian Mpemba effect | [link](https://arxiv.org/abs/2611.09391) |
+| 2026-11-06 | complexity | 1 | Thermalization of coarse-grained variables in the Toda lattice: a numerical study | [link](https://arxiv.org/abs/2611.09287) |
+| 2026-11-06 | complexity | 1 | $\mathbb{Z}_2$ gauge and exact solution of the $\pm J$ Edwards-Anderson model in a transverse field | [link](https://arxiv.org/abs/2611.09097) |
+| 2026-11-06 | complexity | 1 | Fortuitous Cancellation of Competing Effects in the Free Energy of Water Autoionization: Long-Range Electrostatics, System Size, and Nuclear Quantum Effects | [link](https://arxiv.org/abs/2611.08874) |
+| 2026-11-05 | complexity | 1 | Analytic Bounds on Conformal Defect Spectra | [link](https://arxiv.org/abs/2611.08582) |
+| 2026-11-05 | complexity | 1 | Thermodynamics of Speed and Efficiency with Quantum Feedback | [link](https://arxiv.org/abs/2611.08564) |
+| 2026-11-05 | bio_inspired | 1 | Genealogical Reinforcement in Branching Processes | [link](https://arxiv.org/abs/2611.08548) |
+| 2026-11-06 | complexity | 0 | Suppression of gel formation by spontaneous fragmentation | [link](https://arxiv.org/abs/2611.09537) |
+| 2026-11-06 | complexity | 0 | Resolving non-neutrality across scales in a hyperdiverse tropical forest | [link](https://arxiv.org/abs/2611.09479) |
+| 2026-11-06 | complexity | 0 | Dynamics and pseudospectra around quantum exceptional points | [link](https://arxiv.org/abs/2611.09464) |
+| 2026-11-06 | complexity | 0 | Perfect Wave Transfer in Nonconformal Tomonaga-Luttinger Liquids | [link](https://arxiv.org/abs/2611.09018) |
+| 2026-11-06 | complexity | 0 | Optimal asymptotic pure-state conversion under thermal operations | [link](https://arxiv.org/abs/2611.08974) |
+| 2026-11-06 | network | 0 | Incentive Pathologies in a Live LLM Agent Arena: An Empirical Study of Concentration, Reward-Rule Implementation Discrepancy, and Network Dilution | [link](https://arxiv.org/abs/2611.09445) |
+| 2026-11-06 | network | 0 | Dynamic signatures of collective knowledge through navigation in a network with semantic structure | [link](https://arxiv.org/abs/2611.08812) |
+| 2026-11-05 | complexity | 0 | Interacting particles crossing barriers: spatial statistics, choice of route taken and role of interactions | [link](https://arxiv.org/abs/2611.08617) |
+| 2026-11-04 | volume | 0 | Price-Volume Correlations Are Always Zero | [link](https://arxiv.org/abs/2611.08528) |
