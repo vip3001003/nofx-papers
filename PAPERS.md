@@ -3559,3 +3559,44 @@
 | 2026-11-06 | network | 0 | Dynamic signatures of collective knowledge through navigation in a network with semantic structure | [link](https://arxiv.org/abs/2611.08812) |
 | 2026-11-05 | complexity | 0 | Interacting particles crossing barriers: spatial statistics, choice of route taken and role of interactions | [link](https://arxiv.org/abs/2611.08617) |
 | 2026-11-04 | volume | 0 | Price-Volume Correlations Are Always Zero | [link](https://arxiv.org/abs/2611.08528) |
+| 2026-11-09 | complexity | 4 | A Bifurcation-Theoretic Framework for the Controllability of Emergent Intelligent Systems | [link](https://arxiv.org/abs/2611.11734) |
+| 2026-11-09 | complexity | 3 | Holonomy, Spectral Topology, and Detailed Balance in Classical and Open Quantum Systems | [link](https://arxiv.org/abs/2611.12514) |
+| 2026-11-09 | complexity | 3 | Spatial effects of Kuramoto modeling on the power-grid frequencies | [link](https://arxiv.org/abs/2611.12132) |
+| 2026-11-09 | complexity | 2 | Global Asymptotics of a Toda Soliton Condensate with Random Scattering Data | [link](https://arxiv.org/abs/2611.12748) |
+| 2026-11-09 | complexity | 2 | Giant Diffusion at Flocking Transitions | [link](https://arxiv.org/abs/2611.12465) |
+| 2026-11-09 | bio_inspired | 2 | AscendMOEA: An Ascend NPU-Accelerated Platform for Tensorized Multi-Objective Evolutionary Algorithms | [link](https://arxiv.org/abs/2611.12057) |
+| 2026-11-08 | ml | 2 | Optimal execution in a fractional setting with reinforcement learning | [link](https://arxiv.org/abs/2611.11373) |
+| 2026-11-07 | complexity | 2 | Ising model on Calandre lattice | [link](https://arxiv.org/abs/2611.10834) |
+| 2026-11-09 | complexity | 1 | Renewal Bias in Parallel Simulations of Absorbing Processes | [link](https://arxiv.org/abs/2611.12692) |
+| 2026-11-09 | complexity | 1 | Resolving the backbone of multiscale interactions through mutual information rates | [link](https://arxiv.org/abs/2611.12554) |
+| 2026-11-09 | complexity | 1 | Memory in biological Lévy walks from the dynamic-entropy formalism | [link](https://arxiv.org/abs/2611.12547) |
+| 2026-11-09 | complexity | 1 | Matrix-vector models for the 3D Ising CFT | [link](https://arxiv.org/abs/2611.12071) |
+| 2026-11-09 | complexity | 1 | How Path Integral Diffusion Decides a Finite Spin Glass | [link](https://arxiv.org/abs/2611.11826) |
+| 2026-11-09 | network | 1 | Predictability of Collective Behavior in Networks of LLM Agents | [link](https://arxiv.org/abs/2611.12256) |
+| 2026-11-08 | complexity | 1 | Ergotropy as distance from equilibrium | [link](https://arxiv.org/abs/2611.11343) |
+| 2026-11-08 | complexity | 1 | Quantum entanglement as a resource for self-organization and stabilization | [link](https://arxiv.org/abs/2611.11175) |
+| 2026-11-08 | network | 1 | Evolutionary games on networks with negative edge-based environmental feedback | [link](https://arxiv.org/abs/2611.11029) |
+| 2026-11-08 | info_theory | 1 | Compression of Sources with Memory and Private Random Access | [link](https://arxiv.org/abs/2611.11501) |
+| 2026-11-07 | complexity | 1 | One Measurement, Many Fronts in Kitaev and Cluster Chains | [link](https://arxiv.org/abs/2611.10912) |
+| 2026-11-09 | complexity | 0 | An efficient classical algorithm for OTOCs in chaotic quantum dynamics | [link](https://arxiv.org/abs/2611.12773) |
+| 2026-11-09 | complexity | 0 | One-Particle Resonances and Eigenstate Thermalization in Periodic Free-Fermion Lattices | [link](https://arxiv.org/abs/2611.12701) |
+| 2026-11-09 | complexity | 0 | A Hierarchy of Fast and Strong Signatures for Vertex Orbits | [link](https://arxiv.org/abs/2611.12653) |
+| 2026-11-09 | complexity | 0 | Resetting-based designated information distribution | [link](https://arxiv.org/abs/2611.12485) |
+| 2026-11-09 | complexity | 0 | Deriving Tsallis Entropy from First Principles | [link](https://arxiv.org/abs/2611.12441) |
+| 2026-11-09 | complexity | 0 | Discrete time crystals stabilized by bounded measurement noise | [link](https://arxiv.org/abs/2611.12400) |
+| 2026-11-09 | complexity | 0 | The role of preparation protocols in the Mpemba effect under time-delayed Newton cooling | [link](https://arxiv.org/abs/2611.12328) |
+| 2026-11-09 | complexity | 0 | On transition probabilities for the ASEP on the half-line | [link](https://arxiv.org/abs/2611.12258) |
+| 2026-11-09 | complexity | 0 | Linear response in generalized Lotka--Volterra systems with a finite number of species | [link](https://arxiv.org/abs/2611.12074) |
+| 2026-11-09 | complexity | 0 | Computing Classical Partition Functions via Cycle-Space Sampling | [link](https://arxiv.org/abs/2611.11850) |
+| 2026-11-09 | bio_inspired | 0 | Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers | [link](https://arxiv.org/abs/2611.12317) |
+| 2026-11-08 | complexity | 0 | Liberation in the Heavy Limit | [link](https://arxiv.org/abs/2611.11594) |
+| 2026-11-08 | complexity | 0 | Odd Darcy Law: Odd Viscosity and Edge Currents in Porous Media | [link](https://arxiv.org/abs/2611.11138) |
+| 2026-11-08 | network | 0 | Retrospective Analysis of Team-Following Trading Profitability in Pumpfun Meme Coins Using Funding Networks | [link](https://arxiv.org/abs/2611.11436) |
+| 2026-11-07 | complexity | 0 | Monodromy Defects and Bulk Renormalization Group Flows on the Fuzzy Sphere | [link](https://arxiv.org/abs/2611.10815) |
+| 2026-11-07 | complexity | 0 | Strong Collective Dynamics Hidden behind a Nearly Free Single-Particle Spectrum | [link](https://arxiv.org/abs/2611.10636) |
+| 2026-11-07 | complexity | 0 | Dynamic Scaling and Aging in Hydrodynamic Coarsening of Vapor Bubbles in a Lennard-Jones Fluid | [link](https://arxiv.org/abs/2611.10621) |
+| 2026-11-07 | complexity | 0 | Hyperuniformity in active matter | [link](https://arxiv.org/abs/2611.10605) |
+| 2026-11-07 | network | 0 | Is price-impact decay statistically identifiable by propagator estimation? Diffusive prices force the inferred kernel to be transient and fine-tuned | [link](https://arxiv.org/abs/2611.10574) |
+| 2026-11-07 | bio_inspired | 0 | Quasispecies relocate rather than drift: hierarchical genotype networks track viral adaptation | [link](https://arxiv.org/abs/2611.10346) |
+| 2026-11-06 | network | 0 | Beyond node strengths: the topological content of weighted bipartite networks | [link](https://arxiv.org/abs/2611.10085) |
+| 2026-10-29 | network | 0 | Persistent A-homotopy of Complex Networks | [link](https://arxiv.org/abs/2611.09967) |
