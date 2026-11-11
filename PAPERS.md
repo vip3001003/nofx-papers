@@ -3600,3 +3600,37 @@
 | 2026-11-07 | bio_inspired | 0 | Quasispecies relocate rather than drift: hierarchical genotype networks track viral adaptation | [link](https://arxiv.org/abs/2611.10346) |
 | 2026-11-06 | network | 0 | Beyond node strengths: the topological content of weighted bipartite networks | [link](https://arxiv.org/abs/2611.10085) |
 | 2026-10-29 | network | 0 | Persistent A-homotopy of Complex Networks | [link](https://arxiv.org/abs/2611.09967) |
+| 2026-11-10 | complexity | 3 | The Multiscale Principle in phase transition: Geometric structure, thermodynamic entropy, and dynamical instability | [link](https://arxiv.org/abs/2611.14230) |
+| 2026-11-07 | network | 3 | Evolution of cooperation in enterprise resource-sharing networks with dynamic participation and adaptive decision-making | [link](https://arxiv.org/abs/2611.12962) |
+| 2026-10-29 | network | 3 | Oscillations in two-stage contagion on networks: contagion structure, turnover and connectivity | [link](https://arxiv.org/abs/2611.12920) |
+| 2026-11-10 | ml | 2 | Deep Learning for Operator Maps in Optimal Liquidation | [link](https://arxiv.org/abs/2611.14245) |
+| 2026-11-10 | volume | 2 | Fine-Tuning an Order-Flow Foundation Model for Sub-Second Forecasting | [link](https://arxiv.org/abs/2611.14117) |
+| 2026-11-10 | crypto | 2 | Deceleration without identification: testing a power-law trend in Bitcoin prices under persistent noise | [link](https://arxiv.org/abs/2611.13962) |
+| 2026-11-10 | complexity | 2 | Energetic costs of reaching the physical limits of sensing | [link](https://arxiv.org/abs/2611.14145) |
+| 2026-11-10 | complexity | 2 | Thermodynamics of words | [link](https://arxiv.org/abs/2611.14039) |
+| 2026-11-10 | bio_inspired | 2 | Recurrent Modular Structure in Spiking Neural Network Reinforcement Learning | [link](https://arxiv.org/abs/2611.14262) |
+| 2026-11-10 | complexity | 1 | Mutual Linearity in Nonlinear Population Dynamics | [link](https://arxiv.org/abs/2611.14501) |
+| 2026-11-10 | complexity | 1 | Memory-gated transient anomalous transport of quasiparticles out of equilibrium | [link](https://arxiv.org/abs/2611.14261) |
+| 2026-11-10 | complexity | 1 | And yet it moves - or does it? Spurious drifts at equilibrium | [link](https://arxiv.org/abs/2611.14089) |
+| 2026-11-10 | complexity | 1 | Critical geometry of triconnected clusters in percolation | [link](https://arxiv.org/abs/2611.13783) |
+| 2026-11-10 | bio_inspired | 1 | Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development | [link](https://arxiv.org/abs/2611.13940) |
+| 2026-11-09 | complexity | 1 | Dynamics of Rényi entanglement entropies and Eigenstate Thermalization | [link](https://arxiv.org/abs/2611.13141) |
+| 2026-11-09 | complexity | 1 | Holographic Drag Force and the Entanglement Membrane: Geometric Reconstruction and Information Spreading | [link](https://arxiv.org/abs/2611.13088) |
+| 2026-11-10 | complexity | 0 | The active chiral random walk | [link](https://arxiv.org/abs/2611.14446) |
+| 2026-11-10 | complexity | 0 | From Distribution of Extremes With Degradation to the Stress Redundancy Principle | [link](https://arxiv.org/abs/2611.14375) |
+| 2026-11-10 | complexity | 0 | Memory of Initial States in Long-Time Dynamics Revealed by Non-Gaussianity | [link](https://arxiv.org/abs/2611.14108) |
+| 2026-11-10 | complexity | 0 | Thermodynamic Formalism for Non-Invariant Probabilities: Entropy, Divergence, Channels | [link](https://arxiv.org/abs/2611.13904) |
+| 2026-11-10 | complexity | 0 | Non-Gaussian limit distributions of giant-component sizes in inhomogeneous networks | [link](https://arxiv.org/abs/2611.13683) |
+| 2026-11-10 | complexity | 0 | Stochastic evolution of interacting directed strings | [link](https://arxiv.org/abs/2611.13622) |
+| 2026-11-10 | complexity | 0 | A new representation of effective diffusion in fluctuating periodic potentials through stochastic duality | [link](https://arxiv.org/abs/2611.13526) |
+| 2026-11-10 | complexity | 0 | Facilitated Relaxation Overrides Energetic Pathways in a Multiphase Square-Kagome Artificial Spin Ice | [link](https://arxiv.org/abs/2611.13500) |
+| 2026-11-10 | network | 0 | Where are the shortest-path nodes in spatial networks? | [link](https://arxiv.org/abs/2611.14152) |
+| 2026-11-10 | info_theory | 0 | Third-Order Asymptotics for Fixed-Length Lossy Compression of Discrete Memoryless Sources | [link](https://arxiv.org/abs/2611.13573) |
+| 2026-11-09 | complexity | 0 | Chemotactic recruitment offsets congestion in honeybee trophallaxis | [link](https://arxiv.org/abs/2611.13314) |
+| 2026-11-09 | complexity | 0 | How wide must an eavesdropper be? Leakage of a toric-code logical bit to a strip and the Nishimori point | [link](https://arxiv.org/abs/2611.13174) |
+| 2026-11-09 | complexity | 0 | Finite Measured Entropy Production Does Not Imply Finite Microscopic Irreversibility | [link](https://arxiv.org/abs/2611.13110) |
+| 2026-11-09 | complexity | 0 | Quantum Control Geometry as a Metric of Chaos | [link](https://arxiv.org/abs/2611.13101) |
+| 2026-11-09 | complexity | 0 | Surface codes with coherent errors: optimal decoding and finite-size crossovers | [link](https://arxiv.org/abs/2611.13098) |
+| 2026-11-09 | complexity | 0 | Categorical RMT | [link](https://arxiv.org/abs/2611.13093) |
+| 2026-11-09 | complexity | 0 | Time Direction Entanglement Entropy of Free Fermion Ground States | [link](https://arxiv.org/abs/2611.13085) |
+| 2026-11-09 | info_theory | 0 | On the Concavity of Rényi Entropy and Rényi Entropy Power along Heat Flows on Manifolds | [link](https://arxiv.org/abs/2611.13040) |
