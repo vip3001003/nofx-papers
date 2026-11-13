@@ -3634,3 +3634,47 @@
 | 2026-11-09 | complexity | 0 | Categorical RMT | [link](https://arxiv.org/abs/2611.13093) |
 | 2026-11-09 | complexity | 0 | Time Direction Entanglement Entropy of Free Fermion Ground States | [link](https://arxiv.org/abs/2611.13085) |
 | 2026-11-09 | info_theory | 0 | On the Concavity of Rényi Entropy and Rényi Entropy Power along Heat Flows on Manifolds | [link](https://arxiv.org/abs/2611.13040) |
+| 2026-11-11 | bio_inspired | 4 | Contour-Assisted Evolutionary Computation: Estimating Peaks From the Contour Lines of Evaluated Solutions | [link](https://arxiv.org/abs/2611.15641) |
+| 2026-11-10 | risk | 4 | Conformal Risk Certificates for Portfolio Optimization Under Uncertainty: A Gated Reinforcement-Learning Approach | [link](https://arxiv.org/abs/2611.14699) |
+| 2026-11-12 | complexity | 3 | Theory of critical behavior at non-polar structural phase transitions from functional renormalization | [link](https://arxiv.org/abs/2611.17081) |
+| 2026-11-12 | complexity | 3 | Anti-Kibble-Zurek behavior driven by dichotomous Markov noise in a quantum Ising chain: Generalized stochastic resonance in the defect density | [link](https://arxiv.org/abs/2611.16237) |
+| 2026-11-12 | bio_inspired | 3 | Similarity-Guided Optimization Strategies for Approximate Network Symmetry Detection | [link](https://arxiv.org/abs/2611.16555) |
+| 2026-11-11 | momentum | 3 | Idiosyncratic Market Effects in Global Time Series Momentum | [link](https://arxiv.org/abs/2611.15646) |
+| 2026-11-12 | complexity | 2 | Ensemble phase transitions in measurement-unitary hybrid quantum circuits | [link](https://arxiv.org/abs/2611.17322) |
+| 2026-11-12 | complexity | 2 | Cup and cap synchronization: higher-order node dynamics from topology | [link](https://arxiv.org/abs/2611.16979) |
+| 2026-11-12 | complexity | 2 | Symmetry-Controlled Criticality and Zeno Localization in a Monitored Quasiperiodic Superconductor | [link](https://arxiv.org/abs/2611.16912) |
+| 2026-11-12 | complexity | 2 | A deterministic theory of kinetic fluctuations in long-range interacting homogeneous systems without collective effects | [link](https://arxiv.org/abs/2611.16893) |
+| 2026-11-12 | complexity | 2 | Freezing transition and shock-like transients in ballistic random walks under threshold resetting | [link](https://arxiv.org/abs/2611.16733) |
+| 2026-11-12 | complexity | 2 | Geometric Theory of Quasiperiodically Driven Systems | [link](https://arxiv.org/abs/2611.16683) |
+| 2026-11-12 | complexity | 2 | Information Thermodynamics in Closed Quantum Many-Body Dynamics | [link](https://arxiv.org/abs/2611.16329) |
+| 2026-11-12 | bio_inspired | 2 | A Finite Markov Chain Analysis of the Simplified Swarm Optimisation Update Rule | [link](https://arxiv.org/abs/2611.16541) |
+| 2026-11-11 | complexity | 2 | Potts Order Preempts Emergence of 2-Form U(1) Spin Liquidity in Three-Dimensional Spin Vorticity Models | [link](https://arxiv.org/abs/2611.15845) |
+| 2026-11-12 | risk | 1 | Dynamic Scenario-Based Portfolio Optimization for Multi-Asset ETFs | [link](https://arxiv.org/abs/2611.16540) |
+| 2026-11-12 | complexity | 1 | Continuous-Time Random Walks with Internal Stochastic Renewal Process | [link](https://arxiv.org/abs/2611.16383) |
+| 2026-11-12 | network | 1 | Scale-rich network metamaterials grow by local rules on a recursive cell division | [link](https://arxiv.org/abs/2611.16513) |
+| 2026-11-12 | network | 1 | Tracing dependency networks explains how origins shape downstream vulnerability | [link](https://arxiv.org/abs/2611.16326) |
+| 2026-11-12 | info_theory | 1 | A Constructive Theory of Closed-Form Rate-Distortion Functions | [link](https://arxiv.org/abs/2611.16253) |
+| 2026-11-12 | bio_inspired | 1 | Optimal feature selection for firewall log analysis using Machine learning and Hybrid Metaheuristic algorithms | [link](https://arxiv.org/abs/2611.16239) |
+| 2026-11-11 | complexity | 1 | Holographic Wilsonian RG of Yang-Mills theory in AdS | [link](https://arxiv.org/abs/2611.16074) |
+| 2026-11-11 | complexity | 1 | Entropy production decomposition and fluctuation theorems under continuous feedback: From prescribed to stochastic protocols | [link](https://arxiv.org/abs/2611.16070) |
+| 2026-11-11 | complexity | 1 | Eigenvalue Crossings and Discontinuous BBP Transitions in Spiked Euclidean Random Matrices | [link](https://arxiv.org/abs/2611.15927) |
+| 2026-11-11 | info_theory | 1 | Subadditivity and the failure of strong subadditivity in the Nichols--Wootters family of entropies | [link](https://arxiv.org/abs/2611.15431) |
+| 2026-11-11 | bio_inspired | 1 | A Multi-Parent Edge Assembly Crossover Driven Hybrid Genetic Algorithm for the Hamiltonian \textit{p}-Median Problem | [link](https://arxiv.org/abs/2611.15219) |
+| 2026-11-10 | network | 1 | Locating Debunkers for Rumor Mitigation in Directed Networks | [link](https://arxiv.org/abs/2611.14825) |
+| 2026-11-12 | complexity | 0 | Discrete Time Crystals from Anti-Unitary Floquet Driving and Dynamical Freezing | [link](https://arxiv.org/abs/2611.17333) |
+| 2026-11-12 | complexity | 0 | Statistics of Fock-space correlation lengths in the many-body localised phase | [link](https://arxiv.org/abs/2611.17306) |
+| 2026-11-12 | complexity | 0 | Interactions from memory footprints: Cage-hopping, mnemotaxis & nonreciprocity | [link](https://arxiv.org/abs/2611.17257) |
+| 2026-11-12 | complexity | 0 | Ergodicity breaking for data classification in a dissipative Ising model with competing two- and four-body interactions | [link](https://arxiv.org/abs/2611.17036) |
+| 2026-11-12 | complexity | 0 | Detecting non-Hermitian topology from long-time dynamics | [link](https://arxiv.org/abs/2611.16745) |
+| 2026-11-12 | complexity | 0 | Work extraction from a single negative-temperature bath: a temperature gradient-driven heat flow | [link](https://arxiv.org/abs/2611.16743) |
+| 2026-11-12 | complexity | 0 | Quantum tunneling of a measurement-driven active particle | [link](https://arxiv.org/abs/2611.16626) |
+| 2026-11-12 | complexity | 0 | Elasto-inertial force exerted on a sphere oscillating in a fluid near a soft interface | [link](https://arxiv.org/abs/2611.16575) |
+| 2026-11-12 | complexity | 0 | Thermal Hall sign reversal from competing magnons and magnon pairs in pyrochlore spin-nematic magnets | [link](https://arxiv.org/abs/2611.16440) |
+| 2026-11-12 | complexity | 0 | Why "quantum spin liquids'' are quantum singlet liquids | [link](https://arxiv.org/abs/2611.16428) |
+| 2026-11-12 | complexity | 0 | Visibility graphs of irregularly sampled two-dimensional fields via Voronoi tessellations | [link](https://arxiv.org/abs/2611.16336) |
+| 2026-11-12 | complexity | 0 | Optimal staircase structure for bacterial adaptation in antibiotic landscapes | [link](https://arxiv.org/abs/2611.16325) |
+| 2026-11-12 | complexity | 0 | Quantum Cost of Emptiness in a One-Dimensional Bose Gas | [link](https://arxiv.org/abs/2611.16247) |
+| 2026-11-12 | complexity | 0 | A thermodynamically consistent, fully compressible, fluctuating hydrodynamics model of a Cahn Hilliard binary fluid mixture | [link](https://arxiv.org/abs/2611.16121) |
+| 2026-11-12 | network | 0 | Inheritance of Connectivity: Modeling Higher-Order Dynamic Networks with the Birth-Death Process | [link](https://arxiv.org/abs/2611.16476) |
+| 2026-11-11 | complexity | 0 | Monopole crystal and effective theory for a monopole-enhanced 3D U(1) gauge theory | [link](https://arxiv.org/abs/2611.15922) |
+| 2026-11-11 | complexity | 0 | U(1)-Symmetric Spin SYK Models: Ordering, Chaos, and Transport | [link](https://arxiv.org/abs/2611.15896) |
