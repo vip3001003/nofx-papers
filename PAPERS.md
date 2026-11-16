@@ -3678,3 +3678,22 @@
 | 2026-11-12 | network | 0 | Inheritance of Connectivity: Modeling Higher-Order Dynamic Networks with the Birth-Death Process | [link](https://arxiv.org/abs/2611.16476) |
 | 2026-11-11 | complexity | 0 | Monopole crystal and effective theory for a monopole-enhanced 3D U(1) gauge theory | [link](https://arxiv.org/abs/2611.15922) |
 | 2026-11-11 | complexity | 0 | U(1)-Symmetric Spin SYK Models: Ordering, Chaos, and Transport | [link](https://arxiv.org/abs/2611.15896) |
+| 2026-11-13 | complexity | 5 | Entanglement and information dynamics in charged dual-unitary circuits with impurities | [link](https://arxiv.org/abs/2611.18435) |
+| 2026-11-13 | complexity | 3 | Foundation Tensor Networks Generalize Across Quantum Lattice Systems | [link](https://arxiv.org/abs/2611.17655) |
+| 2026-11-13 | complexity | 2 | Correlation functions of the Lieb--Liniger Bose gas in equilibrium states: a microscopic approach to space-time asymptotics | [link](https://arxiv.org/abs/2611.18316) |
+| 2026-11-13 | network | 2 | A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting | [link](https://arxiv.org/abs/2611.18389) |
+| 2026-11-13 | complexity | 1 | Mechanical acclimation of bacterial growth and division across generations | [link](https://arxiv.org/abs/2611.18273) |
+| 2026-11-13 | complexity | 0 | Real-Space-RG for the drawups and drawdowns of run-and-tumble trajectories: universality classes for models with space-dependent velocities and switching rates | [link](https://arxiv.org/abs/2611.18270) |
+| 2026-11-13 | complexity | 0 | Exact stochastic theory of post-transcriptional gene autoregulation mediated by RNA-binding proteins | [link](https://arxiv.org/abs/2611.18062) |
+| 2026-11-13 | complexity | 0 | Quantum kinetic uncertainty relations: Role of coherence in current fluctuation bounds | [link](https://arxiv.org/abs/2611.18037) |
+| 2026-11-13 | complexity | 0 | Emulating spatially extended systems using Fourier Neural Operator | [link](https://arxiv.org/abs/2611.18007) |
+| 2026-11-13 | complexity | 0 | A Multiobjective Optimization Framework for Sensor Array Design in Magnetocardiography | [link](https://arxiv.org/abs/2611.17976) |
+| 2026-11-13 | complexity | 0 | Magic of Dicke states: density, cost and yield | [link](https://arxiv.org/abs/2611.17623) |
+| 2026-11-13 | network | 0 | Latent resonances in oscillator networks | [link](https://arxiv.org/abs/2611.18031) |
+| 2026-11-12 | complexity | 0 | Annihilation versus anchoring of a topologically charged pair on a perforated two-dimensional surface | [link](https://arxiv.org/abs/2611.17570) |
+| 2026-11-12 | complexity | 0 | Mean-field theory of neural networks: from spikes to firing rates | [link](https://arxiv.org/abs/2611.17512) |
+| 2026-11-12 | complexity | 0 | In-plane diffusion, spurious drift and a physics-structured gap predictor for a free colloidal pair | [link](https://arxiv.org/abs/2611.17508) |
+| 2026-11-12 | complexity | 0 | Optimal heterogeneous diffusivity profiles for mean first-passage minimization | [link](https://arxiv.org/abs/2611.17470) |
+| 2026-11-12 | complexity | 0 | Fast mixing and thermal phases from strong decay of correlations | [link](https://arxiv.org/abs/2611.17433) |
+| 2026-11-12 | complexity | 0 | Analytic spread complexity in three-level systems and the spacing-ratio distribution | [link](https://arxiv.org/abs/2611.17417) |
+| 2026-11-12 | complexity | 0 | Fluctuations of Local Patterns in Non-Periodic Uniquely Ergodic Systems | [link](https://arxiv.org/abs/2611.16685) |
