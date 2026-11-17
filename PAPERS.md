@@ -3697,3 +3697,43 @@
 | 2026-11-12 | complexity | 0 | Fast mixing and thermal phases from strong decay of correlations | [link](https://arxiv.org/abs/2611.17433) |
 | 2026-11-12 | complexity | 0 | Analytic spread complexity in three-level systems and the spacing-ratio distribution | [link](https://arxiv.org/abs/2611.17417) |
 | 2026-11-12 | complexity | 0 | Fluctuations of Local Patterns in Non-Periodic Uniquely Ergodic Systems | [link](https://arxiv.org/abs/2611.16685) |
+| 2026-11-16 | crypto | 5 | Stochastic Modelling of High-frequency (HF) Crypto Limit Order Book (LOB) with General Compound Marked Hawkes Process | [link](https://arxiv.org/abs/2611.20839) |
+| 2026-11-16 | complexity | 4 | Relaxation Critical Dynamics of Strong-to-Weak Spontaneous Symmetry Breaking | [link](https://arxiv.org/abs/2611.20581) |
+| 2026-11-16 | complexity | 3 | The $N$-channel white-noise Schrödinger operator in all three Dyson classes. I. Explicit stationary admittance distribution, density of states and outgoing Kontsevich matrix Airy integrals | [link](https://arxiv.org/abs/2611.21067) |
+| 2026-11-16 | complexity | 3 | Efficient Finite-Temperature Krylov Methods Based on Imaginary-Time Evolution | [link](https://arxiv.org/abs/2611.20506) |
+| 2026-11-16 | bio_inspired | 3 | Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent | [link](https://arxiv.org/abs/2611.21598) |
+| 2026-11-14 | complexity | 3 | Finite-size scaling of $\mathcal{PT}$-symmetry breaking decoupled from thermodynamic criticality in a complex-conjugate Ising model | [link](https://arxiv.org/abs/2611.19386) |
+| 2026-11-15 | complexity | 2 | Exceptional structure and Lifshitz criticality in a non-Hermitian Kitaev chain | [link](https://arxiv.org/abs/2611.20327) |
+| 2026-11-15 | complexity | 2 | Self-assembly of dipolar nanoclusters on an attractive substrate: A coarse-grained simulation approach | [link](https://arxiv.org/abs/2611.20002) |
+| 2026-11-15 | complexity | 2 | Basic introduction to Freidlin-Wentzell theory | [link](https://arxiv.org/abs/2611.19916) |
+| 2026-11-15 | complexity | 2 | A phase diagram for training and inference in language models | [link](https://arxiv.org/abs/2611.19848) |
+| 2026-11-14 | complexity | 2 | When the Boundary Changes the Bulk: Topological Edge Modes in Dynamical Quantum Phase Transitions | [link](https://arxiv.org/abs/2611.19328) |
+| 2026-11-16 | complexity | 1 | Renormalization group study of critical behavior of $O(m)$ model with cubic anisotropy and extended defects: two-loop approximation | [link](https://arxiv.org/abs/2611.21482) |
+| 2026-11-16 | info_theory | 1 | Practical Semantic Communication for General-Purpose Networks: Compression of High-Dimensional Embeddings Under Quantization | [link](https://arxiv.org/abs/2611.20863) |
+| 2026-11-15 | complexity | 1 | Decoding SO(5) Deconfined Multicriticality: Conformal Bootstrap and Fuzzy-Sphere Spectroscopy | [link](https://arxiv.org/abs/2611.20214) |
+| 2026-11-15 | complexity | 1 | A feedback-driven central limit theorem with $q$-Gaussian limits | [link](https://arxiv.org/abs/2611.20201) |
+| 2026-11-14 | complexity | 1 | State-space symmetry in Boolean network ensembles | [link](https://arxiv.org/abs/2611.19639) |
+| 2026-11-14 | complexity | 1 | A Hierarchical Statistical Framework for Evaluating Agent Reliability | [link](https://arxiv.org/abs/2611.19614) |
+| 2026-11-14 | complexity | 1 | Geodesics and a Hubble Relation in Nonstationary Thermodynamic Geometry | [link](https://arxiv.org/abs/2611.19524) |
+| 2026-11-14 | complexity | 1 | A Universal Algebraic Construction of Hilbert-Space Fragmentation | [link](https://arxiv.org/abs/2611.19470) |
+| 2026-11-14 | info_theory | 1 | Entropy-Based and Quadratic Conditional Innovation Metrics for Informed Dynamic Scheduling of Belief-Propagation Decoding for LDPC Codes | [link](https://arxiv.org/abs/2611.19269) |
+| 2026-11-16 | complexity | 0 | Emptiness formation in quantum fluids: a hydrodynamic solution | [link](https://arxiv.org/abs/2611.21581) |
+| 2026-11-16 | complexity | 0 | Localization transition in a spin chain with an exact Fock-space tree | [link](https://arxiv.org/abs/2611.21445) |
+| 2026-11-16 | complexity | 0 | A Free Energy Approach to Modelling Disordered Hyperuniform Patterns | [link](https://arxiv.org/abs/2611.21351) |
+| 2026-11-16 | complexity | 0 | Dynamical theory of the East model. I. A review on the Zwanzig-Mori projection-operator formalism | [link](https://arxiv.org/abs/2611.20946) |
+| 2026-11-16 | complexity | 0 | Noise-induced manifolds: reduction of slow--fast SDEs to switching processes | [link](https://arxiv.org/abs/2611.20903) |
+| 2026-11-16 | complexity | 0 | A simple solvable $Z_N$ Hamiltonian in any dimension | [link](https://arxiv.org/abs/2611.20874) |
+| 2026-11-16 | complexity | 0 | Percolation under Edge-Reversal: Creation and Destruction of Strong Connectivity in Directed Networks | [link](https://arxiv.org/abs/2611.20717) |
+| 2026-11-16 | network | 0 | Recurrent losers: A network approach to cover-bidding patterns in public procurement | [link](https://arxiv.org/abs/2611.20527) |
+| 2026-11-16 | info_theory | 0 | Axioms for relative entropy | [link](https://arxiv.org/abs/2611.21549) |
+| 2026-11-16 | info_theory | 0 | K-out-of-N Oblivious Transfer over Erasure Channels: Capacity and Reductions | [link](https://arxiv.org/abs/2611.21359) |
+| 2026-11-15 | complexity | 0 | Logarithmic thermodynamic cost of prediction from rare observations | [link](https://arxiv.org/abs/2611.20248) |
+| 2026-11-15 | complexity | 0 | Calculating correlation functions in integrable spin chains from local conserved charges and currents | [link](https://arxiv.org/abs/2611.20181) |
+| 2026-11-14 | complexity | 0 | A Neural Density Functional for Spatial Structure and Orientational Ordering in Two-Dimensional Lattice Hard Rods | [link](https://arxiv.org/abs/2611.19553) |
+| 2026-11-14 | complexity | 0 | Bright-Dark State Interplay Governs Vibronic Decoherence in Molecular Aggregates | [link](https://arxiv.org/abs/2611.19483) |
+| 2026-11-14 | complexity | 0 | Computing rare events in Lévy-driven systems via optimal control | [link](https://arxiv.org/abs/2611.19481) |
+| 2026-11-14 | complexity | 0 | Hydration-induced local diffusivity heterogeneity modulates aqueous $H_2+OH$ reaction kinetics | [link](https://arxiv.org/abs/2611.19422) |
+| 2026-11-14 | complexity | 0 | Finding Low-Energy States of the Bernasconi Model via Simulated Transverse-Field Quantum Dynamics | [link](https://arxiv.org/abs/2611.19301) |
+| 2026-11-14 | network | 0 | Food co-purchasing networks encode geographic disparities in cardiometabolic health | [link](https://arxiv.org/abs/2611.19420) |
+| 2026-11-14 | info_theory | 0 | Zero-shot diffusion image compression with sectioned codebooks and one channel code | [link](https://arxiv.org/abs/2611.19192) |
+| 2026-11-13 | info_theory | 0 | A proof of the Eskenazis--Nayar--Tkocz conjecture on entropy maximization for cube projections | [link](https://arxiv.org/abs/2611.18798) |
