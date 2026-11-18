@@ -3737,3 +3737,32 @@
 | 2026-11-14 | network | 0 | Food co-purchasing networks encode geographic disparities in cardiometabolic health | [link](https://arxiv.org/abs/2611.19420) |
 | 2026-11-14 | info_theory | 0 | Zero-shot diffusion image compression with sectioned codebooks and one channel code | [link](https://arxiv.org/abs/2611.19192) |
 | 2026-11-13 | info_theory | 0 | A proof of the Eskenazis--Nayar--Tkocz conjecture on entropy maximization for cube projections | [link](https://arxiv.org/abs/2611.18798) |
+| 2026-11-16 | complexity | 4 | Structural balance in complex networks: from measurement to dynamics, emergence and implications | [link](https://arxiv.org/abs/2611.21963) |
+| 2026-11-17 | complexity | 3 | From nonlocal correlations to local symmetry breaking: Asymmetry dynamics of crosscap states | [link](https://arxiv.org/abs/2611.23224) |
+| 2026-11-17 | complexity | 3 | Molecular memory reduces timing noise in stochastic gene expression | [link](https://arxiv.org/abs/2611.22554) |
+| 2026-11-17 | complexity | 3 | Emergence and Collapse of Leader-Follower Flocks through Phantom Targets: Surprise Nullification in Bayesian and Inverse Bayesian Inference | [link](https://arxiv.org/abs/2611.22190) |
+| 2026-11-17 | complexity | 2 | Photon condensation driven by scalar spin chirality | [link](https://arxiv.org/abs/2611.23178) |
+| 2026-11-17 | bio_inspired | 2 | Evolving Neural Solvers for Multi-objective Combinatorial Optimization | [link](https://arxiv.org/abs/2611.22060) |
+| 2026-11-16 | complexity | 2 | Magnetic tuning of odd elastic instabilities in chiral active crystals | [link](https://arxiv.org/abs/2611.21876) |
+| 2026-11-17 | complexity | 1 | Polymer adsorption on vicinal surfaces | [link](https://arxiv.org/abs/2611.22966) |
+| 2026-11-17 | complexity | 1 | Contact-number hyperuniformity at glass close packing in infinite dimensions | [link](https://arxiv.org/abs/2611.22209) |
+| 2026-11-17 | complexity | 1 | Exact Dynamic Scaling of Quantum Jump Statistics in Monitored Many-Body Systems | [link](https://arxiv.org/abs/2611.22029) |
+| 2026-11-16 | complexity | 1 | Infrared fluctuations and collective entanglement modes in harmonic lattices | [link](https://arxiv.org/abs/2611.21830) |
+| 2026-11-16 | complexity | 1 | Hidden convexity of the Eliashberg condensation energy: existence, uniqueness and continuity of the superconducting state | [link](https://arxiv.org/abs/2611.21773) |
+| 2026-11-11 | bio_inspired | 1 | Multiobjective household energy planning using evolutionary algorithms | [link](https://arxiv.org/abs/2611.21668) |
+| 2026-11-17 | complexity | 0 | An Effective Theory for Hot Lines | [link](https://arxiv.org/abs/2611.23169) |
+| 2026-11-17 | complexity | 0 | Color Through Time: Distributions, Sparsity and Dominance in Western Painting | [link](https://arxiv.org/abs/2611.23139) |
+| 2026-11-17 | complexity | 0 | Memory kernel and closure for systems driven by intermittent forcing with power-law waiting times | [link](https://arxiv.org/abs/2611.23092) |
+| 2026-11-17 | complexity | 0 | Unique continuation for the Pauli-Fierz Hamiltonian | [link](https://arxiv.org/abs/2611.23062) |
+| 2026-11-17 | complexity | 0 | Reversing the text is not reversing the path: a fixed-text measure without a zero, and an assembly-order comparison that vanishes identically | [link](https://arxiv.org/abs/2611.23049) |
+| 2026-11-17 | complexity | 0 | Dynamical theory of the East model. II. A path-probability formalism | [link](https://arxiv.org/abs/2611.23008) |
+| 2026-11-17 | complexity | 0 | Effects of probe size, shape, and probe-surface interactions in imaging multilayer island growth, coalescence, and formation of a smooth film | [link](https://arxiv.org/abs/2611.22758) |
+| 2026-11-17 | complexity | 0 | Bypassing the Entropy Production Speed Limit of State-to-State Transitions with Adaptive Resetting | [link](https://arxiv.org/abs/2611.22712) |
+| 2026-11-17 | complexity | 0 | Predicting Quantum Mpemba Effects from Quantum Speed Limits | [link](https://arxiv.org/abs/2611.22547) |
+| 2026-11-17 | complexity | 0 | Confinement Alters Energy Relaxation in Subrecoil Laser Cooling | [link](https://arxiv.org/abs/2611.22436) |
+| 2026-11-17 | complexity | 0 | Strong eigenstate thermalization in Singer-cycle Clifford circuits | [link](https://arxiv.org/abs/2611.22391) |
+| 2026-11-17 | info_theory | 0 | Optimal Min-Entropy Estimation with High Probability | [link](https://arxiv.org/abs/2611.23116) |
+| 2026-11-17 | bio_inspired | 0 | TabDAG: Structured Evolutionary Search for Tabular Feature Engineering | [link](https://arxiv.org/abs/2611.22828) |
+| 2026-11-16 | complexity | 0 | Dynamics and transport in LiF using classical and machine learned interatomic potentials | [link](https://arxiv.org/abs/2611.21900) |
+| 2026-11-16 | complexity | 0 | Shortest-path percolation and structural robustness of quantum internet networks | [link](https://arxiv.org/abs/2611.21855) |
+| 2026-11-10 | info_theory | 0 | Entropy maximization for cube projections | [link](https://arxiv.org/abs/2611.13533) |
