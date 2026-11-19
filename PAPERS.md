@@ -3766,3 +3766,36 @@
 | 2026-11-16 | complexity | 0 | Dynamics and transport in LiF using classical and machine learned interatomic potentials | [link](https://arxiv.org/abs/2611.21900) |
 | 2026-11-16 | complexity | 0 | Shortest-path percolation and structural robustness of quantum internet networks | [link](https://arxiv.org/abs/2611.21855) |
 | 2026-11-10 | info_theory | 0 | Entropy maximization for cube projections | [link](https://arxiv.org/abs/2611.13533) |
+| 2026-11-18 | volume | 5 | Algorithmic Market Making Can Lead to Rough Volatility Through the Order Book | [link](https://arxiv.org/abs/2611.24028) |
+| 2026-11-18 | complexity | 3 | A Monte Carlo study of closely packed two-patch particles with frustrated interactions | [link](https://arxiv.org/abs/2611.24560) |
+| 2026-11-18 | complexity | 3 | Finite-time stochastic resetting in bounded domains: competing targets, energetic cost, and optimal search strategies | [link](https://arxiv.org/abs/2611.23790) |
+| 2026-11-17 | complexity | 3 | Topological signatures of criticality: the Ising case | [link](https://arxiv.org/abs/2611.23586) |
+| 2026-11-18 | complexity | 2 | Blanket theory for dense networks | [link](https://arxiv.org/abs/2611.23960) |
+| 2026-11-17 | complexity | 2 | Exact Solutions to Matrix Models and String Theories: The Global Construction | [link](https://arxiv.org/abs/2611.23366) |
+| 2026-11-18 | complexity | 1 | When Time-Reversible Sensor Records Require Hidden Dissipation | [link](https://arxiv.org/abs/2611.24898) |
+| 2026-11-18 | complexity | 1 | A provably efficient classical algorithm for simulating OTOC$^{(1)}$ in 1D | [link](https://arxiv.org/abs/2611.24640) |
+| 2026-11-18 | complexity | 1 | Numerical integration of non-local master equations for renewal shot noise with drift and state-dependent amplitude | [link](https://arxiv.org/abs/2611.24390) |
+| 2026-11-18 | complexity | 1 | Phase transitions in work fluctuations in correlated N-particle resets | [link](https://arxiv.org/abs/2611.24318) |
+| 2026-11-18 | complexity | 1 | Amplifying or Redistributing Coupling: Synchronization in Sparse Adaptive Oscillator Networks | [link](https://arxiv.org/abs/2611.24268) |
+| 2026-11-18 | network | 1 | Modelling population distribution across cities on spatial networks using the kinetic theory of multi-agent systems | [link](https://arxiv.org/abs/2611.24657) |
+| 2026-11-18 | complexity | 0 | A Nonsecular Quantum Master Equation with Detailed Balance and Second-order Error Bound | [link](https://arxiv.org/abs/2611.24911) |
+| 2026-11-18 | complexity | 0 | Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach | [link](https://arxiv.org/abs/2611.24759) |
+| 2026-11-18 | complexity | 0 | Reliable arithmetic circuits using less reliable (sub-digital) logic | [link](https://arxiv.org/abs/2611.24591) |
+| 2026-11-18 | complexity | 0 | A Bose-Hubbard quantum thermal machine | [link](https://arxiv.org/abs/2611.24483) |
+| 2026-11-18 | complexity | 0 | Virtual Autopurification in Translationally Invariant Quantum States | [link](https://arxiv.org/abs/2611.24448) |
+| 2026-11-18 | complexity | 0 | Neither graphs nor hypergraphs: structural moments of higher-order interactions determine stochastic social-impact dynamics | [link](https://arxiv.org/abs/2611.24252) |
+| 2026-11-18 | complexity | 0 | Geometric Decomposition of Entropy Production Based on General $f$-Divergences | [link](https://arxiv.org/abs/2611.24024) |
+| 2026-11-18 | complexity | 0 | Free energy distribution for two non-crossing directed polymers on the cylinder | [link](https://arxiv.org/abs/2611.23981) |
+| 2026-11-18 | complexity | 0 | A structure-based model of the bacterial chemosensory array reveals how the scaffolding protein CheW tunes sensory responses | [link](https://arxiv.org/abs/2611.23921) |
+| 2026-11-18 | complexity | 0 | Localized active phase in the coevolving voter model with fixed links | [link](https://arxiv.org/abs/2611.23870) |
+| 2026-11-18 | complexity | 0 | Cumulant Generating Function of the Hill-Lane-Sudderth urn model | [link](https://arxiv.org/abs/2611.23778) |
+| 2026-11-18 | complexity | 0 | Charged Schrödinger blocks in $1+1$ dimensions from the quartic Casimir and endpoint equations | [link](https://arxiv.org/abs/2611.23758) |
+| 2026-11-18 | info_theory | 0 | Relative Entropy under Ordered Chi-Squared Constraints: Exact Bounds and Extremizers | [link](https://arxiv.org/abs/2611.24607) |
+| 2026-11-18 | bio_inspired | 0 | Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization Problems with Interactions | [link](https://arxiv.org/abs/2611.24251) |
+| 2026-11-18 | bio_inspired | 0 | Incremental Speciation in Evolutionary Red Teaming of Large Language Models | [link](https://arxiv.org/abs/2611.23949) |
+| 2026-11-18 | bio_inspired | 0 | AdaS-ViT: Test-Time Adaptive Routing for Spiking Vision Transformers with Ultra-High Energy Efficiency | [link](https://arxiv.org/abs/2611.23728) |
+| 2026-11-17 | complexity | 0 | Kinetic theory of dry granular particles under simple shear: steady flows and relaxation dynamics | [link](https://arxiv.org/abs/2611.23635) |
+| 2026-11-17 | complexity | 0 | Persistent Hydration and Ionic Mobility: When the Ion Is Not the Only Transported Species | [link](https://arxiv.org/abs/2611.23605) |
+| 2026-11-17 | complexity | 0 | Quantum resources and the onset of the quantum Monte Carlo sign problem | [link](https://arxiv.org/abs/2611.23514) |
+| 2026-11-17 | complexity | 0 | Where the Tokens Go: Heat, Entropy and Error in Agentic Coding | [link](https://arxiv.org/abs/2611.23375) |
+| 2026-11-17 | info_theory | 0 | The Double Entropy Fit Index (DEFI): An Information-Theoretic Approach to Dimensionality Reduction and Clustering | [link](https://arxiv.org/abs/2611.23523) |
