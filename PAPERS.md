@@ -3799,3 +3799,28 @@
 | 2026-11-17 | complexity | 0 | Quantum resources and the onset of the quantum Monte Carlo sign problem | [link](https://arxiv.org/abs/2611.23514) |
 | 2026-11-17 | complexity | 0 | Where the Tokens Go: Heat, Entropy and Error in Agentic Coding | [link](https://arxiv.org/abs/2611.23375) |
 | 2026-11-17 | info_theory | 0 | The Double Entropy Fit Index (DEFI): An Information-Theoretic Approach to Dimensionality Reduction and Clustering | [link](https://arxiv.org/abs/2611.23523) |
+| 2026-11-19 | complexity | 3 | Critical droplets and metastability in long-range chains | [link](https://arxiv.org/abs/2611.25764) |
+| 2026-11-18 | complexity | 3 | A Symmetry-Stratified Framework for Phase Transitions: Thermodynamic States, Critical Dynamics, and Spectral Mechanical Signatures | [link](https://arxiv.org/abs/2611.25212) |
+| 2026-11-19 | complexity | 2 | Chasing the KPZ exponents | [link](https://arxiv.org/abs/2611.26166) |
+| 2026-11-19 | complexity | 2 | Local-channel inequivalence within analytic symmetry-broken phases | [link](https://arxiv.org/abs/2611.26139) |
+| 2026-11-19 | complexity | 2 | Genuinely Out-of-Equilibrium Bose-Einstein Condensation | [link](https://arxiv.org/abs/2611.26123) |
+| 2026-11-18 | complexity | 2 | The phase diagram of fluid hydrogen near melting from machine-learned interatomic potentials trained on quantum Monte Carlo | [link](https://arxiv.org/abs/2611.25178) |
+| 2026-11-18 | complexity | 2 | Certified Discovery of Quantum Phase Diagrams | [link](https://arxiv.org/abs/2611.25064) |
+| 2026-11-19 | complexity | 1 | High-temperature Gibbs states are uniformly Markovian and trivial | [link](https://arxiv.org/abs/2611.26626) |
+| 2026-11-19 | complexity | 1 | Field theory and the biquadratic spin-1 chain | [link](https://arxiv.org/abs/2611.26610) |
+| 2026-11-19 | complexity | 1 | Exact fermionic decay length and Majorana localization in the sign-alternating kagomé Ising model | [link](https://arxiv.org/abs/2611.26529) |
+| 2026-11-19 | complexity | 1 | Nonequilibrium Statistical Mechanics: Physical Concepts & Mathematical Tools | [link](https://arxiv.org/abs/2611.26394) |
+| 2026-11-19 | complexity | 1 | Exact finite-time fluctuation-response relations for Markov processes: A martingale framework | [link](https://arxiv.org/abs/2611.26267) |
+| 2026-11-19 | complexity | 1 | Symmetry-resolved spectroscopy of truncation-induced perturbations in loop tensor network renormalization of the six-vertex model | [link](https://arxiv.org/abs/2611.25322) |
+| 2026-11-18 | complexity | 1 | Geometric control of diffusive relaxation: spectral design, transport bounds and transverse mode isolation | [link](https://arxiv.org/abs/2611.25173) |
+| 2026-11-19 | complexity | 0 | When the Noise Gets Noisy: Quantum Error Correction with Disordered Noise and Misinformed Decoding | [link](https://arxiv.org/abs/2611.26506) |
+| 2026-11-19 | complexity | 0 | Nonstandard quantum statistics for strongly correlated systems: Superexclusion in momentum space and comparison with exact results | [link](https://arxiv.org/abs/2611.26489) |
+| 2026-11-19 | complexity | 0 | Tunable Ground-State Entanglement in Fully Connected Quantum Systems: From Logarithmic to Volume-Law Scaling | [link](https://arxiv.org/abs/2611.26430) |
+| 2026-11-19 | complexity | 0 | Imaginary-Time Density Correlations Encode Quantum Entropy and Free Energy | [link](https://arxiv.org/abs/2611.26381) |
+| 2026-11-19 | complexity | 0 | First-passage and correlated reset-count statistics under threshold and Poissonian resetting in a two-dimensional wedge geometry | [link](https://arxiv.org/abs/2611.26345) |
+| 2026-11-19 | complexity | 0 | Wigner-Dyson correlations in selected sectors of an integrable spin chain | [link](https://arxiv.org/abs/2611.26263) |
+| 2026-11-19 | complexity | 0 | Two Faces of Spacetime Density Matrices: Entanglement and Complexity | [link](https://arxiv.org/abs/2611.25634) |
+| 2026-11-19 | complexity | 0 | Dynamical Variational Theory of Stochastic Reaction Networks | [link](https://arxiv.org/abs/2611.25491) |
+| 2026-11-19 | complexity | 0 | Semiclassical Averaging and Temporal Fluctuations of Quantum Dark Solitons in the Lieb-Liniger Model | [link](https://arxiv.org/abs/2611.25343) |
+| 2026-11-19 | bio_inspired | 0 | Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing | [link](https://arxiv.org/abs/2611.25610) |
+| 2026-11-18 | complexity | 0 | Quantum many-body scars and zero modes in the spin-1 Kitaev chain | [link](https://arxiv.org/abs/2611.25051) |
