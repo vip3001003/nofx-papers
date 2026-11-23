@@ -3824,3 +3824,35 @@
 | 2026-11-19 | complexity | 0 | Semiclassical Averaging and Temporal Fluctuations of Quantum Dark Solitons in the Lieb-Liniger Model | [link](https://arxiv.org/abs/2611.25343) |
 | 2026-11-19 | bio_inspired | 0 | Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing | [link](https://arxiv.org/abs/2611.25610) |
 | 2026-11-18 | complexity | 0 | Quantum many-body scars and zero modes in the spin-1 Kitaev chain | [link](https://arxiv.org/abs/2611.25051) |
+| 2026-11-20 | complexity | 3 | Critical slowing down in hive temperature does not provide actionable early warnings of honey bee colony collapse | [link](https://arxiv.org/abs/2611.27766) |
+| 2026-11-19 | bio_inspired | 3 | Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning | [link](https://arxiv.org/abs/2611.26504) |
+| 2026-11-20 | complexity | 2 | Quantum Dobrushin comparison and locality of fermionic equilibrium states | [link](https://arxiv.org/abs/2611.27873) |
+| 2026-11-20 | complexity | 2 | Disk 2-point functions for conformal loop ensemble: a derivation from the SLE loop CFT | [link](https://arxiv.org/abs/2611.27767) |
+| 2026-11-20 | complexity | 2 | Bayesian Quantum Thermometry of Ultracold Gases with Non-Equilibrium Single-Atom Probes | [link](https://arxiv.org/abs/2611.27584) |
+| 2026-11-20 | complexity | 2 | Pushy Random Walk on the Bethe lattice: a Galton-Watson perspective | [link](https://arxiv.org/abs/2611.27386) |
+| 2026-11-19 | complexity | 2 | Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory | [link](https://arxiv.org/abs/2611.26695) |
+| 2026-11-20 | complexity | 1 | Molecular structure breaks universality in screening behavior of electrolyte solutions | [link](https://arxiv.org/abs/2611.27955) |
+| 2026-11-20 | complexity | 1 | Pseudo-entropy in Thouless Pumps and Majorana Topological Phases | [link](https://arxiv.org/abs/2611.27846) |
+| 2026-11-20 | complexity | 1 | Potential emergence in LLM agents: a statistical physics perspective | [link](https://arxiv.org/abs/2611.27618) |
+| 2026-11-20 | complexity | 1 | How many states does an exact relaxation model need? Sharp state complexity and geometric obstructions for reversible chains | [link](https://arxiv.org/abs/2611.27406) |
+| 2026-11-19 | complexity | 1 | Infection Spreading and Stochastic Extinction in Finite Spatially Inhomogeneous Susceptible-Infected-Susceptible and Susceptible-Infected-Recovered Systems | [link](https://arxiv.org/abs/2611.26792) |
+| 2026-11-19 | complexity | 1 | Large deviations, effective dynamics, and dynamical phase transitions in random maps | [link](https://arxiv.org/abs/2611.26704) |
+| 2026-11-20 | complexity | 0 | The Fiscal and Economic Implications of Green Mandates: a Boltzmann Approach to Public Governance | [link](https://arxiv.org/abs/2611.27923) |
+| 2026-11-20 | complexity | 0 | Optimised 8th-Order Trotter-Suzuki Schemes for Quantum Simulation | [link](https://arxiv.org/abs/2611.27896) |
+| 2026-11-20 | complexity | 0 | Thermo-electric Response Bound on Fluctuations in Coherent Transport | [link](https://arxiv.org/abs/2611.27884) |
+| 2026-11-20 | complexity | 0 | Autonomous quantum machine learning via Riemannian gradient-based optimization | [link](https://arxiv.org/abs/2611.27815) |
+| 2026-11-20 | complexity | 0 | Lattice-geometry dependence of Type-I and Type-II magnetic flux responses in strongly correlated bosons | [link](https://arxiv.org/abs/2611.27749) |
+| 2026-11-20 | complexity | 0 | Emergent Causality of Macroscopic Transport and Equilibration in Long-Range Quantum Systems | [link](https://arxiv.org/abs/2611.27650) |
+| 2026-11-20 | complexity | 0 | Cyclic perturbations encode memories in trained neural networks without loss of performance | [link](https://arxiv.org/abs/2611.27647) |
+| 2026-11-20 | complexity | 0 | Disentangling Lengthscales in Disordered Fracture | [link](https://arxiv.org/abs/2611.27581) |
+| 2026-11-20 | complexity | 0 | Adaptive obstacle deposition drives dynamical localization in chase-and-escape dynamics | [link](https://arxiv.org/abs/2611.27470) |
+| 2026-11-20 | complexity | 0 | Conductivity of electrolyte solutions: Self-consistent Debye-Hückel-Onsager theory | [link](https://arxiv.org/abs/2611.27430) |
+| 2026-11-20 | complexity | 0 | Hall effect in electrolyte solutions: Self-consistent Debye-Huckel-Onsager theory | [link](https://arxiv.org/abs/2611.27392) |
+| 2026-11-20 | complexity | 0 | Quantum order by disorder among lozenge tilings: a staircase of hub-free crystals between the Lieb ferrimagnet and the antiferromagnet | [link](https://arxiv.org/abs/2611.27076) |
+| 2026-11-20 | network | 0 | Network versus market information in coupled opinion-return dynamics | [link](https://arxiv.org/abs/2611.27874) |
+| 2026-11-20 | network | 0 | Adaptive Collective Decision-Making in Signed Networks | [link](https://arxiv.org/abs/2611.27147) |
+| 2026-11-20 | info_theory | 0 | $L^1$ stability of the entropy power inequality in $\mathbb{R}^d$ without moment assumptions | [link](https://arxiv.org/abs/2611.27790) |
+| 2026-11-19 | complexity | 0 | Majorana quasiparticles, mass hierarchies, and the phase diagram of the Gross-Neveu model in D=2+1 | [link](https://arxiv.org/abs/2611.26872) |
+| 2026-11-19 | complexity | 0 | Simple Routes to Turing-Like Patterns | [link](https://arxiv.org/abs/2611.26814) |
+| 2026-11-19 | complexity | 0 | Geometric properties of Wilsonian flows of periodic potentials in two dimensions | [link](https://arxiv.org/abs/2611.26753) |
+| 2026-11-19 | complexity | 0 | Fully Automated Discovery of Phase Diagrams Using Agentic Large Language Models | [link](https://arxiv.org/abs/2611.26749) |
