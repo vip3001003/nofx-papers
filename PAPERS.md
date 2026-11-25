@@ -3856,3 +3856,53 @@
 | 2026-11-19 | complexity | 0 | Simple Routes to Turing-Like Patterns | [link](https://arxiv.org/abs/2611.26814) |
 | 2026-11-19 | complexity | 0 | Geometric properties of Wilsonian flows of periodic potentials in two dimensions | [link](https://arxiv.org/abs/2611.26753) |
 | 2026-11-19 | complexity | 0 | Fully Automated Discovery of Phase Diagrams Using Agentic Large Language Models | [link](https://arxiv.org/abs/2611.26749) |
+| 2026-05-18 | ml | 4 | Empirical Limits of Risk-Averse Reinforcement Learning versus Gas-Aware Routing in Deterministic DeFi Execution | [link](https://arxiv.org/abs/2611.27987) |
+| 2026-11-24 | complexity | 3 | Energy transport from an active medium | [link](https://arxiv.org/abs/2611.32992) |
+| 2026-11-24 | complexity | 3 | Dynamic scaling behaviors induced by periodic drivings at continuous Ising quantum transitions | [link](https://arxiv.org/abs/2611.32301) |
+| 2026-06-16 | risk | 3 | Quantum-Inspired Risk Portfolio Optimization via Exponential Tilting | [link](https://arxiv.org/abs/2611.27990) |
+| 2026-11-24 | risk | 2 | Large-Scale Streaming Portfolio Optimization with Pauli Correlation Encoding | [link](https://arxiv.org/abs/2611.32769) |
+| 2026-11-24 | complexity | 2 | Anomalous front propagation in many-body quantum transport with memory-dependent resetting | [link](https://arxiv.org/abs/2611.32961) |
+| 2026-11-24 | complexity | 2 | Network topology imposes spectral constraints on collective nonequilibrium responses | [link](https://arxiv.org/abs/2611.32130) |
+| 2026-11-21 | crypto | 2 | Modeling Joint Tail Risk and Dependence for Cryptocurrencies via a Copula-Based Semiparametric Framework | [link](https://arxiv.org/abs/2611.28524) |
+| 2026-11-21 | bio_inspired | 2 | Neural-Network Approximators for Low-Thrust Multi-Asteroid Rendezvous Optimization | [link](https://arxiv.org/abs/2611.28728) |
+| 2026-11-15 | bio_inspired | 2 | Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering Design | [link](https://arxiv.org/abs/2611.31275) |
+| 2026-11-24 | complexity | 1 | Entanglement Asymmetry and the Quantum Mpemba Effect in Inhomogeneous Quenches | [link](https://arxiv.org/abs/2611.32934) |
+| 2026-11-24 | complexity | 1 | From Fermions to Vortices: Microscopic Simulations of Phase Ordering in a d-Wave Superconductor | [link](https://arxiv.org/abs/2611.32916) |
+| 2026-11-24 | complexity | 1 | Ordering Information in Multispecies Long-Range Swap Processes | [link](https://arxiv.org/abs/2611.32766) |
+| 2026-11-24 | complexity | 1 | Correlation functions of 2D critical models via a KPZ relation for conformal blocks | [link](https://arxiv.org/abs/2611.32485) |
+| 2026-11-24 | complexity | 1 | Classifying exact local-equilibrium solutions of the Boltzmann equation | [link](https://arxiv.org/abs/2611.32468) |
+| 2026-11-24 | complexity | 1 | Upper and lower bounds for the critical point of the three-dimensional Ising model | [link](https://arxiv.org/abs/2611.31872) |
+| 2026-11-23 | complexity | 1 | Absence of $σ$-criticality in Short-Range Spin Glasses | [link](https://arxiv.org/abs/2611.31584) |
+| 2026-11-23 | complexity | 1 | Eigenvalue-based computation of Richardson pairing spectra and finite-size thermodynamics | [link](https://arxiv.org/abs/2611.31531) |
+| 2026-11-23 | complexity | 1 | Localization in one-dimensional magnetic quasicrystals | [link](https://arxiv.org/abs/2611.31384) |
+| 2026-11-23 | complexity | 1 | Ground-State Chiral Quantum Clusters | [link](https://arxiv.org/abs/2611.31370) |
+| 2026-11-23 | bio_inspired | 1 | A steady-state genetic algorithm with multi-ratio seeding and pair exchange for the quadratic knapsack problem | [link](https://arxiv.org/abs/2611.31529) |
+| 2026-11-23 | bio_inspired | 1 | MF-EDA: Joining Membership Functions to Adapt the Number of Distributions in Gaussian Estimation-of-Distribution Algorithms | [link](https://arxiv.org/abs/2611.30436) |
+| 2026-11-22 | network | 1 | Physical co-presence of workers is linked with the evolution of interfirm networks | [link](https://arxiv.org/abs/2611.29191) |
+| 2026-11-22 | bio_inspired | 1 | Set-based comprehensive learning and particle swarm optimization with memory for discrete optimization problem | [link](https://arxiv.org/abs/2611.31306) |
+| 2026-11-24 | complexity | 0 | Topological insulators on site-eliminated, projected, and patterned fractal lattices | [link](https://arxiv.org/abs/2611.33155) |
+| 2026-11-24 | complexity | 0 | A model colloidal gel former for the measurement of inter-particle forces | [link](https://arxiv.org/abs/2611.33091) |
+| 2026-11-24 | complexity | 0 | Polar Streams through Active Condensation in Flocks | [link](https://arxiv.org/abs/2611.33007) |
+| 2026-11-24 | complexity | 0 | Local Thermodynamic Reconstruction of Impurity Entropy | [link](https://arxiv.org/abs/2611.32974) |
+| 2026-11-24 | complexity | 0 | Confinement-induced Transitions of Chiral Active Particles and Dumbbells | [link](https://arxiv.org/abs/2611.32972) |
+| 2026-11-24 | complexity | 0 | Recovery of Extended Modes from the Non-Hermitian Skin Effect Due to Local Nonlinearity on a Boundary | [link](https://arxiv.org/abs/2611.32783) |
+| 2026-11-24 | complexity | 0 | Lattice models of chiral random motion: A short review | [link](https://arxiv.org/abs/2611.32743) |
+| 2026-11-24 | complexity | 0 | Conformality lost in Anderson localization in infinite dimensions, and regained in finite dimensions: a phenomenological theory of the Anderson transition in high dimensions | [link](https://arxiv.org/abs/2611.32725) |
+| 2026-11-24 | complexity | 0 | Thermodynamics of complex crystals from a generalized mean-field bond model | [link](https://arxiv.org/abs/2611.32609) |
+| 2026-11-24 | complexity | 0 | Odd Viscosity-Driven Phase Separation in Chiral Active Mixtures | [link](https://arxiv.org/abs/2611.32535) |
+| 2026-11-24 | complexity | 0 | On fluctuation properties of the cumulative current in gTASEP on open chains | [link](https://arxiv.org/abs/2611.32495) |
+| 2026-11-24 | complexity | 0 | Relaxation dynamics of the impurity momentum in a one-dimensional Fermi gas | [link](https://arxiv.org/abs/2611.32280) |
+| 2026-11-24 | complexity | 0 | Exact Response Theory based on Karhunen-Loève Expansions for Brownian Oscillators | [link](https://arxiv.org/abs/2611.32038) |
+| 2026-11-24 | complexity | 0 | A colored look at anyons and parastatistics | [link](https://arxiv.org/abs/2611.31841) |
+| 2026-11-24 | network | 0 | Explaining intersectional segregation in multi-attribute social networks | [link](https://arxiv.org/abs/2611.32348) |
+| 2026-11-24 | network | 0 | Multi-Scale Temporal Structure of the Conti Ransomware Communication Network | [link](https://arxiv.org/abs/2611.32181) |
+| 2026-11-24 | info_theory | 0 | A Koashi--Imoto Criterion for Holevo-Rate Visible Compression | [link](https://arxiv.org/abs/2611.33129) |
+| 2026-11-24 | bio_inspired | 0 | Evolutionary constraints on protein fold diversity | [link](https://arxiv.org/abs/2611.33104) |
+| 2026-11-23 | complexity | 0 | From Growth Inhibition to Fluctuations: Testing an Ising Model of Bacterial Responses to Antibiotics | [link](https://arxiv.org/abs/2611.31609) |
+| 2026-11-23 | complexity | 0 | Locality from Nonlocality: Symmetry Relocalization and Gauging of Lattice Dirac Fermions | [link](https://arxiv.org/abs/2611.31366) |
+| 2026-11-23 | network | 0 | Friendship paradoxes in networks | [link](https://arxiv.org/abs/2611.29945) |
+| 2026-11-22 | network | 0 | Hyperbolic network embedding via dimensional annealing and Barnes--Hut approximation | [link](https://arxiv.org/abs/2611.29250) |
+| 2026-11-22 | bio_inspired | 0 | Differential evolution with perturbation for continuous function optimization | [link](https://arxiv.org/abs/2611.31305) |
+| 2026-11-21 | info_theory | 0 | Predictive Self-Entropy in Dirichlet Universal Coding: A Factor-Two Central Limit Theorem and a Markov Extension | [link](https://arxiv.org/abs/2611.31297) |
+| 2026-11-21 | bio_inspired | 0 | Which Model Belongs in the Loop? Evaluating Fitness Functions for Network Topology Optimization with a Quality-Diversity Algorithm | [link](https://arxiv.org/abs/2611.28915) |
+| 2026-11-12 | info_theory | 0 | Following the Error Through a Compressed Network:An Angular Measure for FFN Weight Compression in ViT-L/16 | [link](https://arxiv.org/abs/2611.28067) |
