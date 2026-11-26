@@ -3906,3 +3906,37 @@
 | 2026-11-21 | info_theory | 0 | Predictive Self-Entropy in Dirichlet Universal Coding: A Factor-Two Central Limit Theorem and a Markov Extension | [link](https://arxiv.org/abs/2611.31297) |
 | 2026-11-21 | bio_inspired | 0 | Which Model Belongs in the Loop? Evaluating Fitness Functions for Network Topology Optimization with a Quality-Diversity Algorithm | [link](https://arxiv.org/abs/2611.28915) |
 | 2026-11-12 | info_theory | 0 | Following the Error Through a Compressed Network:An Angular Measure for FFN Weight Compression in ViT-L/16 | [link](https://arxiv.org/abs/2611.28067) |
+| 2026-11-25 | complexity | 3 | The thermodynamic budget of objectivity | [link](https://arxiv.org/abs/2611.34909) |
+| 2026-11-25 | complexity | 3 | Data-enhanced self-learning projective quantum Monte Carlo with Rydberg-atom measurements | [link](https://arxiv.org/abs/2611.34636) |
+| 2026-11-25 | complexity | 3 | Patterns and correlations in time-reversal symmetry breaking | [link](https://arxiv.org/abs/2611.34244) |
+| 2026-11-25 | complexity | 3 | Discrete truncated Wigner approximation of the quantum phase transition in the transverse-field Ising model | [link](https://arxiv.org/abs/2611.34004) |
+| 2026-11-25 | complexity | 3 | Exploring Physical Mechanisms Underlying the Emergence of Collective Order | [link](https://arxiv.org/abs/2611.33988) |
+| 2026-11-25 | complexity | 3 | Exclusion and internal structure in the association/dissociation kinetics of DNA-binding proteins in the fast diffusion limit | [link](https://arxiv.org/abs/2611.33740) |
+| 2026-11-24 | complexity | 3 | Extrinsic thermodynamic geometry, symmetry, and the cost of constraint | [link](https://arxiv.org/abs/2611.33443) |
+| 2026-11-25 | complexity | 2 | Monotonic probes of asymmetry and robustness of the quantum Mpemba effect | [link](https://arxiv.org/abs/2611.34853) |
+| 2026-11-25 | complexity | 2 | Rényi multi-entropy from Riemann surfaces | [link](https://arxiv.org/abs/2611.34715) |
+| 2026-11-25 | complexity | 2 | Exact Lyapunov spectrum and localization length of the multichannel disordered Schrödinger equation | [link](https://arxiv.org/abs/2611.34455) |
+| 2026-11-25 | complexity | 2 | Unfreezing topology using out-of-equilibrium replica exchanges | [link](https://arxiv.org/abs/2611.34367) |
+| 2026-11-25 | complexity | 2 | The Phases of Hierarchy | [link](https://arxiv.org/abs/2611.33566) |
+| 2026-11-24 | complexity | 2 | Quantifying combined rate- and noise-induced transitions in a multiscale system | [link](https://arxiv.org/abs/2611.33449) |
+| 2026-11-25 | complexity | 1 | Vacuum correlation measures as CFT partition functions | [link](https://arxiv.org/abs/2611.34922) |
+| 2026-11-25 | complexity | 1 | Diffusion Effects on a Stochastic Amplifier Driven by the Square of a Gaussian Field: Discontinuous Transition to Intermittency | [link](https://arxiv.org/abs/2611.34532) |
+| 2026-11-25 | complexity | 1 | Uphill Diffusion in Yukawa Plasmas | [link](https://arxiv.org/abs/2611.34459) |
+| 2026-11-25 | complexity | 1 | Universal Work Extraction from Individual Sequences by Finite--State Information Engines | [link](https://arxiv.org/abs/2611.33984) |
+| 2026-11-25 | complexity | 1 | Controlling truncation errors in loop tensor network renormalization | [link](https://arxiv.org/abs/2611.33807) |
+| 2026-11-25 | complexity | 1 | Noise-induced Extinction in Hierarchical Food Webs | [link](https://arxiv.org/abs/2611.33569) |
+| 2026-11-25 | bio_inspired | 1 | Is Chaotic Dynamics Enhancing Particle Swarm Optimization? An Anytime Performance Assessment | [link](https://arxiv.org/abs/2611.34692) |
+| 2026-11-24 | complexity | 1 | Optimal Controlled Quantum Instrument for Monitored Many-Body Dynamics | [link](https://arxiv.org/abs/2611.33472) |
+| 2026-11-24 | network | 1 | Source Detection in Complex Networks: Observability, Identifiability, and Inference Frameworks | [link](https://arxiv.org/abs/2611.34652) |
+| 2026-11-25 | complexity | 0 | Transition Path Sampling for Rare Events in Non-Markovian Open Quantum Systems | [link](https://arxiv.org/abs/2611.34883) |
+| 2026-11-25 | complexity | 0 | Discotic columnar phase in a three-dimensional monomer-tetramer model of Heilmann and Lieb with side-to-side attraction | [link](https://arxiv.org/abs/2611.34796) |
+| 2026-11-25 | complexity | 0 | Slow mixing of Gibbs sampling for the quantum Curie-Weiss model | [link](https://arxiv.org/abs/2611.34682) |
+| 2026-11-25 | complexity | 0 | Measuring the Roughness of Quasi-Circular Interfaces at Finite Resolution | [link](https://arxiv.org/abs/2611.34556) |
+| 2026-11-25 | complexity | 0 | The transverse spin-gradient approximation in noncollinear spin density functional theory | [link](https://arxiv.org/abs/2611.34301) |
+| 2026-11-25 | complexity | 0 | Magnetization, susceptibility, and entanglement entropy in antiferromagnetic star-shaped homometallic tetranuclear and pentanuclear Cu(II) complexes | [link](https://arxiv.org/abs/2611.34281) |
+| 2026-11-25 | complexity | 0 | Reconstructing massive quivers on a defect circle | [link](https://arxiv.org/abs/2611.34129) |
+| 2026-11-25 | complexity | 0 | Rotation curves of dwarf galaxies and dark matter as a condensate of $q$-deformed bosons: reconstruction and fits of the deformation profile | [link](https://arxiv.org/abs/2611.33999) |
+| 2026-11-25 | complexity | 0 | Unified preparation of exact and asymptotic quantum many-body scars from Dicke states | [link](https://arxiv.org/abs/2611.33987) |
+| 2026-11-25 | info_theory | 0 | Exponential Analysis for Trace-Distance Errors in Quantum Information Theory | [link](https://arxiv.org/abs/2611.34468) |
+| 2026-11-24 | complexity | 0 | Identifying Renormalization Group Interfaces of Massless WZW Flows $\widehat{\mathfrak{su}}(2)_k \to \widehat{\mathfrak{su}}(2)_1$ | [link](https://arxiv.org/abs/2611.33354) |
+| 2026-11-24 | network | 0 | How Many Keys Must a Quantum Computer Break to Take Over a Blockchain? A Quantum Nakamoto Coefficient for Fifteen Proof-of-Stake Networks | [link](https://arxiv.org/abs/2611.33413) |
